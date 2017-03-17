@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (C:\python-2.7.6\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="C:\python-2.7.6\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/python-2.7.6/DLLs" />
+            <root type="simple" url="file://C:/python-2.7.6/Lib" />
+            <root type="simple" url="file://C:/python-2.7.6/Lib/lib-tk" />
+            <root type="simple" url="file://C:/python-2.7.6" />
+            <root type="simple" url="file://C:/python-2.7.6/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/833096229" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
