@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerSettings" phpInterpreterId="2090b9ff-5ad4-4bb5-a069-954a0183cd62">
+        <pharPath>E:\Programming\Language\php\bin\composer\composer.phar</pharPath>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="web.server" />
+        <property name="last_opened_file_path" value="E:/Programming/Language/php/bin/composer" />
+      </component>
+      <component name="PublishConfigData" autoUpload="On explicit save action">
+        <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
