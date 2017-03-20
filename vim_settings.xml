@@ -185,6 +185,9 @@
         <mark key="^" line="48" column="36" />
         <mark key="." line="48" column="55" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Redis.php" timestamp="1489981854762">
+        <mark key="'" line="2161" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/test.php" timestamp="1486708183242">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="6" />
@@ -205,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
       <jump line="161" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
       <jump line="33" column="34" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
       <jump line="103" column="43" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
@@ -305,6 +307,7 @@
       <jump line="169" column="57" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
       <jump line="78" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
       <jump line="268" column="33" filename="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" />
+      <jump line="2161" column="0" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Redis.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
