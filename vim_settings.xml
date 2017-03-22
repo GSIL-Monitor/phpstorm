@@ -25,11 +25,12 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1490174067221">
-        <mark key="a" line="97" column="0" />
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1490174901646">
+        <mark key="a" line="98" column="0" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1490170602711" />
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common_Interface.class.php" timestamp="1484297256459">
@@ -282,16 +283,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$input</text>
+        <text>&quot;1&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$input</text>
+        <text>&quot;1&quot;</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXRbJ2Nnd1Jlc3VsdCddID0gJGNnd1Jlc3VsdDsKICAgICAgICAgICAgICAgIEpzb25QYWNha2dlOjpqc29ucCgkcmV0KTsKICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">VG9vbDo6ZGVidWcoIjEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VG9vbDo6ZGVidWcoJGlucHV0KTsK</text>
