@@ -9,6 +9,14 @@
           <option name="port" value="36000" />
         </fileTransfer>
       </webServer>
+      <webServer id="d1886016-bfc9-45c6-8473-1938e6377424" name="10.125.42.68" url="http://dev.custombaradapi.isd.com">
+        <fileTransfer host="10.125.42.68" port="36000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
