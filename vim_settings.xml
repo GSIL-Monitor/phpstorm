@@ -25,7 +25,7 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1490261057919">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1490264656646">
         <mark key="a" line="98" column="0" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -96,10 +96,11 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" timestamp="1490261886172">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="36" />
-        <mark key="." line="128" column="0" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" timestamp="1490264407316">
+        <mark key="[" line="219" column="59" />
+        <mark key="]" line="219" column="61" />
+        <mark key="^" line="219" column="61" />
+        <mark key="." line="219" column="61" />
       </file>
       <file name="/PHP Console" timestamp="1490239465901">
         <mark key="[" line="0" column="0" />
@@ -130,7 +131,7 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="/fragment.php" timestamp="1490253105072">
+      <file name="/fragment.php" timestamp="1490263566996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -139,12 +140,13 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="85" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490255001385">
-        <mark key="'" line="558" column="57" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490264904931">
+        <mark key="'" line="483" column="51" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1490260811797">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1490262318601">
         <mark key="'" line="1032" column="33" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Conf.class.php" timestamp="1490262241927" />
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/model/MCvmApplication.class.php" timestamp="1489136494355">
         <mark key="[" line="857" column="54" />
         <mark key="]" line="851" column="31" />
@@ -169,29 +171,14 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/policy/class/Data.class.php" timestamp="1490239139803">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="16" column="0" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/policy/class/Data.class.php" timestamp="1490265518167">
+        <mark key="[" line="85" column="30" />
+        <mark key="]" line="85" column="30" />
+        <mark key="^" line="85" column="45" />
+        <mark key="." line="85" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="74" column="90" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
-      <jump line="250" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
-      <jump line="371" column="40" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
-      <jump line="112" column="9" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="113" column="29" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="144" column="22" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="47" column="23" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/schedule_calcDayStat.php" />
-      <jump line="52" column="15" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/schedule_calcDayStat.php" />
-      <jump line="15" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/schedule_calcDayStat.php" />
-      <jump line="136" column="67" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="99" column="4" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="15" column="4" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="19" column="4" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="81" column="22" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/checkDay.php" />
       <jump line="18" column="152" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/checkDv.php" />
       <jump line="251" column="57" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" />
       <jump line="0" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" />
@@ -277,55 +264,70 @@
       <jump line="83" column="6" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
       <jump line="60" column="9" filename="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" />
       <jump line="558" column="57" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="108" column="28" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="293" column="184" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="27" column="14" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="57" column="31" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="60" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="61" column="46" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="62" column="57" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="63" column="49" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="132" column="50" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="133" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="140" column="34" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="614" column="71" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="618" column="51" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="479" column="72" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="483" column="51" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXBJZCA9ICRhcmdzWydncm91cElkJ107Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>cloudDB</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>enum</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3VuaXF1ZUlkJyA9PiBhcnJheSgndHlwZScgPT4gJ3N0cmluZycsICdudWxsYWJsZScgPT4gZmFsc2UpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXBJZCA9ICRhcmdzWydncm91cElkJ107Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT5fcmVnaW9uSWQgPSAkdGhpcy0+Y29uZl9bJ3JlZ2lvbkNvbmZpZyddWyRyZWdpb25dOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGltZW5zaW9uID0gJGFyZ3NbJ2RpbWVuc2lvbiddOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZGltZW5zaW9uID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gIkRFTEVURSBGUk9NIHJBcHBsaWNhdGlvblBvbGljeSBXSEVSRSBncm91cElkPSRncm91cElkIEFORCB1bmlxdWVJZD0nJHVuaXF1ZUlkJyI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXBJZCA9ICRhcmdzWydncm91cElkJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdW5pcXVlSWQgPSAkYXJnc1sndW5pcXVlSWQnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2luZm9ybWF0aW9uJyAgICAgICA9PiAganNvbl9lbmNvZGUoJGRpbWVuc2lvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3V1aWQnICAgICAgICAgICAgICA9PiAgJHV1aWQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RldmljZUlQJyAgICAgICAgICA9PiAgJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RldmljZU5hbWUnICAgICAgICA9PiAgJycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnbXNnJ10gPSAkdGhpcy0+Z2V0TGFzdEVycm9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xhc3RFZGl0VWluJyAgICAgICA9PiAgJHRoaXMtPnVpbiwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -333,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9ybUJpZEdyYXlDb25mXD4=</entry>
-        <entry>dimensionGroup</entry>
         <entry>dimGroupId</entry>
         <entry encoding="base64">XDxvdXRwdXRTdGF0VHlwZVw+</entry>
         <entry encoding="base64">XDxpbnB1dFN0YXRUeXBlXD4=</entry>
@@ -353,6 +353,8 @@
         <entry>log</entry>
         <entry>rApplicationPolicy</entry>
         <entry>try</entry>
+        <entry>region</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
