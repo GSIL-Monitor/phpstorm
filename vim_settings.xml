@@ -92,11 +92,11 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" timestamp="1490251063295">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="32" column="0" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" timestamp="1490253674334">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="28" />
       </file>
       <file name="/PHP Console" timestamp="1490239465901">
         <mark key="[" line="0" column="0" />
@@ -126,7 +126,7 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="/fragment.php" timestamp="1490239104409">
+      <file name="/fragment.php" timestamp="1490253105072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -135,8 +135,8 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="85" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490238917086">
-        <mark key="'" line="472" column="6" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490253553313">
+        <mark key="'" line="83" column="6" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1490240655887">
         <mark key="'" line="1032" column="33" />
@@ -173,10 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="10" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
-      <jump line="259" column="23" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
-      <jump line="61" column="40" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
-      <jump line="325" column="15" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/lib/global.func.php" />
       <jump line="31" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
       <jump line="335" column="0" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
       <jump line="74" column="90" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatCkv.php" />
@@ -273,46 +269,50 @@
       <jump line="980" column="35" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
       <jump line="1000" column="43" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
       <jump line="1032" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
+      <jump line="120" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="0" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="83" column="6" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" />
+      <jump line="60" column="9" filename="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgJGRiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>rApplicationPolicy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdXRsWydjb2RlJ10gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnY29kZSddID0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iYWwgJGRiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2RiT2JqID0gJGRiWydhbGFybU1hbmFnZV8nIC4gJHJlZ2lvbl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnbXNnJ10gPSAnbm8nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2RiT2JqID0gJGRiWydhbGFybU1hbmFnZV8nIC4gJHJlZ2lvbl07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHIgPT0gbnVsbCkgewogICAgICAgICAgICAkcmVzdWx0Wydjb2RlJ10gPSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2FsYXJtRGJPYmogPSAkZGJbJ2FsYXJtRmxvd18nIC4gJHJlZ2lvbl07Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYXJncyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9jb25mOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzV2lsZCcgPT4gYXJyYXkoJ3R5cGUnID0+ICdpbnQnLCAnbnVsbGFibGUnID0+IHRydWUpLCAgICAgICAgICAgICAgICAgICAgLy/Kx7fxzqrNqMXkuebU8qOssrvM7tTyzqowKLfHzajF5CkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+X2xhc3RFcnJvck1lc3NhZ2UgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RocmVzaG9sZCc9PmFycmF5KCd0eXBlJz0+J2Zsb2F0JywgJ251bGxhYmxlJz0+ZmFsc2UpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9sYXN0RXJyb3JNZXNzYWdlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGNvbmZfOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJF9wYXJhbUNoZWNrT2JqOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0Wydjb2RlJ10gPSAwagogICAgICAgICRyZXN1bHRbJ21zZyddID0gJ29rJzsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
