@@ -173,11 +173,11 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/policy/class/Data.class.php" timestamp="1490338744965">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="156" column="19" />
-        <mark key="." line="56" column="0" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/policy/class/Data.class.php" timestamp="1490341099755">
+        <mark key="[" line="183" column="65" />
+        <mark key="]" line="183" column="75" />
+        <mark key="^" line="183" column="75" />
+        <mark key="." line="183" column="75" />
       </file>
     </filemarks>
     <jumps>
@@ -290,7 +290,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>enum</text>
+        <text>StormCloudconf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBrc29ydCgkZGltZW5zaW9uKTsK</text>
@@ -327,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enum</last-search>
+      <last-search>StormCloudconf</last-search>
       <last-offset />
-      <last-pattern>enum</last-pattern>
+      <last-pattern>StormCloudconf</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dimGroupId</entry>
         <entry encoding="base64">XDxvdXRwdXRTdGF0VHlwZVw+</entry>
         <entry encoding="base64">XDxpbnB1dFN0YXRUeXBlXD4=</entry>
         <entry encoding="base64">XDxwZXJpb2RUeXBlXD4=</entry>
@@ -357,6 +356,7 @@
         <entry>try</entry>
         <entry>region</entry>
         <entry>enum</entry>
+        <entry>StormCloudconf</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
