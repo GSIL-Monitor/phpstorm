@@ -12,22 +12,22 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="E:\Programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php.exe" id="2090b9ff-5ad4-4bb5-a069-954a0183cd62" name="PHP 7.1.0" debugger_id="php.debugger.XDebug" />
-      <interpreter home="sftp://wallaceqian@10.125.42.68:36000/usr/local/services/php-5.6.29/bin/php" id="3a51a197-2d44-4117-9b64-c9615e3b2a54" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="3f7998de-7735-441a-bdf9-c3621257e9a9" WEB_SERVER_CONFIG_NAME="dev" HOST="10.125.42.68" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dffddfcbdfc6dfc6dfcbdfc9dfcfdf9bdf98df9adf9f" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/services/php-5.6.29/bin/php" HELPERS_PATH="/data/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="sftp://root@10.125.42.68:36000/data/wallaceqian/services/php-5.6.29/bin/php" id="3a51a197-2d44-4117-9b64-c9615e3b2a54" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+        <remote_data WEB_SERVER_CONFIG_ID="d1886016-bfc9-45c6-8473-1938e6377424" WEB_SERVER_CONFIG_NAME="10.125.42.68" HOST="10.125.42.68" PORT="36000" ANONYMOUS="false" USERNAME="root" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/data/wallaceqian/services/php-5.6.29/bin/php" HELPERS_PATH="/data/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/php-5.6.29/bin/php-cgi" php_cli="/usr/local/services/php-5.6.29/bin/php" path_separator=":" remote_host="10.19.89.142 55997 36000" version="5.6.29">
+        <phpinfo binary_type="PHP" php_cgi="/data/wallaceqian/services/php-5.6.29/bin/php-cgi" php_cli="/data/wallaceqian/services/php-5.6.29/bin/php" path_separator=":" remote_host="10.19.89.142 53873 36000" version="5.6.29">
           <additional_php_ini />
-          <configuration_file>/usr/local/services/php-5.6.29/lib/php.ini</configuration_file>
+          <configuration_file>/data/wallaceqian/services/php-5.6.29/lib/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
             <configuration_option name="allow_url_include" value="" />
-            <configuration_option name="always_populate_raw_post_data" value="0" />
+            <configuration_option name="always_populate_raw_post_data" value="-1" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
             <configuration_option name="asp_tags" value="" />
@@ -53,8 +53,8 @@
             <configuration_option name="default_socket_timeout" value="60" />
             <configuration_option name="disable_classes" value="" />
             <configuration_option name="disable_functions" value="" />
-            <configuration_option name="display_errors" value="" />
-            <configuration_option name="display_startup_errors" value="" />
+            <configuration_option name="display_errors" value="1" />
+            <configuration_option name="display_startup_errors" value="1" />
             <configuration_option name="doc_root" value="" />
             <configuration_option name="docref_ext" value="" />
             <configuration_option name="docref_root" value="" />
@@ -63,10 +63,10 @@
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="log/php_errors.log" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="22527" />
+            <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/local/services/php-5.6.29/lib/php/extensions/no-debug-non-zts-20131226" />
+            <configuration_option name="extension_dir" value="/data/wallaceqian/services/php-5.6.29/lib/php/extensions/no-debug-non-zts-20131226" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -84,12 +84,12 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/usr/local/services/php-5.6.29/lib/php" />
+            <configuration_option name="include_path" value=".:/data/wallaceqian/services/php-5.6.29/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
-            <configuration_option name="mail.add_x_header" value="0" />
+            <configuration_option name="mail.add_x_header" value="1" />
             <configuration_option name="mail.force_extra_parameters" value="" />
             <configuration_option name="mail.log" value="" />
             <configuration_option name="max_execution_time" value="0" />
@@ -139,7 +139,7 @@
             <configuration_option name="mysqli.max_persistent" value="-1" />
             <configuration_option name="mysqli.reconnect" value="" />
             <configuration_option name="mysqli.rollback_on_cached_plink" value="0" />
-            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="1" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
             <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
@@ -150,35 +150,6 @@
             <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
-            <configuration_option name="opcache.blacklist_filename" value="" />
-            <configuration_option name="opcache.consistency_checks" value="0" />
-            <configuration_option name="opcache.dups_fix" value="0" />
-            <configuration_option name="opcache.enable" value="1" />
-            <configuration_option name="opcache.enable_cli" value="1" />
-            <configuration_option name="opcache.enable_file_override" value="0" />
-            <configuration_option name="opcache.error_log" value="" />
-            <configuration_option name="opcache.fast_shutdown" value="1" />
-            <configuration_option name="opcache.file_update_protection" value="2" />
-            <configuration_option name="opcache.force_restart_timeout" value="180" />
-            <configuration_option name="opcache.inherited_hack" value="1" />
-            <configuration_option name="opcache.interned_strings_buffer" value="4" />
-            <configuration_option name="opcache.load_comments" value="1" />
-            <configuration_option name="opcache.log_verbosity_level" value="1" />
-            <configuration_option name="opcache.max_accelerated_files" value="4000" />
-            <configuration_option name="opcache.max_file_size" value="0" />
-            <configuration_option name="opcache.max_wasted_percentage" value="5" />
-            <configuration_option name="opcache.memory_consumption" value="64" />
-            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
-            <configuration_option name="opcache.preferred_memory_model" value="" />
-            <configuration_option name="opcache.protect_memory" value="0" />
-            <configuration_option name="opcache.restrict_api" value="" />
-            <configuration_option name="opcache.revalidate_freq" value="10" />
-            <configuration_option name="opcache.revalidate_path" value="0" />
-            <configuration_option name="opcache.save_comments" value="1" />
-            <configuration_option name="opcache.use_cwd" value="1" />
-            <configuration_option name="opcache.validate_permission" value="0" />
-            <configuration_option name="opcache.validate_root" value="0" />
-            <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
@@ -239,17 +210,12 @@
             <configuration_option name="session.use_only_cookies" value="1" />
             <configuration_option name="session.use_strict_mode" value="0" />
             <configuration_option name="session.use_trans_sid" value="0" />
-            <configuration_option name="short_open_tag" value="1" />
+            <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
-            <configuration_option name="soap.wsdl_cache" value="1" />
-            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
-            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
-            <configuration_option name="soap.wsdl_cache_limit" value="5" />
-            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sql.safe_mode" value="" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
-            <configuration_option name="track_errors" value="" />
+            <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
@@ -321,14 +287,10 @@
             <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
-            <configuration_option name="xsl.security_prefs" value="44" />
             <configuration_option name="zend.detect_unicode" value="1" />
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
             <configuration_option name="zend.script_encoding" value="" />
-            <configuration_option name="zlib.output_compression" value="" />
-            <configuration_option name="zlib.output_compression_level" value="-1" />
-            <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.5.0">
@@ -342,9 +304,7 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
-            <extension name="calendar" />
             <extension name="clogger" />
             <extension name="cmem_api" />
             <extension name="ctype" />
@@ -361,7 +321,6 @@
             <extension name="mbstring" />
             <extension name="mcrypt" />
             <extension name="memcache" />
-            <extension name="mhash" />
             <extension name="mysql" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
@@ -372,21 +331,15 @@
             <extension name="posix" />
             <extension name="redis" />
             <extension name="session" />
-            <extension name="soap" />
             <extension name="sockets" />
             <extension name="sqlite3" />
             <extension name="standard" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
             <extension name="thrift_protocol" />
             <extension name="tokenizer" />
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zlib" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
