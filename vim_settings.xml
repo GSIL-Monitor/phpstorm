@@ -19,13 +19,13 @@
         <mark key="." line="375" column="30" />
         <mark key="^" line="375" column="30" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" timestamp="1490585455943">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" timestamp="1490588078532">
         <mark key="e" line="247" column="78" />
-        <mark key="'" line="343" column="28" />
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="22" />
-        <mark key="^" line="330" column="109" />
-        <mark key="." line="46" column="22" />
+        <mark key="'" line="342" column="31" />
+        <mark key="[" line="266" column="43" />
+        <mark key="]" line="269" column="28" />
+        <mark key="^" line="269" column="28" />
+        <mark key="." line="269" column="28" />
       </file>
       <file name="E:/work/project/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1486456370737">
         <mark key="[" line="38" column="0" />
@@ -102,7 +102,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1490585457688">
+      <file name="/PHP Console" timestamp="1490587726700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -182,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="0" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="119" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
       <jump line="137" column="31" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
       <jump line="86" column="73" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
       <jump line="42" column="115" filename="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/calcDayStatHbase.php" />
@@ -282,13 +279,16 @@
       <jump line="73" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="346" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="343" column="28" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
+      <jump line="328" column="40" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
+      <jump line="322" column="25" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
+      <jump line="342" column="31" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>one</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -297,31 +297,31 @@
         <text encoding="base64">JHRpbWVTdHIgPSBkYXRlKCdZbWRIJywgc3RydG90aW1lKCRkYXRlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHRpbWVTdHIgPSAnMjAxNzAzMjcxMSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">JHRpbWVTdHIgPSAnMjAxNzAzMjcxMSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGhvdXJTdHIgPSAxMTsK</text>
+        <text encoding="base64">JHRpbWVTdHIgPSAnMjAxNzAzMjcxMSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRiLT51cAo=</text>
+        <text encoding="base64">JGhvdXJTdHIgPSAxMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHRpbWVTdHIgPSBkYXRlKCdZbWRIJywgc3RydG90aW1lKCRkYXRlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRiLT51cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">JHRpbWVTdHIgPSBkYXRlKCdZbWRIJywgc3RydG90aW1lKCRkYXRlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hJbnNlcnREYlYyKCRyZXN1bHREYXRhTGlzdCwgMjAwMCwgJGRiWydiYXJhZERheURhdGEnXSwgJGhvdXJUYWJsZU5hbWUsIG51bGwsICdyZXBsYWNlJywgJGxvZ0ZpbGVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hJbnNlcnREYlYyKCRyZXN1bHREYXRhTGlzdCwgMjAwMCwgJGRiWydiYXJhZERheURhdGEnXSwgJGhvdXJUYWJsZU5hbWUsIG51bGwsICdyZXBsYWNlJywgJGxvZ0ZpbGVOYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
