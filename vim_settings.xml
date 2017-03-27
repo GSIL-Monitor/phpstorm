@@ -19,13 +19,13 @@
         <mark key="." line="375" column="30" />
         <mark key="^" line="375" column="30" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" timestamp="1490602246377">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" timestamp="1490604679739">
         <mark key="e" line="247" column="78" />
         <mark key="'" line="329" column="25" />
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="^" line="298" column="16" />
-        <mark key="." line="285" column="0" />
+        <mark key="[" line="279" column="88" />
+        <mark key="]" line="279" column="88" />
+        <mark key="^" line="279" column="86" />
+        <mark key="." line="279" column="88" />
       </file>
       <file name="E:/work/project/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1486456370737">
         <mark key="[" line="38" column="0" />
@@ -105,7 +105,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1490602181699">
+      <file name="/PHP Console" timestamp="1490604715038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -289,11 +289,11 @@
       <jump line="239" column="35" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>STAMP</text>
       </register>
       <register name="-" type="4">
-        <text>, $db, $namespace</text>
+        <text>STAMP</text>
       </register>
       <register name="/" type="4">
         <text>batch</text>
@@ -305,28 +305,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBhcnJheSgpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR2ID0gOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAkZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJvd0tleSA9ICRvbmUtPnJvdzsK</text>
+        <text encoding="base64">ICAgICAgICAkZFtdID0gLTk5OTk5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlkS2V5ID0gc3Vic3RyKCRyb3dLZXksIDAsIDMyKTsK</text>
+        <text encoding="base64">ICAgIGZvciAoJGkgPSAwOyAkaSA8ICRlbnRpcmVUaW1lIC8gJHBlcmlvZDsgKyskaSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICRkID0gYXJyYXkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0SW5pdERhdGFQb2ludCgkZW50aXJlVGltZSwgJHBlcmlvZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWyRkaW1dID0gJGRhdGFzWyRyb3dLZXldWyRkaW1dOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
