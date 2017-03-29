@@ -64,12 +64,12 @@
         <mark key="^" line="191" column="27" />
         <mark key="." line="191" column="27" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" timestamp="1490673084399">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" timestamp="1490753038597">
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="59" column="56" />
-        <mark key="." line="5" column="20" />
+        <mark key="[" line="59" column="75" />
+        <mark key="]" line="59" column="92" />
+        <mark key="^" line="59" column="92" />
+        <mark key="." line="59" column="92" />
       </file>
       <file name="E:/work/project/barad_php_script_daystat/lib/global.func.php" timestamp="1486461224219">
         <mark key="[" line="603" column="36" />
