@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="FONT_FACE" value="Droid Sans Mono for Powerline" />
     <option name="FONT_SIZE" value="16" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
   </component>
 </application>
