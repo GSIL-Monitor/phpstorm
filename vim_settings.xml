@@ -81,7 +81,7 @@
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" timestamp="1489732330226">
         <mark key="'" line="268" column="33" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1490951612730" />
+      <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1491013655039" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/test.php" timestamp="1486708183242">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="6" />
@@ -148,9 +148,9 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="/fragment.php" timestamp="1490947402592">
+      <file name="/fragment.php" timestamp="1491013638859">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="87" />
+        <mark key="." line="0" column="179" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
         <mark key="[" line="16" column="11" />
