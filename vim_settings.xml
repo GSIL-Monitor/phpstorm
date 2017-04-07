@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.bj.inc.php" timestamp="1491478159317" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.bj.inc.php" timestamp="1491556839785">
+        <mark key="[" line="78" column="17" />
+        <mark key="]" line="78" column="27" />
+        <mark key="^" line="78" column="27" />
+        <mark key="." line="78" column="27" />
+      </file>
       <file name="E:/work/project/test/index.php" timestamp="1489716363605">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -23,6 +28,12 @@
         <mark key="]" line="375" column="30" />
         <mark key="." line="375" column="30" />
         <mark key="^" line="375" column="30" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.gz.inc.php" timestamp="1491556989029">
+        <mark key="[" line="133" column="17" />
+        <mark key="]" line="133" column="20" />
+        <mark key="^" line="133" column="20" />
+        <mark key="." line="133" column="20" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/dcl/class/Conf.class.php" timestamp="1491465404444" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.usw.inc.php" timestamp="1491471135108">
@@ -161,6 +172,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.sh.inc.php" timestamp="1491557033840">
+        <mark key="[" line="109" column="17" />
+        <mark key="]" line="109" column="20" />
+        <mark key="^" line="109" column="20" />
+        <mark key="." line="109" column="20" />
       </file>
       <file name="E:/work/project/stargateSql/main.php" timestamp="1488422160676">
         <mark key="[" line="18" column="20" />
@@ -356,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>8182</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>8182</text>
       </register>
       <register name="/" type="4">
         <text>baradDayData</text>
