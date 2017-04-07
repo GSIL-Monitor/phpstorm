@@ -208,12 +208,12 @@
         <mark key="^" line="130" column="1" />
         <mark key="." line="122" column="26" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1491471300084">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1491558833088">
         <mark key="'" line="169" column="33" />
-        <mark key="[" line="223" column="21" />
-        <mark key="]" line="223" column="33" />
-        <mark key="." line="223" column="33" />
-        <mark key="^" line="223" column="33" />
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="43" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/branches/barad_php_script_daystat_v1.1.0/daystat/upload.php" timestamp="1489571793363">
         <mark key="[" line="16" column="86" />
