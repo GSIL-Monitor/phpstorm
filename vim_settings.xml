@@ -102,12 +102,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" timestamp="1491472858843">
-        <mark key="'" line="47" column="13" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="25" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" timestamp="1491893615830">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="17" />
         <mark key="^" line="40" column="25" />
-        <mark key="." line="40" column="25" />
+        <mark key="." line="54" column="17" />
       </file>
       <file name="E:/work/project/barad_php_script_daystat/lib/global.func.php" timestamp="1486461224219">
         <mark key="[" line="603" column="36" />
@@ -219,7 +219,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.inc.php" timestamp="1491478437208">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.inc.php" timestamp="1491893312191">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
@@ -330,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="249" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="266" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="284" column="18" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
@@ -430,16 +429,17 @@
       <jump line="23" column="83" filename="E:/work/project/barad_proj/trunk/web/admin/js/Data.js" />
       <jump line="39" column="87" filename="E:/work/project/barad_proj/trunk/web/admin/js/Data.js" />
       <jump line="44" column="14" filename="E:/work/project/barad_proj/trunk/web/admin/js/Data.js" />
+      <jump line="54" column="12" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>last</text>
+        <text>baradDayData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRTdGF0aXN0aWNzQnlEYXlzKCRkaW1WaWV3LT5uYW1lc3BhY2UsICRwWyd2aWV3TmFtZSddLCAkcFsnbWV0cmljTmFtZSddLCAkcFsnc3RhcnR0aW1lJ10sICRwWydlbmR0aW1lJ10sICRwWydzdGF0aXN0aWNzJ10sICRpZGtleSk7Cg==</text>
@@ -476,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>last</last-search>
+      <last-search>baradDayData</last-search>
       <last-offset />
-      <last-pattern>last</last-pattern>
+      <last-pattern>baradDayData</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -503,9 +503,9 @@
         <entry>acc_outtraffic</entry>
         <entry>usage</entry>
         <entry>disk</entry>
-        <entry>baradDayData</entry>
         <entry>cCkvHourKeyConf</entry>
         <entry>last</entry>
+        <entry>baradDayData</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
