@@ -142,6 +142,7 @@
         <mark key="^" line="78" column="9" />
         <mark key="." line="68" column="9" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1491903413298" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cpm/class/Conf.class.php" timestamp="1491465437532" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1491465537804" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.shjr.inc.php" timestamp="1491471093248">
@@ -255,10 +256,6 @@
         <mark key="]" line="1314" column="0" />
         <mark key="^" line="1302" column="16" />
         <mark key="." line="1314" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1491474198863">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="179" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
         <mark key="[" line="16" column="11" />
