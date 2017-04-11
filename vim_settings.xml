@@ -250,11 +250,11 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1491820274550">
-        <mark key="[" line="1533" column="55" />
-        <mark key="]" line="1536" column="4" />
-        <mark key="." line="1536" column="4" />
-        <mark key="^" line="1536" column="4" />
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1491884714367">
+        <mark key="[" line="1308" column="21" />
+        <mark key="]" line="1309" column="16" />
+        <mark key="." line="1309" column="16" />
+        <mark key="^" line="1309" column="16" />
       </file>
       <file name="/fragment.php" timestamp="1491474198863">
         <mark key="[" line="0" column="0" />
@@ -433,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5hbWVzcGFjZSwgJG1ldHJpY05hbWUsICRzdGF0VHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
@@ -445,31 +445,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRTdGF0aXN0aWNzQnlEYXlzKCRkaW1WaWV3LT5uYW1lc3BhY2UsICRwWyd2aWV3TmFtZSddLCAkcFsnbWV0cmljTmFtZSddLCAkcFsnc3RhcnR0aW1lJ10sICRwWydlbmR0aW1lJ10sICRwWydzdGF0aXN0aWNzJ10sICRpZGtleSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5hbWVzcGFjZSwgJG1ldHJpY05hbWUsICRzdGF0VHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0T2Zmc2V0ID0gJHN0YXJ0VGltZXN0YW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gsrnIqwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRTdGF0aXN0aWNzQnlIb3VyKCRkaW1WaWV3LT5uYW1lc3BhY2UsICRwWyd2aWV3TmFtZSddLCAkcFsnbWV0cmljTmFtZSddLCAkcFsnc3RhcnR0aW1lJ10sICRwWydlbmR0aW1lJ10sICRwWydzdGF0aXN0aWNzJ10sICRpZGtleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbHVlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5hbWVzcGFjZSwgJG1ldHJpY05hbWUsICRzdGF0VHlwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0T2Zmc2V0ID0gJHN0YXJ0VGltZXN0YW1wOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzX251bGwoJHZhbHVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gsrnIqwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbHVlID0gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHZhbHVlID0gInZhbHVlXyRob3VyIGZsb2F0IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YVskci0+bG9nRGF0ZV0gPSAoZmxvYXQpJHItPnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlzX251bGwoJHZhbHVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
