@@ -247,12 +247,12 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1491980135616">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1491980795893">
         <mark key="'" line="1104" column="51" />
-        <mark key="[" line="1234" column="31" />
-        <mark key="]" line="1234" column="35" />
-        <mark key="." line="1234" column="35" />
-        <mark key="^" line="1234" column="35" />
+        <mark key="[" line="2095" column="25" />
+        <mark key="]" line="2095" column="25" />
+        <mark key="." line="2095" column="25" />
+        <mark key="^" line="2095" column="25" />
       </file>
       <file name="/fragment.php" timestamp="1491912899195">
         <mark key="[" line="0" column="0" />
@@ -434,10 +434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>sourcePeriod</text>
