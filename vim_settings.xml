@@ -137,6 +137,12 @@
         <mark key="^" line="78" column="9" />
         <mark key="." line="68" column="9" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" timestamp="1491959675724">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="78" column="28" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="78" column="28" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1491911130429" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cpm/class/Conf.class.php" timestamp="1491465437532" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1491465537804" />
@@ -426,11 +432,11 @@
       <jump line="1104" column="51" filename="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJICAgIC8vIMjnufu21NOmtcTW3Mbasru05tTao6y78tXfttTTps2zvMa3vcq9sru05tTaCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>不</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sourcePeriod</text>
