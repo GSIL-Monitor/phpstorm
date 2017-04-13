@@ -148,7 +148,7 @@
         <mark key="^" line="77" column="36" />
         <mark key="." line="77" column="36" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1491911130429" />
+      <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" timestamp="1492054270537" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cpm/class/Conf.class.php" timestamp="1491465437532" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1491465537804" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.shjr.inc.php" timestamp="1491471093248">
@@ -259,12 +259,12 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1491997887580">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492054287729">
         <mark key="'" line="366" column="42" />
-        <mark key="[" line="1424" column="28" />
-        <mark key="]" line="1424" column="28" />
-        <mark key="." line="1424" column="28" />
-        <mark key="^" line="1424" column="41" />
+        <mark key="[" line="1290" column="41" />
+        <mark key="]" line="1290" column="41" />
+        <mark key="." line="1290" column="41" />
+        <mark key="^" line="1290" column="112" />
       </file>
       <file name="/fragment.php" timestamp="1491982751818">
         <mark key="[" line="0" column="0" />
@@ -446,10 +446,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
