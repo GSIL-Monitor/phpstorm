@@ -12,7 +12,7 @@
         <mark key="^" line="78" column="27" />
         <mark key="." line="78" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1492048783292">
+      <file name="/a.dummy" timestamp="1492050184518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/test/index.php" timestamp="1489716363605">
@@ -186,6 +186,12 @@
         <mark key="^" line="10" column="22" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/web/metric/common.php" timestamp="1492050722263">
+        <mark key="[" line="18" column="119" />
+        <mark key="]" line="18" column="126" />
+        <mark key="^" line="18" column="126" />
+        <mark key="." line="18" column="126" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" timestamp="1490618405840">
         <mark key="'" line="140" column="0" />
       </file>
@@ -216,6 +222,7 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/vendor/laravel/framework/src/Illuminate/Exception/Handler.php" timestamp="1492049677982" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.inc.php" timestamp="1491893312191">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
