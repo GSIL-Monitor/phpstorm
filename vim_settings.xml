@@ -12,7 +12,12 @@
         <mark key="^" line="78" column="27" />
         <mark key="." line="78" column="27" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1492402167889" />
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1492425557113">
+        <mark key="[" line="137" column="46" />
+        <mark key="]" line="137" column="46" />
+        <mark key="^" line="137" column="45" />
+        <mark key="." line="137" column="46" />
+      </file>
       <file name="/a.dummy" timestamp="1492050184518">
         <mark key="[" line="0" column="0" />
       </file>
@@ -435,43 +440,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">WyRzdG9yYWdlSW5mby0+c3RhdGlzdGljc10=</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WyRzdG9yYWdlSW5mby0+c3RhdGlzdGljc10=</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>g</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJJHJlc3VsdCA9ICR0aGlzLT5fZGJPYmotPmdldEFsbCgkc3FsKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQkJCQkkcmV0RGF0YVtdID0gYXJyYXkoJ21vZHVsZUlkJyA9PiAkbUlkLCAnc3RhdHVzJyA9PiAxLCAnZmlsZUlkJyA9PiAkZWxlbVsnZmlsZUlkJ10sICduYW1lJyA9PiAkZWxlbVsnbW9kdWxlTmFtZSddLAoJCQkJCQkJCQkJCSd1cmknID0+ICRlbGVtWyd1cmwnXSwgJ21kNScgPT4gJGVsZW1bJ21kNXN1bSddLCAnaW5zdGFsbFBhdGgnID0+ICRlbGVtWydpbnN0YWxsUGF0aCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldDsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA9ICR0aGlzLT5nZXREYXRhRnJvbUNrdigkaWRLZXksICRuYW1lc3BhY2UsICRtZXRyaWNOYW1lLCAkc3RhdGlzdGljcywgJHBlcmlvZCwgJHN0YXJ0LCAkZW5kKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbG9hZE1ldHJpY0RhdGFGcm9tSG91cktleUNLVigkaWRLZXksICRuYW1lc3BhY2UsICRtZXRyaWNOYW1lLCAkc3RhdGlzdGljcywgJHBlcmlvZCwgJHN0YXJ0LCAkZW5kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gYXJyYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICA9ICR0aGlzLT5nZXREYXRhRnJvbUNrdigkaWRLZXksICRuYW1lc3BhY2UsICRtZXRyaWNOYW1lLCAkc3RhdGlzdGljcywgJHBlcmlvZCwgJHN0YXJ0LCAkZW5kKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
