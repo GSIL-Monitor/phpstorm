@@ -28,12 +28,12 @@
         <mark key="." line="6" column="5" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" timestamp="1492162654899" />
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" timestamp="1492661655265">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" timestamp="1492669169764">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="92" column="66" />
-        <mark key="]" line="92" column="66" />
-        <mark key="." line="92" column="66" />
-        <mark key="^" line="89" column="31" />
+        <mark key="[" line="89" column="44" />
+        <mark key="]" line="89" column="47" />
+        <mark key="." line="89" column="47" />
+        <mark key="^" line="89" column="47" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/tdsql/class/Conf.class.php" timestamp="1491465673162" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.dev.inc.php" timestamp="1491473899529">
@@ -232,7 +232,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1492661673307">
+      <file name="/PHP Console" timestamp="1492669171550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -472,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
