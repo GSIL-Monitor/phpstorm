@@ -324,12 +324,12 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492769330396">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492770569857">
         <mark key="a" line="538" column="30" />
-        <mark key="[" line="542" column="0" />
-        <mark key="]" line="542" column="0" />
-        <mark key="^" line="542" column="19" />
-        <mark key="." line="542" column="0" />
+        <mark key="[" line="995" column="5" />
+        <mark key="]" line="883" column="7" />
+        <mark key="^" line="883" column="7" />
+        <mark key="." line="883" column="7" />
       </file>
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
@@ -456,11 +456,11 @@
       <jump line="181" column="34" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RvcmFnZVR5cGUgPSAwOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
