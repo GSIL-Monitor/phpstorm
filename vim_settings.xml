@@ -140,7 +140,7 @@
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/BaseController.php" timestamp="1492173043071">
         <mark key="[" line="97" column="27" />
       </file>
-      <file name="/fragment.php" timestamp="1492775218180">
+      <file name="/fragment.php" timestamp="1492778710643">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="179" />
       </file>
@@ -329,12 +329,12 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492777421945">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492778708100">
         <mark key="a" line="538" column="30" />
-        <mark key="[" line="685" column="163" />
-        <mark key="]" line="685" column="166" />
-        <mark key="^" line="685" column="166" />
-        <mark key="." line="685" column="166" />
+        <mark key="[" line="371" column="90" />
+        <mark key="]" line="371" column="0" />
+        <mark key="^" line="1237" column="98" />
+        <mark key="." line="371" column="0" />
       </file>
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
@@ -461,11 +461,11 @@
       <jump line="181" column="34" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuICR0aGlzLT5fZXJyb3I=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuICR0aGlzLT5fZXJyb3I=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
@@ -474,31 +474,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9kYk9iai0+dXBkYXRlKCRzcWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCdzdGFydCB0aW1lICcsICRzdGFydFRpbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0ID0gYXJyYXkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0WyRzdGF0XSA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkc3RhdFR5cGUgYXMgJHN0YXQpIHsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gYXJyYXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhdFR5cGUgPSAoYXJyYXkpJHN0YXRUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkZW5kVGltZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCdzdGFydCB0aW1lICcsICRzdGFydERhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkc3RhcnRUaW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCdzdGFydCB0aW1lICcsICRzdGFydERhdGUpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kVGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJywgJHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
