@@ -70,6 +70,11 @@
         <mark key="^" line="18" column="5" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cdb/class/Conf.class.php" timestamp="1491465447210" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1492774831699">
+        <mark key="[" line="2758" column="0" />
+        <mark key="]" line="2758" column="0" />
+        <mark key="." line="2758" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/dev/database.php" timestamp="1491817168795">
         <mark key="[" line="68" column="9" />
         <mark key="]" line="68" column="9" />
@@ -135,7 +140,7 @@
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/BaseController.php" timestamp="1492173043071">
         <mark key="[" line="97" column="27" />
       </file>
-      <file name="/fragment.php" timestamp="1492768318681">
+      <file name="/fragment.php" timestamp="1492775218180">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="179" />
       </file>
@@ -324,12 +329,12 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492770569857">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492775808022">
         <mark key="a" line="538" column="30" />
-        <mark key="[" line="995" column="5" />
-        <mark key="]" line="883" column="7" />
-        <mark key="^" line="883" column="7" />
-        <mark key="." line="883" column="7" />
+        <mark key="[" line="1263" column="36" />
+        <mark key="]" line="1263" column="36" />
+        <mark key="^" line="1263" column="38" />
+        <mark key="." line="1263" column="36" />
       </file>
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
@@ -469,31 +474,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9kYk9iai0+dXBkYXRlKCRzcWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RvcmFnZVR5cGUgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGFydE9mZnNldCA9IHN0cnRvdGltZSgnbmV4dCBtb250aCcsICRzdGFydE9mZnNldCk7IC8vIM/CuPbUwgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vbnRoID0gKGludClkYXRlKCdtJywgJHN0YXJ0VGltZXN0YW1wKSAtIDE7CiAgICAgICAgICAgICR5ZWFyID0gZGF0ZSgnWScsICRzdGFydFRpbWVzdGFtcCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RvcmFnZVR5cGUgPSAxOyAvLyAxMHPWu7TmY2t2Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RvcmFnZVR5cGUgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAmJiAkc3RvcmFnZVR5cGUgJiA0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RvcmFnZVR5cGUgPSAxOyAvLyAxMHPWu7TmY2t2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0ZSgpKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAmJiAkc3RvcmFnZVR5cGUgJiA0Ogo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgKiDIobXDZGltR3JvdXBJZM/Cv8nRobXEcGVyaW9kus1zdGF0aXN0aXMKCSAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0ZSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
