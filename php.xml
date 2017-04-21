@@ -629,4 +629,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="3a51a197-2d44-4117-9b64-c9615e3b2a54" load_method="PHPUNIT_PHAR" configuration_file_path="/data/wallaceqian/project/BaradApi/api_hour_data/api/phpunit.xml" custom_loader_path="" phpunit_phar_path="/data/wallaceqian/bin/phpunit" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
