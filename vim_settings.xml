@@ -204,6 +204,12 @@
         <mark key="^" line="122" column="29" />
         <mark key="." line="122" column="29" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/conf/hk.local.commInc.ini" timestamp="1493033275199">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_genDimensionValue.php" timestamp="1489390573811">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -458,10 +464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
