@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1493014911175">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1493017498024">
         <mark key="'" line="181" column="34" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="181" column="114" />
+        <mark key="[" line="181" column="112" />
+        <mark key="]" line="181" column="112" />
+        <mark key="." line="181" column="112" />
+        <mark key="^" line="181" column="56" />
       </file>
       <file name="E:/work/project/test/index.php" timestamp="1489716363605">
         <mark key="[" line="6" column="5" />
@@ -439,11 +439,11 @@
       <jump line="181" column="34" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzcGVlZCA9ICRyZXN1bHRbJ3NwZWVkJ10gKyAxOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
