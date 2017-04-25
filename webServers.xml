@@ -9,7 +9,7 @@
           <option name="port" value="36000" />
         </fileTransfer>
       </webServer>
-      <webServer id="d1886016-bfc9-45c6-8473-1938e6377424" name="10.125.42.68" url="http://dev.update2.agent.tencentyun.com:60">
+      <webServer id="d1886016-bfc9-45c6-8473-1938e6377424" name="10.125.42.68" url="http://dev.barad.isd.com:60">
         <fileTransfer host="10.125.42.68" port="36000" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
