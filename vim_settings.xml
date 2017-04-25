@@ -75,7 +75,7 @@
         <mark key="]" line="2758" column="0" />
         <mark key="." line="2758" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/dev/database.php" timestamp="1493006891279">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/dev/database.php" timestamp="1493102981582">
         <mark key="[" line="68" column="9" />
         <mark key="]" line="68" column="9" />
         <mark key="^" line="78" column="9" />
@@ -102,7 +102,7 @@
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/checkDv.php" timestamp="1487923400251">
         <mark key="[" line="6" column="3" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.inc.php" timestamp="1491473392324">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.inc.php" timestamp="1493106156100">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="24" />
         <mark key="^" line="10" column="22" />
@@ -137,7 +137,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1493092941269">
+      <file name="/fragment.php" timestamp="1493106603687">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="179" />
       </file>
@@ -154,6 +154,7 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1493105638781" />
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/model/MCvmApplication.class.php" timestamp="1489136494355">
         <mark key="[" line="857" column="54" />
         <mark key="]" line="851" column="31" />
@@ -161,12 +162,13 @@
         <mark key="." line="851" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/interface.php" timestamp="1492433835344" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1493091758293">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1493105914347">
+        <mark key="a" line="266" column="19" />
         <mark key="'" line="42" column="145" />
-        <mark key="[" line="42" column="76" />
-        <mark key="]" line="42" column="76" />
-        <mark key="." line="42" column="76" />
-        <mark key="^" line="42" column="76" />
+        <mark key="[" line="266" column="67" />
+        <mark key="]" line="266" column="67" />
+        <mark key="." line="266" column="67" />
+        <mark key="^" line="263" column="86" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/AgentController.php" timestamp="1490686365721">
         <mark key="[" line="0" column="2" />
@@ -270,11 +272,11 @@
         <mark key="^" line="102" column="25" />
         <mark key="." line="102" column="26" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" timestamp="1492046865870">
-        <mark key="[" line="77" column="36" />
-        <mark key="]" line="77" column="36" />
-        <mark key="^" line="77" column="36" />
-        <mark key="." line="77" column="36" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" timestamp="1493106602111">
+        <mark key="[" line="131" column="119" />
+        <mark key="]" line="129" column="31" />
+        <mark key="." line="129" column="31" />
+        <mark key="^" line="129" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" timestamp="1491792020837" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/sqlserver/class/Conf.class.php" timestamp="1491465609560" />
@@ -284,6 +286,11 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/barad/class/Config.class.php" timestamp="1493105887624">
+        <mark key="[" line="177" column="16" />
+        <mark key="]" line="177" column="16" />
+        <mark key="." line="177" column="16" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/inc/config.dev.inc.php" timestamp="1493006942384" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/internal/class/Data.class.php" timestamp="1490264407316">
         <mark key="[" line="219" column="59" />
@@ -291,7 +298,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1493093181117">
+      <file name="/PHP Console" timestamp="1493106598155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -338,7 +345,7 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1492778708100">
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1493103126478">
         <mark key="a" line="538" column="30" />
         <mark key="[" line="371" column="90" />
         <mark key="]" line="371" column="0" />
@@ -348,10 +355,11 @@
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1493093686420">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1493105142190">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="54" column="39" />
+        <mark key="^" line="54" column="39" />
+        <mark key="." line="54" column="39" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/DimensionValue.class.php" timestamp="1488784316703">
         <mark key="[" line="48" column="55" />
@@ -475,53 +483,53 @@
       <jump line="5" column="29" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>metricName</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>metricName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPl9kYk9iai0+dXBkYXRlKCRzcWwpOwo=</text>
+        <text encoding="base64">ICAgICRtZXRyaWNOYW1lID0gJHJvd1snbWV0cmljTmFtZSddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRzcWwgLj0gIiBBTkQgdmlld05hbWU9JyRyZXFWaWV3JyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXJ2ZXJDb25maWdbXSA9IGFycmF5KCJpcCI9PiIwIiwgInBvcnQiPT4kaXBwb3J0WzFdKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRydW5JbmZvID0K</text>
+        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiJXM6NSi3os/W0uyzo9e0zKxzdGF0dXM9NLXEo6zW2MvjKTpuYW1lc3BhY2U9JG5hbWVzcGFjZTp2aWV3TmFtZT0kdmlld05hbWU6bWV0cmljTmFtZT0kbWV0cmljTmFtZSIsIFJVTl9FTlYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKCFlbXB0eSgkcmVxVmlldykpIHsK</text>
+        <text encoding="base64">ICAgICAgICAsICRvbmVbJ25hbWVzcGFjZSddLCAkZGF0ZSwgJG9uZVsndmlld05hbWUnXSwgJGNyb25Mb2cpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICRjbWQgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRydW5JbmZvID0gJHJ1bkluZm9bJG5hbWVzcGFjZV07Cg==</text>
+        <text encoding="base64">ICAgICRjbWQgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKCFlbXB0eSgkbmFtZXNwYWNlKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JGZvcmNlSGJhc2UgPSBhcnJheV9rZXlfZXhpc3RzKCdoJywgJG9wdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JHJlcVZpZXcgPSAkb3B0aW9uc1sndiddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -529,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DEBUG</entry>
         <entry>log</entry>
         <entry>rApplicationPolicy</entry>
         <entry>try</entry>
@@ -549,6 +556,7 @@
         <entry>baradDayData</entry>
         <entry>sourcePeriod</entry>
         <entry encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
