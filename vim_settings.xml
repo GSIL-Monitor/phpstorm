@@ -137,7 +137,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1492778710643">
+      <file name="/fragment.php" timestamp="1493091760254">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="179" />
       </file>
@@ -161,6 +161,13 @@
         <mark key="." line="851" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/interface.php" timestamp="1492433835344" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1493091758293">
+        <mark key="'" line="163" column="145" />
+        <mark key="[" line="42" column="76" />
+        <mark key="]" line="42" column="76" />
+        <mark key="." line="42" column="76" />
+        <mark key="^" line="42" column="76" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/AgentController.php" timestamp="1490686365721">
         <mark key="[" line="0" column="2" />
       </file>
@@ -284,7 +291,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1492756416689">
+      <file name="/PHP Console" timestamp="1493091747466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -341,6 +348,12 @@
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1493091001546">
+        <mark key="[" line="42" column="67" />
+        <mark key="]" line="42" column="67" />
+        <mark key="." line="42" column="67" />
+        <mark key="^" line="42" column="67" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/DimensionValue.class.php" timestamp="1488784316703">
         <mark key="[" line="48" column="55" />
         <mark key="]" line="48" column="55" />
@@ -361,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="380" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="136" column="14" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="140" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" />
       <jump line="188" column="63" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
@@ -461,13 +473,14 @@
       <jump line="11" column="19" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
       <jump line="85" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
       <jump line="181" column="34" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
+      <jump line="162" column="145" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</text>
