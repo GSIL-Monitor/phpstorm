@@ -67,6 +67,11 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="75" column="26" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/Config.class.php" timestamp="1493191055123">
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="71" column="12" />
+        <mark key="." line="71" column="12" />
+      </file>
       <file name="E:/work/project/monitor_dataApi_proj/trunk/dataApi/inc/config.test.inc.php" timestamp="1491380030213" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1491464494237" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/test.php" timestamp="1486708183242">
@@ -125,7 +130,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1493125688630">
+      <file name="/fragment.php" timestamp="1493191035022">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="179" />
       </file>
@@ -280,7 +285,7 @@
         <mark key="^" line="219" column="61" />
         <mark key="." line="219" column="61" />
       </file>
-      <file name="/PHP Console" timestamp="1493123709423">
+      <file name="/PHP Console" timestamp="1493191006526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -330,7 +335,12 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490264904931">
         <mark key="'" line="483" column="51" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" timestamp="1493177469212" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" timestamp="1493190384061">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+      </file>
       <file name="/a.regexp" timestamp="1490686221643">
         <mark key="[" line="0" column="0" />
       </file>
@@ -475,34 +485,34 @@
         <text>getMoudleList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRtZXRyaWNOYW1lID0gJHJvd1snbWV0cmljTmFtZSddOwo=</text>
+        <text encoding="base64">CQkJJHJldCA9ICRvYmotPmNvbm5lY3QoJHNsYXZlSXBQb3J0WzBdLCAkc2xhdmVJcFBvcnRbMV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXJ2ZXJDb25maWdbXSA9IGFycmF5KCJpcCI9PiIwIiwgInBvcnQiPT4kaXBwb3J0WzFdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICRvYmotPmNvbm5lY3QoJHNsYXZlSXBQb3J0WzBdLCAxMDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXJ2ZXJDb25maWdbXSA9IGFycmF5KCJpcCI9PiIwIiwgInBvcnQiPT4kaXBwb3J0WzFdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiJXM6NSi3os/W0uyzo9e0zKxzdGF0dXM9NLXEo6zW2MvjKTpuYW1lc3BhY2U9JG5hbWVzcGFjZTp2aWV3TmFtZT0kdmlld05hbWU6bWV0cmljTmFtZT0kbWV0cmljTmFtZSIsIFJVTl9FTlYpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAsICRvbmVbJ25hbWVzcGFjZSddLCAkZGF0ZSwgJG9uZVsndmlld05hbWUnXSwgJGNyb25Mb2cpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRjbWQgPSAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICRjbWQgPSAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXJ2ZXJDb25maWdbXSA9IGFycmF5KCJpcCI9PiIwIiwgInBvcnQiPT4kaXBwb3J0WzFdKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiJXM6NSi3os/W0uyzo9e0zKxzdGF0dXM9NLXEo6zW2MvjKTpuYW1lc3BhY2U9JG5hbWVzcGFjZTp2aWV3TmFtZT0kdmlld05hbWU6bWV0cmljTmFtZT0kbWV0cmljTmFtZSIsIFJVTl9FTlYpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAsICRvbmVbJ25hbWVzcGFjZSddLCAkZGF0ZSwgJG9uZVsndmlld05hbWUnXSwgJGNyb25Mb2cpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRjbWQgPSAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICRjbWQgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
