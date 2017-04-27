@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1493205770971">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/work/project/test/index.php" timestamp="1489716363605">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -128,9 +125,6 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/BaseController.php" timestamp="1492173043071">
-        <mark key="[" line="97" column="27" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/usw-product/database.php" timestamp="1493200086311" />
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common_ParamCheck.class.php" timestamp="1492692960410" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -237,9 +231,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/conf/dev.local.commInc.ini" timestamp="1492507719041">
-        <mark key="[" line="28" column="7" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AgentController.php" timestamp="1493201698041" />
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" timestamp="1489732330226">
         <mark key="'" line="268" column="33" />
@@ -250,11 +241,11 @@
         <mark key="^" line="102" column="25" />
         <mark key="." line="102" column="26" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" timestamp="1493106602111">
-        <mark key="[" line="131" column="119" />
-        <mark key="]" line="129" column="31" />
-        <mark key="." line="129" column="31" />
-        <mark key="^" line="129" column="31" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" timestamp="1493266042263">
+        <mark key="[" line="114" column="42" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+        <mark key="^" line="114" column="41" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" timestamp="1493173204997" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/sqlserver/class/Conf.class.php" timestamp="1491465609560" />
@@ -460,10 +451,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>用</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>用</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>alarm</text>
