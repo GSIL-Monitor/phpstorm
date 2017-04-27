@@ -45,6 +45,9 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="5" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" timestamp="1493260601306">
+        <mark key="'" line="140" column="57" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cdb/class/Conf.class.php" timestamp="1491465447210" />
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1492776863280">
         <mark key="[" line="2758" column="0" />
@@ -104,6 +107,9 @@
         <mark key="^" line="18" column="126" />
         <mark key="." line="18" column="126" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" timestamp="1490618405840">
+        <mark key="'" line="140" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1493210808013">
         <mark key="[" line="183" column="11" />
         <mark key="]" line="183" column="11" />
@@ -144,6 +150,9 @@
         <mark key="]" line="12" column="5" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="5" />
+      </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1490262318601">
+        <mark key="'" line="1032" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/gz-product/database.php" timestamp="1493205643275" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1493105638781" />
@@ -238,6 +247,9 @@
         <mark key="[" line="28" column="7" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AgentController.php" timestamp="1493201698041" />
+      <file name="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" timestamp="1489732330226">
+        <mark key="'" line="268" column="33" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.ca.inc.php" timestamp="1491471050984">
         <mark key="[" line="102" column="26" />
         <mark key="]" line="102" column="26" />
@@ -305,6 +317,9 @@
         <mark key="^" line="16" column="87" />
         <mark key="." line="16" column="87" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490264904931">
+        <mark key="'" line="483" column="51" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" timestamp="1493193876232">
         <mark key="[" line="91" column="33" />
         <mark key="]" line="91" column="33" />
@@ -330,6 +345,9 @@
         <mark key="^" line="48" column="36" />
         <mark key="." line="48" column="55" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Redis.php" timestamp="1490079192259">
+        <mark key="'" line="2161" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/web/autoaccess_nolan/lib/global.func.php" timestamp="1493197422664" />
       <file name="E:/work/project/runSqlfile/main.php" timestamp="1488273743883">
         <mark key="[" line="19" column="55" />
@@ -345,9 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="96" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
-      <jump line="170" column="34" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
-      <jump line="221" column="31" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="172" column="26" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="171" column="44" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkvHour.php" />
       <jump line="46" column="13" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/schedule_calcHourStat.php" />
@@ -445,6 +460,9 @@
       <jump line="55" column="12" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
       <jump line="5" column="29" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
       <jump line="70" column="8" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
+      <jump line="548" column="0" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
+      <jump line="135" column="14" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
+      <jump line="140" column="57" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -454,7 +472,7 @@
         <text>用</text>
       </register>
       <register name="/" type="4">
-        <text>getMoudleList</text>
+        <text>alarm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHJldCA9ICRvYmotPmNvbm5lY3QoJHNsYXZlSXBQb3J0WzBdLCAkc2xhdmVJcFBvcnRbMV0pOwo=</text>
@@ -491,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getMoudleList</last-search>
+      <last-search>alarm</last-search>
       <last-offset />
-      <last-pattern>getMoudleList</last-pattern>
+      <last-pattern>alarm</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rApplicationPolicy</entry>
         <entry>try</entry>
         <entry>region</entry>
         <entry>enum</entry>
@@ -521,6 +538,7 @@
         <entry encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</entry>
         <entry>send</entry>
         <entry>getMoudleList</entry>
+        <entry>alarm</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
