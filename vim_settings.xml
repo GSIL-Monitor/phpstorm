@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1493274573350">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="E:/work/project/test/index.php" timestamp="1489716363605">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -117,6 +121,10 @@
         <mark key="^" line="25" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/usw-product/database.php" timestamp="1493200086311" />
+      <file name="/fragment.php" timestamp="1493205527661">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="179" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common_ParamCheck.class.php" timestamp="1492692960410" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
         <mark key="[" line="16" column="11" />
