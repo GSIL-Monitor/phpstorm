@@ -46,11 +46,6 @@
         <mark key="'" line="140" column="57" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cdb/class/Conf.class.php" timestamp="1491465447210" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1492776863280">
-        <mark key="[" line="2758" column="0" />
-        <mark key="]" line="2758" column="0" />
-        <mark key="." line="2758" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/qcloud-product/database.php" timestamp="1493205960739">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="36" />
@@ -71,11 +66,6 @@
         <mark key="]" line="75" column="26" />
         <mark key="^" line="83" column="1" />
         <mark key="." line="75" column="26" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/Config.class.php" timestamp="1493192980500">
-        <mark key="[" line="71" column="12" />
-        <mark key="]" line="71" column="12" />
-        <mark key="." line="71" column="12" />
       </file>
       <file name="E:/work/project/monitor_dataApi_proj/trunk/dataApi/inc/config.test.inc.php" timestamp="1491380030213" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1491464494237" />
@@ -101,10 +91,11 @@
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" timestamp="1490618405840">
         <mark key="'" line="140" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1493210808013">
-        <mark key="[" line="183" column="11" />
-        <mark key="]" line="183" column="11" />
-        <mark key="." line="183" column="11" />
+      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1493266693829">
+        <mark key="[" line="196" column="21" />
+        <mark key="]" line="196" column="25" />
+        <mark key="." line="196" column="25" />
+        <mark key="^" line="196" column="25" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/autoaccess_nolan/inc/config.inc.php" timestamp="1493123720514" />
       <file name="E:/work/project/stargateSql/main.php" timestamp="1488422160676">
@@ -451,16 +442,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>alarm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJJHJldCA9ICRvYmotPmNvbm5lY3QoJHNsYXZlSXBQb3J0WzBdLCAkc2xhdmVJcFBvcnRbMV0pOwo=</text>
+        <text encoding="base64">CSJxY2xvdWQiPT5hcnJheSgKICAgICAgICAibmFtZSI9PiJxY2xvdWTNqNPDIiwKICAgICAgICAiZGF0YSI9PmFycmF5KAogICAgICAgICAgICAnaG9zdCc9PidxY2xvdWQuYXBpLmJhcmFkLnRlbmNlbnR5dW4uY29tJywKICAgICAgICAgICAgJ3VybCc9PidodHRwOi8vMTAuMjQwLjY0LjE3Mi8nCiAgICAgICAgKQogICAgKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJY2FzZSAiaGsiIDoK</text>
