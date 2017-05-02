@@ -1,16 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9fc6814f-7539-49f9-b894-6f966dc60ad7" name="10.251.196.12" url="http://10.251.196.12">
-        <fileTransfer host="10.251.196.12" port="36000" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="36000" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d1886016-bfc9-45c6-8473-1938e6377424" name="10.125.42.68" url="http://dev.barad.isd.com:60">
-        <fileTransfer host="10.125.42.68" port="36000" accessType="SFTP">
+      <webServer id="9fc6814f-7539-49f9-b894-6f966dc60ad7" name="10.251.196.12" url="http://dev.api.barad.tencentyun.com">
+        <fileTransfer host="10.251.196.12" port="36000" rootFolder="/data/home/wallaceqian" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
