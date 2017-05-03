@@ -111,7 +111,12 @@
         <mark key="." line="72" column="35" />
         <mark key="^" line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1493782296917" />
+      <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" timestamp="1493783352484">
+        <mark key="[" line="721" column="22" />
+        <mark key="]" line="721" column="21" />
+        <mark key="^" line="721" column="21" />
+        <mark key="." line="721" column="21" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/usw-product/database.php" timestamp="1493698169710">
         <mark key="[" line="72" column="28" />
         <mark key="]" line="72" column="29" />
