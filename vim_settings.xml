@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/libaries/MonitorCLogger.class.php" timestamp="1493887207840" />
       <file name="/a.dummy" timestamp="1493865912853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -263,11 +264,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1493882346637">
-        <mark key="[" line="1044" column="29" />
-        <mark key="]" line="1044" column="30" />
-        <mark key="." line="1044" column="30" />
-        <mark key="^" line="1044" column="30" />
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1493887141885">
+        <mark key="[" line="1064" column="85" />
+        <mark key="]" line="1064" column="85" />
+        <mark key="." line="1064" column="85" />
+        <mark key="^" line="1064" column="85" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -510,10 +511,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>getRowTime</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>getRowTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaW1lbnNpb25zXD4=</text>
