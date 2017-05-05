@@ -126,7 +126,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1493901743462">
+      <file name="/fragment.php" timestamp="1493967472029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -256,11 +256,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1493900451942">
-        <mark key="[" line="1438" column="0" />
-        <mark key="]" line="1438" column="0" />
-        <mark key="." line="1438" column="0" />
-        <mark key="^" line="1043" column="42" />
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1493967498493">
+        <mark key="[" line="1042" column="58" />
+        <mark key="]" line="1042" column="53" />
+        <mark key="." line="1042" column="53" />
+        <mark key="^" line="1042" column="53" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -504,43 +504,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>yunapi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnREYXkgPSBuZXcgRGF0ZVRpbWUoZGF0ZSgnWS1tLWQgMDA6MDA6MDAnLCBzdHJ0b3RpbWUoJHN0YXJ0KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXJ0T2Zmc2V0ID0gc3RydG90aW1lKCRzdGFydCkgJSA4NjQwMCAvICRwZXJpb2Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGVuZE9mZnNldCA9IDI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERPQ1VNRU5UX1JPT1QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RydG90aW1lKCRzdGFydCkgJSA4NjQwMCAvICRwZXJpb2Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcmVhZHm7t76zz8LQtLa8yse0+NPQY2xpZW50S2V5LLK707DP7Mbky/zTw7uno6zL+dPQ1rG908q508PV/cq9u7e+s8/gzay1xMr9vt2/4sXk1sMK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIERPQ1VNRU5UX1JPT1QK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gcmVhZHm7t76zz8LQtLa8yse0+NPQY2xpZW50S2V5LLK707DP7Mbky/zTw7uno6zL+dPQ1rG908q508PV/cq9u7e+s8/gzay1xMr9vt2/4sXk1sMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJZZWEhICdteWtleScgaXMgaW4gY29uZmlnL2FwcC5waHBcbiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChDb25maWc6OmhhcygnYXBwLm15a2V5JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJZZWEhICdteWtleScgaXMgaW4gY29uZmlnL2FwcC5waHBcbiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZXhpc3RzKFJPT1RfUEFUSCkK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
