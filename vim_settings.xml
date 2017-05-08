@@ -40,11 +40,15 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1494232558728" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="5" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" timestamp="1493260601306">
+        <mark key="'" line="140" column="57" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/qcloud-product/database.php" timestamp="1493205960739">
         <mark key="[" line="107" column="28" />
@@ -132,7 +136,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1494215917054">
+      <file name="/fragment.php" timestamp="1494230362782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -146,6 +150,9 @@
         <mark key="]" line="12" column="5" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="12" column="5" />
+      </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1490262318601">
+        <mark key="'" line="1032" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/gz-product/database.php" timestamp="1493697875204">
         <mark key="[" line="72" column="28" />
@@ -222,6 +229,9 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1494230247593">
+        <mark key="'" line="15" column="10" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_genDimensionValue.php" timestamp="1489390573811">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -251,6 +261,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" timestamp="1489732330226">
+        <mark key="'" line="268" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.ca.inc.php" timestamp="1491471050984">
         <mark key="[" line="102" column="26" />
@@ -371,6 +384,9 @@
         <mark key="^" line="385" column="75" />
         <mark key="." line="385" column="75" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/alarm/class/Data.class.php" timestamp="1490264904931">
+        <mark key="'" line="483" column="51" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" timestamp="1493953649026">
         <mark key="[" line="97" column="36" />
         <mark key="]" line="97" column="36" />
@@ -383,7 +399,12 @@
         <mark key="." line="664" column="32" />
         <mark key="^" line="664" column="32" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1493797652764" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1494229631986">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1494213749103">
         <mark key="[" line="54" column="37" />
         <mark key="]" line="54" column="39" />
@@ -402,6 +423,10 @@
         <mark key="^" line="48" column="36" />
         <mark key="." line="48" column="55" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1494232539723" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Redis.php" timestamp="1490079192259">
+        <mark key="'" line="2161" column="0" />
+      </file>
       <file name="E:/work/project/runSqlfile/main.php" timestamp="1488273743883">
         <mark key="[" line="19" column="55" />
         <mark key="]" line="19" column="59" />
@@ -416,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="429" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="87" column="43" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/check.php" />
       <jump line="87" column="66" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -516,16 +540,17 @@
       <jump line="36" column="12" filename="E:/work/project/barad_proj/branches/api_10s/api/bootstrap/start.php" />
       <jump line="34" column="0" filename="E:/work/project/barad_proj/branches/api_10s/api/bootstrap/start.php" />
       <jump line="36" column="37" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" />
+      <jump line="15" column="10" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>cpu_usage</text>
       </register>
       <register name="-" type="4">
-        <text>array_values($data)</text>
+        <text>cpu_usage</text>
       </register>
       <register name="/" type="4">
-        <text>yunapi</text>
+        <text>region</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRjbWQgPSBzcHJpbnRmKCIvdXNyL2xvY2FsL3BocC9iaW4vcGhwICRleGUucGhwIC1uPSckbmFtZXNwYWNlJyAtdj0nJHZpZXdOYW1lJyA+PickbG9nRmlsZU5hbWUnIDI+JjEgJiBlY2hvICQhIik7CiAgICAkY21kUGlkID0gZXhlYygkY21kKTsK</text>
@@ -562,9 +587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>yunapi</last-search>
+      <last-search>region</last-search>
       <last-offset />
-      <last-pattern>yunapi</last-pattern>
+      <last-pattern>region</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enum</entry>
         <entry>StormCloudconf</entry>
         <entry>insert</entry>
         <entry>batch</entry>
@@ -592,6 +616,7 @@
         <entry>alarm</entry>
         <entry encoding="base64">XDxkaW1lbnNpb25zXD4=</entry>
         <entry>yunapi</entry>
+        <entry>region</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
