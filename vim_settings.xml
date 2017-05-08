@@ -172,13 +172,13 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1494216063576">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1494237554420">
         <mark key="a" line="266" column="19" />
         <mark key="'" line="42" column="145" />
-        <mark key="[" line="31" column="104" />
-        <mark key="]" line="31" column="105" />
-        <mark key="." line="31" column="105" />
-        <mark key="^" line="364" column="39" />
+        <mark key="[" line="353" column="17" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.bj.inc.php" timestamp="1493697786330">
         <mark key="[" line="80" column="17" />
@@ -335,7 +335,7 @@
         <mark key="^" line="111" column="9" />
         <mark key="." line="111" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1494226109156">
+      <file name="/PHP Console" timestamp="1494238033120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -548,52 +548,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HourKey</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>HourKey</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>region</text>
+        <text>c_dv_cvm_device_wallaceqian</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRjbWQgPSBzcHJpbnRmKCIvdXNyL2xvY2FsL3BocC9iaW4vcGhwICRleGUucGhwIC1uPSckbmFtZXNwYWNlJyAtdj0nJHZpZXdOYW1lJyA+PickbG9nRmlsZU5hbWUnIDI+JjEgJiBlY2hvICQhIik7CiAgICAkY21kUGlkID0gZXhlYygkY21kKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaXJzdENhbGxCYWNrKCYkZCwgJG4pCiAgICB7CiAgICAgICAgaWYgKGVtcHR5KCRkKSkgewogICAgICAgICAgICByZXR1cm4gLTE7IC8vIGludmFsaWQKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc2V0KCRkKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAkc3VtID0gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudEFsYXJtKDExNzYsIDksICRjb250ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOyAvLyBpbnZhbGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRuYW1lc3BhY2UgPSAkdmFsdWVbJ25hbWVzcGFjZSddOwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGQpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNhdmVMb2coJGxvZ0ZpbGVOYW1lLCAiJGNtZFBpZDokY21kIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiJXM6MS68xsvjyrXA/dLss6PNy7P2OnBpZEZpbGU9JXM6cGlkPSVkIiwgUlVOX0VOViwgJGZpbGUsICRwaWQpOwogICAgc2F2ZUxvZygkbG9nRmlsZU5hbWUsICRjb250ZW50LCAiRVJST1IiKTsKICAgIHNlbnRBbGFybSgxMTc2LCA5LCAkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiJXM6MS68xsvjyrXA/dLss6PNy7P2OnBpZEZpbGU9JXM6cGlkPSVkIiwgUlVOX0VOViwgJGZpbGUsICRwaWQpOwogICAgc2F2ZUxvZygkbG9nRmlsZU5hbWUsICRjb250ZW50LCAiRVJST1IiKTsKICAgIHNlbnRBbGFybSgxMTc2LCA5LCAkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VudEFsYXJtKDExNzYsIDksICRjb250ZW50KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsICRvbmVbJ25hbWVzcGFjZSddLCAkZGF0ZSwgJG9uZVsndmlld05hbWUnXSwgJGNyb25Mb2cpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRjcm9uTG9nID0gc3ByaW50ZigiJXMvbG9nL2NhbGNEYXlTdGF0SGJhc2VfJXNfJXNfc3Rkb3V0XyVzLmxvZyIsIFJPT1RfUEFUSCwgc3RyX3JlcGxhY2UoIi8iLCAiXyIsICRvbmVbJ25hbWVzcGFjZSddKSwgJG9uZVsndmlld05hbWUnXSwgZGF0ZSgnWW1kJywgdGltZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICRuYW1lc3BhY2UgPSAkdmFsdWVbJ25hbWVzcGFjZSddOwogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>region</last-search>
+      <last-search>c_dv_cvm_device_wallaceqian</last-search>
       <last-offset />
-      <last-pattern>region</last-pattern>
+      <last-pattern>c_dv_cvm_device_wallaceqian</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -601,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>StormCloudconf</entry>
         <entry>insert</entry>
         <entry>batch</entry>
         <entry>family</entry>
@@ -621,6 +620,7 @@
         <entry encoding="base64">XDxkaW1lbnNpb25zXD4=</entry>
         <entry>yunapi</entry>
         <entry>region</entry>
+        <entry>c_dv_cvm_device_wallaceqian</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
