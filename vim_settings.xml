@@ -50,6 +50,12 @@
       <file name="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" timestamp="1493260601306">
         <mark key="'" line="140" column="57" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1494298325514">
+        <mark key="[" line="353" column="105" />
+        <mark key="]" line="353" column="103" />
+        <mark key="." line="353" column="103" />
+        <mark key="^" line="353" column="103" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/qcloud-product/database.php" timestamp="1493205960739">
         <mark key="[" line="107" column="28" />
         <mark key="]" line="107" column="36" />
