@@ -5,7 +5,7 @@
     <filemarks>
       <file name="E:/work/project/barad_proj/branches/api_10s/api/app/libaries/MonitorCLogger.class.php" timestamp="1493887510976" />
       <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/BaseController.php" timestamp="1493900747894" />
-      <file name="/a.dummy" timestamp="1493901131739">
+      <file name="/a.dummy" timestamp="1494320602926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -555,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1Min</text>
+        <text>p\['viewName'\]</text>
       </register>
       <register name="-" type="4">
-        <text>1Min</text>
+        <text>p\['viewName'\]</text>
       </register>
       <register name="/" type="4">
         <text>sendAlarm</text>
