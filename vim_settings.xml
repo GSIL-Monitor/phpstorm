@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="E:/work/project/barad_proj/branches/api_10s/api/app/libaries/MonitorCLogger.class.php" timestamp="1493887510976" />
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/BaseController.php" timestamp="1493900747894" />
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/BaseController.php" timestamp="1494405005926">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1494401396381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -150,7 +155,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1494403031241">
+      <file name="/fragment.php" timestamp="1494405935812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -258,6 +263,7 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/AgentController.php" timestamp="1494405096592" />
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/controller/FlowController.class.php" timestamp="1490861022556">
         <mark key="[" line="388" column="19" />
         <mark key="]" line="388" column="18" />
@@ -306,11 +312,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1493972191830">
-        <mark key="[" line="1029" column="19" />
-        <mark key="]" line="1029" column="24" />
-        <mark key="." line="1029" column="24" />
-        <mark key="^" line="1029" column="24" />
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1494405843477">
+        <mark key="[" line="539" column="0" />
+        <mark key="]" line="539" column="55" />
+        <mark key="." line="539" column="0" />
+        <mark key="^" line="540" column="87" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -570,44 +576,44 @@
       <jump line="365" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyAgbmV3IEV4Y2VwdGlvbigiw7vT0NPQ0Ke1xM2zvMbK/b7dIiwgNDA0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>StormCloudConf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGFycmF5KCdjb2RlJyA9PiBFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUsICdtc2cnID0+ICJjYW4ndCBmaW5kIG1ldHJpY05hbWU9JG1ldHJpY05hbWUgY29uZmlndXJlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyAgbmV3IEV4Y2VwdGlvbigiw7vT0NPQ0Ke1xM2zvMbK/b7dIiwgNDA0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vInVybCIgPT4gImh0dHA6Ly8xMC4xNzAuMzAuNzE6NDAzMTIvIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vcHJvZHVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0b3JhZ2VUeXBlID0gNDsgLy8gMTBz1ru05khCYXNlCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vImhvc3QiID0+ICJkZXYuYXBpLmJhcmFkLnRlbmNlbnR5dW4uY29tIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vInVybCIgPT4gImh0dHA6Ly8xNzIuMjUuMzIuMTc3LyIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbignb25seSBIQmFzZSBzdXBwb3J0IDEwcyBwZXJpb2Qgbm93JywgNDA0KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHBlcmlvZCA9PSAxMCAmJiAkc3RvcmFnZVR5cGVQcmlvcml0eSAhPSA0KSB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXRUeXBlMU1pbiIgPT4gImF2ZyIsCg==</text>
+        <text encoding="base64">ICAgIC8vInVybCIgPT4gImh0dHA6Ly8xMC4xNzAuMzAuNzE6NDAzMTIvIiwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
