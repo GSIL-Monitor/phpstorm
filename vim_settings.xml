@@ -40,7 +40,11 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1494232558728" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1494398353977">
+        <mark key="[" line="81" column="75" />
+        <mark key="]" line="81" column="75" />
+        <mark key="." line="81" column="75" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="34" />
@@ -411,11 +415,11 @@
         <mark key="." line="664" column="32" />
         <mark key="^" line="664" column="32" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1494316158625">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="31" />
-        <mark key="." line="44" column="31" />
-        <mark key="^" line="44" column="31" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1494398243213">
+        <mark key="[" line="254" column="30" />
+        <mark key="]" line="254" column="31" />
+        <mark key="." line="254" column="31" />
+        <mark key="^" line="254" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1494213749103">
         <mark key="[" line="54" column="37" />
@@ -556,40 +560,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p\['viewName'\]</text>
+        <text>can't find metricName=$metricName configure</text>
       </register>
       <register name="-" type="4">
-        <text>p\['viewName'\]</text>
+        <text>can't find metricName=$metricName configure</text>
       </register>
       <register name="/" type="4">
         <text>sendAlarm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAic3RhdFR5cGUxTWluIiA9PiAiYXZnIiwK</text>
+        <text encoding="base64">CQkJcmV0dXJuIGFycmF5KCdjb2RlJyA9PiBFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUsICdtc2cnID0+ICJjYW4ndCBmaW5kIG1ldHJpY05hbWU9JG1ldHJpY05hbWUgY29uZmlndXJlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXRUeXBlMU1pbiIgPT4gImF2ZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXRUeXBlMU1pbiIgPT4gImF2ZyIsCg==</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc3VtID0gOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXRUeXBlMU1pbiIgPT4gImF2ZyIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInN0YXRUeXBlMU1pbiIgPT4gImF2ZyIsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOyAvLyBpbnZhbGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGQpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3VtID0gOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
