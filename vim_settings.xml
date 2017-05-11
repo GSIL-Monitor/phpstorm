@@ -63,7 +63,8 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1494402297762">
         <mark key="'" line="365" column="17" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1494298325514">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1494484973106">
+        <mark key="'" line="24" column="4" />
         <mark key="[" line="353" column="105" />
         <mark key="]" line="353" column="103" />
         <mark key="." line="353" column="103" />
@@ -477,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="188" column="53" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="194" column="41" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="196" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -577,6 +577,7 @@
       <jump line="359" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="360" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="365" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="24" column="4" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -586,7 +587,7 @@
         <text encoding="base64">ICAgIC8v0MK1xHBlcmlvZLrNYmlktcS21NOmudjPtbHt</text>
       </register>
       <register name="/" type="4">
-        <text>StormCloudConf</text>
+        <text>getMetricInfo error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyAgbmV3IEV4Y2VwdGlvbigiw7vT0NPQ0Ke1xM2zvMbK/b7dIiwgNDA0KTsK</text>
@@ -623,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>StormCloudConf</last-search>
+      <last-search>getMetricInfo error</last-search>
       <last-offset />
-      <last-pattern>StormCloudConf</last-pattern>
+      <last-pattern>getMetricInfo error</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -633,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>family</entry>
         <entry>DayData</entry>
         <entry>disk_usage</entry>
         <entry>acc_outtraffic</entry>
@@ -653,6 +653,7 @@
         <entry>c_dv_cvm_device_wallaceqian</entry>
         <entry>sendAlarm</entry>
         <entry>StormCloudConf</entry>
+        <entry>getMetricInfo error</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
