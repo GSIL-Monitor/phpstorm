@@ -316,13 +316,13 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1494499493546">
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1494502762118">
         <mark key="a" line="494" column="46" />
         <mark key="'" line="794" column="35" />
-        <mark key="[" line="500" column="49" />
-        <mark key="]" line="500" column="58" />
-        <mark key="." line="500" column="58" />
-        <mark key="^" line="500" column="58" />
+        <mark key="[" line="500" column="96" />
+        <mark key="]" line="500" column="96" />
+        <mark key="." line="500" column="96" />
+        <mark key="^" line="500" column="96" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -583,10 +583,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'PatchPoint'</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>'PatchPoint'</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>format</text>
