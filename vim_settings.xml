@@ -57,6 +57,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="5" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/api/vendor/patchwork/utf8/class/Patchwork/Utf8/Bootup.php" timestamp="1494851996776">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="17" />
+        <mark key="^" line="68" column="17" />
+        <mark key="." line="68" column="17" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1494850331286">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="373" column="30" />
@@ -396,6 +402,9 @@
         <mark key="]" line="16" column="11" />
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494851986082">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/inc/config.szjr.inc.php" timestamp="1491471112550">
         <mark key="[" line="122" column="26" />
