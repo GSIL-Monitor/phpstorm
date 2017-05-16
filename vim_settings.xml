@@ -203,9 +203,9 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1494483976585">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1494903644728">
         <mark key="a" line="150" column="31" />
-        <mark key="'" line="39" column="145" />
+        <mark key="'" line="132" column="0" />
         <mark key="[" line="323" column="0" />
         <mark key="]" line="323" column="0" />
         <mark key="^" line="148" column="72" />
@@ -481,7 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="206" column="53" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="212" column="41" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="214" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -581,6 +580,7 @@
       <jump line="1066" column="23" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
       <jump line="487" column="62" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
       <jump line="785" column="35" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
+      <jump line="132" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -590,7 +590,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>getCkv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRyaWNOYW1lQmF0Y2ggPSAkbWV0cmljTmFtZUJhdGNoOwo=</text>
@@ -627,9 +627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>getCkv</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>getCkv</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -637,7 +637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acc_outtraffic</entry>
         <entry>usage</entry>
         <entry>disk</entry>
         <entry>cCkvHourKeyConf</entry>
@@ -657,6 +656,7 @@
         <entry>getMetricInfo error</entry>
         <entry>add</entry>
         <entry>format</entry>
+        <entry>getCkv</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
