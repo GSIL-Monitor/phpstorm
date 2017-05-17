@@ -334,13 +334,13 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="72" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1495005386642">
+      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1495006314629">
         <mark key="a" line="494" column="46" />
-        <mark key="'" line="814" column="35" />
-        <mark key="[" line="491" column="85" />
-        <mark key="]" line="491" column="85" />
-        <mark key="^" line="504" column="77" />
-        <mark key="." line="491" column="85" />
+        <mark key="'" line="1271" column="26" />
+        <mark key="[" line="525" column="49" />
+        <mark key="]" line="525" column="49" />
+        <mark key="." line="525" column="49" />
+        <mark key="^" line="525" column="57" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -510,10 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="41" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
-      <jump line="214" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
-      <jump line="215" column="53" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
-      <jump line="221" column="41" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="223" column="59" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="224" column="53" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="230" column="41" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -610,55 +606,59 @@
       <jump line="785" column="35" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
       <jump line="132" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
       <jump line="17" column="40" filename="E:/work/project/barad_custom_proj/branches/custom_barad_api_QC_Monitor_V2.6.8/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="516" column="33" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
+      <jump line="982" column="26" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
+      <jump line="989" column="26" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
+      <jump line="1271" column="26" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$lowPeriod</text>
+        <text>$period</text>
       </register>
       <register name="-" type="4">
-        <text>$lowPeriod</text>
+        <text>$period</text>
       </register>
       <register name="/" type="4">
-        <text>lan_intraffic</text>
+        <text>_error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHBvaW50VGltZSA9IG5ldyBEYXRlVGltZSgkc3RhcnQpOwogICAgICAgICAgICBmb3JlYWNoICgkcmVzdWx0IGFzICRpID0+ICRwb2ludCkgewogICAgICAgICAgICAgICAgaWYgKGlzX251bGwoJHBvaW50KSkgewogICAgICAgICAgICAgICAgICAgIGxpc3QoJGxvd1BlcmlvZCwgJGxvd1N0YXRpc3RpY3MpID0gJHRoaXMtPmdldExvd1BlcmlvZEluZm8oJG1ldHJpY0luZm8tPmRpbUdyb3VwSWQsICRzdGF0aXN0aWNzKTsKCiAgICAgICAgICAgICAgICAgICAgJGxvd1N0YXJ0ID0gJHBvaW50VGltZS0+Zm9ybWF0KCdZLW0tZCBIOmk6cycpOwogICAgICAgICAgICAgICAgICAgICRsb3dFbmRUaW1lID0gY2xvbmUgJHBvaW50VGltZTsKICAgICAgICAgICAgICAgICAgICAkbG93RW5kVGltZS0+YWRkKG5ldyBEYXRlSW50ZXJ2YWwoJ1BUJyAuICgkc3RvcmFnZUluZm8tPnBlcmlvZCAtICRsb3dQZXJpb2QpLiAnUycpKTsKICAgICAgICAgICAgICAgICAgICAkbG93RW5kID0gJGxvd0VuZFRpbWUtPmZvcm1hdCgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nKCdwYXRjaCBwb2ludCcsIGFycmF5KCRsb3dQZXJpb2QsICRsb3dTdGF0aXN0aWNzLCAkbG93U3RhcnQsICRsb3dFbmQpKTsKICAgICAgICAgICAgICAgICAgICAkbG93UG9pbnQgPSAkdGhpcy0+Z2V0RGF0YSgkbWV0cmljSW5mbywgJGRpbWVuc2lvbnMsICRsb3dQZXJpb2QsICRsb3dTdGF0aXN0aWNzLCAxLCAkbG93U3RhcnQsICRsb3dFbmQpOwogICAgICAgICAgICAgICAgICAgICRwZXIgPSAkc3RvcmFnZUluZm8tPnBlcmlvZCAvICRsb3dQZXJpb2Q7CiAgICAgICAgICAgICAgICAgICAgJG1lcmdlUG9pbnRzID0gJHRoaXMtPm1lcmdlUG9pbnRzKCRsb3dQb2ludCwgJHBlciwgJHN0YXRpc3RpY3MpOwogICAgICAgICAgICAgICAgICAgICRyZXN1bHRbJGldID0gJG1lcmdlUG9pbnRzWzBdOwoKICAgICAgICAgICAgICAgICAgICAkbXNnID0gYXJyYXkoJG1ldHJpY0luZm8tPmRpbUdyb3VwSWQsICRzdGF0aXN0aWNzLCAkbG93U3RhcnQpOwogICAgICAgICAgICAgICAgICAgIE1vbml0b3JDTG9nZ2VyOjpyZXBvcnQoMCwgMCwgX19NRVRIT0RfXywgJ0JhcmFkQXBpJywgJF9TRVJWRVJbJ0hUVFBfSE9TVCddLCAwLCAxLCAxLCAicGF0aCBwb2ludCIsICRtc2csICJ7fSIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJHBvaW50VGltZS0+YWRkKG5ldyBEYXRlSW50ZXJ2YWwoJ1BUJyAuICRzdG9yYWdlSW5mby0+cGVyaW9kIC4gJ1MnKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwb2ludFRpbWUtPmFkZChuZXcgRGF0ZUludGVydmFsKCdQVCcgLiAkc3RvcmFnZUluZm8tPnBlcmlvZCAuICdTJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsb3dTdGFydCA9ICRzdGFydDsKICAgICAgICAgICAgICAgICRsb3dFbmQgPSAkZW5kOwogICAgICAgICAgICAgICAgJHRoaXMtPmxvZygncGF0Y2ggcG9pbnQnLCBhcnJheSgkbG93UGVyaW9kLCAkbG93U3RhdGlzdGljcywgJGxvd1N0YXJ0LCAkbG93RW5kKSk7CiAgICAgICAgICAgICAgICAkbG93UG9pbnQgPSAkdGhpcy0+Z2V0RGF0YSgkbWV0cmljSW5mbywgJGRpbWVuc2lvbnMsICRsb3dQZXJpb2QsICRsb3dTdGF0aXN0aWNzLCAxLCAkbG93U3RhcnQsICRsb3dFbmQpOwogICAgICAgICAgICAgICAgJHBlciA9ICRzdG9yYWdlSW5mby0+cGVyaW9kIC8gJGxvd1BlcmlvZDsKICAgICAgICAgICAgICAgICRyZXN1bHQgPSAkdGhpcy0+bWVyZ2VQb2ludHMoJGxvd1BvaW50LCAkcGVyLCAkc3RhdGlzdGljcyk7CgogICAgICAgICAgICAgICAgJG1zZyA9IGFycmF5KCRtZXRyaWNJbmZvLT5kaW1Hcm91cElkLCAkc3RhdGlzdGljcywgJGxvd1N0YXJ0KTsKICAgICAgICAgICAgICAgIE1vbml0b3JDTG9nZ2VyOjpyZXBvcnQoMCwgMCwgX19NRVRIT0RfXywgJ0JhcmFkQXBpJywgJF9TRVJWRVJbJ0hUVFBfSE9TVCddLCAwLCAxLCAxLCAicGF0aCBwb2ludCIsICRtc2csICJ7fSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBvaW50VGltZSA9IG5ldyBEYXRlVGltZSgkc3RhcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QoJGxvd1BlcmlvZCwgJGxvd1N0YXRpc3RpY3MpID0gJHRoaXMtPmdldExvd1BlcmlvZEluZm8oJG1ldHJpY0luZm8tPmRpbUdyb3VwSWQsICRzdGF0aXN0aWNzLCAkc3RvcmFnZUluZm8tPnBlcmlvZCApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwb2ludFRpbWUtPmFkZChuZXcgRGF0ZUludGVydmFsKCdQVCcgLiAkc3RvcmFnZUluZm8tPnBlcmlvZCAuICdTJykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBvaW50VGltZSA9IG5ldyBEYXRlVGltZSgkc3RhcnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdCgkbG93UGVyaW9kLCAkbG93U3RhdGlzdGljcykgPSAkdGhpcy0+Z2V0TG93UGVyaW9kSW5mbygkbWV0cmljSW5mby0+ZGltR3JvdXBJZCwgJHN0YXRpc3RpY3MsICRzdG9yYWdlSW5mby0+cGVyaW9kICk7CgogICAgICAgICAgICAkdGhpcy0+bG9nKCdwYXRjaCBwb2ludCcsIGFycmF5KCRsb3dQZXJpb2QsICRsb3dTdGF0aXN0aWNzLCAkbG93U3RhcnQsICRsb3dFbmQpKTsKICAgICAgICAgICAgJGxvd1BvaW50ID0gJHRoaXMtPmdldERhdGEoJG1ldHJpY0luZm8sICRkaW1lbnNpb25zLCAkbG93UGVyaW9kLCAkbG93U3RhdGlzdGljcywgMSwgJGxvd1N0YXJ0LCAkbG93RW5kKTsKICAgICAgICAgICAgJHBlciA9ICRzdG9yYWdlSW5mby0+cGVyaW9kIC8gJGxvd1BlcmlvZDsKICAgICAgICAgICAgJG1lcmdlUG9pbnRzID0gJHRoaXMtPm1lcmdlUG9pbnRzKCRsb3dQb2ludCwgJHBlciwgJHN0YXRpc3RpY3MpOwogICAgICAgICAgICAkcmVzdWx0WyRpXSA9ICRtZXJnZVBvaW50c1swXTsKCiAgICAgICAgICAgICRtc2cgPSBhcnJheSgkbWV0cmljSW5mby0+ZGltR3JvdXBJZCwgJHN0YXRpc3RpY3MsICRsb3dTdGFydCk7CiAgICAgICAgICAgIE1vbml0b3JDTG9nZ2VyOjpyZXBvcnQoMCwgMCwgX19NRVRIT0RfXywgJ0JhcmFkQXBpJywgJF9TRVJWRVJbJ0hUVFBfSE9TVCddLCAwLCAxLCAxLCAicGF0aCBwb2ludCIsICRtc2csICJ7fSIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvZygncGF0Y2ggcG9pbnQnLCBhcnJheSgkbG93UGVyaW9kLCAkbG93U3RhdGlzdGljcywgJGxvd1N0YXJ0LCAkbG93RW5kKSk7CiAgICAgICAgICAgICAgICAgICAgJGxvd1BvaW50ID0gJHRoaXMtPmdldERhdGEoJG1ldHJpY0luZm8sICRkaW1lbnNpb25zLCAkbG93UGVyaW9kLCAkbG93U3RhdGlzdGljcywgMSwgJGxvd1N0YXJ0LCAkbG93RW5kKTsKICAgICAgICAgICAgICAgICAgICAkcGVyID0gJHN0b3JhZ2VJbmZvLT5wZXJpb2QgLyAkbG93UGVyaW9kOwogICAgICAgICAgICAgICAgICAgICRtZXJnZVBvaW50cyA9ICR0aGlzLT5tZXJnZVBvaW50cygkbG93UG9pbnQsICRwZXIsICRzdGF0aXN0aWNzKTsKICAgICAgICAgICAgICAgICAgICAkcmVzdWx0WyRpXSA9ICRtZXJnZVBvaW50c1swXTsKCiAgICAgICAgICAgICAgICAgICAgJG1zZyA9IGFycmF5KCRtZXRyaWNJbmZvLT5kaW1Hcm91cElkLCAkc3RhdGlzdGljcywgJGxvd1N0YXJ0KTsKICAgICAgICAgICAgICAgICAgICBNb25pdG9yQ0xvZ2dlcjo6cmVwb3J0KDAsIDAsIF9fTUVUSE9EX18sICdCYXJhZEFwaScsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgMCwgMSwgMSwgInBhdGggcG9pbnQiLCAkbXNnLCAie30iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>lan_intraffic</last-search>
+      <last-search>_error</last-search>
       <last-offset />
-      <last-pattern>lan_intraffic</last-pattern>
+      <last-pattern>_error</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -666,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disk</entry>
         <entry>cCkvHourKeyConf</entry>
         <entry>last</entry>
         <entry>baradDayData</entry>
@@ -686,6 +685,7 @@
         <entry>format</entry>
         <entry>getCkv</entry>
         <entry>lan_intraffic</entry>
+        <entry>_error</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
