@@ -167,7 +167,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1495438487331">
+      <file name="/fragment.php" timestamp="1495449336481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -399,7 +399,7 @@
         <mark key="^" line="111" column="9" />
         <mark key="." line="111" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1495439202697">
+      <file name="/PHP Console" timestamp="1495449328167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -479,11 +479,11 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1495445751608">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1495449210397">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="32" />
+        <mark key="^" line="68" column="32" />
+        <mark key="." line="68" column="32" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/usw-product/database.php" timestamp="1493698169710">
         <mark key="[" line="72" column="28" />
