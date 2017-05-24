@@ -57,11 +57,11 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495623194071">
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="52" />
-        <mark key="." line="35" column="52" />
-        <mark key="^" line="35" column="52" />
+      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495625795581">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="27" column="52" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
@@ -184,7 +184,7 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1495599171058">
+      <file name="/fragment.php" timestamp="1495623232442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
@@ -659,10 +659,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>all</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>mysqli_error</text>
