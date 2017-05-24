@@ -16,7 +16,7 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1495622316132">
+      <file name="/a.dummy" timestamp="1495626629926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -57,11 +57,11 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495625795581">
-        <mark key="[" line="27" column="70" />
-        <mark key="]" line="27" column="52" />
-        <mark key="." line="27" column="52" />
-        <mark key="^" line="27" column="52" />
+      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495626938797">
+        <mark key="'" line="27" column="44" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
@@ -556,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="25" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="169" column="33" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="16" column="9" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/clear.php" />
       <jump line="339" column="9" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
@@ -656,13 +655,14 @@
       <jump line="116" column="28" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
       <jump line="148" column="45" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
       <jump line="340" column="0" filename="E:/work/project/barad_proj/trunk/gearman_daystat/bin/worker.php" />
+      <jump line="31" column="44" filename="E:/work/project/barad_proj/trunk/config_server/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly92YXJfZHVtcCgkX0dFVCk7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>mysqli_error</text>
@@ -671,31 +671,31 @@
         <text encoding="base64">JHJlc3VsdFsncmVnaW9uJ10gPSAkcmVnaW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">Ly92YXJfZHVtcCgkX0dFVCk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHJlc3VsdFsnY29kZSddID0gMDsKJHJlc3VsdFsnbXNnJ10gPSAnb2snOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRkYXRhWydtb2R1bGVJZCddID0gJG1vZHVsZUlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGRhdGFbJ3JlZ2lvbiddID0gJHJlZ2lvbgokZGF0YVsnbW9kdWxlSWQnXSA9ICRtb2R1bGVJZDsK</text>
+        <text encoding="base64">ICAgICRkYXRhWydyZWdpb24nXSA9ICRyZWdpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHJlc3VsdFsnZGF0YSddID0gJGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSAkdmFsdWVbMF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSAkdmFsdWUtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
