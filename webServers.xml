@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9fc6814f-7539-49f9-b894-6f966dc60ad7" name="dev 10.251.196.12" url="http://dev.api.barad.tencentyun.com">
+      <webServer id="9fc6814f-7539-49f9-b894-6f966dc60ad7" name="dev 10.251.196.12" url="http://conf.barad.tencentyun.com">
         <fileTransfer host="10.251.196.12" port="36000" rootFolder="/data/home/wallaceqian" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
