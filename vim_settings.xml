@@ -82,12 +82,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1495540697323">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1495628631981">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="448" column="8" />
-        <mark key="]" line="448" column="8" />
-        <mark key="." line="448" column="8" />
-        <mark key="^" line="448" column="40" />
+        <mark key="[" line="1134" column="12" />
+        <mark key="]" line="1134" column="31" />
+        <mark key="." line="1134" column="31" />
+        <mark key="^" line="1134" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/qcloud-product/database.php" timestamp="1494817715887">
         <mark key="[" line="107" column="28" />
@@ -658,11 +658,11 @@
       <jump line="31" column="44" filename="E:/work/project/barad_proj/trunk/config_server/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly92YXJfZHVtcCgkX0dFVCk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>mysqli_error</text>
