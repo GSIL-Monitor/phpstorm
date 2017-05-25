@@ -82,12 +82,12 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1495695600498">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1495700417012">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="1121" column="17" />
-        <mark key="]" line="489" column="66" />
-        <mark key="^" line="489" column="66" />
-        <mark key="." line="489" column="66" />
+        <mark key="[" line="398" column="58" />
+        <mark key="]" line="398" column="58" />
+        <mark key="^" line="398" column="58" />
+        <mark key="." line="398" column="58" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/qcloud-product/database.php" timestamp="1494817715887">
         <mark key="[" line="107" column="28" />
@@ -372,7 +372,7 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1495694986133">
         <mark key="a" line="494" column="46" />
-        <mark key="'" line="1279" column="26" />
+        <mark key="'" line="1280" column="26" />
         <mark key="[" line="801" column="13" />
         <mark key="]" line="801" column="20" />
         <mark key="." line="801" column="20" />
@@ -659,10 +659,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$hbaseIdKey</text>
+        <text>[$p['statistics']]</text>
       </register>
       <register name="-" type="4">
-        <text>$hbaseIdKey</text>
+        <text>[$p['statistics']]</text>
       </register>
       <register name="/" type="4">
         <text>mysqli_error</text>
