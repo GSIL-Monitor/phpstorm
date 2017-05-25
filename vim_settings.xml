@@ -16,7 +16,7 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1495626629926">
+      <file name="/a.dummy" timestamp="1495706381515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -665,7 +665,7 @@
         <text>[$p['statistics']]</text>
       </register>
       <register name="/" type="4">
-        <text>mysqli_error</text>
+        <text>agent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JHJlc3VsdFsncmVnaW9uJ10gPSAkcmVnaW9uOwo=</text>
@@ -702,9 +702,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mysqli_error</last-search>
+      <last-search>agent</last-search>
       <last-offset />
-      <last-pattern>mysqli_error</last-pattern>
+      <last-pattern>agent</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -712,7 +712,6 @@
     </search>
     <history>
       <history-search>
-        <entry>baradDayData</entry>
         <entry>sourcePeriod</entry>
         <entry encoding="base64">XDxpbnB1dERpbWVuc2lvbnNcPg==</entry>
         <entry>send</entry>
@@ -732,6 +731,7 @@
         <entry>_error</entry>
         <entry>|</entry>
         <entry>mysqli_error</entry>
+        <entry>agent</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
