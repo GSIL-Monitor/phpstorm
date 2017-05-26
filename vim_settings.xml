@@ -57,12 +57,12 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495790244337">
+      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495792648731">
         <mark key="'" line="36" column="44" />
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="32" column="119" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="97" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
@@ -654,17 +654,17 @@
       <jump line="31" column="44" filename="E:/work/project/barad_proj/trunk/config_server/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25pdG9yQ0xvZ2dlcjo6cmVwb3J0KDAsIDAsIF9fTUVUSE9EX18sICdCYXJhZEFwaScsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgMCwgMSwgMSwgInBhdGggcG9pbnQiLCAkbXNnLCAie30iKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghJGNvbmZJZEFycmF5KSB7CiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigkbXlzcWwtPmVycm9yLCAkbXlzcWwtPmVycm5vKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSAkdmFsdWVSZXN1bHRbMF07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25pdG9yQ0xvZ2dlcjo6cmVwb3J0KDAsIDAsIF9fTUVUSE9EX18sICdCYXJhZEFwaScsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgMCwgMSwgMSwgInBhdGggcG9pbnQiLCAkbXNnLCAie30iKTsK</text>
