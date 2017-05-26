@@ -57,12 +57,12 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495799541354">
-        <mark key="'" line="37" column="44" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495800601318">
+        <mark key="'" line="40" column="44" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
@@ -655,16 +655,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>moduleName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>moduleName</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSAkdmFsdWVSZXN1bHRbMF07Cg==</text>
+        <text encoding="base64">JG1vZHVsZU5hbWUgPSAkX0dFVFsnbW9kdWxlTmFtZSddOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25pdG9yQ0xvZ2dlcjo6cmVwb3J0KDAsIDAsIF9fTUVUSE9EX18sICdCYXJhZEFwaScsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgMCwgMSwgMSwgInBhdGggcG9pbnQiLCAkbXNnLCAie30iKTsK</text>
