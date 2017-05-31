@@ -133,11 +133,11 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.inc.php" timestamp="1496215937728">
-        <mark key="[" line="41" column="20" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="41" column="23" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.inc.php" timestamp="1496218306419">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/lib/Hbase/Hbase.php" timestamp="1493814144372" />
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.inc.php" timestamp="1493293082007">
@@ -363,7 +363,7 @@
         <mark key="^" line="19" column="9" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AgentController.php" timestamp="1494322079010" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.shdev.inc.php" timestamp="1496215962530" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.shdev.inc.php" timestamp="1496218393936" />
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/libs/CgiRequest.class.php" timestamp="1489732330226">
         <mark key="'" line="268" column="33" />
       </file>
@@ -468,7 +468,7 @@
         <mark key="^" line="111" column="9" />
         <mark key="." line="111" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1496215450665">
+      <file name="/PHP Console" timestamp="1496218308075">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -690,10 +690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text>$_configs['dbInfo']</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text>$_configs['dbInfo']</text>
       </register>
       <register name="/" type="4">
         <text>agent</text>
