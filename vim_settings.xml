@@ -64,6 +64,12 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1496290562660">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495802625580">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="52" column="17" />
@@ -246,14 +252,6 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="38" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1496202352393">
-        <mark key="a" line="150" column="31" />
-        <mark key="'" line="352" column="50" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="^" line="148" column="72" />
-        <mark key="." line="323" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/gearman_daystat/conf/config.php" timestamp="1495619927523">
         <mark key="[" line="34" column="2" />
         <mark key="]" line="35" column="0" />
@@ -410,14 +408,6 @@
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="127" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" timestamp="1495694986133">
-        <mark key="a" line="494" column="46" />
-        <mark key="'" line="1280" column="26" />
-        <mark key="[" line="801" column="13" />
-        <mark key="]" line="801" column="20" />
-        <mark key="." line="801" column="20" />
-        <mark key="^" line="801" column="20" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/sh-product/database.php" timestamp="1493698031632">
         <mark key="[" line="74" column="28" />
@@ -711,10 +701,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>moduleName</text>
+        <text>api</text>
       </register>
       <register name="-" type="4">
-        <text>moduleName</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>moduleList</text>
