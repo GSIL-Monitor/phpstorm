@@ -70,11 +70,11 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1496320239092">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1496321742291">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+        <mark key="^" line="20" column="53" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495802625580">
         <mark key="'" line="20" column="0" />
@@ -270,12 +270,12 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496320183886">
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496322018573">
         <mark key="'" line="85" column="5" />
-        <mark key="[" line="4" column="96" />
-        <mark key="]" line="4" column="99" />
-        <mark key="^" line="4" column="99" />
-        <mark key="." line="4" column="99" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="47" column="28" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" timestamp="1495599231014">
         <mark key="'" line="148" column="45" />
@@ -699,43 +699,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Conf</text>
+        <text>置</text>
       </register>
       <register name="-" type="4">
-        <text>Conf</text>
+        <text>置</text>
       </register>
       <register name="/" type="4">
         <text>con_stargate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2R1bGVMaXN0OiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0udmFsdWUgfX08L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL291dHB1dF9yZXR1cm4oYXJyYXkoYXJyYXkoJ21vZHVsZUlkJyA9PiAxLCAnbW9kdWxlTmFtZScgPT4gJ0NvbmZpZ0NsaWVudCcpLCAnY29uZk5hbWUnID0+ICdpbnRlcnZhbCcsICd2YWx1ZScgPT4gNSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPklEPC90aD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dldENvbmYnKTsK</text>
+        <text encoding="base64">R1JPVVAgQlkgY29uZklkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0icHJlc2VudGF0aW9uIiBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIjbW9kdWxlIiByb2xlPSJ0YWIiIGRhdGEtdG9nZ2xlPSJ0YWIiPsSjv+nB0LHtPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QoJ2NfY29uZmlnJywgJ2dldE1vZHVsZUxpc3QnLCB7fSwgZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgICAgICAgICAgY01vZHVsZS5tb2R1bGVMaXN0ID0gZGF0YTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL291dHB1dF9yZXR1cm4oYXJyYXkoYXJyYXkoJ21vZHVsZUlkJyA9PiAxLCAnbW9kdWxlTmFtZScgPT4gJ0NvbmZpZ0NsaWVudCcpLCAnY29uZk5hbWUnID0+ICdpbnRlcnZhbCcsICd2YWx1ZScgPT4gNSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dldENvbmYnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0icHJlc2VudGF0aW9uIiBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIjbW9kdWxlIiByb2xlPSJ0YWIiIGRhdGEtdG9nZ2xlPSJ0YWIiPsSjv+nB0LHtPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdCgnY19jb25maWcnLCAnZ2V0TW9kdWxlTGlzdCcsIHt9LCBmdW5jdGlvbihkYXRhKXsKICAgIGNNb2R1bGUubW9kdWxlTGlzdCA9IGRhdGE7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QoJ2NfY29uZmlnJywgJ2dldE1vZHVsZUxpc3QnLCB7fSwgZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgICAgICAgICAgY01vZHVsZS5tb2R1bGVMaXN0ID0gZGF0YTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPsXk1sM8L3RoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
