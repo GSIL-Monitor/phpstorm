@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" timestamp="1496303425212">
-        <mark key="'" line="261" column="0" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" timestamp="1496653742502">
+        <mark key="'" line="74" column="157" />
         <mark key="[" line="212" column="60" />
         <mark key="]" line="212" column="79" />
         <mark key="." line="212" column="79" />
@@ -35,7 +35,7 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1496630508828">
+      <file name="/a.dummy" timestamp="1496650598311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -76,11 +76,11 @@
         <mark key="." line="540" column="33" />
         <mark key="^" line="539" column="9" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1496644138524">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="20" column="53" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1496654371241">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="67" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="67" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495802625580">
         <mark key="'" line="20" column="0" />
@@ -245,12 +245,12 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496320191766">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="20" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496654763020">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/model/MCvmApplication.class.php" timestamp="1489136494355">
         <mark key="[" line="857" column="54" />
@@ -282,12 +282,12 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496322018573">
-        <mark key="'" line="85" column="5" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="28" />
-        <mark key="^" line="27" column="41" />
-        <mark key="." line="47" column="28" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496654645602">
+        <mark key="'" line="106" column="32" />
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="23" />
+        <mark key="^" line="138" column="23" />
+        <mark key="." line="138" column="23" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" timestamp="1495599231014">
         <mark key="'" line="148" column="45" />
@@ -430,11 +430,11 @@
         <mark key="^" line="64" column="34" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1496320265060">
-        <mark key="[" line="14" column="38" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1496652247792">
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="53" />
+        <mark key="." line="59" column="53" />
+        <mark key="^" line="59" column="53" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/common.php" timestamp="1496215552355">
         <mark key="[" line="2" column="0" />
@@ -576,6 +576,9 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" timestamp="1496653429726">
+        <mark key="'" line="74" column="8" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_hour_data/api/app/config/usw-product/database.php" timestamp="1493698169710">
         <mark key="[" line="72" column="28" />
         <mark key="]" line="72" column="29" />
@@ -608,14 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1397" column="91" filename="E:/work/project/barad_proj/branches/api_hour_data/api/app/controllers/MetricController.php" />
-      <jump line="39" column="29" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/UpdateAgentCvmStatus.class.php" />
-      <jump line="0" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
-      <jump line="24" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
-      <jump line="101" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
-      <jump line="107" column="9" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" />
-      <jump line="11" column="19" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
-      <jump line="85" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/generateFullDeploymentQueue.php" />
       <jump line="181" column="34" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
       <jump line="162" column="145" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
       <jump line="55" column="12" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
@@ -708,55 +703,63 @@
       <jump line="48" column="0" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/config/config.php" />
       <jump line="172" column="38" filename="E:/work/project/barad_proj/trunk/web/admin/template/agent.html" />
       <jump line="89" column="38" filename="E:/work/project/barad_proj/trunk/web/admin/template/agent.html" />
+      <jump line="101" column="32" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
+      <jump line="155" column="67" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" />
+      <jump line="32" column="58" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
+      <jump line="75" column="71" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
+      <jump line="74" column="157" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" />
+      <jump line="16" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
+      <jump line="70" column="57" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
+      <jump line="74" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>置</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>置</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>con_stargate</text>
+        <text>modifyTranslateConfig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0udmFsdWUgfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQodGhpcy5lZGl0Q29uZlJlcS5mb3JtWydtb2R1bGVJZCddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPklEPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R1JPVVAgQlkgY29uZklkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQodGhpcy5lZGl0Q29uZlJlcS5mb3JtWydtb2R1bGVJZCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJHBhcmFtcy5tb2R1bGVOYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJHBhcmFtcy5tb2R1bGVOYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL291dHB1dF9yZXR1cm4oYXJyYXkoYXJyYXkoJ21vZHVsZUlkJyA9PiAxLCAnbW9kdWxlTmFtZScgPT4gJ0NvbmZpZ0NsaWVudCcpLCAnY29uZk5hbWUnID0+ICdpbnRlcnZhbCcsICd2YWx1ZScgPT4gNSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2dldENvbmYnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0icHJlc2VudGF0aW9uIiBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIjbW9kdWxlIiByb2xlPSJ0YWIiIGRhdGEtdG9nZ2xlPSJ0YWIiPsSjv+nB0LHtPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIHYtbW9kZWw9J2VkaXRDb25mLmZvcm0ubW9kdWxlTmFtZScgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcXVlc3QoJ2NfY29uZmlnJywgJ2dldE1vZHVsZUxpc3QnLCB7fSwgZnVuY3Rpb24oZGF0YSl7CiAgICAgICAgICAgICAgICAgICAgY01vZHVsZS5tb2R1bGVMaXN0ID0gZGF0YTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9J2FkZENvbmYuZm9ybS5jb25mTmFtZSc+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>con_stargate</last-search>
+      <last-search>modifyTranslateConfig</last-search>
       <last-offset />
-      <last-pattern>con_stargate</last-pattern>
+      <last-pattern>modifyTranslateConfig</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -764,9 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>region</entry>
-        <entry>c_dv_cvm_device_wallaceqian</entry>
-        <entry>sendAlarm</entry>
         <entry>StormCloudConf</entry>
         <entry>getMetricInfo error</entry>
         <entry>add</entry>
@@ -784,6 +784,9 @@
         <entry>moduleList</entry>
         <entry>threshold</entry>
         <entry>con_stargate</entry>
+        <entry>编辑</entry>
+        <entry>click_translateconfig</entry>
+        <entry>modifyTranslateConfig</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
