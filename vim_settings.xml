@@ -158,11 +158,6 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/inc/config.inc.php" timestamp="1496828589033">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.inc.php" timestamp="1493293082007">
         <mark key="[" line="74" column="28" />
         <mark key="]" line="74" column="28" />
@@ -212,12 +207,12 @@
         <mark key="." line="20" column="23" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/config.php" timestamp="1496220379193">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/config.php" timestamp="1496831476678">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="53" column="1" />
-        <mark key="]" line="48" column="1" />
-        <mark key="." line="48" column="1" />
-        <mark key="^" line="48" column="1" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/schedule_delHbaseHistory.php" timestamp="1488856074998">
         <mark key="[" line="16" column="11" />
