@@ -81,12 +81,12 @@
         <mark key="^" line="80" column="74" />
         <mark key="." line="80" column="74" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1495802625580">
+      <file name="E:/work/project/barad_proj/trunk/config_server/index.php" timestamp="1496818476284">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="17" />
-        <mark key="^" line="52" column="62" />
-        <mark key="." line="52" column="17" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/clear.php" timestamp="1491478063413">
         <mark key="[" line="18" column="34" />
@@ -711,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>confName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>confName</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>modifyTranslateConfig</text>

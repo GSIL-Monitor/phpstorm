@@ -9,6 +9,14 @@
           <option name="port" value="36000" />
         </fileTransfer>
       </webServer>
+      <webServer id="7cf3528c-95e2-46bc-aa98-967631f54aa7" name="gz 10.113.116.4" url="http://conf.barad.tencentyun.com">
+        <fileTransfer host="10.113.116.4" port="36000" rootFolder="/data/www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
