@@ -238,11 +238,11 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496887654476">
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="70" column="53" />
-        <mark key="." line="70" column="53" />
-        <mark key="^" line="70" column="53" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496888430853">
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="16" />
+        <mark key="." line="92" column="16" />
+        <mark key="^" line="92" column="16" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/model/MCvmApplication.class.php" timestamp="1489136494355">
         <mark key="[" line="857" column="54" />
@@ -274,9 +274,9 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496887462560">
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496888350477">
         <mark key="'" line="125" column="32" />
-        <mark key="[" line="171" column="92" />
+        <mark key="[" line="35" column="37" />
         <mark key="]" line="171" column="92" />
         <mark key="^" line="171" column="89" />
         <mark key="." line="171" column="92" />
@@ -704,11 +704,11 @@
       <jump line="20" column="29" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPk1fY29uZmlnLT5lZGl0Q29uZigkcGFyYW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>[];</text>
       </register>
       <register name="-" type="4">
-        <text>this.region</text>
+        <text>[];</text>
       </register>
       <register name="/" type="4">
         <text>modifyTranslateConfig</text>
