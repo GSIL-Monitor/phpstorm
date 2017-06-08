@@ -238,11 +238,11 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="71" column="31" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496888430853">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="16" />
-        <mark key="." line="92" column="16" />
-        <mark key="^" line="92" column="16" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1496889483071">
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/model/MCvmApplication.class.php" timestamp="1489136494355">
         <mark key="[" line="857" column="54" />
@@ -274,12 +274,12 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496888350477">
-        <mark key="'" line="125" column="32" />
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="171" column="92" />
-        <mark key="^" line="171" column="89" />
-        <mark key="." line="171" column="92" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496889169161">
+        <mark key="'" line="128" column="32" />
+        <mark key="[" line="77" column="52" />
+        <mark key="]" line="77" column="55" />
+        <mark key="^" line="77" column="55" />
+        <mark key="." line="77" column="55" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" timestamp="1495599231014">
         <mark key="'" line="148" column="45" />
@@ -705,43 +705,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[];</text>
+        <text>this.regionList</text>
       </register>
       <register name="-" type="4">
-        <text>[];</text>
+        <text>this.regionList</text>
       </register>
       <register name="/" type="4">
         <text>modifyTranslateConfig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZWRpdENvbmZSZXEuZm9ybS5yZWdpb24gPSB0aGlzLnJlZ2lvbkxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0nYnV0dG9uJyBjbGFzcz0nYnRuJyBkYXRhLXRvZ2dsZT0ibW9kYWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtb246Y2xpY2s9ImRlbGV0ZUNvbmYoaXRlbSkiPsm+s/0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPk1fY29uZmlnLT5lZGl0Q29uZigkcGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlZ2lvbicgPT4gJHRoaXMtPmlucHV0LT5wb3N0KCdyZWdpb24nKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLnZhbHVlID0gJHBhcmFtcy52YWx1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRDb25mUmVxLmZvcm0ucmVnaW9uID0gdGhpcy5yZWdpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLmNvbmZOYW1lID0gJHBhcmFtcy5jb25mTmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLmNvbmZJZCA9ICRwYXJhbXMuY29uZklkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLm1vZHVsZU5hbWUgPSAkcGFyYW1zLm1vZHVsZU5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLm1vZHVsZUlkID0gJHBhcmFtcy5tb2R1bGVJZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLnVzZXJzID8gdGhpcy5zZWxlY3RlZC5sZW5ndGggPT0gdGhpcy51c2Vycy5sZW5ndGggOiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0OiBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lZGl0Q29uZlJlcS5mb3JtLmNvbmZOYW1lID0gJHBhcmFtcy5jb25mTmFtZTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
