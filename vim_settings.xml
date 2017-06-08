@@ -10,6 +10,13 @@
         <mark key="." line="212" column="79" />
         <mark key="^" line="212" column="79" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/common/RemoteInterface.class.php" timestamp="1496911656711">
+        <mark key="'" line="66" column="76" />
+        <mark key="[" line="66" column="63" />
+        <mark key="]" line="66" column="76" />
+        <mark key="^" line="66" column="76" />
+        <mark key="." line="66" column="76" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/config/config.php" timestamp="1496306306960">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="190" column="27" />
@@ -17,11 +24,12 @@
         <mark key="." line="190" column="12" />
         <mark key="^" line="190" column="12" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1496908709424">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="65" />
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1496910460192">
+        <mark key="'" line="167" column="37" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="64" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/BaseController.php" timestamp="1494405005926">
         <mark key="[" line="10" column="52" />
@@ -35,7 +43,7 @@
         <mark key="^" line="21" column="64" />
         <mark key="." line="21" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1496650598311">
+      <file name="/a.dummy" timestamp="1496911793038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,6 +72,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/conf/bj.local.commInc.ini" timestamp="1496910010479" />
       <file name="E:/work/project/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1486456370737">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -147,11 +156,11 @@
         <mark key="^" line="83" column="1" />
         <mark key="." line="75" column="26" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1496630497839">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-        <mark key="." line="16" column="13" />
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1496910487747">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+        <mark key="." line="26" column="64" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/test.php" timestamp="1486708183242">
         <mark key="[" line="7" column="0" />
@@ -352,6 +361,9 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/GetClientKey.class.php" timestamp="1496911068501">
+        <mark key="'" line="38" column="44" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/qcm_cgi/controller/FlowController.class.php" timestamp="1490861022556">
         <mark key="[" line="388" column="19" />
         <mark key="]" line="388" column="18" />
@@ -370,12 +382,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1496908634821">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1496911494078">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="39" column="12" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="54" />
+        <mark key="^" line="49" column="54" />
       </file>
       <file name="E:/work/project/barad_php_script_daystat/lib/global.func.php" timestamp="1486461224219">
         <mark key="[" line="603" column="36" />
@@ -389,7 +401,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/conf/dev.local.commInc.ini" timestamp="1496907811655">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/conf/dev.local.commInc.ini" timestamp="1496911285194">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="9" />
         <mark key="." line="19" column="9" />
@@ -619,10 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
-      <jump line="5" column="29" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" />
-      <jump line="70" column="8" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
-      <jump line="548" column="0" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
       <jump line="135" column="14" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
       <jump line="140" column="57" filename="E:/work/project/barad_proj/trunk/web/admin/request.ajax.php" />
       <jump line="19" column="18" filename="E:/work/project/export/export.php" />
@@ -719,46 +727,50 @@
       <jump line="74" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
       <jump line="20" column="29" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="1" column="0" filename="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" />
+      <jump line="167" column="37" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
+      <jump line="57" column="20" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/common/RemoteInterface.class.php" />
+      <jump line="38" column="44" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/GetClientKey.class.php" />
+      <jump line="66" column="76" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/common/RemoteInterface.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">JHRoaXMtPmRhdGFhcGlDb25mWydob3N0J10=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">JHRoaXMtPmRhdGFhcGlDb25mWydob3N0J10=</text>
       </register>
       <register name="/" type="4">
         <text>modifyTranslateConfig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIChST09UX1BBVEggLiAnL2NvbW1vbi9Db21tb25fU2ltcGxlTG9nLmNsYXNzLnBocCcpOwo=</text>
+        <text encoding="base64">CQkkdGhpcy0+X2RiT2JqID0gQ29tbW9uX0RiOjppbml0KGNvbmYoJ1N0YXJnYXRlVXBkYXRlcicpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGNvbmZbJ2RiSW5mbyddID0gJGRiSW5mbzsK</text>
+        <text encoding="base64">ICAgIAkkdXJsID0gImh0dHA6Ly8iLiR0aGlzLT5kYXRhYXBpQ29uZlsnaXAnXS4kdGhpcy0+ZGF0YWFwaUNvbmZbJ3VybCddOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JEdMT0JBTFNbJ2NvbmYnXSA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgIAkvL2VjaG8gJHRoaXMtPmhvc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CXByaXZhdGUgJGRhdGFhcGlDb25mOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">CQkkdGhpcy0+ZGF0YWFwaUNvbmYgPSBnZXRDb25mKCdDT01NX0xPQ0FMLkRBVEFBUEknKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CXByaXZhdGUgJGNjZGJfdXJsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Y2NkYl91cmwgPSBjb25mKCdjY2RiX3VybCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL2VjaG8gJHVybC4iXG4iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkZGJDb25mID0gZ2V0Q29uZignQ09NTV9MT0NBTC5TVEFSR0FURV9EQicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gImh0dHA6Ly8iLiR0aGlzLT5jY2RiX3VybFsnaG9zdCddLiR0aGlzLT5jY2RiX3VybFsndXJsJ107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JAo=</text>
+        <text encoding="base64">ICAgICAgICAvL2VjaG8gJHRoaXMtPmhvc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
