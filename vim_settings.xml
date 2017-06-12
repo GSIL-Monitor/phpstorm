@@ -60,10 +60,7 @@
       <file name="/PHP Console" timestamp="1497262988965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1497257827329">
-        <mark key="[" line="95" column="54" />
-        <mark key="]" line="95" column="54" />
-        <mark key="." line="95" column="54" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1497265453399">
         <mark key="^" line="95" column="24" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/UpdateErrCount.php" timestamp="1497254917240">
@@ -84,11 +81,10 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/NotifyInstallEvent.php" timestamp="1497262377520">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/tools/NotifyInstallEvent.php" timestamp="1497265713474">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/GlobalFunctions.php" timestamp="1497263067735">
         <mark key="[" line="138" column="35" />
@@ -113,10 +109,10 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1497262947331">
-        <mark key="[" line="89" column="73" />
-        <mark key="]" line="89" column="73" />
-        <mark key="." line="89" column="73" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1497265500775">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1497257841903">
         <mark key="[" line="67" column="50" />
@@ -228,8 +224,8 @@
       <jump line="66" column="76" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/common/RemoteInterface.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, ?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, ?</text>
@@ -238,34 +234,34 @@
         <text>modifyTranslateConfig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0Wyd1dWlkJ10gPSAkb25lWyd1dWlkJ107CiAgICAgICAgc2VuZEFsYXJtKCRyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb25mSWQnOiAkcGFyYW1zLmNvbmZJZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvKCR0aGlzLT5kYi0+bGFzdF9xdWVyeSgpKTsKICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcik7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gIlVQREFURSBjQ29uZiBTRVQgY29uZk5hbWU9PyBXSEVSRSBjb25mSWQ9PyI7CiAgICAgICAgJHRoaXMtPmRiLT5xdWVyeSgkc3FsLCBhcnJheSgkcGFyYW1zWydjb25mTmFtZSddLCAkcGFyYW1zWydjb25mSWQnXSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvKCR0aGlzLT5kYi0+bGFzdF9xdWVyeSgpKTsKICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaHR0cFJlcXVlc3QoJHVybCwgJGRhdGEsICRvcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvKCR0aGlzLT5kYi0+bGFzdF9xdWVyeSgpKTsKICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkb3B0aW9uID0gYXJyYXkoJ2hvc3QnPT4gJGFsYXJtQ29uZlsnaG9zdCddLCAnbWV0aG9kJz0+J3Bvc3QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkkZGF0YSA9IGh0dHBfYnVpbGRfcXVlcnkoJGRhdGEpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkdXJsID0gImh0dHA6Ly8iIC4gJGFsYXJtQ29uZlsnaXAnXSAuICRhbGFybUNvbmZbJ3BhdGgnXTsK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJKTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gaHR0cFJlcXVlc3QoJHVybCwgJGRhdGEsICRvcHRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
