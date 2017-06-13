@@ -144,10 +144,11 @@
         <mark key="." line="42" column="19" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1497336040957">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1497348175849">
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1497339202768" />
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1497257841903">
@@ -260,11 +261,11 @@
       <jump line="172" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGRzZW5kQWxhcm0oJ3Rlc3QnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>exit</text>
       </register>
       <register name="-" type="4">
-        <text>conf('alarm.url')</text>
+        <text>exit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2R1bGVOYW1lXD4=</text>
