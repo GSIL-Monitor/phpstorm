@@ -9,16 +9,8 @@
           <option name="port" value="36000" />
         </fileTransfer>
       </webServer>
-      <webServer id="7cf3528c-95e2-46bc-aa98-967631f54aa7" name="gz 10.113.116.4" url="http://conf.barad.tencentyun.com">
-        <fileTransfer host="10.113.116.4" port="36000" rootFolder="/data/www/" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="36000" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="db88e55b-c966-447e-b835-01a7ab2c8bc8" name="gz 10.113.28.11" url="http://conf.barad.tencentyun.com">
-        <fileTransfer host="10.113.28.11" port="36000" rootFolder="/data/www/" accessType="SFTP">
+      <webServer id="1ae1e382-7139-4bab-ab1b-7c7d1e071c0a" name="shdev 10.252.236.132" url="">
+        <fileTransfer host="10.252.236.132" port="36000" rootFolder="/data/www/api.barad.tencentyun.com" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
