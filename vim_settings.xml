@@ -115,7 +115,12 @@
       <file name="E:/work/project/barad_proj/trunk/api/app/config/bj-product/database.php" timestamp="1497441937639" />
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/MonitorCLogger.class.php" timestamp="1497443709234" />
       <file name="E:/work/project/barad_proj/trunk/api/app/config/cd-product/database.php" timestamp="1497443265235" />
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1497440527833" />
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1497445168622">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="25" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1497443632657">
         <mark key="[" line="3" column="16" />
         <mark key="]" line="3" column="44" />
@@ -257,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>clog_env</text>
