@@ -17,12 +17,12 @@
         <mark key="." line="143" column="42" />
         <mark key="^" line="143" column="21" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/lib/config.php" timestamp="1497491547849">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/lib/config.php" timestamp="1497509676263">
         <mark key="'" line="2" column="17" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="24" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1496978585732">
         <mark key="'" line="129" column="32" />
@@ -105,6 +105,7 @@
         <mark key="." line="19" column="9" />
         <mark key="^" line="19" column="9" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/checkDv.php" timestamp="1497509241199" />
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1497440981966">
         <mark key="'" line="61" column="53" />
         <mark key="[" line="1436" column="0" />
@@ -156,10 +157,10 @@
         <mark key="^" line="30" column="35" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/cd-product/database.php" timestamp="1497443265235" />
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1497445168622">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1497509162167">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
-        <mark key="^" line="26" column="24" />
+        <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1497443632657">
@@ -303,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10.166.224.35</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>10.166.224.35</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>clog_env</text>
