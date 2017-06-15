@@ -79,7 +79,7 @@
         <mark key="." line="619" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/dev/database.php" timestamp="1497441447919" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1497440581645" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1497497376342" />
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/fun.js" timestamp="1496666601424">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -149,6 +149,12 @@
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/bj-product/database.php" timestamp="1497441937639" />
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/MonitorCLogger.class.php" timestamp="1497443709234" />
+      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1497497759213">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/cd-product/database.php" timestamp="1497443265235" />
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1497445168622">
         <mark key="[" line="26" column="25" />
@@ -297,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>10.166.224.35</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>10.166.224.35</text>
       </register>
       <register name="/" type="4">
         <text>clog_env</text>
