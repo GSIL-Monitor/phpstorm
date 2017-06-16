@@ -20,7 +20,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="10.251.196.12 Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 39210 36000" version="5.6.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 47548 36000" version="5.6.29">
           <additional_php_ini />
           <configuration_file>/usr/local/services/php-5.6.29/lib/php.ini</configuration_file>
           <configuration_options>
@@ -339,6 +339,7 @@
             <extension name="Core" />
             <extension name="PDO" />
             <extension name="Phar" />
+            <extension name="PhpSandboxClient" />
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
@@ -354,6 +355,7 @@
             <extension name="ereg" />
             <extension name="fileinfo" />
             <extension name="filter" />
+            <extension name="gearman" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
