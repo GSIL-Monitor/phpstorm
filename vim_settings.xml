@@ -178,11 +178,11 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="E:/work/project/sgagentScan/scan.php" timestamp="1497865789242">
-        <mark key="[" line="11" column="96" />
-        <mark key="]" line="11" column="96" />
-        <mark key="^" line="11" column="96" />
-        <mark key="." line="11" column="96" />
+      <file name="E:/work/project/sgagentScan/scan.php" timestamp="1497866532853">
+        <mark key="[" line="25" column="100" />
+        <mark key="]" line="25" column="100" />
+        <mark key="^" line="25" column="77" />
+        <mark key="." line="25" column="100" />
       </file>
       <file name="/PHP Console" timestamp="1497855990430">
         <mark key="[" line="0" column="0" />
@@ -376,7 +376,7 @@
         <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGRiWydkYi5TdG9ybURpY3Rpb25hcnknXSA9IGluaXQoJHJlZ2lvbiwgJ2RiLlN0b3JtRGljdGlvbmFyeScpOwo=</text>
+        <text encoding="base64">JGRiWydkYi5TdGFyZ2F0ZVVwZGF0ZXInXSA9IGluaXQoJHJlZ2lvbiwgJ2RiLlN0YXJnYXRlVXBkYXRlcicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
