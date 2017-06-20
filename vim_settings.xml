@@ -129,12 +129,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1497951406925">
-        <mark key="'" line="61" column="53" />
-        <mark key="[" line="480" column="45" />
-        <mark key="]" line="482" column="0" />
-        <mark key="^" line="479" column="27" />
-        <mark key="." line="482" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1497955231209">
+        <mark key="a" line="481" column="26" />
+        <mark key="'" line="346" column="20" />
+        <mark key="[" line="487" column="9" />
+        <mark key="]" line="489" column="20" />
+        <mark key="^" line="489" column="20" />
+        <mark key="." line="489" column="20" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/common.php" timestamp="1497340338342">
         <mark key="[" line="37" column="0" />
@@ -279,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="68" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="577" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="581" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="588" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -379,13 +379,14 @@
       <jump line="184" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
       <jump line="9" column="0" filename="E:/work/project/sgagentScan/main.php" />
       <jump line="47" column="0" filename="E:/work/project/sgagentScan/main.php" />
+      <jump line="346" column="20" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>dimensionsBatch</text>
       </register>
       <register name="-" type="4">
-        <text>$metricInfo, $dimensions, $period, $statistics, $storageTypePriority, $start, $end</text>
+        <text>dimensionsBatch</text>
       </register>
       <register name="/" type="4">
         <text>send</text>
