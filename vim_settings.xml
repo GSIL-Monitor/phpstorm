@@ -134,12 +134,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1498099098243">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1498101212405">
         <mark key="'" line="852" column="64" />
-        <mark key="[" line="1429" column="41" />
-        <mark key="]" line="1429" column="42" />
-        <mark key="^" line="1429" column="35" />
-        <mark key="." line="1429" column="41" />
+        <mark key="[" line="1429" column="23" />
+        <mark key="]" line="1429" column="27" />
+        <mark key="^" line="1429" column="27" />
+        <mark key="." line="1429" column="27" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/common.php" timestamp="1497340338342">
         <mark key="[" line="37" column="0" />
@@ -383,13 +383,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>array_values</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>array_values</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>select * from `cCkvBid`</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKF9fRlVOQ1RJT05fXywgYXJyYXkoKSwgZmFsc2UsICRmdW5jdGlvblRpbWUpOwo=</text>
@@ -426,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>select * from `cCkvBid`</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>select * from `cCkvBid`</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lan_intraffic</entry>
         <entry>_error</entry>
         <entry>|</entry>
         <entry>mysqli_error</entry>
@@ -456,6 +455,7 @@
         <entry>clog_env</entry>
         <entry>send</entry>
         <entry>static</entry>
+        <entry>select * from `cCkvBid`</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
