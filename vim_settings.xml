@@ -134,12 +134,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1498049783572">
-        <mark key="a" line="1551" column="23" />
-        <mark key="[" line="876" column="31" />
-        <mark key="]" line="876" column="31" />
-        <mark key="." line="876" column="31" />
-        <mark key="^" line="873" column="24" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1498096493426">
+        <mark key="a" line="1548" column="23" />
+        <mark key="[" line="901" column="0" />
+        <mark key="]" line="901" column="0" />
+        <mark key="^" line="888" column="9" />
+        <mark key="." line="901" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/common.php" timestamp="1497340338342">
         <mark key="[" line="37" column="0" />
@@ -382,44 +382,44 @@
       <jump line="406" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>array()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHQgPSBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>array()</text>
+        <text>$one</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdCA9IG1pY3JvdGltZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKF9fRlVOQ1RJT05fXywgYXJyYXkoKSwgZmFsc2UsICRmdW5jdGlvblRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHQgPSBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiY29zdCAkY29zdCBtcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvc3QgPSByb3VuZCgobWljcm90aW1lKHRydWUpIC0gJHQpICogMTAwMCwgMyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZyhfX0ZVTkNUSU9OX18sIGFycmF5KCksIGZhbHNlLCAkZnVuY3Rpb25UaW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvc3QgPSByb3VuZCgobWljcm90aW1lKHRydWUpIC0gJHQpICogMTAwMCwgMyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHQgPSBtaWNyb3RpbWUodHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiMTokdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiY29zdCAkY29zdCBtcyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHQgPSBtaWNyb3RpbWUodHJ1ZSkgLSAkdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTW9uaXRvckNMb2dnZXI6OnJlcG9ydCgwLCAwLCAnR2V0TGlzdCcsICdja3YnLCAkX1NFUlZFUlsnSFRUUF9IT1NUJ10sICR0LCAwLCAwLCAiIiwgInt9IiwgInt9Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHQK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTW9uaXRvckNMb2dnZXI6OnJlcG9ydCgwLCAwLCAnR2V0TGlzdCcsICdja3YnLCAkX1NFUlZFUlsnSFRUUF9IT1NUJ10sICR0LCAwLCAwLCAiIiwgInt9IiwgInt9Iik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKF9fRlVOQ1RJT05fXywgYXJyYXkoKSwgZmFsc2UsICRmdW5jdGlvblRpbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKF9fRlVOQ1RJT05fXywgYXJyYXkoKSwgZmFsc2UsICRmdW5jdGlvblRpbWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
