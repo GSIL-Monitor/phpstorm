@@ -42,13 +42,18 @@
         <mark key="^" line="97" column="26" />
         <mark key="." line="97" column="43" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498471046063">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/cd-product/app.php" timestamp="1497443593692">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1497839387177">
+      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1498471178144">
         <mark key="[" line="44" column="42" />
         <mark key="]" line="44" column="42" />
         <mark key="." line="44" column="42" />
@@ -160,12 +165,19 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1498470931547" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" timestamp="1498442301355" />
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1497254859162">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="20" />
         <mark key="." line="77" column="20" />
         <mark key="^" line="75" column="59" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/conf/config.php" timestamp="1498470907723">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1497348175849">
         <mark key="[" line="38" column="43" />
@@ -185,17 +197,23 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1498471354748">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1497841703254">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="35" />
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/main.php" timestamp="1498469142593">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/main.php" timestamp="1498470967432">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1498212803574">
         <mark key="[" line="26" column="25" />
@@ -392,23 +410,23 @@
       <jump line="852" column="64" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlYnVnX2NvZGUnID0+ICcxJwo=</text>
+      <register name="&quot;" type="4">
+        <text>ignoreDbs</text>
       </register>
       <register name="-" type="4">
-        <text>json_encode</text>
+        <text>ignoreDbs</text>
       </register>
       <register name="/" type="4">
         <text>select * from `cCkvBid`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcihJTkZPLCAwLCAibm90aWZ5ICIgLiAkb25lWyd1dWlkJ10pOwo=</text>
+        <text encoding="base64">JGlnbm9yZURicyA9IFRlbmNlbnRcQ29uZmlnOjpnZXQoJ2RiLmlnbm9yZScpOwokaWdub3JlRGJzID0gZXhwbG9kZSgnLCcsICRpZ25vcmVEYnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlYnVnX2NvZGUnID0+ICcxJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nLT5sb2coRVJST1IsICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -417,19 +435,19 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRsb2ctPmxvZygkbG9nTGV2ZWwsICRlcnJvckNvZGUsICRsb2dNZXNzYWdlLCAxKTsK</text>
+        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZygwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgKCRsb2cpewo=</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmV0dXJuICRsb2c7Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZyhFX0FMTCBeIEVfTk9USUNFKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcihJTkZPLCAwLCApCg==</text>
+        <text encoding="base64">aWYgKHRydWUgPT0gREVCVUcpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bG9nZ2VyKElORk8sIDAsICdzdGFydCcsICdOb3RpZnlJbnN0YWxsRXZlbnQnKTsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
