@@ -197,11 +197,11 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1498528526508">
-        <mark key="[" line="22" column="7" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1498530477407">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1497841703254">
         <mark key="[" line="30" column="23" />
@@ -410,20 +410,20 @@
       <jump line="852" column="64" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ignoreDbs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ignoreDbs</text>
+        <text>explode(',', $regions);</text>
       </register>
       <register name="/" type="4">
         <text>select * from `cCkvBid`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGlnbm9yZURicyA9IFRlbmNlbnRcQ29uZmlnOjpnZXQoJ2RiLmlnbm9yZScpOwokaWdub3JlRGJzID0gZXhwbG9kZSgnLCcsICRpZ25vcmVEYnMpOwo=</text>
+        <text encoding="base64">JHJlZ2lvbnMgPSBUZW5jZW50XENvbmZpZzo6Z2V0KCdyZWdpb24nKTsKJHJlZ2lvbnMgPSBleHBsb2RlKCcsJywgJHJlZ2lvbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -432,22 +432,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZygwKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZygwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZyhFX0FMTCBeIEVfTk9USUNFKTsK</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKHRydWUgPT0gREVCVUcpIHsK</text>
+        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZyhFX0FMTCBeIEVfTk9USUNFKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aWYgKHRydWUgPT0gREVCVUcpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
