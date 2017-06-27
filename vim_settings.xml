@@ -10,12 +10,12 @@
         <mark key="^" line="66" column="76" />
         <mark key="." line="66" column="76" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1497597359956">
-        <mark key="'" line="167" column="37" />
-        <mark key="[" line="169" column="27" />
-        <mark key="]" line="172" column="29" />
-        <mark key="." line="172" column="29" />
-        <mark key="^" line="172" column="29" />
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1498554631682">
+        <mark key="'" line="127" column="20" />
+        <mark key="[" line="130" column="25" />
+        <mark key="]" line="130" column="31" />
+        <mark key="^" line="130" column="31" />
+        <mark key="." line="130" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/lib/config.php" timestamp="1497514682361">
         <mark key="'" line="2" column="17" />
@@ -313,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="643" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="647" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="359" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -413,55 +412,56 @@
       <jump line="691" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="406" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="852" column="64" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
+      <jump line="121" column="20" filename="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz.alarm.yun.isd.com</text>
+        <text>updateData</text>
       </register>
       <register name="-" type="4">
-        <text>gz.alarm.yun.isd.com</text>
+        <text>updateData</text>
       </register>
       <register name="/" type="4">
-        <text>select * from `cCkvBid`</text>
+        <text>bool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmaW5lKCdDT05GSUdfVVJMJywgJ2h0dHA6Ly8xMjcuMC4wLjE6MTEyNC9jb25maWcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQkJICAgICRyZXREYXRhID0gYXJyYXlfbWVyZ2UoJHVwZGF0ZURhdGEsICRyZXREYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJpbSgkcmVnaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjYW5VcGRhdGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgICAkZmlyc3RJbnN0YWxsID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJGVycm9yWydtZXNzYWdlJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNhblVwZGF0ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gZXJyb3JfZ2V0X2xhc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjYW5VcGRhdGUgPSAkdGhpcy0+Zmxvd0NvbnRyb2woKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISRyZWdpb24pIHsK</text>
+        <text encoding="base64">CQkJJGZpcnN0SW5zdGFsbCA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVnaW9uID0gQGZpbGVfZ2V0X2NvbnRlbnRzKCcvZXRjL3JlZ2lvbicpOwo=</text>
+        <text encoding="base64">CQkJJGZpcnN0SW5zdGFsbCA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>select * from `cCkvBid`</last-search>
+      <last-search>bool</last-search>
       <last-offset />
-      <last-pattern>select * from `cCkvBid`</last-pattern>
+      <last-pattern>bool</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -469,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_error</entry>
         <entry>|</entry>
         <entry>mysqli_error</entry>
         <entry>agent</entry>
@@ -489,6 +488,7 @@
         <entry>send</entry>
         <entry>static</entry>
         <entry>select * from `cCkvBid`</entry>
+        <entry>bool</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
