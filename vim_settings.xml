@@ -165,11 +165,11 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1498531341432">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1498532028823">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="58" />
+        <mark key="^" line="22" column="58" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" timestamp="1498442301355" />
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1497254859162">
@@ -416,7 +416,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>explode(',', $regions);</text>
@@ -428,31 +428,31 @@
         <text encoding="base64">JHJlZ2lvbnMgPSBUZW5jZW50XENvbmZpZzo6Z2V0KCdyZWdpb24nKTsKJHJlZ2lvbnMgPSBleHBsb2RlKCcsJywgJHJlZ2lvbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVnaW9uID0gJHRoaXMtPnJlZ2lvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZygwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSBlbHNlIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZyhFX0FMTCBeIEVfTk9USUNFKTsK</text>
+        <text encoding="base64">ICAgIGVycm9yX3JlcG9ydGluZygwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKHRydWUgPT0gREVCVUcpIHsK</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
