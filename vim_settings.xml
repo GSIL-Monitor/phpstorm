@@ -165,11 +165,11 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1498536671243">
-        <mark key="[" line="38" column="59" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1498537388227">
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/dimension/class/Data.class.php" timestamp="1498442301355" />
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1497254859162">
@@ -291,7 +291,7 @@
         <mark key="^" line="3" column="115" />
         <mark key="." line="3" column="114" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1497576436731">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1498537326501">
         <mark key="[" line="663" column="10" />
         <mark key="]" line="663" column="22" />
         <mark key="^" line="663" column="22" />
@@ -416,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC4gIj9tb2R1bGVOYW1lPSR0aGlzLT5tb2R1bGVOYW1lIg==</text>
+        <text>gz.alarm.yun.isd.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gIj9tb2R1bGVOYW1lPSR0aGlzLT5tb2R1bGVOYW1lIg==</text>
+        <text>gz.alarm.yun.isd.com</text>
       </register>
       <register name="/" type="4">
         <text>select * from `cCkvBid`</text>
@@ -428,31 +428,31 @@
         <text encoding="base64">ZGVmaW5lKCdDT05GSUdfVVJMJywgJ2h0dHA6Ly8xMjcuMC4wLjE6MTEyNC9jb25maWcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJpbSgkcmVnaW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmaW5lKCdDT05GSUdfREInLCAnL3Vzci9sb2NhbC9zZXJ2aWNlcy9Db25maWdDbGllbnQvYmluL2NvbmZpZy5kYicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJGVycm9yWydtZXNzYWdlJ10pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gZXJyb3JfZ2V0X2xhc3QoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlZ2lvbiA9ICR0aGlzLT5yZWdpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRyZWdpb24pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVnaW9uID0gQGZpbGVfZ2V0X2NvbnRlbnRzKCcvZXRjL3JlZ2lvbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
