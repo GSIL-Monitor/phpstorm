@@ -9,7 +9,7 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1498562807029">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1498742107232">
         <mark key="'" line="134" column="20" />
         <mark key="[" line="79" column="16" />
         <mark key="]" line="79" column="31" />
@@ -169,12 +169,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1498738940405">
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1498740756462">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="113" column="36" />
+        <mark key="[" line="113" column="26" />
+        <mark key="]" line="113" column="26" />
+        <mark key="." line="113" column="26" />
+        <mark key="^" line="113" column="26" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1497841703254">
         <mark key="[" line="30" column="23" />
@@ -372,11 +372,11 @@
       <jump line="32" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkc3FsOwogICAgICAgICAgICBleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>foreach</text>
