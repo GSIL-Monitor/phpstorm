@@ -16,10 +16,10 @@
         <mark key="^" line="79" column="31" />
         <mark key="." line="79" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1498730964824">
+      <file name="/a.dummy" timestamp="1498786986750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1498032211134">
         <mark key="[" line="97" column="43" />
