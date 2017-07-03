@@ -118,12 +118,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1496911494078">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1499055119174">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="49" column="54" />
-        <mark key="." line="49" column="54" />
-        <mark key="^" line="49" column="54" />
+        <mark key="[" line="34" column="58" />
+        <mark key="]" line="34" column="59" />
+        <mark key="." line="34" column="58" />
+        <mark key="^" line="34" column="54" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/global.func.php" timestamp="1497876805525">
         <mark key="[" line="635" column="0" />
@@ -297,9 +297,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/config.php" timestamp="1498723719310">
-        <mark key="'" line="32" column="28" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" timestamp="1499052785310">
         <mark key="'" line="186" column="0" />
         <mark key="[" line="67" column="8" />
@@ -438,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>foreach</text>
