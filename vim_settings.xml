@@ -37,7 +37,7 @@
         <mark key="." line="174" column="54" />
         <mark key="^" line="174" column="54" />
       </file>
-      <file name="/a.dummy" timestamp="1499067401227">
+      <file name="/a.dummy" timestamp="1499074779564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="18" />
@@ -66,11 +66,11 @@
         <mark key="." line="44" column="42" />
         <mark key="^" line="44" column="41" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499067295217">
-        <mark key="[" line="17" column="60" />
-        <mark key="]" line="17" column="60" />
-        <mark key="." line="17" column="60" />
-        <mark key="^" line="17" column="60" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="." line="17" column="1" />
+        <mark key="^" line="17" column="1" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1497581668307">
         <mark key="[" line="12" column="0" />
@@ -442,11 +442,11 @@
       <jump line="32" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIFJPT1RfUEFUSCAuICdpbmMvY29uZmlnLmluYy5waHAnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>HourData</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>HourData</text>
       </register>
       <register name="/" type="4">
         <text>foreach</text>
