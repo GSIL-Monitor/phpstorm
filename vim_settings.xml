@@ -150,8 +150,9 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/config.php" timestamp="1499066092705" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1498821366985">
-        <mark key="'" line="851" column="64" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499165357027">
+        <mark key="a" line="584" column="28" />
+        <mark key="'" line="1220" column="0" />
         <mark key="[" line="398" column="0" />
         <mark key="]" line="398" column="0" />
         <mark key="^" line="1323" column="72" />
@@ -340,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
       <jump line="17" column="40" filename="E:/work/project/barad_custom_proj/branches/custom_barad_api_QC_Monitor_V2.6.8/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="516" column="33" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
       <jump line="982" column="26" filename="E:/work/project/barad_proj/branches/api_10s/api/app/controllers/MetricController.php" />
@@ -440,6 +440,7 @@
       <jump line="2" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
       <jump line="49" column="1" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
       <jump line="32" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
+      <jump line="1220" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
