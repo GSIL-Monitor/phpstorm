@@ -150,13 +150,13 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/config.php" timestamp="1499066092705" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499220441758">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499244187022">
         <mark key="a" line="584" column="28" />
         <mark key="'" line="1220" column="0" />
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="556" column="43" />
-        <mark key="^" line="556" column="43" />
-        <mark key="." line="562" column="11" />
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="505" column="21" />
+        <mark key="^" line="496" column="75" />
+        <mark key="." line="503" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/common.php" timestamp="1497340338342">
         <mark key="[" line="37" column="0" />
@@ -444,16 +444,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWlzc2V0KCRzZWxlY3Rpb25bNjBdWyRzdGF0aXN0aWNzXSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXRpc3RpY3MgPSBrZXkoJHNlbGVjdGlvbls2MF0pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>foreach</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzdWx0LT5wZXJpb2QgPSA2MDsKICAgICAgICAgICAgICAgICAgICAkcmVzdWx0LT5zdGF0aXN0aWNzID0gJHN0YXRpc3RpY3M7CiAgICAgICAgICAgICAgICAgICAgJHJlc3VsdC0+bmVlZE1lcmdlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWlzc2V0KCRzZWxlY3Rpb25bNjBdWyRzdGF0aXN0aWNzXSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXRpc3RpY3MgPSBrZXkoJHNlbGVjdGlvbls2MF0pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
