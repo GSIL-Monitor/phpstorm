@@ -313,12 +313,12 @@
         <mark key="." line="67" column="7" />
         <mark key="^" line="67" column="7" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1499330182635">
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1499336806054">
         <mark key="'" line="67" column="13" />
-        <mark key="[" line="3" column="144" />
-        <mark key="]" line="3" column="152" />
+        <mark key="[" line="3" column="126" />
+        <mark key="]" line="3" column="126" />
         <mark key="^" line="3" column="152" />
-        <mark key="." line="3" column="152" />
+        <mark key="." line="3" column="126" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1498537326501">
         <mark key="[" line="663" column="10" />
@@ -445,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'gz'</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>, 'gz'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
