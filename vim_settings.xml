@@ -222,12 +222,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499306526312">
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499312916091">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="82" column="76" />
-        <mark key="]" line="82" column="91" />
-        <mark key="." line="82" column="91" />
-        <mark key="^" line="82" column="91" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="25" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1497841703254">
         <mark key="[" line="30" column="23" />
@@ -445,16 +445,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$dbName</text>
+        <text>DayData</text>
       </register>
       <register name="-" type="4">
-        <text>$dbName</text>
+        <text>DayData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWlzc2V0KCRzZWxlY3Rpb25bNjBdWyRzdGF0aXN0aWNzXSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXRpc3RpY3MgPSBrZXkoJHNlbGVjdGlvbls2MF0pOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICRkYnMgPSBhcnJheSgnRGF5RGF0YScpOyAvLyBURVNUCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
