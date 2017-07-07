@@ -189,11 +189,11 @@
         <mark key="^" line="13" column="43" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/common.php" timestamp="1499067835502" />
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499395718945">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499415619674">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499313606868">
         <mark key="'" line="14" column="4" />
@@ -412,10 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InnoD</text>
+        <text>, 'gz'</text>
       </register>
       <register name="-" type="4">
-        <text>InnoD</text>
+        <text>, 'gz'</text>
       </register>
       <register name="/" type="4">
         <text>regionList</text>
