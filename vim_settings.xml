@@ -130,7 +130,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/config.php" timestamp="1499066092705" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499251263614">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499395989073">
         <mark key="a" line="584" column="28" />
         <mark key="'" line="1220" column="0" />
         <mark key="[" line="503" column="0" />
@@ -189,8 +189,8 @@
         <mark key="^" line="13" column="43" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/common.php" timestamp="1499067835502" />
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499324509580">
-        <mark key="[" line="3" column="31" />
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499395718945">
+        <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
@@ -266,7 +266,7 @@
         <mark key="^" line="397" column="0" />
         <mark key="." line="397" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1499393991245">
+      <file name="/fragment.php" timestamp="1499395990894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -410,11 +410,11 @@
       <jump line="216" column="66" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y3JlYXRlIAo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>regionList</text>
