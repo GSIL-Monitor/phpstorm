@@ -16,7 +16,7 @@
         <mark key="^" line="139" column="24" />
         <mark key="." line="139" column="24" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1499341759203">
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1499421881314">
         <mark key="'" line="216" column="66" />
         <mark key="[" line="40" column="40" />
         <mark key="]" line="40" column="40" />
@@ -87,11 +87,10 @@
         <mark key="." line="91" column="42" />
         <mark key="^" line="91" column="25" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1499341268614">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1499421839863">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1497580664904">
         <mark key="[" line="12" column="0" />
@@ -182,11 +181,10 @@
         <mark key="." line="39" column="11" />
         <mark key="^" line="39" column="11" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499341113272">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499421401117">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/common.php" timestamp="1499067835502" />
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499415619674">
@@ -279,12 +277,12 @@
         <mark key="." line="67" column="7" />
         <mark key="^" line="67" column="7" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1499341408685">
-        <mark key="'" line="76" column="13" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="32" column="41" />
-        <mark key="." line="3" column="22" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1499421817821">
+        <mark key="'" line="134" column="26" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="70" column="28" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1498537326501">
         <mark key="[" line="663" column="10" />
@@ -309,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="43" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
-      <jump line="1053" column="70" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="1209" column="60" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="1328" column="58" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="354" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
@@ -409,55 +405,57 @@
       <jump line="127" column="67" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="215" column="49" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="216" column="66" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
+      <jump line="88" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
+      <jump line="132" column="26" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, 'gz'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>, 'gz'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>regionList</text>
+        <text>forEach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRNb2R1bGVMaXN0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5kYi0+bGFzdF9xdWVyeSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVnaW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uLnNwbGljZShyZWdpb24uaW5kZXhPZih0aGlzLnJlZ2lvbiksIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfcmV0dXJuKCRzcWwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9jb25zdCBEQl9DT05GSUcgPSAnYmFyYWREYXlEYXRhJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9yZXR1cm4oJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9jb25zdCBEQl9QQVRURVJOID0gJ0RheURhdGFfJSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>regionList</last-search>
+      <last-search>forEach</last-search>
       <last-offset />
-      <last-pattern>regionList</last-pattern>
+      <last-pattern>forEach</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translateName</entry>
         <entry>translateList</entry>
         <entry>mouleList</entry>
         <entry>moduleList</entry>
@@ -485,6 +482,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>region</entry>
         <entry>regionList</entry>
+        <entry>forEach</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
