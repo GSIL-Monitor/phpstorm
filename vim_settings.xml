@@ -83,7 +83,7 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499657215758">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -164,11 +164,11 @@
         <mark key="." line="85" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/common.php" timestamp="1499067835502" />
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499657563475">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499676278894">
         <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="35" />
+        <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499313606868">
         <mark key="'" line="14" column="4" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>, 'gz'</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>, 'gz'</text>
       </register>
       <register name="/" type="4">
         <text>forEach</text>
