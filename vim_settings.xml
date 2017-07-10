@@ -124,7 +124,8 @@
         <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="49" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1499670489068">
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1499673042179">
+        <mark key="'" line="59" column="21" />
         <mark key="[" line="2" column="23" />
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
@@ -278,7 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1209" column="60" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="1328" column="58" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="354" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="131" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
@@ -378,6 +378,7 @@
       <jump line="216" column="66" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="88" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="132" column="26" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
+      <jump line="59" column="21" filename="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
