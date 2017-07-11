@@ -98,11 +98,11 @@
         <mark key="^" line="75" column="59" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/Config.class.php" timestamp="1499052801613" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1499755446767">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1499757780266">
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="31" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="31" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499421401117">
         <mark key="[" line="85" column="0" />
@@ -145,7 +145,7 @@
         <mark key="^" line="138" column="46" />
         <mark key="." line="138" column="46" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/conf/config.php" timestamp="1499755137654">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/conf/config.php" timestamp="1499757848974">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>, 'gz'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, 'gz'</text>
       </register>
       <register name="/" type="4">
         <text>forEach</text>
