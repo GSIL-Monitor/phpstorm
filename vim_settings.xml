@@ -68,13 +68,13 @@
         <mark key="." line="9" column="36" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/config.php" timestamp="1499066092705" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499395989073">
-        <mark key="a" line="584" column="28" />
-        <mark key="'" line="1220" column="0" />
-        <mark key="[" line="503" column="0" />
-        <mark key="]" line="505" column="21" />
-        <mark key="^" line="496" column="75" />
-        <mark key="." line="503" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499761640748">
+        <mark key="a" line="548" column="36" />
+        <mark key="'" line="1300" column="13" />
+        <mark key="[" line="550" column="20" />
+        <mark key="]" line="550" column="19" />
+        <mark key="^" line="550" column="19" />
+        <mark key="." line="550" column="19" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1499744156709">
         <mark key="'" line="59" column="21" />
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1328" column="58" filename="E:/work/project/barad_proj/branches/api_bid_switch_clear/api/app/controllers/MetricController.php" />
       <jump line="354" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="131" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="57" column="98" filename="E:/work/project/barad_proj/trunk/gearman_daystat/bin/worker.php" />
@@ -289,55 +288,56 @@
       <jump line="88" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="132" column="26" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="59" column="21" filename="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" />
+      <jump line="1300" column="13" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'gz'</text>
+        <text>workTime</text>
       </register>
       <register name="-" type="4">
-        <text>, 'gz'</text>
+        <text>workTime</text>
       </register>
       <register name="/" type="4">
-        <text>forEach</text>
+        <text>getOne</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRNb2R1bGVMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdG9yYWdlVHlwZSA9IDQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRub3cgPSBuZXcgRGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5kYi0+bGFzdF9xdWVyeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gMS7I57n7tObU2mhiYXNltOa0osfSwvrX48fQu7vM9bz+o6zU8sq508NoYmFzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQocmVnaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9uLnNwbGljZShyZWdpb24uaW5kZXhPZih0aGlzLnJlZ2lvbiksIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBkYXRlKCdZbWQnLCB0aW1lKCkgLSA4NjQwMCAqIDIpID4gZGF0ZSgnWW1kJywgc3RydG90aW1lKCRzdGFydFRpbWUpKSAmJiAkc3RvcmFnZVR5cGUgJiA0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfcmV0dXJuKCRzcWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dF9yZXR1cm4oJHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>forEach</last-search>
+      <last-search>getOne</last-search>
       <last-offset />
-      <last-pattern>forEach</last-pattern>
+      <last-pattern>getOne</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -345,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translateList</entry>
         <entry>mouleList</entry>
         <entry>moduleList</entry>
         <entry>threshold</entry>
@@ -365,6 +364,7 @@
         <entry>region</entry>
         <entry>regionList</entry>
         <entry>forEach</entry>
+        <entry>getOne</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
