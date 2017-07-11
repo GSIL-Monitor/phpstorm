@@ -98,7 +98,7 @@
         <mark key="^" line="75" column="59" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/class/Config.class.php" timestamp="1499052801613" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1499393459795">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1499755446767">
         <mark key="[" line="38" column="43" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
@@ -130,7 +130,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/PHP Console" timestamp="1499393384376">
+      <file name="/PHP Console" timestamp="1499755302063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1499657255821">
@@ -145,14 +145,14 @@
         <mark key="^" line="138" column="46" />
         <mark key="." line="138" column="46" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/conf/config.php" timestamp="1499392902645">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
-        <mark key="^" line="17" column="51" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/conf/config.php" timestamp="1499755137654">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="33" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common_SimpleLog.class.php" timestamp="1498463297149" />
-      <file name="/fragment.php" timestamp="1499397939109">
+      <file name="/fragment.php" timestamp="1499755410800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -292,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'gz'</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>, 'gz'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>forEach</text>
