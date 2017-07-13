@@ -23,17 +23,17 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1499747021417">
+      <file name="/a.dummy" timestamp="1499931980733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499313606868">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="59" column="32" />
-        <mark key="." line="59" column="32" />
-        <mark key="^" line="59" column="32" />
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499932114587">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="94" column="54" />
+        <mark key="]" line="94" column="58" />
+        <mark key="." line="94" column="58" />
+        <mark key="^" line="94" column="58" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
         <mark key="[" line="2" column="0" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="4" filename="E:/work/project/barad_proj/trunk/gearman_daystat/bin/worker.php" />
       <jump line="209" column="45" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
       <jump line="116" column="28" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
       <jump line="148" column="45" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
@@ -280,55 +279,56 @@
       <jump line="117" column="0" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="133" column="53" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="141" column="4" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
+      <jump line="26" column="6" filename="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>region</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>region</text>
       </register>
       <register name="/" type="4">
-        <text>getOne</text>
+        <text>bench</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjplcnJvcigiZXJyb3IiLCBhcnJheShqc29uX2xhc3RfZXJyb3IoKSwganNvbl9sYXN0X2Vycm9yX21zZygpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvZy0+aW5mbygiY2hlY2siLCBhcnJheSgncmVnaW9uJyA9PiAkcmVnaW9uKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZlZhbHVlVGFibGUgPSAiZENvbmZWYWx1ZV8kcmVnaW9uIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29uZlZhbHVlVGFibGUgPSAiZENvbmZWYWx1ZV8kcmVnaW9uIjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRhYi1jb250ZW50Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InRhYi1jb250ZW50Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0icHJlc2VudGF0aW9uIj48YSBocmVmPSIjcmVnaW9uIiByb2xlPSJ0YWIiIGRhdGEtdG9nZ2xlPSJ0YWIiIHYtb246Y2xpY2s9ImdldFJlZ2lvbkxpc3QoKSI+xeTWw8HQse08L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0ubW9kdWxlTmFtZSB9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0icHJlc2VudGF0aW9uIj48YSBocmVmPSIjcmVnaW9uIiByb2xlPSJ0YWIiIGRhdGEtdG9nZ2xlPSJ0YWIiIHYtb246Y2xpY2s9ImdldFJlZ2lvbkxpc3QoKSI+xeTWw8HQse08L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>getOne</last-search>
+      <last-search>bench</last-search>
       <last-offset />
-      <last-pattern>getOne</last-pattern>
+      <last-pattern>bench</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mouleList</entry>
         <entry>moduleList</entry>
         <entry>threshold</entry>
         <entry>con_stargate</entry>
@@ -356,6 +355,7 @@
         <entry>regionList</entry>
         <entry>forEach</entry>
         <entry>getOne</entry>
+        <entry>bench</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
