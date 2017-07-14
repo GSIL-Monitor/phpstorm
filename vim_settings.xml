@@ -23,17 +23,17 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1499931980733">
+      <file name="/a.dummy" timestamp="1500002461206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1499939013760">
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1500003839294">
         <mark key="'" line="26" column="6" />
-        <mark key="[" line="94" column="54" />
-        <mark key="]" line="94" column="58" />
-        <mark key="." line="94" column="58" />
-        <mark key="^" line="94" column="58" />
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="27" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
         <mark key="[" line="2" column="0" />
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>region</text>
+        <text>StargateUpdater</text>
       </register>
       <register name="-" type="4">
-        <text>region</text>
+        <text>StargateUpdater</text>
       </register>
       <register name="/" type="4">
         <text>bench</text>
