@@ -17,11 +17,11 @@
         <mark key="^" line="132" column="91" />
         <mark key="." line="132" column="91" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1499849877163">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1500347753430">
         <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="36" />
+        <mark key="]" line="3" column="31" />
         <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1500022032578">
         <mark key="[" line="0" column="0" />
@@ -104,13 +104,13 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1499765660311">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1500347994271">
         <mark key="a" line="548" column="36" />
         <mark key="'" line="1300" column="13" />
-        <mark key="[" line="543" column="29" />
-        <mark key="]" line="543" column="29" />
-        <mark key="^" line="553" column="11" />
-        <mark key="." line="543" column="29" />
+        <mark key="[" line="1539" column="50" />
+        <mark key="]" line="1539" column="62" />
+        <mark key="^" line="1539" column="62" />
+        <mark key="." line="1539" column="62" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1499829575670">
         <mark key="'" line="143" column="26" />
@@ -261,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>checkDatabase</text>
+        <text>$per</text>
       </register>
       <register name="-" type="4">
-        <text>checkDatabase</text>
+        <text>$per</text>
       </register>
       <register name="/" type="4">
         <text>bench</text>
