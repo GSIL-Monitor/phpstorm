@@ -46,11 +46,11 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1498732476513">
-        <mark key="[" line="44" column="42" />
-        <mark key="]" line="44" column="42" />
-        <mark key="." line="44" column="42" />
-        <mark key="^" line="44" column="41" />
+      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1500886926223">
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="26" column="88" />
+        <mark key="." line="26" column="88" />
+        <mark key="^" line="26" column="88" />
       </file>
       <file name="/PHP Console" timestamp="1500017419239">
         <mark key="[" line="0" column="0" />
@@ -266,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>53986</text>
+        <text>12532</text>
       </register>
       <register name="-" type="4">
-        <text>53986</text>
+        <text>12532</text>
       </register>
       <register name="/" type="4">
         <text>bench</text>
