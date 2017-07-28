@@ -111,9 +111,9 @@
         <mark key="." line="16" column="23" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1501040531905" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1501209053320">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1501211831584">
         <mark key="a" line="548" column="36" />
-        <mark key="'" line="1747" column="12" />
+        <mark key="'" line="30" column="65" />
         <mark key="[" line="1728" column="58" />
         <mark key="]" line="1728" column="58" />
         <mark key="." line="1728" column="58" />
@@ -164,8 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="45" filename="E:/work/project/barad_proj/trunk/gearman_daystat/lib/DB/MySQLi.class.php" />
-      <jump line="340" column="0" filename="E:/work/project/barad_proj/trunk/gearman_daystat/bin/worker.php" />
       <jump line="31" column="44" filename="E:/work/project/barad_proj/trunk/config_server/index.php" />
       <jump line="300" column="29" filename="E:/work/project/barad_custom_proj/branches/custom_barad_api_QC_Monitor_V2.6.8/yunApi/lib/Param.class.php" />
       <jump line="25" column="0" filename="E:/work/project/barad_proj/trunk/config_server/index.php" />
@@ -264,6 +262,8 @@
       <jump line="26" column="6" filename="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" />
       <jump line="1733" column="71" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="1748" column="12" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
+      <jump line="1557" column="58" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
+      <jump line="30" column="65" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -273,7 +273,7 @@
         <text encoding="base64">IC8vINK7tqjT0Na1LMv50tSyu8XQts+/1Q==</text>
       </register>
       <register name="/" type="4">
-        <text>bench</text>
+        <text>eventId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRsb2ctPmVycm9yKCRjb250ZW50KTsK</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bench</last-search>
+      <last-search>eventId</last-search>
       <last-offset />
-      <last-pattern>bench</last-pattern>
+      <last-pattern>eventId</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -320,8 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moduleList</entry>
-        <entry>threshold</entry>
         <entry>con_stargate</entry>
         <entry>编辑</entry>
         <entry>click_translateconfig</entry>
@@ -340,6 +338,8 @@
         <entry>forEach</entry>
         <entry>getOne</entry>
         <entry>bench</entry>
+        <entry>eveenit</entry>
+        <entry>eventId</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
