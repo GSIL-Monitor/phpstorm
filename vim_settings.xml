@@ -122,7 +122,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="/fragment.php" timestamp="1501590346113">
+      <file name="/fragment.php" timestamp="1502700478237">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -140,13 +140,13 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502681065623">
-        <mark key="a" line="551" column="36" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502700585267">
+        <mark key="a" line="554" column="36" />
         <mark key="'" line="30" column="65" />
-        <mark key="[" line="438" column="25" />
-        <mark key="]" line="438" column="42" />
-        <mark key="." line="438" column="42" />
-        <mark key="^" line="438" column="42" />
+        <mark key="[" line="436" column="21" />
+        <mark key="]" line="436" column="21" />
+        <mark key="." line="436" column="21" />
+        <mark key="^" line="436" column="21" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" timestamp="1501639580598">
         <mark key="[" line="2" column="35" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bj</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>eventId</text>
@@ -315,31 +315,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRsb2ctPmVycm9yKCRjb250ZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoc2VsZjo6JHByb2Nlc3NJZCkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCdbUGlkOicuc2VsZjo6JHByb2Nlc3NJZC4iXVx0Ii4nPj4+LS0tLS0tLS09PT09PT09PSBQb3NpdGlvbiA9PT09PT09PS0tLS0tLS0tPDw8Jy4gJGhlYWQpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdCA9IHN0cnRvdGltZSgkZW5kVGltZSkgKyA4ICogMzYwMDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkZW5kVGltZSA9ICRlbmRUaW1lOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkc3RhcnRUaW1lID0gJHN0YXJ0VGltZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJJGhlYWQgLj0gIlxuIi4nRnVuY3Rpb246Jy4gJGNsYXNzIC4gKCRpbmZvWydmdW5jdGlvbiddPzonJykuJygpJzsK</text>
+        <text encoding="base64">CQlpZiAoc2VsZjo6JHByb2Nlc3NJZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJGNsYXNzID0gJGluZm9bJ2NsYXNzJ10/ICRpbmZvWydjbGFzcyddLic6Oic6ICcnOwo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJGluZm8gPSBhcnJheV9zaGlmdCgkYnQpOwo=</text>
+        <text encoding="base64">CQkJTG9nOjppbmZvKCdbUGlkOicuc2VsZjo6JHByb2Nlc3NJZC4iXVx0Ii4nPj4+LS0tLS0tLS09PT09PT09PSBQb3NpdGlvbiA9PT09PT09PS0tLS0tLS0tPDw8Jy4gJGhlYWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJGhlYWQgLj0gJyhsaW5lOicuJGluZm9bJ2xpbmUnXS4nKSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
