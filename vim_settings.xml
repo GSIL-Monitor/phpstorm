@@ -9,7 +9,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1499999502369">
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/CheckModules.class.php" timestamp="1502787278503">
         <mark key="'" line="130" column="20" />
         <mark key="[" line="136" column="26" />
         <mark key="]" line="139" column="24" />
@@ -126,6 +126,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1502787427668">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/database.php" timestamp="1500276635636">
         <mark key="'" line="65" column="22" />
@@ -303,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz</text>
+        <text>, 	1176, '#9#'</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>, 	1176, '#9#'</text>
       </register>
       <register name="/" type="4">
         <text>eventId</text>
