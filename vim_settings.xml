@@ -23,11 +23,11 @@
         <mark key="^" line="132" column="91" />
         <mark key="." line="132" column="91" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1502780109128">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1502783872075">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1501560213915">
         <mark key="[" line="0" column="0" />
@@ -140,13 +140,13 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502782125246">
-        <mark key="a" line="554" column="36" />
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502783718986">
+        <mark key="a" line="551" column="36" />
         <mark key="'" line="30" column="65" />
-        <mark key="[" line="436" column="21" />
-        <mark key="]" line="436" column="21" />
-        <mark key="." line="436" column="21" />
-        <mark key="^" line="436" column="21" />
+        <mark key="[" line="1605" column="18" />
+        <mark key="]" line="1605" column="18" />
+        <mark key="^" line="1607" column="26" />
+        <mark key="." line="1605" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" timestamp="1501639580598">
         <mark key="[" line="2" column="35" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>eventId</text>
@@ -318,28 +318,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdCA9IHN0cnRvdGltZSgkZW5kVGltZSkgKyA4ICogMzYwMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kVGltZSA9ICRlbmRUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHQgLT0gMjQwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnRUaW1lID0gJHN0YXJ0VGltZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHBlcmlvZCA9PSAzMDApIHsgLy8gNbfW1tOyydPDz/LJz8ih1fsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoc2VsZjo6JHByb2Nlc3NJZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAkdCA9IHN0cnRvdGltZSgkZW5kVGltZSkgKyA4ICogMzYwMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZW5kVGltZSA9ICRlbmRUaW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCdbUGlkOicuc2VsZjo6JHByb2Nlc3NJZC4iXVx0Ii4nPj4+LS0tLS0tLS09PT09PT09PSBQb3NpdGlvbiA9PT09PT09PS0tLS0tLS0tPDw8Jy4gJGhlYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RhcnRUaW1lID0gJHN0YXJ0VGltZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
