@@ -23,11 +23,11 @@
         <mark key="^" line="132" column="91" />
         <mark key="." line="132" column="91" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1502681100254">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1502780109128">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="/a.dummy" timestamp="1501560213915">
         <mark key="[" line="0" column="0" />
@@ -303,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>eventId</text>
