@@ -145,13 +145,13 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502788699266">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502852561292">
         <mark key="a" line="551" column="36" />
         <mark key="'" line="30" column="65" />
-        <mark key="[" line="436" column="0" />
-        <mark key="]" line="436" column="8" />
-        <mark key="^" line="652" column="7" />
-        <mark key="." line="436" column="8" />
+        <mark key="[" line="411" column="41" />
+        <mark key="]" line="411" column="44" />
+        <mark key="^" line="411" column="44" />
+        <mark key="." line="411" column="44" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" timestamp="1501639580598">
         <mark key="[" line="2" column="35" />
@@ -307,11 +307,11 @@
       <jump line="38" column="23" filename="E:/work/project/barad_proj/trunk/api/app/controllers/ConsoleController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 	1176, '#9#'</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>eventId</text>
