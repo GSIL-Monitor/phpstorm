@@ -146,13 +146,13 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502870682519">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502871696797">
         <mark key="a" line="551" column="36" />
         <mark key="'" line="30" column="65" />
-        <mark key="[" line="411" column="41" />
-        <mark key="]" line="411" column="44" />
-        <mark key="^" line="411" column="44" />
-        <mark key="." line="411" column="44" />
+        <mark key="[" line="414" column="17" />
+        <mark key="]" line="415" column="44" />
+        <mark key="^" line="415" column="44" />
+        <mark key="." line="415" column="44" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" timestamp="1501639580598">
         <mark key="[" line="2" column="35" />
