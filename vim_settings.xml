@@ -64,14 +64,14 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1502974984396">
+      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503023619965">
         <mark key="a" line="1459" column="68" />
-        <mark key="b" line="1990" column="30" />
-        <mark key="'" line="1466" column="30" />
-        <mark key="[" line="1936" column="42" />
-        <mark key="]" line="1936" column="49" />
-        <mark key="." line="1936" column="49" />
-        <mark key="^" line="1936" column="49" />
+        <mark key="b" line="1993" column="30" />
+        <mark key="'" line="1459" column="16" />
+        <mark key="[" line="1954" column="24" />
+        <mark key="]" line="1954" column="24" />
+        <mark key="." line="1954" column="24" />
+        <mark key="^" line="1954" column="24" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -128,7 +128,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="/fragment.php" timestamp="1502700478237">
+      <file name="/fragment.php" timestamp="1503022698522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="38" filename="E:/work/project/barad_proj/trunk/web/admin/template/agent.html" />
       <jump line="101" column="32" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="155" column="67" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" />
       <jump line="32" column="58" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
@@ -315,16 +314,17 @@
       <jump line="1704" column="13" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1970" column="20" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1959" column="12" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
-      <jump line="1459" column="30" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1971" column="12" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1466" column="30" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="451" column="21" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="1459" column="16" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>group</text>
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
