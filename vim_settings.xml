@@ -64,14 +64,14 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503023619965">
-        <mark key="a" line="1459" column="68" />
-        <mark key="b" line="1993" column="30" />
-        <mark key="'" line="1459" column="16" />
-        <mark key="[" line="1954" column="24" />
-        <mark key="]" line="1954" column="24" />
-        <mark key="." line="1954" column="24" />
-        <mark key="^" line="1954" column="24" />
+      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503025104757">
+        <mark key="a" line="1524" column="0" />
+        <mark key="b" line="1994" column="30" />
+        <mark key="'" line="1528" column="0" />
+        <mark key="[" line="1995" column="54" />
+        <mark key="]" line="1995" column="51" />
+        <mark key="." line="1995" column="51" />
+        <mark key="^" line="1995" column="51" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -218,10 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="32" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
-      <jump line="155" column="67" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" />
-      <jump line="32" column="58" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
-      <jump line="75" column="71" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
       <jump line="74" column="157" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_api.php" />
       <jump line="16" column="8" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
       <jump line="70" column="57" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/api.js" />
@@ -318,10 +314,14 @@
       <jump line="1466" column="30" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="451" column="21" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1459" column="16" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="144" column="35" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="1993" column="12" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="1994" column="11" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="1528" column="0" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>page</text>
@@ -336,28 +336,28 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygnY0RpbWVuc2lvblZpZXcnLCAkZGF0YSwgZmFsc2UsICR0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRwWydncm91cE5hbWUnXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygnY0RpbWVuc2lvblZpZXcnLCAkZGF0YSwgZmFsc2UsICR0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dyb3VwTmFtZScgPT4gYXJyYXkoJ3J1bGUnID0+ICdyZXF1aXJlZCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzc2V0KCRwWydncm91cE5hbWUnXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZpZXdOYW1lJyA9PiBhcnJheSgncnVsZScgPT4gJ3JlcXVpcmVkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2dyb3VwTmFtZScgPT4gYXJyYXkoJ3J1bGUnID0+ICdyZXF1aXJlZCcpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZpZXdOYW1lJyA9PiBhcnJheSgncnVsZScgPT4gJ3JlcXVpcmVkJyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
