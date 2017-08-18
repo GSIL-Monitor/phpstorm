@@ -29,7 +29,7 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1502868198549">
+      <file name="/a.dummy" timestamp="1503039328724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -64,13 +64,14 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503029420185">
+      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503039511790">
         <mark key="a" line="1524" column="0" />
         <mark key="b" line="1994" column="30" />
         <mark key="'" line="1524" column="8" />
-        <mark key="[" line="1997" column="0" />
-        <mark key="]" line="1997" column="0" />
-        <mark key="." line="1997" column="0" />
+        <mark key="[" line="1936" column="50" />
+        <mark key="]" line="1936" column="50" />
+        <mark key="." line="1936" column="50" />
+        <mark key="^" line="1940" column="88" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -203,6 +204,7 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/api_es/app/libaries/Checkor.class.php" timestamp="1503039412138" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1499757780266">
         <mark key="[" line="57" column="24" />
         <mark key="]" line="57" column="31" />
@@ -319,11 +321,11 @@
       <jump line="1524" column="8" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCAncnVsZScgPT4gJ3JlcXVpcmVkJw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WyRrID0+ICR2WzBdXTs=</text>
+        <text encoding="base64">LCAncnVsZScgPT4gJ3JlcXVpcmVkJw==</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
