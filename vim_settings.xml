@@ -64,14 +64,14 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503060050447">
+      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503061126304">
         <mark key="a" line="1431" column="4" />
-        <mark key="b" line="1987" column="30" />
+        <mark key="b" line="2029" column="30" />
         <mark key="'" line="1063" column="13" />
-        <mark key="[" line="1523" column="33" />
-        <mark key="]" line="1472" column="53" />
-        <mark key="." line="1472" column="53" />
-        <mark key="^" line="1472" column="53" />
+        <mark key="[" line="1548" column="5" />
+        <mark key="]" line="1548" column="5" />
+        <mark key="." line="1548" column="5" />
+        <mark key="^" line="1548" column="5" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -321,11 +321,11 @@
       <jump line="1063" column="13" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
