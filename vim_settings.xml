@@ -23,13 +23,13 @@
         <mark key="^" line="132" column="91" />
         <mark key="." line="132" column="91" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1502870291060">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="36" />
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1503397641768">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1503039328724">
+      <file name="/a.dummy" timestamp="1503397127874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,10 +160,10 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1502974729242">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1503397772707">
         <mark key="a" line="551" column="36" />
-        <mark key="'" line="30" column="65" />
-        <mark key="[" line="414" column="17" />
+        <mark key="'" line="427" column="18" />
+        <mark key="[" line="550" column="62" />
         <mark key="]" line="415" column="44" />
         <mark key="^" line="415" column="44" />
         <mark key="." line="415" column="44" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="17" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/lib/config.php" />
       <jump line="172" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
       <jump line="296" column="91" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="66" column="20" filename="E:/work/project/barad_proj/trunk/api/app/config/database.php" />
@@ -328,13 +327,14 @@
       <jump line="1563" column="37" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1794" column="13" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="692" column="13" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="427" column="18" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>sh</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
