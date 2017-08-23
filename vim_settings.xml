@@ -72,14 +72,14 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503476744617">
+      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503477483865">
         <mark key="a" line="1430" column="0" />
         <mark key="b" line="1581" column="65" />
         <mark key="'" line="534" column="50" />
-        <mark key="[" line="1746" column="87" />
-        <mark key="]" line="1746" column="87" />
-        <mark key="." line="1746" column="87" />
-        <mark key="^" line="1904" column="48" />
+        <mark key="[" line="1498" column="59" />
+        <mark key="]" line="1498" column="59" />
+        <mark key="." line="1498" column="59" />
+        <mark key="^" line="1498" column="59" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -335,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,3600,86400</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>,3600,86400</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
