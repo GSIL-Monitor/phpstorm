@@ -29,6 +29,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Msearch.php" timestamp="1503281292514" />
+      <file name="E:/work/project/barad_proj/branches/api_es/api/bootstrap/start.php" timestamp="1504000807982">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -134,7 +140,7 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1503576019499">
+      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1504001369903">
         <mark key="[" line="1441" column="26" />
         <mark key="]" line="1441" column="30" />
         <mark key="^" line="1441" column="30" />
