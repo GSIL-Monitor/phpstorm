@@ -24,11 +24,11 @@
         <mark key="^" line="132" column="91" />
         <mark key="." line="132" column="91" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1503924467787">
+      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1503970994779">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
+        <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="34" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="/a.dummy" timestamp="1503397127874">
         <mark key="[" line="0" column="0" />
@@ -168,8 +168,11 @@
         <mark key="^" line="1441" column="30" />
         <mark key="." line="1441" column="30" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1503970324581">
+        <mark key="'" line="145" column="20" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/QnsController.php" timestamp="1503652821508" />
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1503924547083">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1503971057145">
         <mark key="a" line="1390" column="46" />
         <mark key="'" line="1611" column="0" />
         <mark key="[" line="549" column="110" />
@@ -232,6 +235,9 @@
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1503970419128">
+        <mark key="'" line="25" column="71" />
+      </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499831148649">
         <mark key="[" line="21" column="42" />
         <mark key="]" line="21" column="45" />
@@ -240,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1541" column="44" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="61" column="53" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="59" column="22" filename="E:/work/project/barad_proj/trunk/api/app/config/database.php" />
       <jump line="174" column="30" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
       <jump line="35" column="15" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" />
@@ -340,16 +344,18 @@
       <jump line="464" column="62" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="35" column="31" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/BaseController.php" />
       <jump line="534" column="50" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
+      <jump line="145" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="25" column="71" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bj</text>
+        <text>sh</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>pvv_outtraffic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0ID0gc3RydG90aW1lKCRyZXEtPnN0YXJ0KTsKICAgICAgICAgICAgICAgICR0IC09IDI0MDsKICAgICAgICAgICAgICAgICRyZXEtPnN0YXJ0ID0gZGF0ZSgnWS1tLWQgSDppOnMnLCAkdCk7Cg==</text>
@@ -386,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>pvv_outtraffic</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>pvv_outtraffic</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -396,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>编辑</entry>
         <entry>click_translateconfig</entry>
         <entry>modifyTranslateConfig</entry>
         <entry encoding="base64">XDxtb2R1bGVOYW1lXD4=</entry>
@@ -416,6 +421,7 @@
         <entry>eventId</entry>
         <entry>foreach</entry>
         <entry>date</entry>
+        <entry>pvv_outtraffic</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
