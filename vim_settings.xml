@@ -46,10 +46,10 @@
         <mark key="." line="17" column="1" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1504066578161">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1504083845424">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="45" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/config/database.php" timestamp="1500882869427">
@@ -159,7 +159,7 @@
         <mark key="." line="359" column="87" />
         <mark key="^" line="1498" column="65" />
       </file>
-      <file name="/PHP Console" timestamp="1504066651834">
+      <file name="/PHP Console" timestamp="1504083691229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1499657255821">
@@ -186,7 +186,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504066506598" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
+        <mark key="[" line="402" column="44" />
+        <mark key="]" line="402" column="48" />
+        <mark key="^" line="402" column="48" />
+        <mark key="." line="402" column="48" />
+      </file>
       <file name="/fragment.php" timestamp="1504064948606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -328,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDExNzYsICcjMTEjJw==</text>
+        <text>, 'shjr'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDExNzYsICcjMTEjJw==</text>
+        <text>, 'shjr'</text>
       </register>
       <register name="/" type="4">
         <text>pvv_outtraffic</text>
