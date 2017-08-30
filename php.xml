@@ -16,7 +16,7 @@
         <remote_data WEB_SERVER_CONFIG_ID="9fc6814f-7539-49f9-b894-6f966dc60ad7" WEB_SERVER_CONFIG_NAME="10.251.196.12" HOST="10.251.196.12" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dfdddfcbdfc6dfc6dfcbdfc9dfcfdf92df92" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/services/php-5.6.29/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="sftp://wallaceqian@10.252.236.132:36000/usr/local/php/bin/php" id="dbdcbda2-8d4a-4e01-a585-47842ffff415" name="shdev 10.252.236.132" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="1ae1e382-7139-4bab-ab1b-7c7d1e071c0a" WEB_SERVER_CONFIG_NAME="shdev 10.252.236.132" HOST="10.252.236.132" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dfdddfcbdfc6dfc6dfcbdfc9dfcfdf92df92" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/php/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="719d87ba-2575-4562-a594-decc468bfb19" WEB_SERVER_CONFIG_NAME="dev shdev 10.252.236.132" HOST="10.252.236.132" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dfdddfcbdfc6dfc6dfcbdfc9dfcfdf92df92" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/php/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
