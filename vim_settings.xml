@@ -83,14 +83,15 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1504145190965">
-        <mark key="a" line="1506" column="20" />
-        <mark key="[" line="1520" column="168" />
-        <mark key="]" line="1520" column="21" />
-        <mark key="^" line="1520" column="21" />
-        <mark key="." line="1520" column="21" />
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1504149975751">
+        <mark key="a" line="1518" column="34" />
+        <mark key="'" line="1180" column="59" />
+        <mark key="[" line="1370" column="28" />
+        <mark key="]" line="1372" column="0" />
+        <mark key="." line="1372" column="0" />
+        <mark key="^" line="1370" column="27" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1504096557157">
+      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1504149144935">
         <mark key="a" line="1390" column="46" />
         <mark key="'" line="1611" column="0" />
         <mark key="[" line="549" column="110" />
@@ -117,7 +118,7 @@
         <mark key="." line="57" column="31" />
         <mark key="^" line="57" column="31" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1503970419128">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" timestamp="1504149177095">
         <mark key="'" line="25" column="71" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499831148649">
@@ -232,17 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="22" filename="E:/work/project/barad_proj/trunk/api/app/config/database.php" />
-      <jump line="174" column="30" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
-      <jump line="35" column="15" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/checkDay.php" />
-      <jump line="272" column="61" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" />
-      <jump line="64" column="3" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
-      <jump line="184" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDimensionValue.php" />
-      <jump line="9" column="0" filename="E:/work/project/sgagentScan/main.php" />
-      <jump line="47" column="0" filename="E:/work/project/sgagentScan/main.php" />
-      <jump line="346" column="20" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="628" column="57" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="1060" column="21" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="1243" column="21" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="1401" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="484" column="19" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
@@ -332,55 +322,66 @@
       <jump line="534" column="50" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="145" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="25" column="71" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" />
+      <jump line="1748" column="9" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1527" column="12" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1616" column="34" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="836" column="38" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1179" column="48" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1516" column="34" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="495" column="21" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1514" column="63" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1632" column="51" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="840" column="27" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
+      <jump line="1180" column="59" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>, false, $t</text>
       </register>
       <register name="/" type="4">
-        <text>pvv_outtraffic</text>
+        <text>add(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkZGF0YVswXTsgLy8g16q7u8X6wb+94bn7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2coInBhdGNoUG9pbnQiLCBhcnJheSgpLCBmYWxzZSwgJHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgOyAvLyCyu7K5teMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1wbG9kZSgnJicsICRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgOyAvLyCyu7K5teMKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHQgPSBtaWNyb3RpbWUodHJ1ZSk7CiAgICAgICAgICAgICRkYXRhID0gJHRoaXMtPnBhdGNoUG9pbnQoJGRhdGEsICRyZXEtPmRpbWVuc2lvbnMsICRyZXEsICRtZXRyaWNJbmZvLCAkc3RvcmFnZUluZm8sIGZhbHNlKTsKICAgICAgICAgICAgJHRoaXMtPmxvZygicGF0Y2hQb2ludCIsIGFycmF5KCksIGZhbHNlLCAkdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFbXSA9IHN0cnRvbG93ZXIoJGtleSkgLiAnPScgLiBzdHJ0b2xvd2VyKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGltZW5zaW9ucyBhcyAka2V5ID0+ICR2YWx1ZSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrc29ydCgkZGltZW5zaW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC21EVTyv2+3b340NCyubXjo6iz/cHLzOzK/b7d1tC000NEQtbQtsHIodauzeKjqQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gu9K2yMqxvOTWrrrztcS2wcihCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>pvv_outtraffic</last-search>
+      <last-search>add(</last-search>
       <last-offset />
-      <last-pattern>pvv_outtraffic</last-pattern>
+      <last-pattern>add(</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -388,9 +389,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click_translateconfig</entry>
-        <entry>modifyTranslateConfig</entry>
-        <entry encoding="base64">XDxtb2R1bGVOYW1lXD4=</entry>
         <entry>original</entry>
         <entry>clog_env</entry>
         <entry>send</entry>
@@ -408,6 +406,9 @@
         <entry>foreach</entry>
         <entry>date</entry>
         <entry>pvv_outtraffic</entry>
+        <entry>format</entry>
+        <entry>add</entry>
+        <entry>add(</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
