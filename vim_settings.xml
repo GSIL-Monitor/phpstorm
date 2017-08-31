@@ -83,12 +83,12 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1504097881418">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1504145190965">
         <mark key="a" line="1506" column="20" />
-        <mark key="[" line="1513" column="0" />
-        <mark key="]" line="1513" column="43" />
-        <mark key="^" line="702" column="49" />
-        <mark key="." line="1513" column="0" />
+        <mark key="[" line="1520" column="168" />
+        <mark key="]" line="1520" column="21" />
+        <mark key="^" line="1520" column="21" />
+        <mark key="." line="1520" column="21" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1504096557157">
         <mark key="a" line="1390" column="46" />
@@ -334,8 +334,8 @@
       <jump line="25" column="71" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/lb/class/Conf.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkZGF0YVswXTsgLy8g16q7u8X6wb+94bn7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
