@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/AlarmController.php" timestamp="1503891780501" />
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1499831044380">
         <mark key="'" line="145" column="4" />
         <mark key="[" line="132" column="88" />
@@ -16,7 +15,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/Msearch.php" timestamp="1503281292514" />
       <file name="E:/work/project/barad_proj/branches/api_es/api/bootstrap/start.php" timestamp="1504000807982">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="37" />
@@ -39,6 +37,11 @@
         <mark key="]" line="26" column="88" />
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
+      </file>
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -64,7 +67,6 @@
         <mark key="." line="26" column="68" />
         <mark key="^" line="26" column="68" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1503280294831" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -91,9 +93,9 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1504171813156">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1505198983032">
         <mark key="a" line="593" column="20" />
-        <mark key="'" line="1141" column="0" />
+        <mark key="'" line="898" column="49" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -107,7 +109,6 @@
         <mark key="^" line="549" column="117" />
         <mark key="." line="549" column="117" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1503458901786" />
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" timestamp="1500017435829">
         <mark key="'" line="59" column="21" />
         <mark key="[" line="2" column="23" />
@@ -154,7 +155,6 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/config/app.php" timestamp="1504095821132" />
       <file name="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" timestamp="1500017502947">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="11" column="31" />
@@ -167,15 +167,6 @@
         <mark key="]" line="25" column="58" />
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" timestamp="1503490089118">
-        <mark key="a" line="1430" column="0" />
-        <mark key="b" line="1581" column="65" />
-        <mark key="'" line="534" column="50" />
-        <mark key="[" line="359" column="87" />
-        <mark key="]" line="359" column="87" />
-        <mark key="." line="359" column="87" />
-        <mark key="^" line="1498" column="65" />
       </file>
       <file name="/PHP Console" timestamp="1504083691229">
         <mark key="[" line="0" column="0" />
@@ -230,8 +221,6 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1503970324581">
         <mark key="'" line="145" column="20" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/QnsController.php" timestamp="1503652821508" />
-      <file name="E:/work/project/barad_proj/branches/api_es/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1503280449407" />
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" timestamp="1504171774610">
         <mark key="'" line="2059" column="19" />
         <mark key="[" line="2" column="35" />
@@ -263,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
       <jump line="49" column="1" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
       <jump line="32" column="0" filename="E:/work/project/barad_proj/trunk/checkDatabase/public/index.php" />
       <jump line="1220" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
@@ -363,6 +351,7 @@
       <jump line="2059" column="19" filename="E:/work/project/barad_proj/trunk/api/app/controllers/AlarmController.php" />
       <jump line="41" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/ConsoleController.php" />
       <jump line="1845" column="41" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
+      <jump line="898" column="49" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -381,28 +370,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAkX0dFVFsnc2VxSWQnXSA9ICRfR0VUWydldmVudElkJ107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIHN0ZE9iamVjdAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aWYgKCFjbGFzc19leGlzdHMoJ3N0ZE9iamVjdCcpKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIHN0ZE9iamVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
