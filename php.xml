@@ -601,7 +601,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="shdev 10.252.236.132">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 49073 36000" version="5.6.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 46817 36000" version="5.6.29">
           <additional_php_ini />
           <configuration_file>/usr/local/services/php-5.6.29/lib/php.ini</configuration_file>
           <configuration_options>
