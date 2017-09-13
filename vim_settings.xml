@@ -22,7 +22,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1505217574206">
+      <file name="/a.dummy" timestamp="1505268441163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,11 +226,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="E:/work/project/check_cvm/check.php" timestamp="1505266985938">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="8" />
-        <mark key="." line="32" column="8" />
-        <mark key="^" line="32" column="8" />
+      <file name="E:/work/project/check_cvm/check.php" timestamp="1505268497556">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1498562814196">
         <mark key="[" line="74" column="0" />
@@ -366,44 +366,44 @@
       <jump line="898" column="49" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICRxdWVyeSA9ICRtZXRyaWNJbmZvOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHVyaSA9ICJodHRwOi8vJHJlZ2lvbi5hcGkuYmFyYWQudGVuY2VudHl1bi5jb20vbWV0cmljL3N0YXRpc3RpY3MiOwo=</text>
+        <text encoding="base64">ICAgICR1cmwgPSAiaHR0cDovLyRob3N0L21ldHJpYy9kaW1lbnNpb25saXN0PyRxdWVyeSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRzZXFJZCA9IHVuaQo=</text>
+        <text encoding="base64">ICAgICRxdWVyeSA9ICRtZXRyaWNJbmZvOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCRlcnJvclsnbWVzc2FnZSddKTsK</text>
+        <text encoding="base64">ICAgICR1cmwgPSAiJHVyaT8kcXVlcnkiOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnc2VxSWQnID0+IHVuaXFpZCgpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZWFjaCcgPT4gJGVhY2gsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdwYWdlJyA9PiAkcGFnZSwK</text>
+        <text encoding="base64">ICAgICAgICAncGFnZScgPT4gJHBhZ2UsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHBhZ2UgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAndmlld05hbWUnID0+ICRtZXRyaWNJbmZvWyd2aWV3TmFtZSddLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGVhY2ggPSAxOwoK</text>
+        <text encoding="base64">ICAgICAgICAnbWV0cmljTmFtZScgPT4gJG1ldHJpY0luZm9bJ3ZpZXdOYW1lJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
