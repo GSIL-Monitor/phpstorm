@@ -226,11 +226,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="E:/work/project/check_cvm/check.php" timestamp="1505285567984">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="37" column="8" />
+      <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
+        <mark key="[" line="10" column="79" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="10" column="81" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1498562814196">
         <mark key="[" line="74" column="0" />
@@ -367,16 +367,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JG91dHB1dCA9IGltcGxvZGUoYXJyYXlfc2xpY2UoJGFyZ3YsIDEpLCAnXycpIC4gIi5jc3YiOwo=</text>
+        <text encoding="base64">JG1ldHJpY0luZm9zWydjcHVfdXNhZ2UnXSA9IGFycmF5KCd2aWV3TmFtZScgPT4gJ2N2bV9kZXZpY2UnLCAnbWV0cmljTmFtZScgPT4gJ2NwdV91c2FnZScsICdzdGF0aXN0aWNzJyA9PiAnbWF4JywgJ3BlcmlvZCcgPT4gMzAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhcl9kdW1wKCR1cmwpOwo=</text>
