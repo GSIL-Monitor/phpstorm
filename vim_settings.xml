@@ -106,11 +106,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1505727080905">
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+      <file name="E:/work/project/rollup/main.php" timestamp="1505738564965">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1505721200509">
         <mark key="a" line="406" column="14" />
@@ -381,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;http://$esIp:9200/_rollup/${data['rollup_metric']}&quot;</text>
+        <text>curl</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://$esIp:9200/_rollup/${data['rollup_metric']}&quot;</text>
+        <text>curl</text>
       </register>
       <register name="/" type="4">
         <text>esEffectTime</text>
