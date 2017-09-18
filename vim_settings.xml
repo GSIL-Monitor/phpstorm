@@ -106,11 +106,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1505721977741">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
+      <file name="E:/work/project/rollup/main.php" timestamp="1505727080905">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1505721200509">
         <mark key="a" line="406" column="14" />
@@ -185,7 +185,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/PHP Console" timestamp="1505468976383">
+      <file name="/PHP Console" timestamp="1505726129339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1499657255821">
@@ -381,43 +381,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>&quot;http://$esIp:9200/_rollup/${data['rollup_metric']}&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;http://$esIp:9200/_rollup/${data['rollup_metric']}&quot;</text>
       </register>
       <register name="/" type="4">
         <text>esEffectTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTdGF0aXN0aWNzYmF0Y2hPbGQoKQo=</text>
+        <text encoding="base64">aWYgKCEkcmVzdWx0KSB7CiAgICBwcmludGYoInNxbCBlcnJvcjogJXNcbiIsICRkYi0+ZXJyb3IpOwogICAgZXhpdDsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGRiWydkYi5DQ0RCJ10gPSBpbml0KCRyZWdpb24sICdkYi5DQ0RCJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWyRwWydzdGF0aXN0aWNzJ11dID0gYXJyYXlfbWVyZ2UoJGRhdGExLCAkZGF0YTIpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5fZXJyb3IoJGUtPmdldE1lc3NhZ2UoKSwgJGUtPmdldENvZGUoKSk7Cg==</text>
+        <text encoding="base64">JCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiY2F0Y2ggZXhjZXB0aW9uOlxueyRlLT5nZXRUcmFjZUFzU3RyaW5nKCl9IiwgbnVsbCk7Cg==</text>
+        <text encoding="base64">JGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gJGUpIHsK</text>
+        <text encoding="base64">JHV1aWRzID0gYXJyYXkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFxJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xSZXNwb25zZTo6anNvbigkcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZyhfX0ZVTkNUSU9OX18sIGFycmF5KCksIGZhbHNlLCAkdCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
