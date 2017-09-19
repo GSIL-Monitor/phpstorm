@@ -113,13 +113,13 @@
         <mark key="^" line="70" column="45" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1505791699718">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1505793036712">
         <mark key="a" line="1077" column="39" />
         <mark key="'" line="2272" column="55" />
-        <mark key="[" line="425" column="48" />
-        <mark key="]" line="425" column="37" />
-        <mark key="." line="425" column="37" />
-        <mark key="^" line="425" column="37" />
+        <mark key="[" line="544" column="57" />
+        <mark key="]" line="544" column="57" />
+        <mark key="." line="544" column="57" />
+        <mark key="^" line="544" column="56" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1504171788445">
         <mark key="a" line="1390" column="46" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>86400</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>86400</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>getHBaseToCkvConf</text>
