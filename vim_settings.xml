@@ -64,11 +64,11 @@
       <file name="/PHP Console" timestamp="1505726129339">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1506410819021">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1506483193685">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1499074631603">
         <mark key="[" line="17" column="0" />
@@ -172,13 +172,13 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506410847704">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506483724246">
         <mark key="a" line="1077" column="39" />
         <mark key="'" line="2272" column="55" />
-        <mark key="[" line="2401" column="27" />
-        <mark key="]" line="2401" column="29" />
-        <mark key="." line="2401" column="29" />
-        <mark key="^" line="2401" column="29" />
+        <mark key="[" line="990" column="35" />
+        <mark key="]" line="990" column="70" />
+        <mark key="." line="990" column="70" />
+        <mark key="^" line="990" column="70" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1505827410912">
         <mark key="a" line="1390" column="46" />
@@ -335,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">JG1ldHJpY0luZm8tPm5hbWVzcGFjZSwgJG1ldHJpY0luZm8tPm1ldHJpY05hbWUsICRzdGF0aXN0aWNz</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">JG1ldHJpY0luZm8tPm5hbWVzcGFjZSwgJG1ldHJpY0luZm8tPm1ldHJpY05hbWUsICRzdGF0aXN0aWNz</text>
       </register>
       <register name="/" type="4">
         <text>getHBaseToCkvConf</text>
