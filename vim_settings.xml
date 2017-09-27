@@ -195,11 +195,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="48" column="45" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1506504000299">
-        <mark key="[" line="145" column="35" />
-        <mark key="]" line="145" column="44" />
-        <mark key="." line="145" column="44" />
-        <mark key="^" line="145" column="44" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" timestamp="1506504707998">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="144" column="44" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1498537326501">
         <mark key="[" line="663" column="10" />
@@ -348,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWxlcnQoJ2EnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2EnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>moduleId</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgICAgICAkcnMgPSBEQjo6c2VsZWN0KCdTRUxFQ1QgKiBGUk9NIGBjQXNzb2NpYXRpb25NaW5pbmdSdWxlYCBXSEVSRSBvdXRwdXRQZXJpb2Q9ODY0MDAgQU5EIG91dHB1dERpbUdyb3VwSWQ9PyBBTkQgb3V0cHV0U3RhdFR5cGU9PycKICAgICAgICAgICAgLCBhcnJheSgkZGltR3JvdXBJZCwgJHN0YXRUeXBlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWxlcnQoJ2EnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2EnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQobW9kdWxlSWQpOwo=</text>
+        <text encoding="base64">YWxlcnQoJ2EnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcnMgPSBEQjo6c2VsZWN0KCdTRUxFQ1QgKiBGUk9NIGBjSG91clN0YXRSdWxlYCBXSEVSRSBuYW1lc3BhY2U9PyBBTkQgbWV0cmljTmFtZT0/IEFORCBzdGF0VHlwZT0/JwogICAgICAgICAgICAsIGFycmF5KCRuYW1lc3BhY2UsICRtZXRyaWNOYW1lLCAkc3RhdFR5cGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQobW9kdWxlSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRTdGF0VHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAkcnMgPSBEQjo6c2VsZWN0KCdTRUxFQ1QgKiBGUk9NIGBjSG91clN0YXRSdWxlYCBXSEVSRSBuYW1lc3BhY2U9PyBBTkQgbWV0cmljTmFtZT0/IEFORCBzdGF0VHlwZT0/JwogICAgICAgICAgICAsIGFycmF5KCRuYW1lc3BhY2UsICRtZXRyaWNOYW1lLCAkc3RhdFR5cGUpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9wcmludGYoInJvd3MgYWZmZWN0ZWQ6JWRcbiIsICRkYlsnZGIuU3RhcmdhdGVVcGRhdGVyJ10tPmFmZmVjdGVkX3Jvd3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRTdGF0VHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly99Cg==</text>
+        <text encoding="base64">Ly9wcmludGYoInJvd3MgYWZmZWN0ZWQ6JWRcbiIsICRkYlsnZGIuU3RhcmdhdGVVcGRhdGVyJ10tPmFmZmVjdGVkX3Jvd3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgZXhpdDsK</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRmKCJRdWVyeSBmYWlsZWQ6ICVzXG4iLCAkZGJbJ2RiLlN0YXJnYXRlVXBkYXRlciddLT5lcnJvcik7Cg==</text>
+        <text encoding="base64">Ly8gICAgZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pZiAoISRyZXN1bHQpIHsK</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRmKCJRdWVyeSBmYWlsZWQ6ICVzXG4iLCAkZGJbJ2RiLlN0YXJnYXRlVXBkYXRlciddLT5lcnJvcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
