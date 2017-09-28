@@ -173,13 +173,13 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506581821150">
-        <mark key="a" line="1077" column="39" />
-        <mark key="'" line="2273" column="55" />
-        <mark key="[" line="1969" column="79" />
-        <mark key="]" line="1969" column="97" />
-        <mark key="." line="1969" column="97" />
-        <mark key="^" line="1969" column="97" />
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506588189565">
+        <mark key="a" line="659" column="43" />
+        <mark key="'" line="1829" column="13" />
+        <mark key="[" line="1871" column="101" />
+        <mark key="]" line="1871" column="101" />
+        <mark key="." line="1871" column="101" />
+        <mark key="^" line="659" column="47" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1505827410912">
         <mark key="a" line="1390" column="46" />
@@ -245,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="21" filename="E:/work/project/barad_proj/trunk/checkDatabase/lib/config.php" />
       <jump line="1300" column="13" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="117" column="0" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
       <jump line="133" column="53" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
@@ -345,13 +344,14 @@
       <jump line="607" column="0" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="2270" column="55" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="136" column="42" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
+      <jump line="1829" column="13" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbJ21vZHVsZUlkJ10pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>, false</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
