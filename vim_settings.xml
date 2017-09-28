@@ -173,13 +173,13 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506572700031">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506581821150">
         <mark key="a" line="1077" column="39" />
-        <mark key="'" line="2272" column="55" />
-        <mark key="[" line="990" column="35" />
-        <mark key="]" line="990" column="70" />
-        <mark key="." line="990" column="70" />
-        <mark key="^" line="990" column="70" />
+        <mark key="'" line="2273" column="55" />
+        <mark key="[" line="1969" column="79" />
+        <mark key="]" line="1969" column="97" />
+        <mark key="." line="1969" column="97" />
+        <mark key="^" line="1969" column="97" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1505827410912">
         <mark key="a" line="1390" column="46" />
