@@ -22,7 +22,6 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1506589454804" />
       <file name="/a.dummy" timestamp="1506668708087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -173,13 +172,13 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1506675347413">
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1507619570322">
         <mark key="a" line="659" column="43" />
         <mark key="'" line="1829" column="13" />
-        <mark key="[" line="1871" column="101" />
-        <mark key="]" line="1871" column="101" />
-        <mark key="." line="1871" column="101" />
-        <mark key="^" line="659" column="47" />
+        <mark key="[" line="738" column="59" />
+        <mark key="]" line="738" column="65" />
+        <mark key="." line="738" column="65" />
+        <mark key="^" line="738" column="65" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" timestamp="1506671916231">
         <mark key="a" line="1390" column="46" />
