@@ -22,11 +22,10 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1508290971073">
-        <mark key="[" line="106" column="94" />
-        <mark key="]" line="106" column="94" />
-        <mark key="." line="106" column="94" />
-        <mark key="^" line="269" column="98" />
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1508292470357">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="." line="269" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1508155871852">
         <mark key="[" line="0" column="0" />
@@ -352,8 +351,8 @@
       <jump line="1829" column="13" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>域</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>域</text>
@@ -365,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9J2VkaXRDb25mUmVxLmZvcm0udmFsdWUnPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbJ21vZHVsZUlkJ10pOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9J2VkaXRDb25mUmVxLmZvcm0udmFsdWUnPgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoaXMuYWxsQ29uZkxpc3QgPSB0aGlzLmNvbmZMaXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbJ21vZHVsZUlkJ10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5hbGxDb25mTGlzdCA9IHRoaXMuY29uZkxpc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5hbGxDb25mTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoaXMuYWxsQ29uZkxpc3QgPSB0aGlzLmNvbmZMaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGxDb25mTGlzdCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5hbGxDb25mTGlzdCA9IHRoaXMuY29uZkxpc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWdpb25MaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5hbGxDb25mTGlzdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5jb25mTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hbGxDb25mTGlzdCA9IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQodGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWdpb25MaXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
