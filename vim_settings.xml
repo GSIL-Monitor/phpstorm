@@ -22,6 +22,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1508290971073">
+        <mark key="[" line="106" column="94" />
+        <mark key="]" line="106" column="94" />
+        <mark key="." line="106" column="94" />
+        <mark key="^" line="269" column="98" />
+      </file>
       <file name="/a.dummy" timestamp="1508155871852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -347,16 +353,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>monitor_content_titl</text>
+        <text>域</text>
       </register>
       <register name="-" type="4">
-        <text>monitor_content_titl</text>
+        <text>域</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5hbGxDb25mTGlzdCA9IHRoaXMuY29uZkxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9J2VkaXRDb25mUmVxLmZvcm0udmFsdWUnPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbJ21vZHVsZUlkJ10pOwo=</text>
