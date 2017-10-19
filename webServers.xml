@@ -9,6 +9,14 @@
           <option name="port" value="36000" />
         </fileTransfer>
       </webServer>
+      <webServer id="49ac0e7b-4678-46b5-b1f4-38ee8cea5e5e" name="10.252.236.132" url="http://10.252.236.132">
+        <fileTransfer host="10.252.236.132" port="36000" rootFolder="/data/home/wallaceqian" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
