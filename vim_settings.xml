@@ -165,12 +165,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508412093202">
-        <mark key="'" line="60" column="35" />
-        <mark key="[" line="39" column="85" />
-        <mark key="]" line="39" column="87" />
-        <mark key="^" line="39" column="87" />
-        <mark key="." line="39" column="87" />
+      <file name="E:/work/project/rollup/main.php" timestamp="1508467530736">
+        <mark key="'" line="61" column="35" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="84" />
+        <mark key="^" line="40" column="87" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -351,8 +351,8 @@
       <jump line="58" column="35" filename="E:/work/project/rollup/main.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGVyZSBvdXRwdXRQZXJpb2Q+MzAwIGFuZCB2aWV3TmFtZT0nY3ZtX2RldmljZScgQU5EIG1ldHJpY05hbWU9J2NwdV91c2FnZScgbGltaXQgMTsK</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
@@ -361,7 +361,7 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRkYXRhWydncm91cF90YWdzJ10gPSAkZ3JvdXBUYWdzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGVyZSBvdXRwdXRQZXJpb2Q+MzAwIGFuZCB2aWV3TmFtZT0nY3ZtX2RldmljZScgQU5EIG1ldHJpY05hbWU9J2NwdV91c2FnZScgbGltaXQgMTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICRncm91cFRhZ3NbXSA9ICdzdGF0VHlwZSc7Cg==</text>
