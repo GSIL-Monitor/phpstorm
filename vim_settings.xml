@@ -165,12 +165,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508490473652">
+      <file name="E:/work/project/rollup/main.php" timestamp="1508491873794">
         <mark key="'" line="61" column="35" />
         <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="74" />
+        <mark key="]" line="40" column="67" />
         <mark key="^" line="40" column="74" />
-        <mark key="." line="40" column="74" />
+        <mark key="." line="40" column="67" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -352,10 +352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IGxpbWl0IDE=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IGxpbWl0IDE=</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
