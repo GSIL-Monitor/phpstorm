@@ -66,7 +66,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1505726129339">
+      <file name="/PHP Console" timestamp="1508492989226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
@@ -148,7 +148,7 @@
         <mark key="^" line="402" column="48" />
         <mark key="." line="402" column="48" />
       </file>
-      <file name="/fragment.php" timestamp="1505827633310">
+      <file name="/fragment.php" timestamp="1508492998179">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -165,12 +165,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508491873794">
-        <mark key="'" line="61" column="35" />
-        <mark key="[" line="40" column="67" />
-        <mark key="]" line="40" column="67" />
-        <mark key="^" line="40" column="74" />
-        <mark key="." line="40" column="67" />
+      <file name="E:/work/project/rollup/main.php" timestamp="1508494843394">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -211,6 +211,7 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/lib/common/SimpleLog.class.php" timestamp="1508493601614" />
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
@@ -249,15 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
-      <jump line="133" column="53" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
-      <jump line="141" column="4" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" />
-      <jump line="26" column="6" filename="E:/work/project/barad_proj/trunk/checkDatabase/bin/main.php" />
-      <jump line="1733" column="71" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="1748" column="12" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="1557" column="58" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="30" column="65" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="0" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/ConsoleController.php" />
       <jump line="38" column="23" filename="E:/work/project/barad_proj/trunk/api/app/controllers/ConsoleController.php" />
       <jump line="1691" column="0" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1805" column="0" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
@@ -349,55 +341,64 @@
       <jump line="136" column="42" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="1829" column="13" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="58" column="35" filename="E:/work/project/rollup/main.php" />
+      <jump line="29" column="28" filename="E:/work/project/rollup/main.php" />
+      <jump line="43" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="67" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="75" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="12" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="24" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="30" column="4" filename="E:/work/project/rollup/main.php" />
+      <jump line="6" column="15" filename="E:/work/project/rollup/main.php" />
+      <jump line="11" column="16" filename="E:/work/project/rollup/main.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGxpbWl0IDE=</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxpbWl0IDE=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRkYXRhWydiYXNlX21ldHJpYyddID0gIiRyb3ctPnZpZXdOYW1lLSRyb3ctPmlucHV0UGVyaW9kIjsK</text>
+        <text encoding="base64">c2F2ZWxvZygidGVzdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3QoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRncm91cFRhZ3NbXSA9ICdzdGF0VHlwZSc7Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRncm91cFRhZ3NbXSA9ICdtZXRyaWNOYW1lJzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhpdDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9J2VkaXRDb25mUmVxLmZvcm0udmFsdWUnPgo=</text>
+        <text encoding="base64">c2F2ZWxvZygidGVzdCAlcyIsICJoZWxsbyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbJ21vZHVsZUlkJ10pOwo=</text>
+        <text encoding="base64">c2F2ZWxvZygidGVzdCIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoaXMuYWxsQ29uZkxpc3QgPSB0aGlzLmNvbmZMaXN0Owo=</text>
+        <text encoding="base64">ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -405,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bool</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>region</entry>
         <entry>regionList</entry>
@@ -425,6 +425,7 @@
         <entry>esEffectTime</entry>
         <entry>getHBaseToCkvConf</entry>
         <entry>console</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
