@@ -66,7 +66,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1508492989226">
+      <file name="/PHP Console" timestamp="1508495692069">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
@@ -165,12 +165,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508494843394">
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-        <mark key="^" line="37" column="50" />
+      <file name="E:/work/project/rollup/main.php" timestamp="1508728172198">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="56" column="26" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -211,7 +211,6 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/lib/common/SimpleLog.class.php" timestamp="1508493601614" />
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
@@ -352,11 +351,11 @@
       <jump line="11" column="16" filename="E:/work/project/rollup/main.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>count($result);</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -365,31 +364,31 @@
         <text encoding="base64">c2F2ZWxvZygidGVzdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">ICAgIHNhdmVsb2coanNvbl9lbmNvZGUoJGRhdGEpIC4gUEhQX0VPTCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2F2ZWxvZygidGVzdCAlcyIsICJoZWxsbyIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2F2ZWxvZygidGVzdCIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZXhpdDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2F2ZWxvZygidGVzdCAlcyIsICJoZWxsbyIpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">c2F2ZWxvZygidGVzdCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
