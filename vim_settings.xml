@@ -27,7 +27,7 @@
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1508155871852">
+      <file name="/a.dummy" timestamp="1508845200094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -217,6 +217,11 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
+      <file name="E:/work/project/stargate_server/common/Common_Interface.class.php" timestamp="1508845002904">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
@@ -360,11 +365,11 @@
       <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text>, 'password'</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -373,31 +378,31 @@
         <text encoding="base64">ICAgICAgICBzYXZlTG9nKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRmaWxlID0gZGF0ZSgiWW1kIikgLiAnLmxvZyc7Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHRvdGFsID0gJHJlc3VsdC0+bnVtX3Jvd3M7Cg==</text>
+        <text encoding="base64">ICAgIAkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2F2ZUxvZygidG90YWw6ICVkIiwgJHRvdGFsKTsK</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRNc2cgPSBnZW5FcnJNc2coRUNfSU5WQUxJRF9QQVNTV09SRCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hpbGUgKCRyb3cgPSAkcmVzdWx0LT5mZXRjaF9vYmplY3QoKSkgewogICAgJHJvbGx1cCA9ICIkcm93LT52aWV3TmFtZS0zNjAwLSRyb3ctPm1ldHJpY05hbWUtJHJvdy0+b3V0cHV0U3RhdFR5cGUiOwo=</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRDb2RlID0gRUNfSU5WQUxJRF9QQVNTV09SRDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRWYWx1ZSA9IEVDX0lOVkFMSURfUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhdmVMb2coImRvaW5nIFskaS8kdG90YWxdIik7Cg==</text>
+        <text encoding="base64">ICAgIAlpZiAoISAkdGhpcy0+Y2hlY2tVc2VyQW5kUGFzc3dvcmQoKSl7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRpKys7Cg==</text>
+        <text encoding="base64">ICAgIAkkdGhpcy0+X3Bhc3N3b3JkID0gJGFyZ3NbJ3Bhc3N3b3JkJ107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGkgPSAxOwo=</text>
+        <text encoding="base64">ICAgICRmaWxlID0gZGF0ZSgiWW1kIikgLiAnLmxvZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
