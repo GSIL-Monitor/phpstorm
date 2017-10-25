@@ -171,12 +171,12 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="12" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508834410575">
+      <file name="E:/work/project/rollup/main.php" timestamp="1508915335270">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="80" column="71" />
+        <mark key="." line="15" column="11" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -365,11 +365,11 @@
       <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+      <register name="&quot;" type="4">
+        <text>sh</text>
       </register>
       <register name="-" type="4">
-        <text>, 'password'</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
