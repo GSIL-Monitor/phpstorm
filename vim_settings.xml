@@ -183,12 +183,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
-      <file name="E:/work/project/rollup/main.php" timestamp="1508985797290">
+      <file name="E:/work/project/rollup/main.php" timestamp="1509003546423">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="80" column="65" />
-        <mark key="]" line="82" column="39" />
-        <mark key="^" line="82" column="39" />
-        <mark key="." line="82" column="39" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+        <mark key="." line="15" column="13" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -377,11 +377,11 @@
       <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgxMCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
