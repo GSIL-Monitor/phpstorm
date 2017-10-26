@@ -136,11 +136,10 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1508982762425">
-        <mark key="[" line="678" column="5" />
-        <mark key="]" line="679" column="17" />
-        <mark key="^" line="679" column="17" />
-        <mark key="." line="679" column="17" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1508987132866">
+        <mark key="[" line="679" column="0" />
+        <mark key="]" line="679" column="0" />
+        <mark key="." line="679" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
         <mark key="[" line="12" column="0" />
@@ -178,6 +177,12 @@
         <mark key="." line="15" column="12" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1508987530974">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1508985797290">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="80" column="65" />
@@ -372,8 +377,8 @@
       <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shdev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxMCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>shdev</text>
@@ -385,31 +390,31 @@
         <text encoding="base64">ICAgICAgICBzYXZlTG9nKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAl9Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAkJcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIAl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRNc2cgPSBnZW5FcnJNc2coRUNfSU5WQUxJRF9QQVNTV09SRCk7Cg==</text>
+        <text encoding="base64">ICAgIAkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRDb2RlID0gRUNfSU5WQUxJRF9QQVNTV09SRDsK</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRNc2cgPSBnZW5FcnJNc2coRUNfSU5WQUxJRF9QQVNTV09SRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRWYWx1ZSA9IEVDX0lOVkFMSURfUEFTU1dPUkQ7Cg==</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRDb2RlID0gRUNfSU5WQUxJRF9QQVNTV09SRDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAlpZiAoISAkdGhpcy0+Y2hlY2tVc2VyQW5kUGFzc3dvcmQoKSl7Cg==</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRWYWx1ZSA9IEVDX0lOVkFMSURfUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkkdGhpcy0+X3Bhc3N3b3JkID0gJGFyZ3NbJ3Bhc3N3b3JkJ107Cg==</text>
+        <text encoding="base64">ICAgIAlpZiAoISAkdGhpcy0+Y2hlY2tVc2VyQW5kUGFzc3dvcmQoKSl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRmaWxlID0gZGF0ZSgiWW1kIikgLiAnLmxvZyc7Cg==</text>
+        <text encoding="base64">ICAgIAkkdGhpcy0+X3Bhc3N3b3JkID0gJGFyZ3NbJ3Bhc3N3b3JkJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
