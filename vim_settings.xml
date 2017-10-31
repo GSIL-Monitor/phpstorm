@@ -90,12 +90,12 @@
         <mark key="." line="32" column="17" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" timestamp="1509353961425" />
-      <file name="E:/work/project/rollup/main.php" timestamp="1509419160178">
+      <file name="E:/work/project/rollup/main.php" timestamp="1509419834731">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="81" column="65" />
-        <mark key="]" line="81" column="65" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="12" />
         <mark key="^" line="15" column="12" />
-        <mark key="." line="81" column="65" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" timestamp="1508405849971">
         <mark key="a" line="659" column="43" />
@@ -366,10 +366,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>kr</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>kr</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
