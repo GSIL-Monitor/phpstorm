@@ -205,12 +205,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509435940501">
-        <mark key="'" line="1837" column="64" />
-        <mark key="[" line="2258" column="28" />
-        <mark key="]" line="2258" column="28" />
-        <mark key="." line="2258" column="28" />
-        <mark key="^" line="2257" column="27" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509438623020">
+        <mark key="[" line="429" column="9" />
+        <mark key="]" line="429" column="8" />
+        <mark key="." line="429" column="8" />
+        <mark key="^" line="429" column="8" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -368,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new DateTime(Tencent\Config::get('esEffectTime')); // ES中数据生效的日期</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>new DateTime(Tencent\Config::get('esEffectTime')); // ES中数据生效的日期</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Effect</text>
@@ -380,31 +379,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGVzRWZmZWN0VGltZSA9IG5ldyBEYXRlVGltZShUZW5jZW50XENvbmZpZzo6Z2V0KCdlc0VmZmVjdFRpbWUnKSk7IC8vIEVT1tDK/b7dyfrQp7XEyNXG2go=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygnZGF0YScsICRfR0VUKTsKICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygnZGF0YScsICRfR0VUKTsKICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAkK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAl9Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAkJcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIAl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRNc2cgPSBnZW5FcnJNc2coRUNfSU5WQUxJRF9QQVNTV09SRCk7Cg==</text>
+        <text encoding="base64">ICAgIAkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRDb2RlID0gRUNfSU5WQUxJRF9QQVNTV09SRDsK</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRNc2cgPSBnZW5FcnJNc2coRUNfSU5WQUxJRF9QQVNTV09SRCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRWYWx1ZSA9IEVDX0lOVkFMSURfUEFTU1dPUkQ7Cg==</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRDb2RlID0gRUNfSU5WQUxJRF9QQVNTV09SRDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAlpZiAoISAkdGhpcy0+Y2hlY2tVc2VyQW5kUGFzc3dvcmQoKSl7Cg==</text>
+        <text encoding="base64">ICAgIAkJJHRoaXMtPl9yZXRWYWx1ZSA9IEVDX0lOVkFMSURfUEFTU1dPUkQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
