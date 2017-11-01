@@ -240,6 +240,9 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1509521151799">
+        <mark key="'" line="83" column="33" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/ResetState.class.php" timestamp="1502866249211">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -264,11 +267,6 @@
       <file name="E:/work/project/barad_proj/trunk/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509353554963" />
     </filemarks>
     <jumps>
-      <jump line="1472" column="86" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
-      <jump line="1473" column="18" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
-      <jump line="1535" column="20" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
-      <jump line="1216" column="0" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
-      <jump line="1437" column="49" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1593" column="33" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1785" column="44" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="1411" column="12" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
@@ -364,6 +362,11 @@
       <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
       <jump line="768" column="4" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1837" column="64" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="58" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="69" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="72" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="80" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
+      <jump line="83" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -373,7 +376,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>Effect</text>
+        <text>lan_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGVzRWZmZWN0VGltZSA9IG5ldyBEYXRlVGltZShUZW5jZW50XENvbmZpZzo6Z2V0KCdlc0VmZmVjdFRpbWUnKSk7IC8vIEVT1tDK/b7dyfrQp7XEyNXG2go=</text>
@@ -410,9 +413,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Effect</last-search>
+      <last-search>lan_</last-search>
       <last-offset />
-      <last-pattern>Effect</last-pattern>
+      <last-pattern>lan_</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -420,8 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regionList</entry>
-        <entry>forEach</entry>
         <entry>getOne</entry>
         <entry>bench</entry>
         <entry>eveenit</entry>
@@ -440,6 +441,8 @@
         <entry>print</entry>
         <entry>EsEffect</entry>
         <entry>Effect</entry>
+        <entry>lan_out_pkg</entry>
+        <entry>lan_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
