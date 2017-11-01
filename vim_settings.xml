@@ -229,7 +229,7 @@
         <mark key="." line="15" column="12" />
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1509434814836">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1509506747554">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>szjr</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>szjr</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>Effect</text>
