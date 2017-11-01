@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[barad_php_script_daystat] - ...\barad\genDimensionValue.php'" />
-    <option name="defaultScopeName" value="File '[barad_php_script_daystat] - ...\barad\genDimensionValue.php'" />
+    <option name="customScope" value="Directory '[BaradApi_test] - ...'" />
+    <option name="defaultScopeName" value="Directory '[BaradApi_test] - ...'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[barad_php_script_daystat] - ...\barad\genDimensionValue.php'" />
+    <option name="SEARCH_SCOPE" value="Directory '[BaradApi_test] - ...'" />
   </component>
 </application>
