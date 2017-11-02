@@ -203,10 +203,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509596100198">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509603887447">
+        <mark key="[" line="2304" column="57" />
+        <mark key="]" line="2306" column="0" />
+        <mark key="." line="2306" column="0" />
+        <mark key="^" line="2306" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -368,7 +369,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -380,31 +381,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJGVzRWZmZWN0VGltZSA9IG5ldyBEYXRlVGltZShUZW5jZW50XENvbmZpZzo6Z2V0KCdlc0VmZmVjdFRpbWUnKSk7IC8vIEVT1tDK/b7dyfrQp7XEyNXG2go=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlKGFwcF9wYXRoKCkgLiAnL2xpYmFyaWVzL2NvbGxlY3Rvci5waHAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGVuZDsK</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlKGFwcF9wYXRoKCkgLiAnL2xpYmFyaWVzL2NvbGxlY3Rvci5waHAnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5kID0gCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGVuZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29sbGVjdG9yLT4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW5kID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29sbGVjdG9yLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2xlZXAoMSk7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2xlZXAoMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
