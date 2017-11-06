@@ -203,11 +203,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509961073514">
-        <mark key="[" line="349" column="5" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
-        <mark key="^" line="351" column="64" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509963066500">
+        <mark key="[" line="350" column="50" />
+        <mark key="]" line="412" column="8" />
+        <mark key="." line="412" column="8" />
+        <mark key="^" line="412" column="8" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -368,11 +368,11 @@
       <jump line="83" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gXElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOjpqc29uKFsnY29kZSddKTsK</text>
+      <register name="&quot;" type="4">
+        <text>$_POST</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>$_POST</text>
       </register>
       <register name="/" type="4">
         <text>lan_</text>
