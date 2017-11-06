@@ -203,11 +203,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509963066500">
-        <mark key="[" line="350" column="50" />
-        <mark key="]" line="412" column="8" />
-        <mark key="." line="412" column="8" />
-        <mark key="^" line="412" column="8" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1509963926356">
+        <mark key="[" line="353" column="51" />
+        <mark key="]" line="353" column="49" />
+        <mark key="." line="353" column="49" />
+        <mark key="^" line="353" column="49" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$_POST</text>
+        <text>GuzzleHttp\Ring\Exception\</text>
       </register>
       <register name="-" type="4">
-        <text>$_POST</text>
+        <text>GuzzleHttp\Ring\Exception\</text>
       </register>
       <register name="/" type="4">
         <text>lan_</text>
