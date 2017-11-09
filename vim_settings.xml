@@ -264,7 +264,7 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1509521151799">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1510212148882">
         <mark key="'" line="83" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/ResetState.class.php" timestamp="1502866249211">
@@ -285,6 +285,9 @@
         <mark key="]" line="10" column="81" />
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1508756841237">
+        <mark key="'" line="94" column="48" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509353554963" />
     </filemarks>
@@ -398,7 +401,7 @@
         <text>Sort</text>
       </register>
       <register name="/" type="4">
-        <text>caller</text>
+        <text>disk_io_wait</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdvcmRlcicgPT4gYXJyYXkoJ3J1bGUnID0+ICdyZXF1aXJlZDtyZXF1aXJlZDphc2MsZGVzYycpLAo=</text>
@@ -435,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>caller</last-search>
+      <last-search>disk_io_wait</last-search>
       <last-offset />
-      <last-pattern>caller</last-pattern>
+      <last-pattern>disk_io_wait</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +448,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eveenit</entry>
         <entry>foreach</entry>
         <entry>date</entry>
         <entry>pvv_outtraffic</entry>
@@ -465,6 +467,7 @@
         <entry>eventId</entry>
         <entry>seqId</entry>
         <entry>caller</entry>
+        <entry>disk_io_wait</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
