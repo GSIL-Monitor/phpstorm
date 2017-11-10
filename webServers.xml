@@ -1,5 +1,10 @@
 <application>
   <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="719d87ba-2575-4562-a594-decc468bfb19" name="dev shdev 10.252.236.132" url="">
         <fileTransfer host="10.252.236.132" port="36000" privateKey="C:\Users\wallaceqian\.ssh\id_rsa" rootFolder="/data/home/wallaceqian" accessType="SFTP" keyPair="true">
