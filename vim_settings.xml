@@ -216,14 +216,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510218473616">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510279245618">
         <mark key="a" line="1967" column="13" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="940" column="37" />
-        <mark key="[" line="1997" column="51" />
-        <mark key="]" line="1997" column="23" />
-        <mark key="." line="1997" column="23" />
-        <mark key="^" line="1997" column="23" />
+        <mark key="[" line="858" column="30" />
+        <mark key="]" line="858" column="30" />
+        <mark key="." line="858" column="30" />
+        <mark key="^" line="858" column="33" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>responses.hits.hits.fields</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>responses.hits.hits.fields</text>
       </register>
       <register name="/" type="4">
         <text>disk_io_wait</text>
