@@ -87,14 +87,14 @@
       <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510645783102">
         <mark key="[" line="125" column="9" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510632368688">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510650553636">
         <mark key="a" line="1967" column="13" />
         <mark key="b" line="426" column="39" />
-        <mark key="'" line="940" column="37" />
+        <mark key="'" line="900" column="25" />
         <mark key="[" line="930" column="26" />
-        <mark key="]" line="936" column="0" />
-        <mark key="." line="936" column="0" />
-        <mark key="^" line="936" column="0" />
+        <mark key="]" line="2764" column="68" />
+        <mark key="." line="2764" column="68" />
+        <mark key="^" line="2764" column="68" />
       </file>
       <file name="/fragment.php" timestamp="1510027221649">
         <mark key="[" line="0" column="0" />
@@ -136,11 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="18" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="187" column="21" filename="E:/work/project/barad_proj/branches/api_es/app/libaries/Checkor.class.php" />
-      <jump line="1391" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="1611" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
-      <jump line="464" column="62" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="35" column="31" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/BaseController.php" />
       <jump line="534" column="50" filename="E:/work/project/barad_proj/branches/api_es/app/controllers/MetricController.php" />
       <jump line="145" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -236,6 +231,11 @@
       <jump line="360" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="902" column="30" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="940" column="37" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="875" column="36" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2639" column="21" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="787" column="13" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="864" column="17" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="900" column="25" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -245,7 +245,7 @@
         <text>szjr</text>
       </register>
       <register name="/" type="4">
-        <text>disk_io_wait</text>
+        <text>docvalue_fields</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JHJlZ2lvbiA9IFsnYmonLCAnc2gnLCAncWNsb3VkJywgJ2tyJywgJ3VzdycsICdzZycsICdzempyJywgJ3NoanInLCAnZ3onXTsK</text>
@@ -282,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disk_io_wait</last-search>
+      <last-search>docvalue_fields</last-search>
       <last-offset />
-      <last-pattern>disk_io_wait</last-pattern>
+      <last-pattern>docvalue_fields</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foreach</entry>
         <entry>date</entry>
         <entry>pvv_outtraffic</entry>
         <entry>format</entry>
@@ -312,6 +311,7 @@
         <entry>seqId</entry>
         <entry>caller</entry>
         <entry>disk_io_wait</entry>
+        <entry>docvalue_fields</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
