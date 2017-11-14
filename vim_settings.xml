@@ -87,11 +87,11 @@
       <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510645783102">
         <mark key="[" line="125" column="9" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510650553636">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510652074572">
         <mark key="a" line="1967" column="13" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="900" column="25" />
-        <mark key="[" line="930" column="26" />
+        <mark key="[" line="2764" column="68" />
         <mark key="]" line="2764" column="68" />
         <mark key="." line="2764" column="68" />
         <mark key="^" line="2764" column="68" />
@@ -114,6 +114,12 @@
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510652676416">
+        <mark key="[" line="888" column="45" />
+        <mark key="]" line="888" column="45" />
+        <mark key="^" line="888" column="93" />
+        <mark key="." line="888" column="45" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -239,10 +245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>szjr</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>szjr</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>docvalue_fields</text>
@@ -251,31 +257,31 @@
         <text encoding="base64">JHJlZ2lvbiA9IFsnYmonLCAnc2gnLCAncWNsb3VkJywgJ2tyJywgJ3VzdycsICdzZycsICdzempyJywgJ3NoanInLCAnZ3onXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGdldGN3ZCgpKTsKICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRyZWdpb24sICIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHV1aWRzID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRyZWdpb24sICIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICwgJHBbJ3N0YXRpc3RpY3MnXSwgJHBbJ3RpbWUnXSwgJHBbJ29yZGVyJ10sICRwWydvZmZzZXQnXSwgJHBbJ2xpbWl0J10sICRwWydkaW1lbnNpb25zJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCBqc29uX2VuY29kZSgkZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkdGhpcy0+Z2V0U29ydEZyb21FcygkcFsndmlld05hbWUnXSwgJHBbJ21ldHJpY05hbWUnXSwgJHBbJ3BlcmlvZCddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsaW1pdCcgPT4gYXJyYXkoJ2RlZmF1bHQnID0+IDEwLCAncnVsZScgPT4gJ251bWVyaWM7bW9yZVRoYW46MDtsZXNzVGhhbjoxMDAwMCcpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvZmZzZXQnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAwLCAncnVsZScgPT4gJ251bWVyaWM7bW9yZVRoYW46MCcpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhdmVMb2coanNvbl9lbmNvZGUoJGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcmRlcicgPT4gYXJyYXkoJ3J1bGUnID0+ICdyZXF1aXJlZDtlbnVtOmFzYyxkZXNjJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc3QoIiR7ZGF0YVsncm9sbHVwX21ldHJpYyddfS0kcm93LT5tZXRyaWNOYW1lLSRyb3ctPm91dHB1dFN0YXRUeXBlIiwgJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0aW1lJyA9PiBhcnJheSgncnVsZScgPT4gJ3JlcXVpcmVkO2RhdGU6MScpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
