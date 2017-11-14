@@ -30,6 +30,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/work/project/rollup/export.php" timestamp="1510643916406">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="E:/work/project/api/bootstrap/app.php" timestamp="1510213571692">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="26" />
@@ -100,11 +106,11 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510632179109">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510644358606">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -119,10 +125,11 @@
         <mark key="'" line="94" column="48" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509353554963" />
-      <file name="E:/work/project/rollup/fix.php" timestamp="1510642444134">
-        <mark key="[" line="92" column="44" />
-        <mark key="]" line="92" column="44" />
-        <mark key="." line="92" column="44" />
+      <file name="E:/work/project/rollup/fix.php" timestamp="1510643894407">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -229,43 +236,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>date('Y-m-d 00:00:00')</text>
+        <text>szjr</text>
       </register>
       <register name="-" type="4">
-        <text>date('Y-m-d 00:00:00')</text>
+        <text>szjr</text>
       </register>
       <register name="/" type="4">
         <text>disk_io_wait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcmRlcicgPT4gYXJyYXkoJ3J1bGUnID0+ICdyZXF1aXJlZDtyZXF1aXJlZDphc2MsZGVzYycpLAo=</text>
+        <text encoding="base64">JHJlZ2lvbiA9IFsnYmonLCAnc2gnLCAncWNsb3VkJywgJ2tyJywgJ3VzdycsICdzZycsICdzempyJywgJ3NoanInLCAnZ3onXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdldGN3ZCgpKTsKICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCBqc29uX2VuY29kZSgkZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRyZWdpb24sICIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKCRyZWdpb24sICIiKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNhdmVMb2coanNvbl9lbmNvZGUoJGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCBqc29uX2VuY29kZSgkZGF0YSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc3QoIiR7ZGF0YVsncm9sbHVwX21ldHJpYyddfS0kcm93LT5tZXRyaWNOYW1lLSRyb3ctPm91dHB1dFN0YXRUeXBlIiwgJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRkYXRhWydvcHRpb25zJ10gPSBbJ2V4cGlyZV9kYXknID0+IDMxICogM107Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRkYXRhWydpbnRlcnZhbCddID0gJzFoJzsK</text>
+        <text encoding="base64">ICAgIHNhdmVMb2coanNvbl9lbmNvZGUoJGRhdGEpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRkYXRhWydkZWxheSddID0gJzVtJzsK</text>
+        <text encoding="base64">ICAgIHBvc3QoIiR7ZGF0YVsncm9sbHVwX21ldHJpYyddfS0kcm93LT5tZXRyaWNOYW1lLSRyb3ctPm91dHB1dFN0YXRUeXBlIiwgJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
