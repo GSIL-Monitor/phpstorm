@@ -148,11 +148,11 @@
         <mark key="'" line="94" column="48" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509353554963" />
-      <file name="E:/work/project/rollup/fix.php" timestamp="1510659810228">
+      <file name="E:/work/project/rollup/fix.php" timestamp="1510660632756">
         <mark key="[" line="99" column="53" />
         <mark key="]" line="99" column="53" />
         <mark key="." line="99" column="53" />
-        <mark key="^" line="99" column="53" />
+        <mark key="^" line="104" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -259,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>25</text>
+        <text>31</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>31</text>
       </register>
       <register name="/" type="4">
         <text>docvalue_fields</text>
