@@ -30,12 +30,14 @@
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="39" />
       </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/helpers/output_helper.php" timestamp="1510036485616" />
       <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1504255601539">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="26" column="88" />
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/date_c.php" timestamp="1510742197841" />
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -112,6 +114,7 @@
         <mark key="]" line="322" column="0" />
         <mark key="." line="322" column="0" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/api/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" timestamp="1509353961425" />
       <file name="E:/work/project/rollup/main.php" timestamp="1510641258896">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="15" column="11" />
@@ -190,7 +193,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/PHP Console" timestamp="1510739847431">
+      <file name="/PHP Console" timestamp="1510741697429">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
@@ -255,6 +258,8 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="12" />
       </file>
+      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
+      <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510735879612">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -288,6 +293,7 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510124524018" />
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
@@ -297,14 +303,15 @@
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
         <mark key="'" line="94" column="48" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1509353554963" />
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
         <mark key="'" line="76" column="5" />
       </file>
-      <file name="E:/work/project/rollup/fix.php" timestamp="1510739814744">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="92" />
-        <mark key="." line="11" column="92" />
-        <mark key="^" line="11" column="92" />
+      <file name="E:/work/project/rollup/fix.php" timestamp="1510741703169">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="65" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -411,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>));</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>));</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
