@@ -260,8 +260,8 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510735879612">
-        <mark key="[" line="3" column="34" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510801351629">
+        <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
@@ -418,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>));</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>));</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
