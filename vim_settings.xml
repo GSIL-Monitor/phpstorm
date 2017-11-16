@@ -220,11 +220,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510732800896">
-        <mark key="[" line="129" column="27" />
-        <mark key="]" line="129" column="27" />
-        <mark key="." line="129" column="27" />
-        <mark key="^" line="129" column="27" />
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510802350517">
+        <mark key="[" line="132" column="23" />
+        <mark key="]" line="132" column="23" />
+        <mark key="." line="132" column="23" />
+        <mark key="^" line="132" column="23" />
       </file>
       <file name="E:/work/project/check_cvm/export_10s.php" timestamp="1505290416800">
         <mark key="[" line="67" column="45" />
@@ -418,10 +418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
