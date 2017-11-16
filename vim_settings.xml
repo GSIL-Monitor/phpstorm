@@ -8,7 +8,7 @@
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1510802824871">
+      <file name="/a.dummy" timestamp="1510813917466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,6 +97,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="36" />
       </file>
+      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
+        <mark key="'" line="263" column="27" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1502866178526">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="45" />
@@ -127,7 +130,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1509351967734">
+      <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
         <mark key="[" line="196" column="29" />
         <mark key="]" line="196" column="4" />
         <mark key="^" line="196" column="4" />
@@ -180,6 +183,12 @@
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1510814108375">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="E:/work/project/cost/main.php" timestamp="1509595803978">
         <mark key="[" line="23" column="0" />
@@ -260,6 +269,7 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
+      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510813760097" />
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510801351629">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
@@ -418,10 +428,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>self::$processId</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>self::$processId</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
@@ -433,28 +443,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGtleSA9PSAnZXNFZmZlY3RUaW1lJykgewogICAgICAgICAgICByZXR1cm4gJzIwMTctMTEtMDYnOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjaGVja29yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGtleSA9PSAnZXNFZmZlY3RUaW1lJykgewogICAgICAgICAgICByZXR1cm4gJzIwMTctMTEtMDYnOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvdXRlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJvdXRlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkZmlsZSA9ICRmaWxlbmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
