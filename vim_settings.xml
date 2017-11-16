@@ -37,6 +37,9 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
+        <mark key="'" line="641" column="17" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/date_c.php" timestamp="1510742197841" />
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
         <mark key="[" line="5" column="0" />
@@ -241,14 +244,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510815684376">
-        <mark key="a" line="1967" column="13" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510816660262">
+        <mark key="a" line="921" column="11" />
         <mark key="b" line="426" column="39" />
-        <mark key="'" line="699" column="13" />
-        <mark key="[" line="920" column="0" />
-        <mark key="]" line="920" column="0" />
-        <mark key="." line="920" column="0" />
-        <mark key="^" line="919" column="11" />
+        <mark key="'" line="1797" column="20" />
+        <mark key="[" line="921" column="158" />
+        <mark key="]" line="922" column="20" />
+        <mark key="." line="922" column="20" />
+        <mark key="^" line="922" column="20" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
         <mark key="[" line="402" column="44" />
@@ -274,11 +277,11 @@
         <mark key="]" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510801351629">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510816768122">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510735975580">
         <mark key="'" line="892" column="16" />
@@ -331,14 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1416" column="0" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="1388" column="14" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="1379" column="41" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="1387" column="16" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="502" column="34" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="1567" column="8" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="1598" column="0" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="515" column="16" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="144" column="4" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="8" column="0" filename="E:/work/project/barad_proj/trunk/api/app/controllers/MetricController.php" />
       <jump line="1136" column="0" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
@@ -431,55 +426,63 @@
       <jump line="145" column="36" filename="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="161" column="25" filename="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
       <jump line="169" column="19" filename="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" />
+      <jump line="641" column="17" filename="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
+      <jump line="921" column="11" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1511" column="28" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1517" column="32" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1785" column="36" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="922" column="12" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1798" column="40" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1797" column="20" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bj</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>bj</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnbWV0cmljL0Rlc2NyaWJlU29ydE9iamVjdExpc3QnLCAnTWV0cmljQ29udHJvbGxlckBnZXREZXNjcmliZVNvcnRPYmplY3RMaXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9uaXRvckNMb2dnZXI6OnJlcG9ydCgwLCAwLCAnbXNlYXJjaCcsICdFUycsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgcm91bmQoKG1pY3JvdGltZSh0cnVlKSAtICR0KSAqIDEwMDAsIDMpLCAwLCAkZS0+Z2V0Q29kZSgpLCAkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29zdCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja29yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGtleSA9PSAnZXNFZmZlY3RUaW1lJykgewogICAgICAgICAgICByZXR1cm4gJzIwMTctMTEtMDYnOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvdXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja29yCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -487,8 +490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
-        <entry>add</entry>
         <entry>add(</entry>
         <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
         <entry>EsGray</entry>
@@ -507,6 +508,8 @@
         <entry>docvalue_fields</entry>
         <entry>timeout</entry>
         <entry>time</entry>
+        <entry>exception</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
