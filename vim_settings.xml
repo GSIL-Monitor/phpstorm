@@ -205,7 +205,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/PHP Console" timestamp="1510826948796">
+      <file name="/PHP Console" timestamp="1510835214835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
@@ -253,12 +253,13 @@
         <mark key="." line="922" column="20" />
         <mark key="^" line="922" column="20" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510826947095">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510835186807">
         <mark key="[" line="139" column="104" />
-        <mark key="]" line="421" column="0" />
-        <mark key="." line="421" column="0" />
+        <mark key="]" line="177" column="64" />
+        <mark key="." line="177" column="64" />
+        <mark key="^" line="177" column="64" />
       </file>
-      <file name="/fragment.php" timestamp="1510826755664">
+      <file name="/fragment.php" timestamp="1510835235728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
