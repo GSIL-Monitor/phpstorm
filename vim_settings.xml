@@ -169,7 +169,7 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="E:/work/project/api/app/routes.php" timestamp="1510732869979">
+      <file name="E:/work/project/api/app/routes.php" timestamp="1510818376414">
         <mark key="[" line="22" column="35" />
         <mark key="]" line="22" column="43" />
         <mark key="^" line="22" column="43" />
@@ -232,11 +232,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510802350517">
-        <mark key="[" line="132" column="23" />
-        <mark key="]" line="132" column="23" />
-        <mark key="." line="132" column="23" />
-        <mark key="^" line="132" column="23" />
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510818443946">
+        <mark key="[" line="132" column="26" />
+        <mark key="]" line="132" column="26" />
+        <mark key="." line="132" column="26" />
+        <mark key="^" line="132" column="26" />
       </file>
       <file name="E:/work/project/check_cvm/export_10s.php" timestamp="1505290416800">
         <mark key="[" line="67" column="45" />
@@ -244,7 +244,7 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510816660262">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510818413253">
         <mark key="a" line="921" column="11" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="1797" column="20" />
@@ -259,7 +259,7 @@
         <mark key="^" line="402" column="48" />
         <mark key="." line="402" column="48" />
       </file>
-      <file name="/fragment.php" timestamp="1510732852243">
+      <file name="/fragment.php" timestamp="1510818378113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bj</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
