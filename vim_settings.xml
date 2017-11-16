@@ -58,11 +58,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="17" column="1" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1504083845424">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1510825347872">
         <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="45" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script/oss/delEsObject.php" timestamp="1510716482342">
         <mark key="[" line="70" column="0" />
@@ -205,7 +205,7 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="/PHP Console" timestamp="1510741697429">
+      <file name="/PHP Console" timestamp="1510826948796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
@@ -253,13 +253,12 @@
         <mark key="." line="922" column="20" />
         <mark key="^" line="922" column="20" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1504083816747">
-        <mark key="[" line="402" column="44" />
-        <mark key="]" line="402" column="48" />
-        <mark key="^" line="402" column="48" />
-        <mark key="." line="402" column="48" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510826947095">
+        <mark key="[" line="139" column="104" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1510818378113">
+      <file name="/fragment.php" timestamp="1510826755664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -436,8 +435,8 @@
       <jump line="1797" column="20" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -449,31 +448,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTW9uaXRvckNMb2dnZXI6OnJlcG9ydCgwLCAwLCAnbXNlYXJjaCcsICdFUycsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgcm91bmQoKG1pY3JvdGltZSh0cnVlKSAtICR0KSAqIDEwMDAsIDMpLCAwLCAkZS0+Z2V0Q29kZSgpLCAkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY29zdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHNxbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByUwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRfcigkcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja29yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
