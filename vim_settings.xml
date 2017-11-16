@@ -232,11 +232,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510818443946">
-        <mark key="[" line="132" column="26" />
-        <mark key="]" line="132" column="26" />
-        <mark key="." line="132" column="26" />
-        <mark key="^" line="132" column="26" />
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510824438596">
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="128" column="23" />
+        <mark key="." line="128" column="23" />
+        <mark key="^" line="128" column="23" />
       </file>
       <file name="E:/work/project/check_cvm/export_10s.php" timestamp="1505290416800">
         <mark key="[" line="67" column="45" />
@@ -277,11 +277,11 @@
         <mark key="]" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510816768122">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510824398472">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510735975580">
         <mark key="'" line="892" column="16" />
@@ -437,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
