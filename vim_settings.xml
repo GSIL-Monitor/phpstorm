@@ -218,14 +218,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510901783428">
-        <mark key="a" line="921" column="11" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510904783098">
+        <mark key="a" line="778" column="36" />
         <mark key="b" line="426" column="39" />
-        <mark key="'" line="1797" column="20" />
-        <mark key="[" line="921" column="106" />
-        <mark key="]" line="921" column="106" />
-        <mark key="." line="921" column="106" />
-        <mark key="^" line="921" column="106" />
+        <mark key="'" line="864" column="0" />
+        <mark key="[" line="978" column="0" />
+        <mark key="]" line="978" column="0" />
+        <mark key="." line="978" column="0" />
+        <mark key="^" line="2661" column="17" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
@@ -247,11 +247,11 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
-      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510902163858">
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
+      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510904455236">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510900477867">
         <mark key="[" line="3" column="31" />
@@ -259,12 +259,12 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510735975580">
+      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
-        <mark key="[" line="908" column="56" />
-        <mark key="]" line="915" column="18" />
-        <mark key="." line="915" column="18" />
-        <mark key="^" line="915" column="18" />
+        <mark key="[" line="917" column="56" />
+        <mark key="]" line="917" column="54" />
+        <mark key="." line="917" column="54" />
+        <mark key="^" line="917" column="54" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1510822288569">
         <mark key="'" line="83" column="33" />
@@ -376,7 +376,6 @@
       <jump line="875" column="36" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2639" column="21" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="787" column="13" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="864" column="17" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="900" column="25" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="892" column="16" filename="E:/work/project/api/app/controllers/AgentController.php" />
       <jump line="699" column="13" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -405,46 +404,47 @@
       <jump line="1798" column="40" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1797" column="20" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="160" column="56" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
+      <jump line="864" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJImZsb3dJZCI9PiBDaGVja29yOjpnZXRJbmZvKCdzZXFJZCcpLAo=</text>
+        <text encoding="base64">CQkJImVudmlyb25tZW50Ij0+IChpbnQpQ29uZmlnOjpnZXQoJ2FwcC5jbG9nX2VudicpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X3IoJHNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBbXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByUwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhW10gPSAkaXRlbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRfcigkcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAkdGhpcy0+Z2V0U3RhdGVUZXh0KCRvbmUtPnN0YXRlKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXVpZCcgPT4gJG9uZS0+dXVpZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhpdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtID0gWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJzEwMC44OS4yMjQuMzI6OTIwMScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
