@@ -218,11 +218,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510904783098">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510908422959">
         <mark key="a" line="778" column="36" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="864" column="0" />
-        <mark key="[" line="978" column="0" />
+        <mark key="[" line="977" column="0" />
         <mark key="]" line="978" column="0" />
         <mark key="." line="978" column="0" />
         <mark key="^" line="2661" column="17" />
@@ -247,11 +247,11 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
-      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510906717561">
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="45" column="44" />
+      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510908404336">
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="28" />
+        <mark key="." line="44" column="28" />
+        <mark key="^" line="46" column="44" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510900477867">
         <mark key="[" line="3" column="31" />
@@ -408,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>(int)Config::get('app.clog_env')</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>(int)Config::get('app.clog_env')</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
