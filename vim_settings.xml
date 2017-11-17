@@ -19,11 +19,6 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="39" />
@@ -41,11 +36,6 @@
         <mark key="'" line="641" column="17" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/date_c.php" timestamp="1510742197841" />
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="35" />
@@ -115,11 +105,6 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/global.func.php" timestamp="1510715707887">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" timestamp="1509353961425" />
       <file name="E:/work/project/rollup/main.php" timestamp="1510641258896">
         <mark key="'" line="10" column="16" />
@@ -127,11 +112,6 @@
         <mark key="]" line="15" column="12" />
         <mark key="^" line="15" column="12" />
         <mark key="." line="15" column="12" />
-      </file>
-      <file name="E:/work/project/stargate_server/common/Common_Interface.class.php" timestamp="1508845002904">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
         <mark key="[" line="196" column="29" />
@@ -238,14 +218,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510888012718">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1510901783428">
         <mark key="a" line="921" column="11" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="1797" column="20" />
-        <mark key="[" line="2767" column="112" />
-        <mark key="]" line="2767" column="112" />
-        <mark key="." line="2767" column="112" />
-        <mark key="^" line="2767" column="117" />
+        <mark key="[" line="921" column="106" />
+        <mark key="]" line="921" column="106" />
+        <mark key="." line="921" column="106" />
+        <mark key="^" line="921" column="106" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
@@ -254,7 +234,7 @@
         <mark key="." line="177" column="64" />
         <mark key="^" line="177" column="64" />
       </file>
-      <file name="/fragment.php" timestamp="1510835235728">
+      <file name="/fragment.php" timestamp="1510901361038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -267,10 +247,11 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
-      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510884259865">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
+      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1510902163858">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510900477867">
         <mark key="[" line="3" column="31" />
@@ -284,11 +265,6 @@
         <mark key="]" line="915" column="18" />
         <mark key="." line="915" column="18" />
         <mark key="^" line="915" column="18" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="40" />
-        <mark key="." line="388" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1510822288569">
         <mark key="'" line="83" column="33" />
@@ -432,16 +408,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uaXRvckNMb2dnZXI6OnJlcG9ydCgwLCAwLCAnbXNlYXJjaCcsICdFUycsICRfU0VSVkVSWydIVFRQX0hPU1QnXSwgcm91bmQoKG1pY3JvdGltZSh0cnVlKSAtICR0KSAqIDEwMDAsIDMpLCAwLCAkZS0+Z2V0Q29kZSgpLCAkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">CQkJImZsb3dJZCI9PiBDaGVja29yOjpnZXRJbmZvKCdzZXFJZCcpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
