@@ -226,6 +226,12 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1510900544243">
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="128" column="22" />
+        <mark key="." line="128" column="22" />
+        <mark key="^" line="128" column="22" />
+      </file>
       <file name="E:/work/project/check_cvm/export_10s.php" timestamp="1505290416800">
         <mark key="[" line="67" column="45" />
         <mark key="]" line="67" column="45" />
@@ -266,7 +272,7 @@
         <mark key="]" line="44" column="41" />
         <mark key="." line="44" column="41" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510888024711">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1510900477867">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
@@ -275,9 +281,9 @@
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510735975580">
         <mark key="'" line="892" column="16" />
         <mark key="[" line="908" column="56" />
-        <mark key="]" line="914" column="18" />
-        <mark key="." line="914" column="18" />
-        <mark key="^" line="914" column="18" />
+        <mark key="]" line="915" column="18" />
+        <mark key="." line="915" column="18" />
+        <mark key="^" line="915" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
@@ -426,10 +432,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
