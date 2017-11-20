@@ -106,12 +106,12 @@
         <mark key="." line="32" column="17" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" timestamp="1509353961425" />
-      <file name="E:/work/project/rollup/main.php" timestamp="1510641258896">
+      <file name="E:/work/project/rollup/main.php" timestamp="1511170726877">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+        <mark key="[" line="71" column="69" />
+        <mark key="]" line="71" column="82" />
+        <mark key="^" line="71" column="82" />
+        <mark key="." line="71" column="82" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
         <mark key="[" line="196" column="29" />
@@ -297,11 +297,11 @@
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
         <mark key="'" line="76" column="5" />
       </file>
-      <file name="E:/work/project/rollup/fix.php" timestamp="1510741703169">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="65" />
-        <mark key="." line="12" column="65" />
-        <mark key="^" line="12" column="65" />
+      <file name="E:/work/project/rollup/fix.php" timestamp="1511170719795">
+        <mark key="[" line="101" column="54" />
+        <mark key="]" line="101" column="54" />
+        <mark key="." line="101" column="54" />
+        <mark key="^" line="101" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -407,17 +407,17 @@
       <jump line="864" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YTIgPSBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>inputStatType</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>inputStatType</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRwWydzdGF0aXN0aWNzJ10gPSAkb2xkU3RhdFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICRkYXRhWydzdGFydF90aW1lJ10gPSAoc3RyaW5nKXN0cnRvdGltZShkYXRlKCdZLW0tZCAwMDowMDowMCcpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkZGF0YTIgPSBbXTsK</text>
