@@ -8,7 +8,7 @@
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1510813917466">
+      <file name="/a.dummy" timestamp="1511161492892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -218,14 +218,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511150773549">
-        <mark key="a" line="778" column="36" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511161248970">
+        <mark key="a" line="2517" column="15" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="864" column="0" />
-        <mark key="[" line="2515" column="39" />
-        <mark key="]" line="2516" column="62" />
-        <mark key="." line="2516" column="62" />
-        <mark key="^" line="2516" column="62" />
+        <mark key="[" line="2517" column="25" />
+        <mark key="]" line="2517" column="0" />
+        <mark key="." line="2517" column="0" />
+        <mark key="^" line="2517" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
@@ -407,8 +407,8 @@
       <jump line="864" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(int)Config::get('app.clog_env')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>(int)Config::get('app.clog_env')</text>
@@ -420,31 +420,31 @@
         <text encoding="base64">CQkJImVudmlyb25tZW50Ij0+IChpbnQpQ29uZmlnOjpnZXQoJ2FwcC5jbG9nX2VudicpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhW10gPSAkaXRlbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBbXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhW10gPSAkaXRlbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAkdGhpcy0+Z2V0U3RhdGVUZXh0KCRvbmUtPnN0YXRlKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXVpZCcgPT4gJG9uZS0+dXVpZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdHVzJyA9PiAkdGhpcy0+Z2V0U3RhdGVUZXh0KCRvbmUtPnN0YXRlKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtID0gWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXVpZCcgPT4gJG9uZS0+dXVpZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtID0gWwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzEwMC44OS4yMjQuMzI6OTIwMScsCg==</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
