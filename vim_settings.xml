@@ -256,11 +256,11 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511256746109">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511266749941">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="." line="3" column="36" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
@@ -411,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>先</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>先</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
