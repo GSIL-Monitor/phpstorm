@@ -221,14 +221,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511255377832">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511257093046">
         <mark key="a" line="476" column="53" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="403" column="0" />
-        <mark key="[" line="2184" column="64" />
-        <mark key="]" line="2184" column="64" />
-        <mark key="." line="2184" column="64" />
-        <mark key="^" line="2184" column="67" />
+        <mark key="[" line="2183" column="64" />
+        <mark key="]" line="2183" column="69" />
+        <mark key="." line="2183" column="69" />
+        <mark key="^" line="2183" column="69" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
@@ -256,11 +256,11 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511254213995">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511256746109">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="34" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
@@ -411,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
@@ -423,31 +423,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdW5zZXQoJHBbJ3N0YXJ0VGltZSddKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkc2VsZWN0aW9uWzMwMF1bJ21heCddID0gJyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICRkYXRhWyRrXSA9IGFycmF5X21lcmdlKCR2LCAgJGRhdGEyWyRrXSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGExIGFzICRrID0+ICR2KSB7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICRkYXRhWyRrXSA9IGFycmF5X21lcmdlKCR2LCAgJGRhdGEyWyRrXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gYXJyYXlfbWVyZ2UoJGRhdGExLCAkZGF0YTIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRhdGExIGFzICRrID0+ICR2KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gYXJyYXlfbWVyZ2UoJGRhdGExLCAkZGF0YTIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YTIgPSAkdGhpcy0+Z2V0U3RhdGlzdGljc05ldygkcXVlcnlbMV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb3VudCgkcXVlcnkpID09IDIpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGF0YTIgPSAkdGhpcy0+Z2V0U3RhdGlzdGljc05ldygkcXVlcnlbMV0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhMSA9ICR0aGlzLT5nZXRTdGF0aXN0aWNzTmV3KCRxdWVyeVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb3VudCgkcXVlcnkpID09IDIpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeSA9ICR0aGlzLT5wcm9jZXNzU3dpdGNoKCRwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhMSA9ICR0aGlzLT5nZXRTdGF0aXN0aWNzTmV3KCRxdWVyeVswXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
