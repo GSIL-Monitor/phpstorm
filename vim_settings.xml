@@ -221,7 +221,7 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511181956570">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511254327694">
         <mark key="a" line="476" column="53" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="403" column="0" />
@@ -256,11 +256,11 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511250243762">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511254213995">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
+        <mark key="]" line="3" column="34" />
         <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
@@ -411,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
