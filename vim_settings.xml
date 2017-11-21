@@ -209,7 +209,7 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1511235411541">
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1511250723168">
         <mark key="[" line="132" column="23" />
         <mark key="]" line="132" column="23" />
         <mark key="." line="132" column="23" />
@@ -256,7 +256,7 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511235421191">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511250243762">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
@@ -411,10 +411,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
