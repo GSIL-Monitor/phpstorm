@@ -221,14 +221,14 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511345931255">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511354701545">
         <mark key="a" line="2504" column="43" />
         <mark key="b" line="426" column="39" />
         <mark key="'" line="1203" column="0" />
-        <mark key="[" line="2263" column="0" />
-        <mark key="]" line="2263" column="0" />
-        <mark key="." line="2263" column="0" />
-        <mark key="^" line="2264" column="12" />
+        <mark key="[" line="2491" column="38" />
+        <mark key="]" line="2491" column="20" />
+        <mark key="." line="2491" column="20" />
+        <mark key="^" line="2491" column="20" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
