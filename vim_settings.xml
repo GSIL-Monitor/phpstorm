@@ -230,6 +230,12 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511495641666">
+        <mark key="[" line="414" column="32" />
+        <mark key="]" line="414" column="32" />
+        <mark key="^" line="404" column="40" />
+        <mark key="." line="414" column="32" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
         <mark key="[" line="139" column="104" />
@@ -406,10 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isset()</text>
+        <text>$_GET['endtime']</text>
       </register>
       <register name="-" type="4">
-        <text>isset()</text>
+        <text>$_GET['endtime']</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
