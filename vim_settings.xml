@@ -37,12 +37,12 @@
         <mark key="'" line="641" column="17" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/date_c.php" timestamp="1510742197841" />
-      <file name="E:/work/project/api/app/config/app.php" timestamp="1511489944294">
-        <mark key="'" line="91" column="57" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+      <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
+        <mark key="'" line="92" column="57" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
         <mark key="[" line="3" column="31" />
@@ -261,6 +261,12 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511511188149">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
         <mark key="[" line="917" column="56" />
@@ -412,16 +418,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isset()</text>
+        <text>isset($_GET['debug'])</text>
       </register>
       <register name="-" type="4">
-        <text>isset()</text>
+        <text>isset($_GET['debug'])</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGxvZy0+cHVzaFByb2Nlc3NvcigkcCk7Cg==</text>
+        <text encoding="base64">CSdkZWJ1ZycgPT4gaXNzZXQoJF9HRVRbJ2RlYnVnJ10pLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2coJ1BhcmFtcycsIENoZWNrb3I6OmdldEFsbFJldHVybnModHJ1ZSksIHRydWUpOwo=</text>
