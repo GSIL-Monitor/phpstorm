@@ -8,7 +8,7 @@
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511506661682">
+      <file name="/a.dummy" timestamp="1511516344413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -18,6 +18,11 @@
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
         <mark key="[" line="48" column="39" />
@@ -43,6 +48,11 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
+      </file>
+      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
         <mark key="[" line="3" column="31" />
@@ -114,6 +124,11 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/global.func.php" timestamp="1510715707887">
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php" timestamp="1509353961425" />
       <file name="E:/work/project/rollup/main.php" timestamp="1511170726877">
         <mark key="'" line="10" column="16" />
@@ -121,6 +136,11 @@
         <mark key="]" line="71" column="82" />
         <mark key="^" line="71" column="82" />
         <mark key="." line="71" column="82" />
+      </file>
+      <file name="E:/work/project/stargate_server/common/Common_Interface.class.php" timestamp="1508845002904">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
         <mark key="[" line="196" column="29" />
@@ -262,6 +282,11 @@
       </file>
       <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/header.php" timestamp="1508983809509" />
       <file name="E:/work/project/api/app/libaries/SimplyHBase.class.php" timestamp="1509595989885" />
+      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1511516372114">
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="21" />
+        <mark key="." line="78" column="21" />
+      </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511511188149">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="35" />
@@ -274,6 +299,11 @@
         <mark key="]" line="917" column="54" />
         <mark key="." line="917" column="54" />
         <mark key="^" line="917" column="54" />
+      </file>
+      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="40" />
+        <mark key="." line="388" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1510822288569">
         <mark key="'" line="83" column="33" />
@@ -419,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
