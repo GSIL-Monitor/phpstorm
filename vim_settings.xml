@@ -184,12 +184,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511490376374">
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511491597456">
         <mark key="'" line="93" column="38" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="4" />
+        <mark key="[" line="93" column="49" />
+        <mark key="]" line="93" column="49" />
+        <mark key="." line="93" column="49" />
+        <mark key="^" line="93" column="47" />
       </file>
       <file name="E:/work/project/cost/main.php" timestamp="1509595803978">
         <mark key="[" line="23" column="0" />
@@ -426,11 +426,11 @@
       <jump line="93" column="38" filename="E:/work/project/api/app/controllers/BaseController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCigpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)$data</text>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>)$data</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
