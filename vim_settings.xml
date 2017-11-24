@@ -92,11 +92,11 @@
         <mark key="^" line="8" column="75" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="E:/work/project/api/app/start/global.php" timestamp="1511492713058">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="45" column="93" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/work/project/api/app/start/global.php" timestamp="1511493724809">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
         <mark key="[" line="12" column="0" />
@@ -185,12 +185,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511492994484">
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511493699712">
         <mark key="'" line="96" column="38" />
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="30" />
-        <mark key="." line="94" column="30" />
-        <mark key="^" line="94" column="30" />
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="33" />
+        <mark key="^" line="49" column="33" />
       </file>
       <file name="E:/work/project/cost/main.php" timestamp="1509595803978">
         <mark key="[" line="23" column="0" />
@@ -428,10 +428,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>isset()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>isset()</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
