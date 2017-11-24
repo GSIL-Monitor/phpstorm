@@ -8,7 +8,7 @@
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511430744210">
+      <file name="/a.dummy" timestamp="1511488113231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -88,11 +88,11 @@
         <mark key="^" line="8" column="75" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="E:/work/project/api/app/start/global.php" timestamp="1511442403852">
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="43" />
+      <file name="E:/work/project/api/app/start/global.php" timestamp="1511488469574">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="89" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
         <mark key="[" line="12" column="0" />
@@ -181,9 +181,9 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511431119434">
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511488316548">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="8" column="35" />
+        <mark key="[" line="16" column="79" />
       </file>
       <file name="E:/work/project/cost/main.php" timestamp="1509595803978">
         <mark key="[" line="23" column="0" />
@@ -271,12 +271,6 @@
         <mark key="." line="51" column="34" />
         <mark key="^" line="51" column="34" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511430945767">
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-        <mark key="^" line="80" column="30" />
-      </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
         <mark key="[" line="917" column="56" />
@@ -316,7 +310,7 @@
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
         <mark key="'" line="76" column="5" />
       </file>
-      <file name="E:/work/project/rollup/fix.php" timestamp="1511170719795">
+      <file name="E:/work/project/rollup/fix.php" timestamp="1511487881803">
         <mark key="[" line="101" column="54" />
         <mark key="]" line="101" column="54" />
         <mark key="." line="101" column="54" />
@@ -426,44 +420,44 @@
       <jump line="244" column="0" filename="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FilterHandler</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FilterHandler</text>
+        <text>Monolog\Logger::DEBUG</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hlY2tvcjo6c2V0SW5mbygnZGVidWcnLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICRyZWNvcmRbJ2V4dHJhJ11bJ2R1bW15J10gPSAnSGVsbG8gd29ybGQhJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QXBwOjptb25vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQ3JlYXRlIGEgaGFuZGxlcgo=</text>
+        <text encoding="base64">JHN0cmVhbSA9IG5ldyBNb25vbG9nXEhhbmRsZXJcU3RyZWFtSGFuZGxlcignbGFyYXZlbC5sb2cnLCAkbG9nX2xldmVsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICRjb250ZW50ID0gc3ByaW50ZigiWyVzXSAkZm10XG4iLCAsICRtc2cpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZmluYWxseSwgY3JlYXRlIGEgZm9ybWF0dGVyCg==</text>
+        <text encoding="base64">QXBwOjptb25vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JG91dHB1dCA9ICIlZGF0ZXRpbWUlID4gJWxldmVsX25hbWUlID4gJW1lc3NhZ2UlICVjb250ZXh0JSAlZXh0cmElXG4iOwo=</text>
+        <text encoding="base64">Ly8gQ3JlYXRlIGEgaGFuZGxlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gdGhlIGRlZmF1bHQgb3V0cHV0IGZvcm1hdCBpcyAiWyVkYXRldGltZSVdICVjaGFubmVsJS4lbGV2ZWxfbmFtZSU6ICVtZXNzYWdlJSAlY29udGV4dCUgJWV4dHJhJVxuIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGRhdGVGb3JtYXQgPSAiWSBuIGosIGc6aSBhIjsK</text>
+        <text encoding="base64">Ly8gZmluYWxseSwgY3JlYXRlIGEgZm9ybWF0dGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdGhlIGRlZmF1bHQgZGF0ZSBmb3JtYXQgaXMgIlktbS1kIEg6aTpzIgo=</text>
+        <text encoding="base64">JG91dHB1dCA9ICIlZGF0ZXRpbWUlID4gJWxldmVsX25hbWUlID4gJW1lc3NhZ2UlICVjb250ZXh0JSAlZXh0cmElXG4iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gYmluZCBpdCB0byBhIGxvZ2dlciBvYmplY3QK</text>
+        <text encoding="base64">Ly8gdGhlIGRlZmF1bHQgb3V0cHV0IGZvcm1hdCBpcyAiWyVkYXRldGltZSVdICVjaGFubmVsJS4lbGV2ZWxfbmFtZSU6ICVtZXNzYWdlJSAlY29udGV4dCUgJWV4dHJhJVxuIgo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
