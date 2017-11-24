@@ -236,10 +236,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511512784839">
-        <mark key="[" line="2693" column="52" />
-        <mark key="]" line="379" column="0" />
-        <mark key="." line="379" column="0" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1511515077529">
+        <mark key="[" line="369" column="78" />
+        <mark key="]" line="369" column="78" />
+        <mark key="." line="369" column="78" />
+        <mark key="^" line="369" column="78" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
         <mark key="'" line="160" column="56" />
@@ -418,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isset($_GET['debug'])</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>isset($_GET['debug'])</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
