@@ -298,8 +298,8 @@
         <mark key="]" line="388" column="40" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1510822288569">
-        <mark key="'" line="83" column="33" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1511754678010">
+        <mark key="'" line="21" column="17" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/ResetState.class.php" timestamp="1502866249211">
         <mark key="[" line="15" column="0" />
@@ -336,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2120" column="60" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="1659" column="13" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="367" column="16" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="74" column="0" filename="E:/work/project/rollup/main.php" />
@@ -436,6 +435,7 @@
       <jump line="91" column="57" filename="E:/work/project/api/app/config/app.php" />
       <jump line="244" column="0" filename="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" />
       <jump line="93" column="38" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="21" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -445,7 +445,7 @@
         <text>sh</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>lan_outpkg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSdkZWJ1ZycgPT4gaXNzZXQoJF9HRVRbJ2RlYnVnJ10pLAo=</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>lan_outpkg</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>lan_outpkg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
         <entry>EsGray</entry>
         <entry>esEffectTime</entry>
         <entry>getHBaseToCkvConf</entry>
@@ -512,6 +511,7 @@
         <entry>exception</entry>
         <entry>report</entry>
         <entry>debug</entry>
+        <entry>lan_outpkg</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
