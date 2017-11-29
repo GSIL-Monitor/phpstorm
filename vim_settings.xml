@@ -284,11 +284,11 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511944506664">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1511950183218">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>lan_outpkg</text>
