@@ -36,9 +36,6 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
-        <mark key="'" line="641" column="17" />
-      </file>
       <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
         <mark key="'" line="92" column="57" />
         <mark key="[" line="17" column="15" />
@@ -112,9 +109,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="36" />
-      </file>
-      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
-        <mark key="'" line="263" column="27" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1511767518644" />
       <file name="E:/work/project/admin.barad.oa.com/application/models/m_config.php" timestamp="1511767603816">
@@ -207,9 +201,6 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" timestamp="1511490300600">
-        <mark key="'" line="244" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1506671670849">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -283,7 +274,7 @@
         <mark key="." line="177" column="64" />
         <mark key="^" line="177" column="64" />
       </file>
-      <file name="/fragment.php" timestamp="1511421589563">
+      <file name="/fragment.php" timestamp="1512094298677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -332,23 +323,20 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
-        <mark key="'" line="169" column="19" />
-      </file>
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1512092080134" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1512096148693">
+        <mark key="'" line="1865" column="0" />
+        <mark key="[" line="1763" column="79" />
+        <mark key="]" line="1763" column="79" />
+        <mark key="." line="1763" column="79" />
+        <mark key="^" line="1865" column="0" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
-        <mark key="'" line="94" column="48" />
-      </file>
-      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
-        <mark key="'" line="76" column="5" />
-      </file>
       <file name="E:/work/project/rollup/fix.php" timestamp="1511487881803">
         <mark key="[" line="101" column="54" />
         <mark key="]" line="101" column="54" />
@@ -357,12 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="16" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="74" column="0" filename="E:/work/project/rollup/main.php" />
-      <jump line="1075" column="39" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="607" column="0" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="2270" column="55" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
-      <jump line="136" column="42" filename="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/static/config.js" />
       <jump line="1829" column="13" filename="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/MetricController.php" />
       <jump line="58" column="35" filename="E:/work/project/rollup/main.php" />
       <jump line="29" column="28" filename="E:/work/project/rollup/main.php" />
@@ -457,55 +439,61 @@
       <jump line="93" column="38" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="21" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="735" column="38" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" />
+      <jump line="1891" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="1700" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="1943" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="1942" column="7" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="1864" column="62" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="1865" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10.240.64.172</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>10.240.64.172</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>lan_outpkg</text>
+        <text>DescribeSortObjectList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInVybCIgPT4gImh0dHA6Ly8xMC4yNDAuNjQuMTcyLyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJJG9ialsnZGF0YSddWydkZXZpY2VMaXN0J11bXSA9IFsndUluc3RhbmNlSWQnPT4gJzEnLCAndnBjSWQnID0+IDEsICd1dWlkJyA9PiAnMSddOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3ZhbHVlcygkcmVzdWx0X29iamVjdHMpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2coJ1BhcmFtcycsIENoZWNrb3I6OmdldEFsbFJldHVybnModHJ1ZSksIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjppbmZvKCRpbnB1dCk7Cg==</text>
+        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjppbmZvKCRpbnB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2coJ1BhcmFtcycsIENoZWNrb3I6OmdldEFsbFJldHVybnModHJ1ZSksIHRydWUpOwo=</text>
+        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5sb2coJ1BhcmFtcycsIENoZWNrb3I6OmdldEFsbFJldHVybnModHJ1ZSksIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVuY3Rpb25UaW1lID0gbWljcm90aW1lKHRydWUpOwoK</text>
+        <text encoding="base64">ICAgICAgICRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3NsaWNlKCRyZXN1bHRfb2JqZWN0cywkb2Zmc2V0LCRsaW1pdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVuY3Rpb25UaW1lID0gbWljcm90aW1lKHRydWUpOwoK</text>
+        <text encoding="base64">ICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>lan_outpkg</last-search>
+      <last-search>DescribeSortObjectList</last-search>
       <last-offset />
-      <last-pattern>lan_outpkg</last-pattern>
+      <last-pattern>DescribeSortObjectList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -513,8 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>EsGray</entry>
-        <entry>esEffectTime</entry>
         <entry>getHBaseToCkvConf</entry>
         <entry>console</entry>
         <entry>print</entry>
@@ -533,6 +519,8 @@
         <entry>report</entry>
         <entry>debug</entry>
         <entry>lan_outpkg</entry>
+        <entry>getBaradObjects</entry>
+        <entry>DescribeSortObjectList</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
