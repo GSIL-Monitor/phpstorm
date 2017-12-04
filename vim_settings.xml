@@ -36,12 +36,6 @@
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
-        <mark key="'" line="641" column="17" />
-      </file>
-      <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
-        <mark key="'" line="91" column="57" />
-      </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -108,9 +102,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="13" column="36" />
-      </file>
-      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
-        <mark key="'" line="263" column="27" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1511767518644" />
       <file name="E:/work/project/admin.barad.oa.com/application/models/m_config.php" timestamp="1511767603816">
@@ -203,9 +194,6 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" timestamp="1511490300600">
-        <mark key="'" line="244" column="0" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1506671670849">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -229,6 +217,9 @@
         <mark key="]" line="25" column="58" />
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
+      </file>
+      <file name="/PHP Console" timestamp="1510882293357">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
         <mark key="[" line="3" column="16" />
@@ -259,6 +250,9 @@
         <mark key="]" line="67" column="45" />
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1512392370087">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512390978230">
         <mark key="[" line="378" column="81" />
@@ -308,9 +302,6 @@
         <mark key="^" line="663" column="22" />
         <mark key="." line="663" column="22" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
-        <mark key="'" line="169" column="19" />
-      </file>
       <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
         <mark key="[" line="10" column="79" />
         <mark key="]" line="10" column="81" />
@@ -325,12 +316,6 @@
         <mark key="^" line="1865" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
-        <mark key="'" line="94" column="48" />
-      </file>
-      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
-        <mark key="'" line="76" column="5" />
-      </file>
       <file name="E:/work/project/rollup/fix.php" timestamp="1511487881803">
         <mark key="[" line="101" column="54" />
         <mark key="]" line="101" column="54" />
