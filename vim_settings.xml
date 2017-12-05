@@ -269,11 +269,11 @@
       <file name="/Dummy.txt" timestamp="1512437648914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512461996814">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512473130581">
         <mark key="[" line="378" column="81" />
-        <mark key="]" line="378" column="78" />
-        <mark key="." line="378" column="78" />
-        <mark key="^" line="378" column="78" />
+        <mark key="]" line="2294" column="18" />
+        <mark key="." line="2294" column="18" />
+        <mark key="^" line="2294" column="18" />
       </file>
       <file name="/fragment.php" timestamp="1512098853247">
         <mark key="[" line="0" column="0" />
@@ -291,8 +291,8 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512459224454">
-        <mark key="[" line="3" column="31" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512473137243">
+        <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
@@ -452,10 +452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>sh</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
         <text>DescribeSortObjectList</text>
