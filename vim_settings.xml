@@ -278,7 +278,7 @@
         <mark key="." line="60" column="33" />
         <mark key="^" line="60" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512549650064">
+      <file name="/Dummy.txt" timestamp="1512551277404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512543419834">
@@ -287,19 +287,12 @@
         <mark key="^" line="1202" column="36" />
         <mark key="." line="1202" column="36" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1512547399626">
+      <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1512550743949">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="5" column="61" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
-        <mark key="'" line="160" column="56" />
-        <mark key="[" line="139" column="104" />
-        <mark key="]" line="177" column="64" />
-        <mark key="." line="177" column="64" />
-        <mark key="^" line="177" column="64" />
       </file>
       <file name="/fragment.php" timestamp="1512533733012">
         <mark key="[" line="0" column="0" />
@@ -330,13 +323,6 @@
         <mark key="." line="3" column="39" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
-      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
-        <mark key="'" line="892" column="16" />
-        <mark key="[" line="917" column="56" />
-        <mark key="]" line="917" column="54" />
-        <mark key="." line="917" column="54" />
-        <mark key="^" line="917" column="54" />
-      </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
         <mark key="[" line="388" column="0" />
         <mark key="]" line="388" column="40" />
