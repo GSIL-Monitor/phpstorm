@@ -116,11 +116,11 @@
         <mark key="'" line="263" column="27" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1511767518644" />
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_config.php" timestamp="1512525234823">
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="85" column="31" />
-        <mark key="^" line="85" column="31" />
-        <mark key="." line="85" column="31" />
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_config.php" timestamp="1512527351754">
+        <mark key="[" line="87" column="53" />
+        <mark key="]" line="87" column="51" />
+        <mark key="^" line="87" column="51" />
+        <mark key="." line="87" column="51" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1512098776284">
         <mark key="[" line="72" column="21" />
@@ -274,6 +274,12 @@
         <mark key="]" line="2294" column="18" />
         <mark key="." line="2294" column="18" />
         <mark key="^" line="2294" column="18" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1512527692764">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1512098853247">
         <mark key="[" line="0" column="0" />
@@ -451,11 +457,11 @@
       <jump line="26" column="19" filename="E:/work/project/barad_proj/trunk/barad_assistant/model/userAuthorityModel.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sh</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sh</text>
+        <text>confi</text>
       </register>
       <register name="/" type="4">
         <text>DescribeSortObjectList</text>
@@ -467,28 +473,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3ZhbHVlcygkcmVzdWx0X29iamVjdHMpOwoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3ZhbHVlcygkcmVzdWx0X29iamVjdHMpOwoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkvL8q508NiYXJhZGFwadDCvdO/2tXiwO/V4sDv0qrIpbX0YXJyYXm31tKzvdjIoQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3NsaWNlKCRyZXN1bHRfb2JqZWN0cywkb2Zmc2V0LCRsaW1pdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICRyZXN1bHRfb2JqZWN0cyA9IGFycmF5X3NsaWNlKCRyZXN1bHRfb2JqZWN0cywkb2Zmc2V0LCRsaW1pdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
