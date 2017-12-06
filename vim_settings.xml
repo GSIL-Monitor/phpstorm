@@ -152,12 +152,12 @@
         <mark key="." line="322" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/common.php" timestamp="1512091729206" />
-      <file name="E:/work/project/rollup/main.php" timestamp="1512112719115">
+      <file name="E:/work/project/rollup/main.php" timestamp="1512544108904">
         <mark key="'" line="10" column="16" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="10" />
+        <mark key="[" line="82" column="54" />
+        <mark key="]" line="82" column="54" />
+        <mark key="^" line="82" column="54" />
+        <mark key="." line="82" column="54" />
       </file>
       <file name="E:/work/project/stargate_server/common/Common_Interface.class.php" timestamp="1508845002904">
         <mark key="[" line="127" column="0" />
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aW5fYXJyYXkoJG1ldHJpY0luZm8tPm5hbWVzcGFjZSwgWydxY2UvY3ZtJywgJ3FjZS9sYicsICdxY2UvcmxiJ10pJiYgJHRoaXMtPmhhc0hvdXJEYXRhKCRtZXRyaWNJbmZvLT5kaW1Hcm91cElkLCAkc3RhdGlzdGljcyk=</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5fYXJyYXkoJG1ldHJpY0luZm8tPm5hbWVzcGFjZSwgWydxY2UvY3ZtJywgJ3FjZS9sYicsICdxY2UvcmxiJ10pJiYgJHRoaXMtPmhhc0hvdXJEYXRhKCRtZXRyaWNJbmZvLT5kaW1Hcm91cElkLCAkc3RhdGlzdGljcyk=</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>DescribeSortObjectList</text>
