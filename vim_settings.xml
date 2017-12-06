@@ -309,11 +309,11 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512533562077">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512541762385">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
       <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
@@ -467,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>DescribeSortObjectList</text>
