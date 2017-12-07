@@ -249,12 +249,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512632658771">
+      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512633721645">
         <mark key="'" line="86" column="29" />
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="22" />
+        <mark key="." line="66" column="22" />
+        <mark key="^" line="66" column="22" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1499657841893">
         <mark key="[" line="25" column="59" />
@@ -283,11 +283,11 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512632697402">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512633665788">
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/CommonController.php" timestamp="1501639585615">
         <mark key="[" line="4" column="35" />
@@ -524,43 +524,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ping</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>ping</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSdkYmRyaXZlcicJPT4gJ215c3FsaScsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnF1ZXJ5KCJzaG93IHRhYmxlcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQllY2hvICRzdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnJlY29ubmVjdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwcmludF9yKCRiaW5kcyk7Cg==</text>
+        <text encoding="base64">CQllY2hvICRzdHI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXNlcik7Cg==</text>
+        <text encoding="base64">CQlwcmludF9yKCRiaW5kcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXNlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+dXNlcjsK</text>
+        <text encoding="base64">CSAgICBwcmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT51c2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+dXNlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT51c2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsID0gIlNFTEVDVCAqIEZST00gY1VzZXIgV0hFUkUgIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
