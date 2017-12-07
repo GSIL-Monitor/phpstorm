@@ -6,79 +6,6 @@
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/model/userAuthorityModel.class.php" timestamp="1512438247621">
         <mark key="'" line="26" column="19" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/views/v_config.php" timestamp="1508838106587">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1511516344413">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/bootstrap/start.php" timestamp="1504000807982">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/common.php" timestamp="1498724105716">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="39" />
-        <mark key="^" line="48" column="49" />
-        <mark key="." line="48" column="39" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/header.php" timestamp="1512617382003">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1504255601539">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="26" column="88" />
-        <mark key="." line="26" column="88" />
-        <mark key="^" line="26" column="88" />
-      </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
-        <mark key="'" line="641" column="17" />
-      </file>
-      <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
-        <mark key="'" line="91" column="57" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/app/controllers/BaseController.php" timestamp="1505199040929">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script/conf/config.php" timestamp="1510710829882">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="17" column="1" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/conf/config.php" timestamp="1510825347872">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script/oss/delEsObject.php" timestamp="1510716482342">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/Tool.class.php" timestamp="1512045573030" />
       <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/pdo/pdo_driver.php" timestamp="1512635575104">
         <mark key="[" line="115" column="29" />
@@ -86,80 +13,82 @@
         <mark key="^" line="117" column="12" />
         <mark key="." line="117" column="12" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/config/database.php" timestamp="1500882869427">
-        <mark key="[" line="83" column="30" />
-        <mark key="]" line="83" column="34" />
-        <mark key="." line="83" column="34" />
-        <mark key="^" line="83" column="34" />
-      </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1512092816911" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1512092931862">
         <mark key="[" line="735" column="0" />
         <mark key="]" line="735" column="0" />
         <mark key="." line="735" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/models/m_config.php" timestamp="1499830937849">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="26" column="68" />
-        <mark key="." line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1512619002115">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="E:/work/project/rollup/export.php" timestamp="1510643916406">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-      </file>
-      <file name="E:/work/project/api/bootstrap/app.php" timestamp="1510213571692">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="8" column="75" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1499676705375">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="13" column="36" />
-      </file>
-      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
-        <mark key="'" line="263" column="27" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1512552795721" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1512640226465" />
       <file name="E:/work/project/admin.barad.oa.com/application/models/m_config.php" timestamp="1512631565142">
         <mark key="[" line="87" column="52" />
         <mark key="]" line="87" column="56" />
         <mark key="^" line="87" column="56" />
         <mark key="." line="87" column="56" />
       </file>
+      <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1512635087183" />
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1512641079678">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512638315286">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="124" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1512612613791">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512641131021">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+      </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
+        <mark key="'" line="94" column="48" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" timestamp="1512638757931">
+        <mark key="'" line="318" column="31" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/header.php" timestamp="1512617382003">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
+        <mark key="'" line="641" column="17" />
+      </file>
+      <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
+        <mark key="'" line="91" column="57" />
+      </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1512092816911" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1512640660259">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1512638950162">
+        <mark key="[" line="50" column="23" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
+      </file>
+      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
+        <mark key="'" line="263" column="27" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1512098776284">
         <mark key="[" line="72" column="21" />
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
         <mark key="^" line="71" column="39" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1502866178526">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="44" />
-      </file>
-      <file name="E:/work/project/checkCvm/check.php" timestamp="1505208098959">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="32" column="17" />
-        <mark key="^" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script/lib/global.func.php" timestamp="1510715707887">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/common.php" timestamp="1512091729206" />
       <file name="E:/work/project/rollup/main.php" timestamp="1512544108904">
@@ -169,53 +98,11 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1512635087183" />
-      <file name="E:/work/project/stargate_server/common/Common_Interface.class.php" timestamp="1508845002904">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
-        <mark key="[" line="196" column="29" />
-        <mark key="]" line="196" column="4" />
-        <mark key="^" line="196" column="4" />
-        <mark key="." line="196" column="4" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1498562814196">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="80" column="59" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/checkDatabase/conf/config.php" timestamp="1500017014321">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="45" />
-        <mark key="." line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/barad/genDvFromHbase.php" timestamp="1505469009663">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="31" />
-        <mark key="^" line="57" column="31" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/c_config.php" timestamp="1499831148649">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="45" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/policy.barad.isd.com_v1.0.0/policy/application/controllers/page.php" timestamp="1506502609816">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
-      </file>
-      <file name="E:/work/project/api/app/routes.php" timestamp="1510818376414">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="43" />
-        <mark key="." line="22" column="43" />
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_api.php" timestamp="1512641410533">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="78" />
+        <mark key="^" line="35" column="78" />
+        <mark key="." line="35" column="78" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/system/database/DB_driver.php" timestamp="1512635011635">
         <mark key="'" line="685" column="39" />
@@ -223,20 +110,8 @@
         <mark key="^" line="252" column="17" />
         <mark key="." line="252" column="17" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/QnsController.php" timestamp="1501639567846">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-      </file>
       <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" timestamp="1511490300600">
         <mark key="'" line="244" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/start.php" timestamp="1506671670849">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511944628002">
         <mark key="[" line="27" column="38" />
@@ -244,77 +119,16 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="E:/work/project/cost/main.php" timestamp="1509595803978">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="35" column="32" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512635150331">
-        <mark key="'" line="85" column="29" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="65" column="22" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1499657841893">
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="58" />
-        <mark key="^" line="25" column="58" />
-        <mark key="." line="25" column="58" />
+      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512636879748">
+        <mark key="'" line="80" column="29" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1510882293357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="44" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="3" column="44" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/GlobalFunctions.php" timestamp="1498463358473">
-        <mark key="[" line="138" column="35" />
-        <mark key="]" line="138" column="46" />
-        <mark key="^" line="138" column="46" />
-        <mark key="." line="138" column="46" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_dv/conf/config.php" timestamp="1505465874426">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512633665788">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/api/app/controllers/CommonController.php" timestamp="1501639585615">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-      </file>
-      <file name="E:/work/project/check_cvm/export_10s.php" timestamp="1505290416800">
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="45" />
-        <mark key="^" line="67" column="45" />
-        <mark key="." line="67" column="45" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1512612613791">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512619894088">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512635512260">
+      <file name="/Dummy.txt" timestamp="1512638551405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512543419834">
@@ -330,75 +144,15 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
-        <mark key="'" line="160" column="56" />
-        <mark key="[" line="139" column="104" />
-        <mark key="]" line="177" column="64" />
-        <mark key="." line="177" column="64" />
-        <mark key="^" line="177" column="64" />
-      </file>
-      <file name="/fragment.php" timestamp="1512533733012">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="E:/work/project/rollup/check.php" timestamp="1508834581894">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_index.php" timestamp="1512533356129">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="39" column="17" />
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/api/app/libaries/MonitorCLogger.class.php" timestamp="1511516372114">
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="21" />
-        <mark key="." line="78" column="21" />
-      </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512541762385">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
-      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
-        <mark key="'" line="892" column="16" />
-        <mark key="[" line="917" column="56" />
-        <mark key="]" line="917" column="54" />
-        <mark key="." line="917" column="54" />
-        <mark key="^" line="917" column="54" />
-      </file>
-      <file name="E:/work/project/barad_proj/branches/api_es/api/app/controllers/MetricController.php" timestamp="1506410736454">
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="40" />
-        <mark key="." line="388" column="0" />
-      </file>
-      <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/ResetState.class.php" timestamp="1502866249211">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="48" column="45" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/global.func.php" timestamp="1498537326501">
-        <mark key="[" line="663" column="10" />
-        <mark key="]" line="663" column="22" />
-        <mark key="^" line="663" column="22" />
-        <mark key="." line="663" column="22" />
-      </file>
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
         <mark key="'" line="169" column="19" />
-      </file>
-      <file name="E:/work/project/check_cvm/check.php" timestamp="1505286947542">
-        <mark key="[" line="10" column="79" />
-        <mark key="]" line="10" column="81" />
-        <mark key="^" line="10" column="81" />
-        <mark key="." line="10" column="81" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1512098849333">
         <mark key="'" line="1865" column="0" />
@@ -408,28 +162,11 @@
         <mark key="^" line="1865" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
-        <mark key="'" line="94" column="48" />
-      </file>
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
         <mark key="'" line="76" column="5" />
       </file>
-      <file name="E:/work/project/rollup/fix.php" timestamp="1511487881803">
-        <mark key="[" line="101" column="54" />
-        <mark key="]" line="101" column="54" />
-        <mark key="." line="101" column="54" />
-        <mark key="^" line="101" column="54" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="E:/work/project/rollup/main.php" />
-      <jump line="12" column="4" filename="E:/work/project/rollup/main.php" />
-      <jump line="24" column="4" filename="E:/work/project/rollup/main.php" />
-      <jump line="30" column="4" filename="E:/work/project/rollup/main.php" />
-      <jump line="6" column="15" filename="E:/work/project/rollup/main.php" />
-      <jump line="11" column="16" filename="E:/work/project/rollup/main.php" />
-      <jump line="94" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" />
-      <jump line="768" column="4" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1837" column="64" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="58" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="69" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
@@ -522,55 +259,63 @@
       <jump line="83" column="34" filename="E:/work/project/admin.barad.oa.com/application/config/database.php" />
       <jump line="85" column="29" filename="E:/work/project/admin.barad.oa.com/application/config/database.php" />
       <jump line="685" column="39" filename="E:/work/project/admin.barad.oa.com/system/database/DB_driver.php" />
+      <jump line="11" column="57" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="0" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="626" column="30" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="49" column="101" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="50" column="48" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="192" column="138" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="318" column="31" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="108" column="20" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hostname</text>
-      </register>
-      <register name="-" type="4">
-        <text>hostname</text>
-      </register>
-      <register name="/" type="4">
         <text>admin</text>
       </register>
+      <register name="-" type="4">
+        <text>admin</text>
+      </register>
+      <register name="/" type="4">
+        <text>namespace</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">CQllY2hvICR0aGlzLT5ob3N0bmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlckluZm9bJ0xvZ2luTmFtZSddID0gJ2FkbWluJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSdkYmRyaXZlcicJPT4gJ215c3FsaScsCg==</text>
+        <text encoding="base64">CQkJYWxlcnQoMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGItPnJlY29ubmVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQllY2hvICRzdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGVJZHMucHVzaChhcGlOYW1lc3BhY2VMaXN0Lm1ldHJpY0xpc3RbaV0uYXBpSW50ZXJmYWNlVHJhbnNsYXRlSWQpIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludF9yKCRiaW5kcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSBhcGlOYW1lc3BhY2VMaXN0Lm1ldHJpY0xpc3QubGVuZ3RoIC0gMTsgaSA+PSAwOyBpLS0pIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+dXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0cmFuc2xhdGVJZHMgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwaU5hbWVzcGFjZUxpc3QubWV0cmljTGlzdCA9IGRhdGE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkdGhpcy0+dXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT51c2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDE7CiAgICAgICAgZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search>namespace</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern>namespace</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -578,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>print</entry>
         <entry>EsEffect</entry>
         <entry>Effect</entry>
@@ -598,6 +342,7 @@
         <entry>getBaradObjects</entry>
         <entry>DescribeSortObjectList</entry>
         <entry>admin</entry>
+        <entry>namespace</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
