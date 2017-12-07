@@ -163,7 +163,7 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1512631019892">
+      <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1512632403932">
         <mark key="[" line="316" column="32" />
         <mark key="]" line="316" column="32" />
         <mark key="^" line="316" column="32" />
@@ -249,12 +249,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512631591564">
-        <mark key="'" line="85" column="29" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="56" column="25" />
+      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1512632658771">
+        <mark key="'" line="86" column="29" />
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="22" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/bootstrap/config.php" timestamp="1499657841893">
         <mark key="[" line="25" column="59" />
@@ -283,11 +283,11 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512631569250">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="29" />
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1512632697402">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/CommonController.php" timestamp="1501639585615">
         <mark key="[" line="4" column="35" />
@@ -313,7 +313,7 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512617355030">
+      <file name="/Dummy.txt" timestamp="1512632445124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512543419834">
@@ -524,16 +524,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pdo</text>
+        <text>ping</text>
       </register>
       <register name="-" type="4">
-        <text>pdo</text>
+        <text>ping</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gJHRoaXMtPmRiLT5xdWVyeSgiU0VMRUNUIHVzZXIgRlJPTSBjVXNlciBXSEVSRSBuYW1lc3BhY2U9J19fQURNSU5fXycgQU5EIHVzZXI9J3skdGhpcy0+dXNlcn0nIik7Cg==</text>
+        <text encoding="base64">CSdkYmRyaXZlcicJPT4gJ215c3FsaScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQllY2hvICRzdHI7Cg==</text>
