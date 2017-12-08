@@ -44,11 +44,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512641131021">
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512702157034">
         <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+        <mark key="]" line="8" column="50" />
+        <mark key="^" line="8" column="50" />
+        <mark key="." line="8" column="50" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
@@ -270,10 +270,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>namespace</text>
