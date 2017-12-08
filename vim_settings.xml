@@ -384,7 +384,7 @@
       <file name="/Dummy.txt" timestamp="1512715952188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512703162844">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512724196173">
         <mark key="[" line="1290" column="30" />
         <mark key="]" line="1290" column="40" />
         <mark key="^" line="1290" column="40" />
@@ -414,11 +414,11 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512702940392">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512723825735">
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
@@ -539,11 +539,11 @@
       <jump line="10" column="116" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>addMetricEnter</text>
