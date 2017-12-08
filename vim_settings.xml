@@ -6,6 +6,7 @@
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/model/userAuthorityModel.class.php" timestamp="1512438247621">
         <mark key="'" line="26" column="19" />
       </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1512704845687" />
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="39" />
@@ -110,7 +111,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512702157034">
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512704799245">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="8" column="50" />
         <mark key="^" line="8" column="50" />
@@ -332,7 +333,7 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512638551405">
+      <file name="/Dummy.txt" timestamp="1512705249705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1512703162844">
@@ -486,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFORCB2aWV3TmFtZSk=</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFORCB2aWV3TmFtZSk=</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>namespace</text>
