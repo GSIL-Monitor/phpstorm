@@ -120,6 +120,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="28" column="124" />
       </file>
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1512986016146">
+        <mark key="[" line="134" column="31" />
+        <mark key="]" line="134" column="29" />
+        <mark key="^" line="134" column="29" />
+        <mark key="." line="134" column="29" />
+      </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1512612613791">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -132,7 +138,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/fragment.php" timestamp="1512533733012">
+      <file name="/fragment.php" timestamp="1512986126868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -324,12 +330,6 @@
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/system/database/DB_driver.php" timestamp="1512635011635">
-        <mark key="'" line="685" column="39" />
-        <mark key="]" line="252" column="17" />
-        <mark key="^" line="252" column="17" />
-        <mark key="." line="252" column="17" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/QnsController.php" timestamp="1501639567846">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="5" column="29" />
@@ -414,7 +414,7 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512982359262">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512986393839">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>addMetricEnter</text>
@@ -552,31 +552,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlckluZm9bJ0xvZ2luTmFtZSddID0gJ2FkbWluJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+bW9kZWwoJ01fYWRtaW4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDE7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlckluZm9bJ0xvZ2luTmFtZSddID0gJ3Rlc3QnOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvIDE7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlckluZm9bJ0xvZ2luTmFtZSddID0gJ3Rlc3QnOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
