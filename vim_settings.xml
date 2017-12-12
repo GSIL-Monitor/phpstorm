@@ -384,7 +384,7 @@
       <file name="/Dummy.txt" timestamp="1513048471465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1513051101840">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1513055583802">
         <mark key="[" line="1290" column="30" />
         <mark key="]" line="1290" column="40" />
         <mark key="^" line="1290" column="40" />
@@ -414,7 +414,7 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1512986393839">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1513055522830">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz</text>
+        <text>bj</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>bj</text>
       </register>
       <register name="/" type="4">
         <text>addMetricEnter</text>
