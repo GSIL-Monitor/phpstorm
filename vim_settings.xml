@@ -129,11 +129,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="28" column="124" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1512986016146">
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1513168165232">
         <mark key="[" line="134" column="31" />
-        <mark key="]" line="134" column="29" />
-        <mark key="^" line="134" column="29" />
-        <mark key="." line="134" column="29" />
+        <mark key="]" line="137" column="42" />
+        <mark key="^" line="137" column="42" />
+        <mark key="." line="137" column="42" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1513067692700">
         <mark key="[" line="22" column="27" />
@@ -400,6 +400,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" timestamp="1510882290740">
+        <mark key="'" line="160" column="56" />
+        <mark key="[" line="139" column="104" />
+        <mark key="]" line="177" column="64" />
+        <mark key="." line="177" column="64" />
+        <mark key="^" line="177" column="64" />
+      </file>
       <file name="E:/work/project/rollup/check.php" timestamp="1508834581894">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="12" />
@@ -417,11 +424,19 @@
         <mark key="]" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1513055522830">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1513168142746">
+        <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
+      </file>
+      <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
+        <mark key="'" line="892" column="16" />
+        <mark key="[" line="917" column="56" />
+        <mark key="]" line="917" column="54" />
+        <mark key="." line="917" column="54" />
+        <mark key="^" line="917" column="54" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1513079595067">
         <mark key="'" line="22" column="17" />
@@ -448,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" />
       <jump line="263" column="27" filename="E:/work/project/api/app/libaries/Checkor.class.php" />
       <jump line="35" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="7" column="25" filename="E:/work/project/api/app/controllers/BaseController.php" />
@@ -548,13 +562,14 @@
       <jump line="29" column="54" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="24" column="20" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="26" column="20" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="3" column="35" filename="E:/work/project/api/bootstrap/start.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$row['statType']</text>
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>$row['statType']</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>translateIds</text>
