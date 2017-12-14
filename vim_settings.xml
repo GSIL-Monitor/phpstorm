@@ -118,7 +118,8 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="28" column="124" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1513225347577">
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1513254572773">
+        <mark key="'" line="129" column="35" />
         <mark key="[" line="134" column="31" />
         <mark key="]" line="137" column="42" />
         <mark key="^" line="137" column="42" />
@@ -362,12 +363,12 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1513221502187">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1513254580990">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1510905621754">
         <mark key="'" line="892" column="16" />
@@ -395,7 +396,6 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
     </filemarks>
     <jumps>
-      <jump line="25" column="35" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="28" column="24" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="36" column="27" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="45" column="24" filename="E:/work/project/api/app/controllers/BaseController.php" />
@@ -495,13 +495,14 @@
       <jump line="856" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="417" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/DB/MySQLi.class.php" />
       <jump line="860" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="129" column="35" filename="E:/work/project/api/bootstrap/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>CloudUser</text>
