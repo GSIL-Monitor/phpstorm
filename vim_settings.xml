@@ -391,13 +391,13 @@
         <mark key="." line="231" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513305331991">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513333129598">
         <mark key="e" line="1468" column="39" />
         <mark key="'" line="1876" column="0" />
-        <mark key="[" line="1509" column="54" />
-        <mark key="]" line="1509" column="86" />
-        <mark key="." line="1509" column="86" />
-        <mark key="^" line="1509" column="86" />
+        <mark key="[" line="1607" column="98" />
+        <mark key="]" line="1607" column="105" />
+        <mark key="." line="1607" column="105" />
+        <mark key="^" line="1607" column="105" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
     </filemarks>
@@ -505,10 +505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>平均每秒把数据从磁盘读到内存的数据量，取所有分区最大值</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>平均每秒把数据从磁盘读到内存的数据量，取所有分区最大值</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>CloudUser</text>
@@ -517,28 +517,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibWVhbmluZ196aCIgPT4gIsa9vvnDv8PrsNHK/b7dtNO0xcXMtsG1vcTatOa1xMr9vt3Bv6OsyKHL+dPQt9bH+NfutPPWtSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWVhbmluZ19lbicgPT4gJG9uZVJvd1snbWVhbmluZ19lbiddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdtZWFuaW5nX3poJyA9PiAkb25lUm93WydtZWFuaW5nX3poJ10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL21ldHJpY7XEybjRoaOs1qez1sirwb/L0cv3us3Eo7r9y9HL9wo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL21ldHJpY7XEybjRoaOs1qez1sirwb/L0cv3us3Eo7r9y9HL9wo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZXhwbGFpbicgPT4gWydlbicgPT4gJG9uZUNvbmZbJ2V4cGxhaW5fZW4nXSwgJ3poJyA9PiAkbWV0cmljQ29uZkxpc3RbJGNvbmZNZXRyaWNdWydleHBsYWluX3poJ11dLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbWV0cmljVGFibGUgPSAiIjsKICAgICAgICAvLyRtZXRyaWNUYWJsZSA9ICJjQXBpTWV0cmljMjAxNjEwMjQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZXhwbGFpbicgPT4gWydlbicgPT4gJG9uZUNvbmZbJ2V4cGxhaW5fZW4nXSwgJ3poJyA9PiAkbWV0cmljQ29uZkxpc3RbJGNvbmZNZXRyaWNdWydleHBsYWluX3poJ11dLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRvbmVEYXRhWydwZXJpb2QnXVtdID0gNjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWV0cmljVGFibGUgPSAiIjsKICAgICAgICAvLyRtZXRyaWNUYWJsZSA9ICJjQXBpTWV0cmljMjAxNjEwMjQiOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRvbmVEYXRhWydwZXJpb2QnXVtdID0gNjA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGVyaW9kJz0+YXJyYXkoMzAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRvbmVEYXRhWydwZXJpb2QnXVtdID0gNjA7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAncGVyaW9kJz0+YXJyYXkoMzAwKQo=</text>
