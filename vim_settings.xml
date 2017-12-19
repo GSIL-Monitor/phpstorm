@@ -70,8 +70,8 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1513217930291">
-        <mark key="'" line="860" column="25" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1513684957564">
+        <mark key="'" line="574" column="25" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1512635087183" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1513330795244">
@@ -244,12 +244,12 @@
         <mark key="^" line="8" column="75" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1513669362757">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1513684962465">
         <mark key="'" line="235" column="47" />
-        <mark key="[" line="235" column="43" />
-        <mark key="]" line="235" column="47" />
-        <mark key="." line="235" column="47" />
-        <mark key="^" line="235" column="47" />
+        <mark key="[" line="246" column="2" />
+        <mark key="]" line="246" column="1" />
+        <mark key="." line="246" column="1" />
+        <mark key="^" line="246" column="1" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/common/Common.php" timestamp="1502866178526">
         <mark key="[" line="34" column="45" />
@@ -414,8 +414,6 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
     </filemarks>
     <jumps>
-      <jump line="36" column="27" filename="E:/work/project/api/app/controllers/BaseController.php" />
-      <jump line="45" column="24" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="64" column="30" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="5" column="19" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="74" column="31" filename="E:/work/project/api/app/controllers/BaseController.php" />
@@ -514,6 +512,8 @@
       <jump line="860" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="129" column="35" filename="E:/work/project/api/bootstrap/config.php" />
       <jump line="235" column="47" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
+      <jump line="803" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="574" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,7 +523,7 @@
         <text>9102</text>
       </register>
       <register name="/" type="4">
-        <text>CloudUser</text>
+        <text>StormCloudConf_bj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHVyY2hhc2VMZWZ0ID0gJHVzZWQgPiAoJHRvdGFsKyRwdXJjaGFzZU51bSkgPyAwOiAoJGZyZWVMZWZ0ID09IDAgPyAkdG90YWwrJHB1cmNoYXNlTnVtLSR1c2VkIDogJHB1cmNoYXNlTnVtKTsK</text>
@@ -560,9 +560,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CloudUser</last-search>
+      <last-search>StormCloudConf_bj</last-search>
       <last-offset />
-      <last-pattern>CloudUser</last-pattern>
+      <last-pattern>StormCloudConf_bj</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lan_</entry>
         <entry>eventId</entry>
         <entry>seqId</entry>
         <entry>caller</entry>
@@ -590,6 +589,7 @@
         <entry>translateIds</entry>
         <entry>user</entry>
         <entry>CloudUser</entry>
+        <entry>StormCloudConf_bj</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
