@@ -267,11 +267,11 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_api.php" timestamp="1513829339745">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_api.php" timestamp="1513844354674">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/general/Data.class.php" timestamp="1513131868289" />
       <file name="E:/work/project/barad_proj/trunk/api/app/libaries/Checkor.class.php" timestamp="1510813914374">
@@ -522,8 +522,8 @@
       <jump line="36" column="59" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wallaceqian</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjJHJldCA9ICR0aGlzLT5kYi0+ZnJvbSgnY0FwaUludGVyZmFjZVRyYW5zbGF0ZScpLT53aGVyZV9pbignaWQnLCAkcGFyYW1zWydpZCddKS0+Z2V0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>wallaceqian</text>
@@ -535,10 +535,10 @@
         <text encoding="base64">CQkkcmV0ID0gJHRoaXMtPmRiLT5mcm9tKCdjQXBpSW50ZXJmYWNlVHJhbnNsYXRlJyktPndoZXJlX2luKCdpZCcsICRwYXJhbXNbJ2lkJ10pLT5nZXQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjJHJldCA9ICR0aGlzLT5kYi0+ZnJvbSgnY0FwaUludGVyZmFjZVRyYW5zbGF0ZScpLT53aGVyZV9pbignaWQnLCAkcGFyYW1zWydpZCddKS0+Z2V0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -550,13 +550,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeSA9ICR0aGlzLT5wcm9jZXNzU3dpdGNoKCRwKTsK</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeSA9ICR0aGlzLT5wcm9jZXNzU3dpdGNoKCRwKTsK</text>
