@@ -187,12 +187,12 @@
         <mark key="." line="231" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513333129598">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513838073256">
         <mark key="e" line="1468" column="39" />
         <mark key="'" line="1876" column="0" />
-        <mark key="[" line="1607" column="98" />
-        <mark key="]" line="1607" column="105" />
-        <mark key="." line="1607" column="105" />
+        <mark key="[" line="1638" column="79" />
+        <mark key="]" line="1638" column="79" />
+        <mark key="." line="1638" column="79" />
         <mark key="^" line="1607" column="105" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
@@ -301,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>addMetricEnter</text>
