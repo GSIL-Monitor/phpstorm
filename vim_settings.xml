@@ -571,7 +571,7 @@
         <text>v[]</text>
       </register>
       <register name="/" type="4">
-        <text>forEach</text>
+        <text>shdev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTQiPgo=</text>
@@ -608,9 +608,9 @@
       </register>
     </registers>
     <search>
-      <last-search>forEach</last-search>
+      <last-search>shdev</last-search>
       <last-offset />
-      <last-pattern>forEach</last-pattern>
+      <last-pattern>shdev</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +618,6 @@
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
         <entry>exception</entry>
         <entry>report</entry>
         <entry>debug</entry>
@@ -638,6 +637,7 @@
         <entry>Link enabled</entry>
         <entry>treeview10</entry>
         <entry>forEach</entry>
+        <entry>shdev</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
