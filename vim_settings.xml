@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/common/RemoteInterface.class.php" timestamp="1513908944376" />
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1512704845687" />
+      <file name="E:/work/project/barad_proj/trunk/barad_assistant/model/userAuthorityModel.class.php" timestamp="1512438247621">
+        <mark key="'" line="26" column="19" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1513915026695">
+        <mark key="'" line="105" column="0" />
+      </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="39" />
@@ -173,11 +178,17 @@
         <mark key="^" line="10" column="81" />
         <mark key="." line="10" column="81" />
       </file>
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
+        <mark key="'" line="94" column="48" />
+      </file>
       <file name="E:/work/project/rollup/fix.php" timestamp="1511487881803">
         <mark key="[" line="101" column="54" />
         <mark key="]" line="101" column="54" />
         <mark key="." line="101" column="54" />
         <mark key="^" line="101" column="54" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" timestamp="1513915005705">
+        <mark key="'" line="646" column="5" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es/api/bootstrap/start.php" timestamp="1504000807982">
         <mark key="[" line="3" column="31" />
@@ -195,6 +206,12 @@
         <mark key="]" line="26" column="88" />
         <mark key="." line="26" column="88" />
         <mark key="^" line="26" column="88" />
+      </file>
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1510816040051">
+        <mark key="'" line="641" column="17" />
+      </file>
+      <file name="E:/work/project/api/app/config/app.php" timestamp="1511511109681">
+        <mark key="'" line="91" column="57" />
       </file>
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1507780116851">
         <mark key="[" line="3" column="31" />
@@ -245,6 +262,9 @@
         <mark key="]" line="9" column="26" />
         <mark key="^" line="8" column="75" />
         <mark key="." line="9" column="26" />
+      </file>
+      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1510814034877">
+        <mark key="'" line="263" column="27" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1513684962465">
         <mark key="'" line="235" column="47" />
@@ -316,6 +336,9 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" timestamp="1511490300600">
+        <mark key="'" line="244" column="0" />
+      </file>
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511944628002">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="46" />
@@ -356,7 +379,7 @@
         <mark key="^" line="185" column="79" />
         <mark key="." line="160" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513845749832">
+      <file name="/Dummy.txt" timestamp="1513914965037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1513687136839">
@@ -413,6 +436,9 @@
         <mark key="." line="231" column="37" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
+        <mark key="'" line="169" column="19" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513838073256">
         <mark key="e" line="1468" column="39" />
         <mark key="'" line="1876" column="0" />
@@ -422,10 +448,11 @@
         <mark key="^" line="1607" column="105" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
+      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
+        <mark key="'" line="76" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2333" column="26" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2339" column="54" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2352" column="47" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="429" column="12" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2350" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -524,6 +551,8 @@
       <jump line="91" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="103" column="23" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="11" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="646" column="5" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
+      <jump line="105" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,7 +562,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>commit</text>
+        <text>boot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlyZXR1cm4gJHJlc3VsdC0+cmVzdWx0X2FycmF5KCk7Cg==</text>
@@ -570,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>commit</last-search>
+      <last-search>boot</last-search>
       <last-offset />
-      <last-pattern>commit</last-pattern>
+      <last-pattern>boot</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -580,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>caller</entry>
         <entry>disk_io_wait</entry>
         <entry>docvalue_fields</entry>
         <entry>timeout</entry>
@@ -600,6 +628,7 @@
         <entry>addMetricEnter</entry>
         <entry>addTranslateConfigEnter</entry>
         <entry>commit</entry>
+        <entry>boot</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
