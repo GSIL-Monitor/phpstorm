@@ -10,7 +10,7 @@
       <file name="E:/work/project/admin.barad.oa.com/static/config.js" timestamp="1513927726689">
         <mark key="'" line="82" column="28" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1513915026695">
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1514287751559">
         <mark key="'" line="105" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/controllers/BaseController.php" timestamp="1509354125016">
@@ -19,7 +19,7 @@
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="39" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" timestamp="1514279829101">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" timestamp="1514290884074">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="35" />
         <mark key="^" line="17" column="41" />
@@ -90,13 +90,13 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514282850092">
-        <mark key="c" line="183" column="20" />
-        <mark key="'" line="244" column="2" />
-        <mark key="[" line="188" column="15" />
-        <mark key="]" line="188" column="15" />
-        <mark key="^" line="188" column="15" />
-        <mark key="." line="188" column="15" />
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514290555409">
+        <mark key="c" line="193" column="20" />
+        <mark key="'" line="3" column="8" />
+        <mark key="[" line="166" column="30" />
+        <mark key="]" line="167" column="61" />
+        <mark key="^" line="167" column="61" />
+        <mark key="." line="167" column="61" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/stargateServer_release/cgi/interface/SendLogs.class.php" timestamp="1498562814196">
         <mark key="[" line="74" column="0" />
@@ -116,11 +116,11 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514281772386">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="20" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="30" column="20" />
+      <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514286178283">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="34" column="6" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/api/app/config/app.php" timestamp="1509352718640">
         <mark key="[" line="3" column="16" />
@@ -249,7 +249,7 @@
         <mark key="." line="75" column="66" />
         <mark key="^" line="75" column="66" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1512716236770">
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1514290133606">
         <mark key="[" line="132" column="23" />
         <mark key="]" line="132" column="28" />
         <mark key="." line="132" column="28" />
@@ -378,12 +378,11 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514275761872">
-        <mark key="'" line="70" column="48" />
-        <mark key="[" line="178" column="102" />
-        <mark key="]" line="178" column="102" />
-        <mark key="." line="178" column="102" />
-        <mark key="^" line="220" column="73" />
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514290549098">
+        <mark key="'" line="98" column="59" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1513924721594">
         <mark key="[" line="0" column="0" />
@@ -431,29 +430,12 @@
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
         <mark key="'" line="169" column="19" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1513838073256">
-        <mark key="e" line="1468" column="39" />
-        <mark key="'" line="1876" column="0" />
-        <mark key="[" line="1638" column="79" />
-        <mark key="]" line="1638" column="79" />
-        <mark key="." line="1638" column="79" />
-        <mark key="^" line="1607" column="105" />
-      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
         <mark key="'" line="76" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="641" column="17" filename="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="921" column="11" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1511" column="28" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1517" column="32" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1785" column="36" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="922" column="12" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1798" column="40" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1797" column="20" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="160" column="56" filename="E:/work/project/barad_proj/trunk/barad_php_script_hourstat/hourstat/calcHourStat.php" />
       <jump line="864" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="403" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1188" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -545,55 +527,67 @@
       <jump line="185" column="44" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="230" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="238" column="2" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="93" column="59" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="37" column="41" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="5" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="61" column="51" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="68" column="51" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="181" column="4" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="173" column="21" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="212" column="15" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="3" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2LWZvcj0nbiBpbiBuYW1lc3BhY2VzJyB2YWx1ZT0ne3tufX0nPnt7bn19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>addMetricNamespaces</text>
       </register>
       <register name="/" type="4">
-        <text>getMetricList</text>
+        <text>namespaceList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2LWZvcj0nbiBpbiBhZGRNZXRyaWNOYW1lc3BhY2VzJyB2YWx1ZT0ne3tufX0nPnt7bn19PC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2LWZvcj0nbiBpbiBuYW1lc3BhY2VzJyB2YWx1ZT0ne3tufX0nPnt7bn19PC9vcHRpb24+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLmxlbmd0aCA9PSAxKTsK</text>
+      <register name="2" type="4">
+        <text>{
+                namespace: item.nameSpace,
+                viewName: item.viewName
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YS5sZW5ndGggPT0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCByID0gYXdhaXQgYXN5bmNSZXF1ZXN0KCdjX2FwaScsICdnZXRNZXRyaWNMaXN0JywgcGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0aGlzLm1ldHJpY0xpc3RbaV0uaWQgPT0gaWQpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IHRoaXMubWV0cmljTGlzdC5sZW5ndGggLSAxOyBpID49IDA7IGktLSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhpZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>getMetricList</last-search>
+      <last-search>namespaceList</last-search>
       <last-offset />
-      <last-pattern>getMetricList</last-pattern>
+      <last-pattern>namespaceList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -601,9 +595,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin</entry>
-        <entry>namespace</entry>
-        <entry>translateIds</entry>
         <entry>user</entry>
         <entry>CloudUser</entry>
         <entry>StormCloudConf_bj</entry>
@@ -621,6 +612,9 @@
         <entry>commit</entry>
         <entry>console.log</entry>
         <entry>getMetricList</entry>
+        <entry>addMetricNamespaces</entry>
+        <entry encoding="base64">XDxuYW1lc3BhY2VzXD4=</entry>
+        <entry>namespaceList</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
