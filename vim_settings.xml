@@ -378,12 +378,12 @@
         <mark key="^" line="67" column="45" />
         <mark key="." line="67" column="45" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514275127816">
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514275761872">
         <mark key="'" line="70" column="48" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="218" column="73" />
+        <mark key="[" line="178" column="102" />
+        <mark key="]" line="178" column="102" />
+        <mark key="." line="178" column="102" />
+        <mark key="^" line="220" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1513924721594">
         <mark key="[" line="0" column="0" />
@@ -420,12 +420,12 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1514256089409">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1514276648770">
         <mark key="'" line="22" column="17" />
-        <mark key="[" line="231" column="37" />
-        <mark key="]" line="231" column="37" />
-        <mark key="^" line="220" column="63" />
-        <mark key="." line="231" column="37" />
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="70" />
+        <mark key="^" line="71" column="70" />
+        <mark key="." line="71" column="70" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/schedule_calcDayStat.php" timestamp="1512611067338" />
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
@@ -547,17 +547,17 @@
       <jump line="58" column="14" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tICAJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJleGFtcGxlSW5wdXRFbWFpbDEiIHBsYWNlaG9sZGVyPSJtYXgsbWluLGF2ZyxsYXN0LHN1bSIgdi1tb2RlbCA9ICdhZGRNZXRyaWMuZm9ybS5zdGF0VHlwZSc+LS0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>除去缓存、buffer和剩余，用户实际使用内存与总内存之比</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>除去缓存、buffer和剩余，用户实际使用内存与总内存之比</text>
       </register>
       <register name="/" type="4">
         <text>getMetricList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9ImZyb250TWV0cmljTmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IsfryuTI67bUzeLWuLHqw/siIHYtbW9kZWw9J2FkZE1ldHJpYy5mb3JtLmZyb250TWV0cmljTmFtZScgQGNoYW5nZT0ib25DaGFuZ2VGcm9udE1lcmljTmFtZSI+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tICAJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJleGFtcGxlSW5wdXRFbWFpbDEiIHBsYWNlaG9sZGVyPSJtYXgsbWluLGF2ZyxsYXN0LHN1bSIgdi1tb2RlbCA9ICdhZGRNZXRyaWMuZm9ybS5zdGF0VHlwZSc+LS0+Cg==</text>
