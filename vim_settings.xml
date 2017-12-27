@@ -89,7 +89,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/fragment.php" timestamp="1514361294042">
+      <file name="/fragment.php" timestamp="1514362149719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
@@ -207,12 +207,12 @@
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ClientBuilder.php" timestamp="1510815070424">
         <mark key="'" line="169" column="19" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1514361291803">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1514362130666">
         <mark key="e" line="1468" column="39" />
         <mark key="'" line="1876" column="0" />
-        <mark key="[" line="1638" column="79" />
-        <mark key="]" line="1638" column="79" />
-        <mark key="." line="1638" column="79" />
+        <mark key="[" line="1493" column="22" />
+        <mark key="]" line="1493" column="22" />
+        <mark key="." line="1493" column="22" />
         <mark key="^" line="1607" column="105" />
       </file>
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/usr/local/services/php-5.6.29/lib/php.ini" timestamp="1510739438856">
@@ -322,11 +322,11 @@
       <jump line="3144" column="28" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2LWZvcj0nbiBpbiBuYW1lc3BhY2VzJyB2YWx1ZT0ne3tufX0nPnt7bn19PC9vcHRpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>addMetricNamespaces</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ALARM_QUOTA_CMEMSERVER_IP_ONE</text>
