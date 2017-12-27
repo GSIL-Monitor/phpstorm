@@ -13,7 +13,7 @@
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1514287751559">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" timestamp="1514339612199">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" timestamp="1514357549441">
         <mark key="'" line="97" column="17" />
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="35" />
@@ -98,6 +98,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="39" />
+      </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1514357574955">
+        <mark key="'" line="3144" column="28" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatCkv.php" timestamp="1510713637620">
@@ -221,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1203" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1386" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="80" column="19" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="83" column="19" filename="E:/work/project/api/app/controllers/BaseController.php" />
@@ -321,6 +323,7 @@
       <jump line="80" column="43" filename="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" />
       <jump line="282" column="39" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/DB/MySQLi.class.php" />
       <jump line="97" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" />
+      <jump line="3144" column="28" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -330,7 +333,7 @@
         <text>addMetricNamespaces</text>
       </register>
       <register name="/" type="4">
-        <text>namespaceList</text>
+        <text>ALARM_QUOTA_CMEMSERVER_IP_ONE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2LWZvcj0nbiBpbiBhZGRNZXRyaWNOYW1lc3BhY2VzJyB2YWx1ZT0ne3tufX0nPnt7bn19PC9vcHRpb24+Cg==</text>
@@ -370,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>namespaceList</last-search>
+      <last-search>ALARM_QUOTA_CMEMSERVER_IP_ONE</last-search>
       <last-offset />
-      <last-pattern>namespaceList</last-pattern>
+      <last-pattern>ALARM_QUOTA_CMEMSERVER_IP_ONE</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -380,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>CloudUser</entry>
         <entry>StormCloudConf_bj</entry>
         <entry>addMetricEnter</entry>
@@ -400,6 +402,7 @@
         <entry>addMetricNamespaces</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VzXD4=</entry>
         <entry>namespaceList</entry>
+        <entry>ALARM_QUOTA_CMEMSERVER_IP_ONE</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
