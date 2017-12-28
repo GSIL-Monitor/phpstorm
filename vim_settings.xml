@@ -58,14 +58,14 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514450805185">
-        <mark key="a" line="198" column="11" />
-        <mark key="c" line="222" column="20" />
-        <mark key="'" line="57" column="31" />
-        <mark key="[" line="137" column="17" />
-        <mark key="]" line="137" column="33" />
-        <mark key="^" line="137" column="33" />
-        <mark key="." line="137" column="33" />
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514460057565">
+        <mark key="a" line="195" column="11" />
+        <mark key="c" line="219" column="20" />
+        <mark key="'" line="92" column="14" />
+        <mark key="[" line="162" column="51" />
+        <mark key="]" line="162" column="52" />
+        <mark key="^" line="155" column="21" />
+        <mark key="." line="162" column="52" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514286178283">
         <mark key="[" line="35" column="0" />
@@ -125,12 +125,12 @@
         <mark key="'" line="91" column="57" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1512092816911" />
-      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1514450308365">
+      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1514459419029">
         <mark key="'" line="345" column="1" />
-        <mark key="[" line="367" column="19" />
-        <mark key="]" line="367" column="29" />
-        <mark key="." line="367" column="29" />
-        <mark key="^" line="367" column="29" />
+        <mark key="[" line="368" column="19" />
+        <mark key="]" line="368" column="22" />
+        <mark key="." line="368" column="22" />
+        <mark key="^" line="368" column="22" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1514376901212">
         <mark key="[" line="119" column="22" />
@@ -181,7 +181,7 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514453959145">
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514459360115">
         <mark key="'" line="364" column="51" />
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
@@ -350,7 +350,6 @@
       <jump line="98" column="9" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" />
       <jump line="345" column="1" filename="E:/work/project/admin.barad.oa.com/application/config/config.php" />
       <jump line="56" column="68" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="92" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="57" column="31" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="317" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="20" column="110" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
@@ -360,55 +359,56 @@
       <jump line="347" column="70" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="358" column="79" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="364" column="51" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="92" column="14" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYSA9ICBjaGVja0Zyb250TWV0cmljTmFtZSh0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TmFtZVNwYWNlLCB0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TWV0cmljTmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</text>
+        <text>onChangeMericName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBpZD0iYWRkVHJhbnNsYXRlQ29uZmlnRW50ZXIiIGFkZGRhdGEtdG9nZ2xlPSJtb2RhbCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10YXJnZXQ9IiNhZGRUcmFuc2xhdGVDb25maWciIHYtb246Y2xpY2s9ImFkZFRyYW5zbGF0ZUNvbmZpZ0VudGVyKCkiPtT2vNPSu7j207PJ5MXk1sM8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiAgYWRkZGF0YS10b2dnbGU9Im1vZGFsIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBkYXRhLXRhcmdldD0iI2FkZFRyYW5zbGF0ZUNvbmZpZyIgdi1vbjpjbGljaz0iYWRkVHJhbnNsYXRlQ29uZmlnRW50ZXIoKSI+1Pa809K7uPbTs8nkxeTWwzwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9ICBjaGVja0Zyb250TWV0cmljTmFtZSh0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TmFtZVNwYWNlLCB0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TWV0cmljTmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KDMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRuYW1lc3BhY2VMaXN0KSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KDIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFtdID0gWyJwcm9kdWN0TmFtZSIgPT4gJHByb2R1Y3RbJ25hbWUnXSwgIm5hbWVzcGFjZUxpc3QiID0+ICRuYW1lc3BhY2VMaXN0XTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiAgYWRkZGF0YS10b2dnbGU9Im1vZGFsIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBkYXRhLXRhcmdldD0iI2FkZFRyYW5zbGF0ZUNvbmZpZyIgdi1vbjpjbGljaz0iYWRkVHJhbnNsYXRlQ29uZmlnRW50ZXIoKSI+1Pa809K7uPbTs8nkxeTWwzwvYnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRuYW1lc3BhY2VMaXN0W10gPSAkbmFtZXNwYWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRuYW1lc3BhY2VMaXN0KSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</last-search>
+      <last-search>onChangeMericName</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</last-pattern>
+      <last-pattern>onChangeMericName</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -416,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forEach</entry>
         <entry>shdev</entry>
         <entry>insert</entry>
         <entry>click_translateconfig</entry>
@@ -436,6 +435,7 @@
         <entry>StormCloudConf_gz</entry>
         <entry>addTranslateConfigEnter</entry>
         <entry encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</entry>
+        <entry>onChangeMericName</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
