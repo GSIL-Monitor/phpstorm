@@ -184,8 +184,8 @@
       <file name="/PHP Console" timestamp="1512720032726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514529365985">
-        <mark key="'" line="364" column="51" />
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514542368736">
+        <mark key="'" line="384" column="44" />
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
         <mark key="^" line="17" column="13" />
@@ -266,9 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="646" column="5" filename="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" />
-      <jump line="105" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_config.php" />
       <jump line="308" column="37" filename="E:/work/project/admin.barad.oa.com/tree.html" />
       <jump line="21" column="26" filename="E:/work/project/admin.barad.oa.com/tree.html" />
       <jump line="309" column="45" filename="E:/work/project/admin.barad.oa.com/tree.html" />
@@ -366,6 +363,9 @@
       <jump line="358" column="79" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="364" column="51" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="92" column="14" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="175" column="72" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="0" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="384" column="44" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -375,7 +375,7 @@
         <text>cd</text>
       </register>
       <register name="/" type="4">
-        <text>onChangeMericName</text>
+        <text>api.js</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyKTsK</text>
@@ -412,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onChangeMericName</last-search>
+      <last-search>api.js</last-search>
       <last-offset />
-      <last-pattern>onChangeMericName</last-pattern>
+      <last-pattern>api.js</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shdev</entry>
         <entry>insert</entry>
         <entry>click_translateconfig</entry>
         <entry>query</entry>
@@ -442,6 +441,7 @@
         <entry>addTranslateConfigEnter</entry>
         <entry encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</entry>
         <entry>onChangeMericName</entry>
+        <entry>api.js</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
