@@ -58,14 +58,14 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514460057565">
-        <mark key="a" line="195" column="11" />
-        <mark key="c" line="219" column="20" />
-        <mark key="'" line="92" column="14" />
-        <mark key="[" line="162" column="51" />
-        <mark key="]" line="162" column="52" />
-        <mark key="^" line="155" column="21" />
-        <mark key="." line="162" column="52" />
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514529378469">
+        <mark key="a" line="197" column="11" />
+        <mark key="c" line="221" column="20" />
+        <mark key="'" line="94" column="14" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514286178283">
         <mark key="[" line="35" column="0" />
@@ -181,7 +181,7 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514459360115">
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514529365985">
         <mark key="'" line="364" column="51" />
         <mark key="[" line="20" column="49" />
         <mark key="]" line="20" column="49" />
@@ -362,11 +362,11 @@
       <jump line="92" column="14" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYSA9ICBjaGVja0Zyb250TWV0cmljTmFtZSh0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TmFtZVNwYWNlLCB0aGlzLmFkZE1ldHJpYy5mb3JtLmZyb250TWV0cmljTmFtZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>frontNameSpace</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>frontNameSpace</text>
       </register>
       <register name="/" type="4">
         <text>onChangeMericName</text>
