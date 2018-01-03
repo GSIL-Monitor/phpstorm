@@ -180,7 +180,7 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1514537609087">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1514969964157">
         <mark key="[" line="2615" column="0" />
         <mark key="]" line="2615" column="50" />
         <mark key="^" line="2622" column="68" />
@@ -206,7 +206,7 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1514537541322">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1514969866808">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -342,11 +342,11 @@
       <jump line="51" column="3" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>sg</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>sg</text>
       </register>
       <register name="/" type="4">
         <text>api.js</text>
