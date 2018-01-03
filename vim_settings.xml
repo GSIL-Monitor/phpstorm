@@ -97,19 +97,15 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/fragment.php" timestamp="1514442713694">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="39" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_assistant/controller/userController.class.php" timestamp="1512437765326" />
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Conf.class.php" timestamp="1514968702194" />
-      <file name="E:/work/project/admin.barad.oa.com/application/views/header.php" timestamp="1513926415272">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" timestamp="1514980318664">
+        <mark key="'" line="646" column="5" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Conf.class.php" timestamp="1514968702194" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1514971291359" />
+      <file name="E:/work/project/admin.barad.oa.com/static/app.js" timestamp="1514980474547">
+        <mark key="'" line="68" column="28" />
+      </file>
       <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1514459419029">
         <mark key="'" line="345" column="1" />
         <mark key="[" line="368" column="19" />
@@ -123,8 +119,8 @@
         <mark key="^" line="119" column="25" />
         <mark key="." line="119" column="25" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1514447464395">
-        <mark key="'" line="98" column="9" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1514980485523">
+        <mark key="'" line="27" column="35" />
         <mark key="[" line="132" column="23" />
         <mark key="]" line="132" column="28" />
         <mark key="." line="132" column="28" />
@@ -146,13 +142,6 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/m_api.php" timestamp="1514447535393">
-        <mark key="a" line="107" column="13" />
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/general/Data.class.php" timestamp="1514974179299" />
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1511944628002">
         <mark key="[" line="27" column="38" />
@@ -160,6 +149,7 @@
         <mark key="^" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/models/policy.php" timestamp="1514980534878" />
       <file name="/PHP Console" timestamp="1512720032726">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,10 +230,6 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1512091718018" />
     </filemarks>
     <jumps>
-      <jump line="90" column="19" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
-      <jump line="13" column="14" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
-      <jump line="95" column="19" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
-      <jump line="89" column="19" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
       <jump line="22" column="24" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
       <jump line="209" column="65" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="73" column="24" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
@@ -340,6 +326,10 @@
       <jump line="479" column="15" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="943" column="8" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="51" column="3" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
+      <jump line="62" column="21" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
+      <jump line="67" column="34" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
+      <jump line="68" column="28" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
+      <jump line="27" column="35" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,7 +339,7 @@
         <text>sg</text>
       </register>
       <register name="/" type="4">
-        <text>api.js</text>
+        <text>getMetricList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGFycmF5KCdjb2RlJyA9PiBFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUsICdtc2cnID0+ICJwYXJhbWV0ZXIgZW5kVGltZT17JGFyZ3NbJ2VuZFRpbWUnXX0gaXMgbG93ZXIgdGhhbiBzdGFydFRpbWU9eyRhcmdzWydzdGFydFRpbWUnXX0sICB0aGF0J3MgaXMgaW52YWxpZCIpOwogICAgICAgICAgICByZXR1cm4gJHJldDsK</text>
@@ -393,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>api.js</last-search>
+      <last-search>getMetricList</last-search>
       <last-offset />
-      <last-pattern>api.js</last-pattern>
+      <last-pattern>getMetricList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -403,11 +393,9 @@
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry>click_translateconfig</entry>
         <entry>query</entry>
         <entry>commit</entry>
-        <entry>getMetricList</entry>
         <entry>addMetricNamespaces</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VzXD4=</entry>
         <entry>namespaceList</entry>
@@ -423,6 +411,8 @@
         <entry encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</entry>
         <entry>onChangeMericName</entry>
         <entry>api.js</entry>
+        <entry>metricList</entry>
+        <entry>getMetricList</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
