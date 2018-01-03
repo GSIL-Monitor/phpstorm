@@ -59,20 +59,20 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514947772791">
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514949593223">
         <mark key="a" line="197" column="11" />
         <mark key="c" line="221" column="20" />
         <mark key="'" line="94" column="14" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="30" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="15" />
+        <mark key="^" line="47" column="15" />
+        <mark key="." line="47" column="15" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" timestamp="1514879872950">
         <mark key="'" line="51" column="3" />
         <mark key="[" line="429" column="52" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514947719008">
+      <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514949220729">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="34" column="6" />
@@ -189,12 +189,12 @@
       <file name="/PHP Console" timestamp="1512720032726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514542368736">
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1514949279608">
         <mark key="'" line="384" column="44" />
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="49" />
+        <mark key="[" line="194" column="102" />
+        <mark key="]" line="194" column="102" />
         <mark key="^" line="17" column="13" />
-        <mark key="." line="20" column="49" />
+        <mark key="." line="194" column="102" />
       </file>
       <file name="/Dummy.txt" timestamp="1514947774480">
         <mark key="[" line="0" column="0" />
@@ -375,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>api.js</text>
@@ -387,31 +387,38 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGFycmF5KCdjb2RlJyA9PiBFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUsICdtc2cnID0+ICJwYXJhbWV0ZXIgZW5kVGltZT17JGFyZ3NbJ2VuZFRpbWUnXX0gaXMgbG93ZXIgdGhhbiBzdGFydFRpbWU9eyRhcmdzWydzdGFydFRpbWUnXX0sICB0aGF0J3MgaXMgaW52YWxpZCIpOwogICAgICAgICAgICByZXR1cm4gJHJldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkX2NvbmZpZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCdpbnZhbGlkJyxFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LAo=</text>
+      <register name="5" type="4">
+        <text>(async function () {
+    initTree();
+    try {
+        let r = await asyncRequest('c_api', 'getMetricList', {namespace:'qce/cvm', metricName:'cpu_usage'});
+    } catch (error) {
+        console.log(error)
+    }
+})();</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICQoJyNmcm9udE1ldHJpY05hbWVfaGludCcpLmh0bWwoJycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICQoJyNmcm9udE1ldHJpY05hbWVfaGludCcpLmh0bWwoJ7jD1rix6tLRvq221M3io6EnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
