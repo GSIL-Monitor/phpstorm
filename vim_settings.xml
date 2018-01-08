@@ -75,7 +75,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="28" column="124" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1515146116324">
+      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1515404319376">
         <mark key="'" line="129" column="35" />
         <mark key="[" line="134" column="31" />
         <mark key="]" line="137" column="42" />
@@ -174,7 +174,7 @@
         <mark key="." line="4" column="24" />
       </file>
       <file name="E:/work/project/monitor_dataApi_proj/trunk/dataApi_v2/system/core/CodeIgniter.php" timestamp="1514984516586" />
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1514969964157">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1515404702298">
         <mark key="[" line="2615" column="0" />
         <mark key="]" line="2615" column="50" />
         <mark key="^" line="2622" column="68" />
@@ -200,7 +200,7 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515146032777">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515404299679">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -337,10 +337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>getMetricList</text>
