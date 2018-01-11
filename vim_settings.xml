@@ -64,14 +64,11 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1514964937202">
-        <mark key="a" line="197" column="11" />
-        <mark key="c" line="221" column="20" />
-        <mark key="'" line="94" column="14" />
-        <mark key="[" line="47" column="12" />
-        <mark key="]" line="47" column="15" />
-        <mark key="^" line="47" column="15" />
-        <mark key="." line="47" column="15" />
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1515637773782">
+        <mark key="'" line="71" column="30" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1512720032726">
         <mark key="[" line="0" column="0" />
@@ -100,11 +97,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1515484401818">
-        <mark key="[" line="2615" column="0" />
-        <mark key="]" line="2615" column="50" />
-        <mark key="^" line="2622" column="68" />
-        <mark key="." line="2615" column="0" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1515637781809">
+        <mark key="[" line="441" column="44" />
+        <mark key="]" line="441" column="47" />
+        <mark key="^" line="441" column="47" />
+        <mark key="." line="441" column="47" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1513842947140">
         <mark key="'" line="86" column="0" />
@@ -126,7 +123,7 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1514982937988">
         <mark key="'" line="3170" column="28" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515404299679">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515635463599">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -156,7 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="65" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="73" column="24" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="70" column="48" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="15" column="44" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
@@ -256,13 +252,14 @@
       <jump line="68" column="28" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
       <jump line="27" column="35" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" />
       <jump line="243" column="51" filename="E:/work/project/monitor_dataApi_proj/trunk/dataApi/alarm/class/Data.class.php" />
+      <jump line="71" column="30" filename="E:/work/project/api/app/controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz</text>
+        <text>$seqId</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>$seqId</text>
       </register>
       <register name="/" type="4">
         <text>getMetricList</text>
@@ -271,38 +268,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGFycmF5KCdjb2RlJyA9PiBFcnJJbnZhbGlkUGFyYW1ldGVyVmFsdWUsICdtc2cnID0+ICJwYXJhbWV0ZXIgZW5kVGltZT17JGFyZ3NbJ2VuZFRpbWUnXX0gaXMgbG93ZXIgdGhhbiBzdGFydFRpbWU9eyRhcmdzWydzdGFydFRpbWUnXX0sICB0aGF0J3MgaXMgaW52YWxpZCIpOwogICAgICAgICAgICByZXR1cm4gJHJldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzZXFJZCkpIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(async function () {
-    initTree();
-    try {
-        let r = await asyncRequest('c_api', 'getMetricList', {namespace:'qce/cvm', metricName:'cpu_usage'});
-    } catch (error) {
-        console.log(error)
-    }
-})();</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHNlcUlkID0gJHBhcmFtc1snc2VxSWQnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJ2pzb24gZGVjb2RlIGVycm9yJywgNjAxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICQoJyNmcm9udE1ldHJpY05hbWVfaGludCcpLmh0bWwoJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJ2pzb24gZGVjb2RlIGVycm9yJywgNjAxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICQoJyNmcm9udE1ldHJpY05hbWVfaGludCcpLmh0bWwoJ7jD1rix6tLRvq221M3io6EnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzZXFJZCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
