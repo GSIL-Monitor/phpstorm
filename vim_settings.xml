@@ -97,7 +97,7 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1515637781809">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1515661895734">
         <mark key="[" line="441" column="44" />
         <mark key="]" line="441" column="47" />
         <mark key="^" line="441" column="47" />
@@ -129,7 +129,7 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" timestamp="1514982937988">
         <mark key="'" line="3170" column="28" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515657399343">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1515661584058">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -262,11 +262,11 @@
       <jump line="423" column="50" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbmFtZXNwYWNlID0gJGFyZ3NbJ25hbWVzcGFjZSddOwo=</text>
+      <register name="&quot;" type="4">
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>this region does not namespace=$namespace is invalid. can't find process class</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>getMetricList</text>
