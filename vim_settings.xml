@@ -9,7 +9,7 @@
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_policy.php" timestamp="1514980318664">
         <mark key="'" line="646" column="5" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1515669907363">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1515672178704">
         <mark key="a" line="835" column="6" />
         <mark key="'" line="824" column="114" />
         <mark key="[" line="846" column="25" />
@@ -72,7 +72,7 @@
         <mark key="^" line="82" column="54" />
         <mark key="." line="82" column="54" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/general/Data.class.php" timestamp="1515670734899">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/general/Data.class.php" timestamp="1515671635785">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="30" column="4" />
@@ -168,7 +168,7 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1515670154207">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1515671646718">
         <mark key="'" line="424" column="50" />
         <mark key="[" line="1864" column="39" />
         <mark key="]" line="1868" column="7" />
@@ -286,7 +286,7 @@
         <text encoding="base64">PSR0aGlzLT5yZWdpb24=</text>
       </register>
       <register name="/" type="4">
-        <text>getMetricList</text>
+        <text>qcloud</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzZXFJZCA9IHVuaXFpZCgpOwo=</text>
@@ -323,9 +323,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getMetricList</last-search>
+      <last-search>qcloud</last-search>
       <last-offset />
-      <last-pattern>getMetricList</last-pattern>
+      <last-pattern>qcloud</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +344,6 @@
         <entry>console.log</entry>
         <entry>change_viewName</entry>
         <entry>hk</entry>
-        <entry>qcloud</entry>
         <entry>gz</entry>
         <entry>StormCloudConf_gz</entry>
         <entry>addTranslateConfigEnter</entry>
@@ -353,6 +352,7 @@
         <entry>api.js</entry>
         <entry>metricList</entry>
         <entry>getMetricList</entry>
+        <entry>qcloud</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
