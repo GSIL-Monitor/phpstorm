@@ -144,12 +144,12 @@
         <mark key="." line="177" column="64" />
         <mark key="^" line="177" column="64" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1516179565084">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1516180395479">
         <mark key="'" line="93" column="12" />
-        <mark key="[" line="291" column="2" />
-        <mark key="]" line="289" column="25" />
-        <mark key="." line="289" column="25" />
-        <mark key="^" line="289" column="25" />
+        <mark key="[" line="294" column="88" />
+        <mark key="]" line="294" column="87" />
+        <mark key="." line="294" column="87" />
+        <mark key="^" line="294" column="87" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class - 副本.php" timestamp="1516007249553">
         <mark key="[" line="1508" column="5" />
@@ -166,8 +166,8 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1516179553459">
-        <mark key="'" line="738" column="36" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1516180392170">
+        <mark key="'" line="116" column="12" />
         <mark key="[" line="943" column="50" />
         <mark key="]" line="943" column="1" />
         <mark key="." line="943" column="1" />
@@ -230,8 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="30" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="58" column="14" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="0" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="185" column="44" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="230" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
@@ -322,14 +320,16 @@
       <jump line="43" column="7" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="16" column="24" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="937" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
-      <jump line="81" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
-      <jump line="116" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="159" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="465" column="32" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="591" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="738" column="36" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="160" column="22" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="93" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
+      <jump line="737" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="927" column="36" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="81" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="116" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +339,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>gzopen</text>
+        <text>qcloud</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb25lRGF0YVsncGVyaW9kcyddWyczMDAnXSA9IFskcm93WydzdGF0VHlwZSddXTsK</text>
@@ -376,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gzopen</last-search>
+      <last-search>qcloud</last-search>
       <last-offset />
-      <last-pattern>gzopen</last-pattern>
+      <last-pattern>qcloud</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -404,8 +404,8 @@
         <entry>metricList</entry>
         <entry>getMetricList</entry>
         <entry>onClickAddFrontNamespace</entry>
-        <entry>qcloud</entry>
         <entry>gzopen</entry>
+        <entry>qcloud</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
