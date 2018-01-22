@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1515502168188">
-        <mark key="'" line="105" column="0" />
+      <file name="E:/work/project/admin.barad.oa.com/static/config.js" timestamp="1516591488296">
+        <mark key="'" line="168" column="8" />
       </file>
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1515980995276">
         <mark key="'" line="75" column="30" />
@@ -20,12 +20,6 @@
         <mark key="]" line="823" column="14" />
         <mark key="^" line="823" column="12" />
         <mark key="." line="823" column="14" />
-      </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/header.php" timestamp="1516347535590">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="33" />
-        <mark key="^" line="36" column="33" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/static/fun.js" timestamp="1514949220729">
         <mark key="[" line="35" column="0" />
@@ -75,11 +69,11 @@
         <mark key="." line="368" column="22" />
         <mark key="^" line="368" column="22" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1514376901212">
-        <mark key="[" line="119" column="22" />
-        <mark key="]" line="119" column="25" />
-        <mark key="^" line="119" column="25" />
-        <mark key="." line="119" column="25" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1516589705849">
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1513067692700">
         <mark key="[" line="22" column="27" />
@@ -87,12 +81,12 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1516346852875">
-        <mark key="'" line="394" column="44" />
-        <mark key="[" line="97" column="35" />
-        <mark key="]" line="97" column="38" />
-        <mark key="." line="97" column="38" />
-        <mark key="^" line="97" column="38" />
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1516593624542">
+        <mark key="'" line="391" column="44" />
+        <mark key="[" line="100" column="85" />
+        <mark key="]" line="100" column="93" />
+        <mark key="." line="100" column="93" />
+        <mark key="^" line="100" column="93" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1512717440845">
         <mark key="[" line="13" column="9" />
@@ -107,7 +101,7 @@
         <mark key="." line="132" column="28" />
         <mark key="^" line="132" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515739362605">
+      <file name="/Dummy.txt" timestamp="1516589277867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/tree.html" timestamp="1513935164145">
@@ -213,52 +207,40 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/models/m_api.php" timestamp="1516590121029">
+        <mark key="[" line="33" column="57" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="47" />
+        <mark key="." line="33" column="57" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1513330795244">
         <mark key="[" line="77" column="28" />
         <mark key="]" line="77" column="31" />
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1516347912489">
-        <mark key="a" line="197" column="11" />
-        <mark key="c" line="221" column="20" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="302" column="25" />
-        <mark key="]" line="302" column="25" />
-        <mark key="." line="302" column="25" />
-        <mark key="^" line="302" column="25" />
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1516593603036">
+        <mark key="a" line="222" column="11" />
+        <mark key="c" line="246" column="20" />
+        <mark key="'" line="80" column="16" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="15" column="34" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1516332763037">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1516593451759">
         <mark key="[" line="416" column="8" />
         <mark key="]" line="419" column="9" />
         <mark key="." line="416" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="4" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="173" column="21" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="212" column="15" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="3" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="80" column="43" filename="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" />
-      <jump line="282" column="39" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/DB/MySQLi.class.php" />
-      <jump line="97" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/billing/class/Data.class.php" />
-      <jump line="3144" column="28" filename="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Data.class.php" />
-      <jump line="146" column="48" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="252" column="38" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
-      <jump line="163" column="19" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="169" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="201" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="250" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="130" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="168" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="202" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="249" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="165" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="50" column="23" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="144" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="217" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="264" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="51" column="60" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="45" column="29" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="850" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="705" column="73" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -335,55 +317,73 @@
       <jump line="283" column="9" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="289" column="13" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="0" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="33" column="32" filename="E:/work/project/admin.barad.oa.com/static/config.js" />
+      <jump line="31" column="8" filename="E:/work/project/admin.barad.oa.com/static/config.js" />
+      <jump line="168" column="8" filename="E:/work/project/admin.barad.oa.com/static/config.js" />
+      <jump line="69" column="28" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="64" column="24" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="87" column="32" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="218" column="50" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="221" column="66" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="51" column="24" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="54" column="48" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="197" column="32" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="78" column="0" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="84" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="261" column="11" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="262" column="11" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="265" column="11" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="65" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="80" column="16" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>checkedNames</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>checkedNames</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0VHJlZVw+</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGgyIGNsYXNzPSJzdWItaGVhZGVyIj7Ts8nkxeTWw8HQse08L2gyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHA6Ly91bnBrZy5jb20vZWxlbWVudC11aUAyLjAuMTEvbGliL3RoZW1lLWNoYWxrL2luZGV4LmNzcyByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobmFtZXNwYWNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coMik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxoMiBjbGFzcz0ic3ViLWhlYWRlciI+1sPB0LHtPC9oMj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idGFibGUtcmVzcG9uc2l2ZSI+CiAgICAgICAgICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHRhYmxlLXN0cmlwZWQiPgogICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5pZDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7F5NbDw/uzxjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7D/MP7v9W85DwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7K0828PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPrLZ1/c8L3RoPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgICAgPHRyIGlkPSdtZXRyaWNMaXN0JyB2LWZvcj0naXRlbSBpbiB0cmFuc2xhdGVMaXN0Jz4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0uaWQgfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgaXRlbS50cmFuc2xhdGVOYW1lIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0ubmFtZVNwYWNlIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IGl0ZW0udmlld05hbWUgfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9J2J1dHRvbicgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI21vZGlmeVRyYW5zbGF0ZUNvbmZpZyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1vbjpjbGljaz0nY2xpY2tfdHJhbnNsYXRlY29uZmlnKGl0ZW0uaWQpJz6x4LytCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgoKICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgPC9kaXY+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgyIGNsYXNzPSJzdWItaGVhZGVyIj7Jz8/fPC9oMj4K</text>
+        <text encoding="base64">ICAgICAgICBpbml0OiBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhW2VuZGlmXS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ucwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gSFRNTDUgc2hpbSBhbmQgUmVzcG9uZC5qcyBmb3IgSUU4IHN1cHBvcnQgb2YgSFRNTDUgZWxlbWVudHMgYW5kIG1lZGlhIHF1ZXJpZXMgLS0+CiAgICA8IS0tW2lmIGx0IElFIDldPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNoZWNrUmVnaW9uKCRuYW1lc3BhY2UsICRhcmdzWydtZXRyaWNOYW1lJ10sICR0aGlzLT5yZWdpb24pKSB7CiAgICAgICAgICAgICRyZXQgPSBhcnJheSgnY29kZScgPT4gRXJySW52YWxpZFBhcmFtZXRlclZhbHVlLCAnbXNnJyA9PiAibmFtZXNwYWNlPSRuYW1lc3BhY2UgZG9lcyBub3Qgb25saW5lIGluIHRoaXMgcmVnaW9uIik7CiAgICAgICAgICAgIHJldHVybiAkcmV0OwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdi50eXBlID09ICdwcm9kdWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0VHJlZVw+</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0VHJlZVw+</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -391,12 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>namespaceList</entry>
-        <entry>ALARM_QUOTA_CMEMSERVER_IP_ONE</entry>
-        <entry encoding="base64">XDxlZGl0QXBpTWV0cmljXD4=</entry>
-        <entry>console.log</entry>
-        <entry>change_viewName</entry>
-        <entry>hk</entry>
         <entry>gz</entry>
         <entry>StormCloudConf_gz</entry>
         <entry>addTranslateConfigEnter</entry>
@@ -411,6 +405,12 @@
         <entry>commit</entry>
         <entry>click</entry>
         <entry encoding="base64">XDxpbml0VHJlZVw+</entry>
+        <entry>first</entry>
+        <entry>init</entry>
+        <entry>forEach</entry>
+        <entry encoding="base64">XDxmcm9udE5hbWVTcGFjZVw+</entry>
+        <entry encoding="base64">XDxmcm9udE1ldHJpY05hbWVcPg==</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
