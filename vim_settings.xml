@@ -12,7 +12,7 @@
       <file name="E:/work/project/admin.barad.oa.com/static/config.js" timestamp="1516605059478">
         <mark key="'" line="168" column="8" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1516609816936">
+      <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1516700046472">
         <mark key="[" line="11" column="67" />
         <mark key="]" line="11" column="67" />
         <mark key="." line="11" column="67" />
@@ -73,17 +73,18 @@
         <mark key="^" line="137" column="42" />
         <mark key="." line="137" column="42" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1514459419029">
-        <mark key="'" line="345" column="1" />
-        <mark key="[" line="368" column="19" />
-        <mark key="]" line="368" column="22" />
-        <mark key="." line="368" column="22" />
-        <mark key="^" line="368" column="22" />
+      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1516700810895">
+        <mark key="'" line="369" column="0" />
+        <mark key="[" line="190" column="27" />
+        <mark key="]" line="190" column="27" />
+        <mark key="." line="190" column="27" />
+        <mark key="^" line="190" column="27" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1516698579025">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="142" />
-        <mark key="." line="57" column="0" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1516700885135">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="53" column="160" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/page.php" timestamp="1513067692700">
         <mark key="[" line="22" column="27" />
@@ -246,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="45" column="29" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="850" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="705" column="73" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -346,55 +346,56 @@
       <jump line="156" column="19" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
       <jump line="101" column="67" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="10" column="120" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="369" column="0" filename="E:/work/project/admin.barad.oa.com/application/config/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNtZCA9ICJteXNxbCAtLWRlZmF1bHQtY2hhcmFjdGVyLXNldD11dGY4IC1oIHskZGJJbmZvLT5ob3N0fSAtUCB7JGRiSW5mby0+cG9ydH0gLXUneyRkYkluZm8tPnVzZXJ9JyAkZGJJbmZvLT5kZWZhdWx0IDxzcmMuc3FsXG4iOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50X3IoJHJlZ2lvbkxpc3QpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>src.sql</text>
       </register>
       <register name="/" type="4">
-        <text>addMetricEnter</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGNtZCA9ICJteXNxbCAtLWRlZmF1bHQtY2hhcmFjdGVyLXNldD11dGY4IC1oIHskZGJJbmZvLT5ob3N0fSAtUCB7JGRiSW5mby0+cG9ydH0gLXUneyRkYkluZm8tPnVzZXJ9JyAkZGJJbmZvLT5kZWZhdWx0IDxzcmMuc3FsXG4iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNtCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50X3IoJHJlZ2lvbkxpc3QpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXR1cm4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9uZVsncmVnaW9uJ10gPSAnc2hkZXYnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRvdXRwdXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZWdpb24gPSAnZ3onOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcmV0dXJuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRyZWdpb24gPSAnZ3onOwovLyAgICAgICAgJGRiSW5mbyA9IFRlbmNlbnRcQ29uZmlnOjpnZXQoJ2RiLmJhcmFkQ29uZmlnJywgJ015U1FMJywgJHJlZ2lvbik7Ci8vICAgICAgICAkZGJJbmZvID0ganNvbl9kZWNvZGUoJGRiSW5mbyk7CgovLyAgICAgICAgJGRiSW5mbyA9IG5ldyBzdGRDbGFzcygpOwovLyAgICAgICAgJGRiSW5mby0+aG9zdCA9ICcxMjcuMC4wLjEnOwovLyAgICAgICAgJGRiSW5mby0+cG9ydCA9IDMzMDY7Ci8vICAgICAgICAkZGJJbmZvLT51c2VyID0gJ3Jvb3QnOwovLyAgICAgICAgJGRiSW5mby0+cGFzc3dkID0gJyc7Ci8vICAgICAgICAkZGJJbmZvLT5kZWZhdWx0ID0gJ1N0b3JtQ2xvdWRDb25mJzsKLy8gICAgICAgICRjbWQgPSBzcHJpbnRmKCJteXNxbCAtLWRlZmF1bHQtY2hhcmFjdGVyLXNldD11dGY4IC1oICVzIC1QICVzIC11JyVzJyAlcyA8Y0FwaU1ldHJpYy5zcWwiLAovLyAgICAgICAgICAgICRkYkluZm8tPmhvc3QsICRkYkluZm8tPnBvcnQsICRkYkluZm8tPnVzZXIsICRkYkluZm8tPmRlZmF1bHQpOwovLyAgICAgICAgcHJpbnQoJGNtZCk7Ci8vICAgICAgICBleGVjKCRjbWQsICRvdXRwdXQsICRyZXR1cm4pOwovLyAgICAgICAgcHJpbnRfcigkb3V0cHV0KTsKLy8gICAgICAgIHByaW50X3IoJHJldHVybik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkb3V0cHV0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZWdpb25MaXN0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkZGJJbmZvLT5kZWZhdWx0ID0gJ1N0b3JtQ2xvdWRDb25mJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkZGJJbmZvLT5wYXNzd2QgPSAnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>addMetricEnter</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>addMetricEnter</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addTranslateConfigEnter</entry>
         <entry encoding="base64">XDxhZGRUcmFuc2xhdGVDb25maWdcPg==</entry>
         <entry>onChangeMericName</entry>
         <entry>api.js</entry>
@@ -422,6 +422,7 @@
         <entry>console.log</entry>
         <entry>update</entry>
         <entry>addMetricEnter</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
