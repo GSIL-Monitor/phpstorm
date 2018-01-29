@@ -104,9 +104,9 @@
         <mark key="." line="22" column="38" />
         <mark key="^" line="22" column="38" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1516848220774">
-        <mark key="'" line="10" column="120" />
-        <mark key="[" line="97" column="21" />
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_api.php" timestamp="1517215329477">
+        <mark key="'" line="120" column="42" />
+        <mark key="[" line="129" column="28" />
         <mark key="]" line="97" column="31" />
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
@@ -244,7 +244,7 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1517213702011">
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1517215243368">
         <mark key="a" line="257" column="11" />
         <mark key="c" line="281" column="20" />
         <mark key="'" line="116" column="30" />
@@ -255,8 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="702" column="36" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
-      <jump line="112" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="111" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="140" column="9" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="149" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -355,6 +353,8 @@
       <jump line="76" column="17" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="115" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="116" column="30" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
+      <jump line="119" column="57" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
+      <jump line="120" column="42" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -364,7 +364,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>getApiRegion</text>
+        <text>syncApiTask</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGNvbmZpZ1sndXNlciddID0gJ3Rlc3QnOwo=</text>
@@ -401,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getApiRegion</last-search>
+      <last-search>syncApiTask</last-search>
       <last-offset />
-      <last-pattern>getApiRegion</last-pattern>
+      <last-pattern>syncApiTask</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api.js</entry>
         <entry>metricList</entry>
         <entry>getMetricList</entry>
         <entry>onClickAddFrontNamespace</entry>
@@ -431,6 +430,7 @@
         <entry>insert</entry>
         <entry>update</entry>
         <entry>getApiRegion</entry>
+        <entry>syncApiTask</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
