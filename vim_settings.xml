@@ -3,6 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/work/project/admin.barad.oa.com/static/config.js" timestamp="1517297744776">
+        <mark key="'" line="177" column="8" />
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="58" />
+        <mark key="^" line="31" column="58" />
+        <mark key="." line="31" column="58" />
+      </file>
+      <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1517297991234">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="105" column="73" />
+        <mark key="]" line="105" column="73" />
+        <mark key="." line="105" column="73" />
+        <mark key="^" line="99" column="71" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1517295711670">
         <mark key="a" line="843" column="6" />
         <mark key="'" line="828" column="114" />
@@ -42,12 +56,12 @@
         <mark key="." line="735" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1517213044622">
+      <file name="E:/work/project/admin.barad.oa.com/application/config/config.php" timestamp="1517297783196">
         <mark key="'" line="369" column="0" />
-        <mark key="[" line="369" column="19" />
-        <mark key="]" line="369" column="28" />
-        <mark key="." line="369" column="28" />
-        <mark key="^" line="369" column="28" />
+        <mark key="[" line="367" column="19" />
+        <mark key="]" line="367" column="26" />
+        <mark key="." line="367" column="26" />
+        <mark key="^" line="367" column="26" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1517213425173">
         <mark key="[" line="39" column="69" />
@@ -118,7 +132,7 @@
         <mark key="^" line="77" column="31" />
         <mark key="." line="77" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1517215243368">
+      <file name="E:/work/project/admin.barad.oa.com/static/api.js" timestamp="1517297674187">
         <mark key="a" line="257" column="11" />
         <mark key="c" line="281" column="20" />
         <mark key="'" line="116" column="30" />
@@ -378,11 +392,11 @@
       <jump line="120" column="42" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzPSIi</text>
       </register>
       <register name="-" type="4">
-        <text>GetStorageDuration</text>
+        <text encoding="base64">IGNsYXNzPSIi</text>
       </register>
       <register name="/" type="4">
         <text>syncApiTask</text>
