@@ -50,7 +50,7 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1514964427406">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Data.class.php" timestamp="1517306952657">
         <mark key="[" line="735" column="0" />
         <mark key="]" line="735" column="0" />
         <mark key="." line="735" column="0" />
@@ -173,7 +173,7 @@
         <mark key="^" line="34" column="6" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Translate.class.php" timestamp="1517303307406" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Translate.class.php" timestamp="1517306689877" />
       <file name="/PHP Console" timestamp="1515657925616">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,7 +210,7 @@
         <mark key="." line="14" column="7" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517211635547">
+      <file name="/Dummy.txt" timestamp="1517306635313">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/tree.html" timestamp="1513935164145">
@@ -277,12 +277,12 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517302973949">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517306972727">
         <mark key="'" line="1507" column="49" />
-        <mark key="[" line="2166" column="94" />
-        <mark key="]" line="2166" column="97" />
-        <mark key="." line="2166" column="97" />
-        <mark key="^" line="2166" column="97" />
+        <mark key="[" line="2144" column="34" />
+        <mark key="]" line="2144" column="33" />
+        <mark key="." line="2144" column="33" />
+        <mark key="^" line="2144" column="33" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1517303853762">
         <mark key="[" line="82" column="40" />
@@ -395,10 +395,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'shdev'</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>, 'shdev'</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>syncApiTask</text>
