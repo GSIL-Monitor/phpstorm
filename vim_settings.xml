@@ -51,7 +51,8 @@
         <mark key="." line="367" column="26" />
         <mark key="^" line="367" column="26" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1517213425173">
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1517402654741">
+        <mark key="'" line="33" column="20" />
         <mark key="[" line="39" column="69" />
         <mark key="]" line="39" column="69" />
         <mark key="^" line="37" column="36" />
@@ -111,8 +112,8 @@
         <mark key="^" line="53" column="77" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1516784703681">
-        <mark key="[" line="13" column="80" />
+      <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1517402877096">
+        <mark key="[" line="13" column="81" />
         <mark key="]" line="13" column="96" />
         <mark key="." line="13" column="96" />
         <mark key="^" line="13" column="96" />
@@ -144,11 +145,11 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1516784516888">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1517402970343">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1517310031047">
         <mark key="[" line="0" column="0" />
@@ -227,10 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="31" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="317" column="0" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
-      <jump line="20" column="110" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
-      <jump line="320" column="40" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="334" column="48" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="340" column="49" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
       <jump line="347" column="70" filename="E:/work/project/admin.barad.oa.com/application/views/v_api.php" />
@@ -327,16 +324,20 @@
       <jump line="23" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="191" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="560" column="33" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="70" column="4" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" />
+      <jump line="0" column="0" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" />
+      <jump line="107" column="58" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" />
+      <jump line="33" column="20" filename="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdXVpZCA9ICdhZWQ0YzgxYS04OTRmLTRkMDctYjJhMC1kYTQxZmQ2NzUwMjYnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHRoaXMtPmNvbmZpZy0+aXRlbSgndXNlcicp</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">JHRoaXMtPmNvbmZpZy0+aXRlbSgndXNlcicp</text>
       </register>
       <register name="/" type="4">
-        <text>Autoupdate_gz</text>
+        <text>syncApi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHIgPSAkby0+ZGltVHJhbnNsYXRlQ3ZtKFsndW5JbnN0YW5jZUlkJyA9PiAnaW5zLW1weTI1NThtJ10pOwo=</text>
@@ -373,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Autoupdate_gz</last-search>
+      <last-search>syncApi</last-search>
       <last-offset />
-      <last-pattern>Autoupdate_gz</last-pattern>
+      <last-pattern>syncApi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gzopen</entry>
         <entry>qcloud</entry>
         <entry>commit</entry>
         <entry>click</entry>
@@ -403,6 +403,7 @@
         <entry>autoupdate</entry>
         <entry>Autoupdate_</entry>
         <entry>Autoupdate_gz</entry>
+        <entry>syncApi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
