@@ -278,12 +278,12 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517884909654">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517885242836">
         <mark key="a" line="2154" column="15" />
         <mark key="'" line="1238" column="60" />
-        <mark key="[" line="2193" column="16" />
-        <mark key="]" line="2193" column="33" />
-        <mark key="." line="2193" column="33" />
+        <mark key="[" line="2180" column="33" />
+        <mark key="]" line="2180" column="33" />
+        <mark key="." line="2180" column="33" />
         <mark key="^" line="2193" column="33" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1517309954347">
@@ -396,11 +396,11 @@
       <jump line="474" column="5" filename="E:/work/project/barad_proj/trunk/web/metric/template/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9uZQo=</text>
+      <register name="&quot;" type="4">
+        <text>['updateTime']</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ug</text>
+        <text>['updateTime']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3TmFtZVw+</text>
@@ -409,21 +409,27 @@
         <text encoding="base64">ICAgICAgICAgICAgJHIgPSAkZGJbJ0F1dG91cGRhdGVfJy4kdGhpcy0+cmVnaW9uXS0+Z2V0T25lKCRzcWwpOwogICAgICAgICAgICBpZiAoaXNfbnVsbCgkcikpIHsKICAgICAgICAgICAgICAgICRvbmVbJ3N0YXR1cyddID0gMDsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmICgkclsnc3RhdGUnXSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgJG9uZVsnc3RhdHVzJ10gPSAxOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmICgkclsnc3RhdGUnXSA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgJG9uZVsnc3RhdHVzJ10gPSAyOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkb25lWydzdGF0dXMnXSA9IDA7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9ICRyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkb25lWydzdGF0dXMnXSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgKQogICAgICAgICAgICAgICAgJG9uZVsnaGlzdG9yeSddID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9ICRyOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgKQogICAgICAgICAgICAgICAgJG9uZVsnaGlzdG9yeSddID0gW107Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>{
                     if ($r['state'] == 0) {
                         $one['status'] = 1;
@@ -434,14 +440,8 @@
                     }
                 }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHJbJ3N0YXRlJ10gPT0gMCkgewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb25lWydzdGF0dXMnXSA9IDA7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHJbJ3N0YXRlJ10gPT0gMCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
