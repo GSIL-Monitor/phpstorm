@@ -17,7 +17,11 @@
         <mark key="." line="105" column="73" />
         <mark key="^" line="99" column="71" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" timestamp="1517899284299" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" timestamp="1517902572256">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1517295711670">
         <mark key="a" line="843" column="6" />
         <mark key="'" line="828" column="114" />
@@ -59,11 +63,11 @@
         <mark key="." line="87" column="56" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1516695171218" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1517900222004">
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1517902531035">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="47" column="39" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1517310462917">
         <mark key="'" line="191" column="21" />
@@ -142,7 +146,7 @@
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Translate.class.php" timestamp="1517306689877" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_d.php" timestamp="1517889127257" />
-      <file name="/PHP Console" timestamp="1515657925616">
+      <file name="/PHP Console" timestamp="1517902421544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1516785063912" />
@@ -200,7 +204,7 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
       </file>
-      <file name="/fragment.php" timestamp="1517310709994">
+      <file name="/fragment.php" timestamp="1517902325551">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="49" />
       </file>
@@ -354,44 +358,44 @@
       <jump line="236" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyBnZXRJbnN0YW5jZUlkKCdjNWViNmEyNy1jMjRlLTQ4NDMtYTYwZC0yOWNkZmZlYmMxMzUnKTsKZXhpdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>, 'gz', 1176, '#9#'</text>
       </register>
       <register name="/" type="4">
         <text>Autoupdate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRkYlZhbHVlID0gVGVuY2VudFxDb25maWc6OmdldCgnZGIuQ0NEQicsICdNeVNRTCcsICdnem9wZW4nKTsKICAgICRkYlZhbHVlID0ganNvbl9kZWNvZGUoJHZhbHVlKTsKICAgICRkYkluZm9bJ2d6b3Blbl9jY2RiJ10gPSBhcnJheSgKICAgICAgICAnZGJUeXBlJyA9PiAnbXlzcWxpJywKICAgICAgICAnZGJOYW1lJyA9PiAkZGJWYWx1ZS0+ZGVmYXVsdCwKICAgICAgICAnZGJIb3N0JyA9PiAkZGJWYWx1ZS0+aG9zdCwKICAgICAgICAnZGJVc2VyJyA9PiAkZGJWYWx1ZS0+dXNlciwKICAgICAgICAnZGJQYXNzJyA9PiAkZGJWYWx1ZS0+cGFzc3dkLAogICAgICAgICdkYlBvcnQnID0+ICRkYlZhbHVlLT5wb3J0CiAgICApOwogICAgJGRiID0gREI6OmluaXQoJGRiSW5mbywgJ2d6b3Blbl9jY2RiJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmV0ID0gJGRiWydDQ0RCJ10tPmdldE9uZSgkc3FsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRkYkluZm9bJyddCg==</text>
+        <text encoding="base64">ZWNobyBnZXRJbnN0YW5jZUlkKCdjNWViNmEyNy1jMjRlLTQ4NDMtYTYwZC0yOWNkZmZlYmMxMzUnKTsKZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREFURV9BVE9NCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb25lWydoaXN0b3J5J10gPSBhcnJheV9tZXJnZSgkb25lWydoaXN0b3J5J10sICRyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmV0ID0gJGRiWydDQ0RCJ10tPmdldE9uZSgkc3FsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9IGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgJHIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPSBhcnJheV9tZXJnZSgkb25lWydoaXN0b3J5J10sICRyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICRkYlsnZ3pvcGVuX0NDREInXS0+Z2V0T25lKCRzcWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVGVuY2VudFxDb25maWc6OnJlZ2lvbigpID09ICdneicpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkb25lWydzdGF0dXMnXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAkcmV0ID0gJGRiWydDQ0RCJ10tPmdldE9uZSgkc3FsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
