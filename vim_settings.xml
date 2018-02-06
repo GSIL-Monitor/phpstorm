@@ -169,6 +169,7 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Translate.class.php" timestamp="1517306689877" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_d.php" timestamp="1517889127257" />
       <file name="/PHP Console" timestamp="1515657925616">
         <mark key="[" line="0" column="0" />
       </file>
@@ -278,13 +279,13 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517887664969">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517889075597">
         <mark key="a" line="2154" column="15" />
         <mark key="'" line="1238" column="60" />
-        <mark key="[" line="2197" column="107" />
-        <mark key="]" line="2197" column="107" />
-        <mark key="." line="2197" column="107" />
-        <mark key="^" line="2197" column="107" />
+        <mark key="[" line="2194" column="13" />
+        <mark key="]" line="2195" column="20" />
+        <mark key="." line="2195" column="20" />
+        <mark key="^" line="2195" column="20" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1517309954347">
         <mark key="[" line="82" column="40" />
@@ -397,10 +398,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>DATE_ISO8601</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>DATE_ISO8601</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3TmFtZVw+</text>
