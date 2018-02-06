@@ -222,7 +222,7 @@
         <mark key="." line="39" column="17" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1517907828080" />
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1517294418815">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1517919466237">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -360,11 +360,11 @@
       <jump line="16" column="4" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyBnZXRJbnN0YW5jZUlkKCdjNWViNmEyNy1jMjRlLTQ4NDMtYTYwZC0yOWNkZmZlYmMxMzUnKTsKZXhpdDsK</text>
+      <register name="&quot;" type="4">
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>, 'gz', 1176, '#9#'</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>exit</text>
