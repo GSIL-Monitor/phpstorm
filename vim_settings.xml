@@ -278,13 +278,13 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517885242836">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1517887664969">
         <mark key="a" line="2154" column="15" />
         <mark key="'" line="1238" column="60" />
-        <mark key="[" line="2180" column="33" />
-        <mark key="]" line="2180" column="33" />
-        <mark key="." line="2180" column="33" />
-        <mark key="^" line="2193" column="33" />
+        <mark key="[" line="2197" column="107" />
+        <mark key="]" line="2197" column="107" />
+        <mark key="." line="2197" column="107" />
+        <mark key="^" line="2197" column="107" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1517309954347">
         <mark key="[" line="82" column="40" />
@@ -397,51 +397,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>['updateTime']</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>['updateTime']</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aWV3TmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHIgPSAkZGJbJ0F1dG91cGRhdGVfJy4kdGhpcy0+cmVnaW9uXS0+Z2V0T25lKCRzcWwpOwogICAgICAgICAgICBpZiAoaXNfbnVsbCgkcikpIHsKICAgICAgICAgICAgICAgICRvbmVbJ3N0YXR1cyddID0gMDsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmICgkclsnc3RhdGUnXSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgJG9uZVsnc3RhdHVzJ10gPSAxOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmICgkclsnc3RhdGUnXSA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgJG9uZVsnc3RhdHVzJ10gPSAyOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAkb25lWydzdGF0dXMnXSA9IDA7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHIgPSAkZGJbJ2JhcmFkQ29uZmlnJ10tPmdldEFsbCgkc3FsKTsKICAgICAgICAgICAgaWYgKCFlbXB0eSgkcikpIHsKICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9IGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgJHIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb25lWydoaXN0b3J5J10gPSBhcnJheV9tZXJnZSgkb25lWydoaXN0b3J5J10sICRyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkb25lWydzdGF0dXMnXSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9IGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgJHIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9ICRyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPSBhcnJheV9tZXJnZSgkb25lWydoaXN0b3J5J10sICRyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X21lcmdlKCRvbmVbJ2hpc3RvcnknXSwgKQogICAgICAgICAgICAgICAgJG9uZVsnaGlzdG9yeSddID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEkb25lWydzdGF0dXMnXSkgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                    if ($r['state'] == 0) {
-                        $one['status'] = 1;
-                    } else if ($r['state'] == 2) {
-                        $one['status'] = 2;
-                    } else {
-                        $one['status'] = 0;
-                    }
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJHJbJ3N0YXRlJ10gPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvbmVbJ2hpc3RvcnknXSA9ICRyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
