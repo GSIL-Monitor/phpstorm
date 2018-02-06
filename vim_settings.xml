@@ -17,7 +17,8 @@
         <mark key="." line="105" column="73" />
         <mark key="^" line="99" column="71" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" timestamp="1517902572256">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" timestamp="1517903810600">
+        <mark key="'" line="16" column="4" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -63,11 +64,11 @@
         <mark key="." line="87" column="56" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1516695171218" />
-      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1517902531035">
+      <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/conf/config.php" timestamp="1517903661484">
         <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="47" column="39" />
-        <mark key="." line="13" column="38" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1517310462917">
         <mark key="'" line="191" column="21" />
@@ -146,7 +147,7 @@
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/policy/class/Translate.class.php" timestamp="1517306689877" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/date/date_d.php" timestamp="1517889127257" />
-      <file name="/PHP Console" timestamp="1517902421544">
+      <file name="/PHP Console" timestamp="1517903852297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php" timestamp="1516785063912" />
@@ -204,7 +205,7 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
       </file>
-      <file name="/fragment.php" timestamp="1517902325551">
+      <file name="/fragment.php" timestamp="1517903875089">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="49" />
       </file>
@@ -256,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1146" column="43" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="479" column="15" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="943" column="8" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
-      <jump line="51" column="3" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
       <jump line="62" column="21" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
       <jump line="67" column="34" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
       <jump line="68" column="28" filename="E:/work/project/admin.barad.oa.com/static/app.js" />
@@ -356,6 +353,10 @@
       <jump line="463" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="410" column="18" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
       <jump line="236" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" />
+      <jump line="86" column="48" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" />
+      <jump line="91" column="8" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" />
+      <jump line="33" column="8" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" />
+      <jump line="16" column="4" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/exportWanOuttraffic.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -365,7 +366,7 @@
         <text>, 'gz', 1176, '#9#'</text>
       </register>
       <register name="/" type="4">
-        <text>Autoupdate</text>
+        <text>exit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmV0ID0gJGRiWydDQ0RCJ10tPmdldE9uZSgkc3FsKTsK</text>
@@ -402,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Autoupdate</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern>Autoupdate</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -412,8 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
-        <entry>init</entry>
         <entry>forEach</entry>
         <entry encoding="base64">XDxmcm9udE5hbWVTcGFjZVw+</entry>
         <entry encoding="base64">XDxmcm9udE1ldHJpY05hbWVcPg==</entry>
@@ -432,6 +431,8 @@
         <entry>autoupdate</entry>
         <entry>autoupdate_gz</entry>
         <entry>Autoupdate</entry>
+        <entry>count</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
