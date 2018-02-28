@@ -185,13 +185,13 @@
       <file name="/Dummy.txt" timestamp="1518082767493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1519799709674">
-        <mark key="a" line="751" column="23" />
-        <mark key="'" line="2780" column="66" />
-        <mark key="[" line="2145" column="28" />
-        <mark key="]" line="2145" column="28" />
-        <mark key="." line="2145" column="28" />
-        <mark key="^" line="1445" column="21" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1519800964822">
+        <mark key="a" line="920" column="17" />
+        <mark key="'" line="2161" column="0" />
+        <mark key="[" line="924" column="64" />
+        <mark key="]" line="924" column="64" />
+        <mark key="." line="924" column="64" />
+        <mark key="^" line="923" column="64" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1516608855823">
         <mark key="'" line="86" column="0" />
@@ -259,7 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="465" column="32" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="591" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="738" column="36" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -359,46 +358,47 @@
       <jump line="2624" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2643" column="46" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2652" column="66" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2153" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygib2xkIHZpZXdOYW1lIik7CiAgICAgICAgICAgICRkYXRhID0gJHRoaXMtPmdldERhdGFCYXRjaE5ld18xKCRyZXEsICRtZXRyaWNJbmZvLCAkc3RvcmFnZUluZm8pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUKICAgIGZ1bmN0aW9uIGxvYWRGcm9tRXNfMSgkdmlld05hbWUsICRtZXRyaWNOYW1lLCAkcGVyaW9kLCAkc3RhdFR5cGUsICRzdGFydCwgJGVuZCwgJGRpbWVuc2lvbnNCYXRjaCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigncXVlcnkgY1ZpZXdOYW1lR3JheUNvbmYgZXJyb3InLCA0MDQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0WzBdLT5uZXdWaWV3TmFtZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigncXVlcnkgY1ZpZXdOYW1lR3JheUNvbmYgZXJyb3InLCA0MDQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcmV0WzBdLT5uZXdWaWV3TmFtZQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSAKICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
