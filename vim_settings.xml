@@ -188,7 +188,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518082767493">
+      <file name="/Dummy.txt" timestamp="1519873762666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1519823258920">
@@ -249,13 +249,13 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1519808497842">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1519873346330">
         <mark key="a" line="2154" column="15" />
         <mark key="'" line="1238" column="60" />
-        <mark key="[" line="2160" column="0" />
-        <mark key="]" line="2160" column="0" />
-        <mark key="." line="2160" column="0" />
-        <mark key="^" line="2195" column="20" />
+        <mark key="[" line="2163" column="46" />
+        <mark key="]" line="2163" column="44" />
+        <mark key="." line="2163" column="44" />
+        <mark key="^" line="2163" column="44" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.inc.php" timestamp="1517309954347">
         <mark key="[" line="82" column="40" />
@@ -368,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$viewName-$period</text>
+        <text>果</text>
       </register>
       <register name="-" type="4">
-        <text>$viewName-$period</text>
+        <text>果</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpb25MaXN0XD4=</text>
