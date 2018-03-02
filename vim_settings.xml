@@ -23,12 +23,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="E:/work/project/disk_export/export.php" timestamp="1519963164054">
+      <file name="E:/work/project/disk_export/export.php" timestamp="1519972999214">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="32" column="74" />
-        <mark key="]" line="32" column="77" />
-        <mark key="." line="32" column="77" />
-        <mark key="^" line="32" column="77" />
+        <mark key="[" line="52" column="63" />
+        <mark key="]" line="52" column="68" />
+        <mark key="." line="52" column="68" />
+        <mark key="^" line="52" column="68" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/system/database/drivers/pdo/pdo_driver.php" timestamp="1512635575104">
         <mark key="[" line="115" column="29" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plain</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>plain</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpb25MaXN0XD4=</text>
