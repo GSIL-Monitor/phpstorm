@@ -212,11 +212,11 @@
       <file name="/Dummy.txt" timestamp="1520307811453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1520411856736">
-        <mark key="'" line="2857" column="78" />
-        <mark key="[" line="365" column="59" />
-        <mark key="]" line="365" column="60" />
-        <mark key="." line="365" column="60" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1520412604650">
+        <mark key="'" line="2858" column="78" />
+        <mark key="[" line="1005" column="33" />
+        <mark key="]" line="1005" column="33" />
+        <mark key="." line="1005" column="33" />
         <mark key="^" line="365" column="60" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1516608855823">
@@ -396,16 +396,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text encoding="base64">J3JvdXRpbmcnID0+IHN1YnN0cigkaWRNZDUsIDAsIDgp</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text encoding="base64">J3JvdXRpbmcnID0+IHN1YnN0cigkaWRNZDUsIDAsIDgp</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRob3N0ID0gImh0dHA6Ly8kcmVnaW9uLmFwaS5iYXJhZC50ZW5jZW50eXVuLmNvbSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snYm9keSddW10gPSBbJ3JvdXRpbmcnID0+IHN1YnN0cigkaWRNZDUsIDAsIDgpXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JHJlc3VsdC0+Y2xvc2UoKTsK</text>
