@@ -212,12 +212,12 @@
       <file name="/Dummy.txt" timestamp="1520307811453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1520412604650">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1520414927860">
         <mark key="'" line="2858" column="78" />
-        <mark key="[" line="1005" column="33" />
-        <mark key="]" line="1005" column="33" />
-        <mark key="." line="1005" column="33" />
-        <mark key="^" line="365" column="60" />
+        <mark key="[" line="925" column="54" />
+        <mark key="]" line="925" column="54" />
+        <mark key="." line="925" column="54" />
+        <mark key="^" line="925" column="54" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1516608855823">
         <mark key="'" line="86" column="0" />
@@ -396,10 +396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3JvdXRpbmcnID0+IHN1YnN0cigkaWRNZDUsIDAsIDgp</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3JvdXRpbmcnID0+IHN1YnN0cigkaWRNZDUsIDAsIDgp</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
