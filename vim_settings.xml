@@ -232,10 +232,6 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
       </file>
-      <file name="/fragment.php" timestamp="1519973754892">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="49" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/lib/config.php" timestamp="1517900008992">
         <mark key="[" line="135" column="5" />
         <mark key="]" line="139" column="38" />
@@ -248,7 +244,7 @@
         <mark key="^" line="39" column="17" />
         <mark key="." line="39" column="17" />
       </file>
-      <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1519810027243">
+      <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1520492289779">
         <mark key="'" line="183" column="25" />
         <mark key="[" line="98" column="23" />
         <mark key="]" line="98" column="37" />
