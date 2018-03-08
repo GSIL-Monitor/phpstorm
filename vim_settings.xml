@@ -65,8 +65,8 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1517310462917">
-        <mark key="'" line="191" column="21" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1520477939086">
+        <mark key="'" line="233" column="0" />
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="12" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="80" column="16" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
       <jump line="29" column="14" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
       <jump line="140" column="14" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
@@ -393,6 +392,7 @@
       <jump line="13" column="29" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
       <jump line="48" column="0" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
       <jump line="2857" column="78" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="233" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
