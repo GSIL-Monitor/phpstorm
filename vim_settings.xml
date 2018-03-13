@@ -91,7 +91,12 @@
         <mark key="." line="943" column="1" />
         <mark key="^" line="943" column="1" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/system/database/DB.php" timestamp="1520931976212" />
+      <file name="E:/work/project/analysis_proj/analysis/system/database/DB.php" timestamp="1520945259892">
+        <mark key="[" line="111" column="34" />
+        <mark key="]" line="111" column="34" />
+        <mark key="^" line="111" column="34" />
+        <mark key="." line="111" column="34" />
+      </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="82" column="54" />
@@ -178,7 +183,7 @@
       <file name="/PHP Console" timestamp="1519981992690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1520931319549">
+      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1520945544950">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1513910881742">
@@ -207,12 +212,11 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1520943406574">
+      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1520946328246">
         <mark key="'" line="821" column="128" />
-        <mark key="[" line="792" column="42" />
-        <mark key="]" line="792" column="40" />
-        <mark key="^" line="792" column="40" />
-        <mark key="." line="792" column="40" />
+        <mark key="[" line="1085" column="0" />
+        <mark key="]" line="1085" column="13" />
+        <mark key="." line="1085" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1517402970343">
         <mark key="[" line="16" column="43" />
@@ -288,6 +292,11 @@
       </file>
       <file name="E:/work/project/analysis_proj/analysis/analysis/config/config.php" timestamp="1520930999330">
         <mark key="'" line="336" column="0" />
+      </file>
+      <file name="E:/work/project/analysis_proj/analysis/index.php" timestamp="1520945170197">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="39" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1520232450545">
         <mark key="a" line="2154" column="15" />
@@ -407,11 +416,11 @@
       <jump line="811" column="128" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICdxY2UvY3ZtJw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdxY2UvY3ZtJw==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</text>
@@ -420,31 +429,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2VhY2gnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAyMCwgJ3J1bGUnID0+ICdudW1lcmljO21vcmVUaGFuOjEwO2xlc3NUaGFuOjEwMDAwJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfREVQUkVDQVRFRCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigkdGhpcy0+ZGItPl9lcnJvcl9tZXNzYWdlKCksICR0aGlzLT5kYi0+X2Vycm9yX251bWJlcigpKTsK</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMIF4gRV9ERVBSRUNBVEVEKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISRxLT51cGRhdGUoJ3JOYW1lc3BhY2VSZWdpb24nKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnZnJvbnROYW1lc3BhY2UnLCAkcGFyYW1zWydmcm9udE5hbWVzcGFjZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcSA9ICR0aGlzLT5hZG1pbi0+c2V0KCdhcGlSZWdpb24nLCAkcGFyYW1zWydhcGlSZWdpb24nXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
