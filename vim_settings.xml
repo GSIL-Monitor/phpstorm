@@ -23,7 +23,6 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1520942586255" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="40" column="135" />
@@ -135,7 +134,6 @@
       <file name="E:/work/project/stargate_server/cgi/interface/SendLogs.class.php" timestamp="1519810033821">
         <mark key="'" line="116" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/common.php" timestamp="1520308036051" />
       <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1517402877096">
         <mark key="[" line="13" column="81" />
         <mark key="]" line="13" column="96" />
@@ -149,7 +147,6 @@
         <mark key="^" line="194" column="33" />
         <mark key="." line="194" column="33" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/inc/config.inc.php" timestamp="1520318746357" />
       <file name="E:/work/project/admin.barad.oa.com/application/config/autoload.php" timestamp="1516610659110">
         <mark key="[" line="54" column="50" />
         <mark key="]" line="54" column="50" />
@@ -227,11 +224,12 @@
       <file name="/Dummy.txt" timestamp="1520931764625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1520942683847">
-        <mark key="[" line="2762" column="30" />
-        <mark key="]" line="2762" column="30" />
-        <mark key="." line="2762" column="30" />
-        <mark key="^" line="2762" column="30" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1521012349776">
+        <mark key="'" line="2289" column="24" />
+        <mark key="[" line="3068" column="34" />
+        <mark key="]" line="3070" column="30" />
+        <mark key="." line="3070" column="30" />
+        <mark key="^" line="3070" column="30" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1516608855823">
         <mark key="'" line="86" column="0" />
@@ -254,6 +252,9 @@
       </file>
       <file name="E:/work/project/analysis_proj/analysis/analysis/config/production/database.php" timestamp="1520932037751">
         <mark key="'" line="57" column="5" />
+      </file>
+      <file name="/fragment.php" timestamp="1521011125869">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_index.php" timestamp="1512533356129">
         <mark key="[" line="39" column="45" />
@@ -314,19 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2611" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="764" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2624" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2643" column="46" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2652" column="66" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2153" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="116" column="0" filename="E:/work/project/stargate_server/cgi/interface/SendLogs.class.php" />
-      <jump line="7" column="8" filename="E:/work/project/admin.barad.oa.com/static/api.js" />
-      <jump line="131" column="47" filename="E:/work/project/disk_export/export.php" />
-      <jump line="146" column="0" filename="E:/work/project/disk_export/export.php" />
-      <jump line="180" column="4" filename="E:/work/project/disk_export/export.php" />
-      <jump line="193" column="41" filename="E:/work/project/disk_export/export.php" />
-      <jump line="165" column="60" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/barad/class/Config.class.php" />
       <jump line="247" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" />
       <jump line="37" column="32" filename="E:/work/project/disk_export/export.php" />
       <jump line="88" column="8" filename="E:/work/project/disk_export/export.php" />
@@ -357,7 +345,6 @@
       <jump line="2857" column="78" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="233" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="1012" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1542" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2282" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2546" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2549" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -372,8 +359,6 @@
       <jump line="2288" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2550" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2553" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="726" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="729" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1541" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="924" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="181" column="29" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
@@ -414,55 +399,71 @@
       <jump line="800" column="26" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="806" column="26" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="811" column="128" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1006" column="54" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1549" column="47" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2568" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="743" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1560" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2303" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2551" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2554" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="726" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="729" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3030" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="739" column="22" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1542" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1545" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2286" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="2289" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzaXplJyA9PiAkZWFjaAo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</text>
+        <text>cViewNameGrayConf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2VhY2gnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAyMCwgJ3J1bGUnID0+ICdudW1lcmljO21vcmVUaGFuOjEwO2xlc3NUaGFuOjEwMDAwJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzaXplJyA9PiAkZWFjaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfREVQUkVDQVRFRCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMIF4gRV9ERVBSRUNBVEVEKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2VhY2gnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAyMCwgJ3J1bGUnID0+ICdudW1lcmljO21vcmVUaGFuOjEwO2xlc3NUaGFuOjEwMDAwJykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfREVQUkVDQVRFRCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpOwo=</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMIF4gRV9ERVBSRUNBVEVEKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</last-search>
+      <last-search>cViewNameGrayConf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</last-pattern>
+      <last-pattern>cViewNameGrayConf</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -470,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWV3TmFtZVw+</entry>
         <entry>autoupdate</entry>
         <entry>autoupdate_gz</entry>
         <entry>Autoupdate</entry>
@@ -483,13 +483,14 @@
         <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
         <entry>print</entry>
         <entry>get</entry>
-        <entry>cViewNameGrayConf</entry>
         <entry encoding="base64">Y1NlY0dyYXlDb25mIA==</entry>
         <entry>cSecGrayConf</entry>
         <entry encoding="base64">XDxxbW9uaXRvclw+</entry>
         <entry>integrate</entry>
         <entry encoding="base64">XDxHWnFtb25pdG9yXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</entry>
+        <entry>gray</entry>
+        <entry>cViewNameGrayConf</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
