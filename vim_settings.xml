@@ -165,7 +165,7 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.test.inc.php" timestamp="1517900728613">
         <mark key="'" line="236" column="21" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1520323613758">
+      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1521020504697">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="62" column="16" />
         <mark key="." line="62" column="16" />
@@ -180,8 +180,12 @@
       <file name="/PHP Console" timestamp="1519981992690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1520945544950">
-        <mark key="'" line="0" column="0" />
+      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521021800433">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/models/m_admin.php" timestamp="1513910881742">
         <mark key="[" line="24" column="0" />
@@ -209,12 +213,11 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521014252624">
-        <mark key="'" line="832" column="128" />
-        <mark key="[" line="805" column="106" />
-        <mark key="]" line="806" column="12" />
-        <mark key="." line="806" column="12" />
-        <mark key="^" line="806" column="12" />
+      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521021824624">
+        <mark key="'" line="1899" column="33" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1517402970343">
         <mark key="[" line="16" column="43" />
@@ -254,7 +257,7 @@
       <file name="E:/work/project/analysis_proj/analysis/analysis/config/production/database.php" timestamp="1520932037751">
         <mark key="'" line="57" column="5" />
       </file>
-      <file name="/fragment.php" timestamp="1521014296346">
+      <file name="/fragment.php" timestamp="1521021780642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_index.php" timestamp="1512533356129">
@@ -316,48 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="0" filename="E:/work/project/barad_proj/trunk/barad_php_script_daystat/daystat/calcDayStatHbase.php" />
-      <jump line="37" column="32" filename="E:/work/project/disk_export/export.php" />
-      <jump line="88" column="8" filename="E:/work/project/disk_export/export.php" />
-      <jump line="7" column="1" filename="E:/work/project/disk_export/export.php" />
-      <jump line="74" column="57" filename="E:/work/project/disk_export/export.php" />
-      <jump line="101" column="27" filename="E:/work/project/disk_export/export.php" />
-      <jump line="198" column="55" filename="E:/work/project/disk_export/export.php" />
-      <jump line="199" column="6" filename="E:/work/project/disk_export/export.php" />
-      <jump line="64" column="18" filename="E:/work/project/disk_export/export.php" />
-      <jump line="126" column="35" filename="E:/work/project/disk_export/export.php" />
-      <jump line="0" column="0" filename="E:/work/project/disk_export/export.php" />
-      <jump line="116" column="6" filename="E:/work/project/disk_export/export.php" />
-      <jump line="71" column="0" filename="E:/work/project/disk_export/export_1.php" />
-      <jump line="40" column="41" filename="E:/work/project/disk_export/export.php" />
-      <jump line="59" column="35" filename="E:/work/project/disk_export/export_1.php" />
-      <jump line="93" column="48" filename="E:/work/project/disk_export/export_1.php" />
-      <jump line="149" column="16" filename="E:/work/project/disk_export/export_1.php" />
-      <jump line="150" column="6" filename="E:/work/project/disk_export/export_1.php" />
-      <jump line="276" column="24" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/DB/MySQLi.class.php" />
-      <jump line="29" column="13" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="31" column="29" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="35" column="13" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="57" column="30" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="64" column="13" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="11" column="13" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="13" column="29" filename="E:/work/project/admin.barad.oa.com/application/models/m_config.php" />
-      <jump line="48" column="0" filename="E:/work/project/admin.barad.oa.com/application/models/m_api.php" />
-      <jump line="2857" column="78" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="233" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
-      <jump line="1012" column="31" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2282" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2546" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2549" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1539" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="408" column="48" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="751" column="42" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1540" column="34" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2309" column="45" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2574" column="45" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1544" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2285" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2288" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2550" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2553" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1541" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -416,55 +377,97 @@
       <jump line="1545" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2286" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="2289" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1138" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="813" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="20" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1715" column="9" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1739" column="57" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1934" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="103" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="1772" column="39" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1790" column="23" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1799" column="36" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="12" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1723" column="9" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1725" column="23" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1736" column="36" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1743" column="36" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1783" column="48" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1864" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="349" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="379" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="394" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="416" column="19" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="422" column="31" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="569" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="576" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="595" column="19" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="601" column="31" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="716" column="48" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1590" column="38" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1728" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="62" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="1920" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
+      <jump line="14" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="58" column="103" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="63" column="103" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="126" column="103" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="131" column="103" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="273" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="284" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="365" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="450" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="202" column="20" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="212" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>returnData</text>
+        <text>storm</text>
       </register>
       <register name="/" type="4">
-        <text>cViewNameGrayConf</text>
+        <text encoding="base64">XDxyZWdpb25NYXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VhY2gnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAyMCwgJ3J1bGUnID0+ICdudW1lcmljO21vcmVUaGFuOjEwO2xlc3NUaGFuOjEwMDAwJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2N2bScgPT4gWwogICAgICAgICAgICAgICAgJ25hbWVzcGFjZScgPT4gJ3FjZS9jdm0nLAogICAgICAgICAgICAgICAgJ3ZpZXdOYW1lJyA9PiAnY3ZtX2RldmljZScsCiAgICAgICAgICAgICAgICAnbWV0cmljTmFtZScgPT4gJ2NwdV91c2FnZScsCiAgICAgICAgICAgICAgICAncScgPT4gJ2FwcGlkOigxMjUxNzYzODY4IDEyNTE3MDc3OTUpJywKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzaXplJyA9PiAkZWFjaAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCR0aGlzLT5yZWdpb25NYXApOwogICAgICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkYXBpRW52ID0gYXJyYXkoKTsKICAgICAgICAkYWdlbnRFbnYgPSBhcnJheSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VhY2gnID0+IGFycmF5KCdkZWZhdWx0JyA9PiAyMCwgJ3J1bGUnID0+ICdudW1lcmljO21vcmVUaGFuOjEwO2xlc3NUaGFuOjEwMDAwJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5hbWUgPSAieyRvbmUtPnJlZ2lvbn1feyRvbmUtPm5hbWV9IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRuYW1lID0gIiokbmFtZSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRuYW1lID0gIiokbmFtZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRvbmUtPnR5cGUgPT0gJ3Byb2R1Y3QnKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfREVQUkVDQVRFRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5hbWUgPSAieyRvbmUtPnJlZ2lvbn1feyRvbmUtPm5hbWV9IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>cViewNameGrayConf</last-search>
+      <last-search encoding="base64">XDxyZWdpb25NYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>cViewNameGrayConf</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpb25NYXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -472,14 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>autoupdate</entry>
-        <entry>autoupdate_gz</entry>
-        <entry>Autoupdate</entry>
-        <entry>count</entry>
-        <entry>exit</entry>
-        <entry>time</entry>
-        <entry>date</entry>
-        <entry>dInstallEvent</entry>
         <entry encoding="base64">XDxyZWdpb25MaXN0XD4=</entry>
         <entry encoding="base64">XDxzdGF0aXN0aWNzXD4=</entry>
         <entry>print</entry>
@@ -492,6 +487,14 @@
         <entry encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</entry>
         <entry>gray</entry>
         <entry>cViewNameGrayConf</entry>
+        <entry encoding="base64">XDxtb2R1bGVJZFw+</entry>
+        <entry>平均负载</entry>
+        <entry encoding="base64">XDxxbW9uaXRvcl9hbmFseXplX3N0b3JtX2xvYWRcPg==</entry>
+        <entry>dealAnalyzeStormLoad</entry>
+        <entry>select</entry>
+        <entry>regionMap</entry>
+        <entry encoding="base64">XDx6b25lXD4=</entry>
+        <entry encoding="base64">XDxyZWdpb25NYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
