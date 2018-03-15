@@ -186,7 +186,7 @@
       <file name="/PHP Console" timestamp="1519981992690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521084357037">
+      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521086398525">
         <mark key="'" line="343" column="62" />
         <mark key="[" line="367" column="26" />
         <mark key="]" line="367" column="36" />
@@ -225,8 +225,8 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521084933977">
-        <mark key="'" line="1854" column="33" />
+      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521086404473">
+        <mark key="'" line="1858" column="35" />
         <mark key="[" line="1632" column="46" />
         <mark key="]" line="1632" column="50" />
         <mark key="." line="1632" column="50" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="410" column="35" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="406" column="37" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="403" column="38" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
@@ -433,6 +432,7 @@
       <jump line="270" column="44" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="338" column="56" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="343" column="62" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
+      <jump line="1858" column="35" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -442,7 +442,7 @@
         <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRCYXJhZE53c1w+</text>
+        <text>break</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfVVJMLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxLyIpOwo=</text>
@@ -501,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRCYXJhZE53c1w+</last-search>
+      <last-search>break</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRCYXJhZE53c1w+</last-pattern>
+      <last-pattern>break</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -511,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry encoding="base64">Y1NlY0dyYXlDb25mIA==</entry>
         <entry>cSecGrayConf</entry>
         <entry encoding="base64">XDxxbW9uaXRvclw+</entry>
@@ -531,6 +530,7 @@
         <entry>cloud_readDB</entry>
         <entry>cloud_read</entry>
         <entry encoding="base64">XDxnZXRCYXJhZE53c1w+</entry>
+        <entry>break</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
