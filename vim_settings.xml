@@ -187,7 +187,7 @@
       <file name="/PHP Console" timestamp="1519981992690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521164354917">
+      <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521183928085">
         <mark key="'" line="343" column="62" />
         <mark key="[" line="367" column="26" />
         <mark key="]" line="367" column="36" />
@@ -226,12 +226,12 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521098816883">
+      <file name="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" timestamp="1521184142780">
         <mark key="'" line="269" column="80" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="50" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="864" column="43" />
+        <mark key="]" line="864" column="52" />
+        <mark key="^" line="864" column="52" />
+        <mark key="." line="864" column="52" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/BaseController.php" timestamp="1517402970343">
         <mark key="[" line="16" column="43" />
@@ -420,11 +420,11 @@
       <jump line="276" column="80" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snYm9keSddW10gPSBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>cpu_usage</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>cpu_usage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3ZWlnaHRcPg==</text>
@@ -433,31 +433,31 @@
         <text encoding="base64">ICAgICAgICBjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfVVJMLCAiaHR0cDovLzEyNy4wLjAuMTo4MDgxLyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snYm9keSddW10gPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJmRpbWVuc2lvbnNbdm1fdXVpZF09Jy4kdmFsdWVbJ3ZtX3V1aWQnXS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJmRpbWVuc2lvbnNbcHJvamVjdGlkXT0nLiR2YWx1ZVsncHJvamVjdGlkJ10uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnU0cnID0+IDAuMDMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snYm9keSddW10gPSBbXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnSEsnID0+IDAsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnU1pKUicgPT4gMC4wMSwK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnU0cnID0+IDAuMDMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnU0hKUicgPT4gMC4wMywK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnSEsnID0+IDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnQ0EnID0+IDAuMDMsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnU1pKUicgPT4gMC4wMSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnQkonID0+IDAuMTUsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnU0hKUicgPT4gMC4wMywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnU0gnID0+IDAuMzUsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnQ0EnID0+IDAuMDMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
