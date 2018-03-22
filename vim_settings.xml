@@ -248,14 +248,6 @@
       <file name="/Dummy.txt" timestamp="1521598401804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1521620239218">
-        <mark key="a" line="1008" column="48" />
-        <mark key="'" line="2291" column="24" />
-        <mark key="[" line="802" column="172" />
-        <mark key="]" line="802" column="197" />
-        <mark key="." line="802" column="197" />
-        <mark key="^" line="802" column="197" />
-      </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1516608855823">
         <mark key="'" line="86" column="0" />
         <mark key="[" line="6" column="20" />
@@ -300,12 +292,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1521446723079">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1521691211635">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1517367905239">
         <mark key="'" line="22" column="17" />
@@ -441,10 +433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>= []</text>
