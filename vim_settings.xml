@@ -134,11 +134,11 @@
         <mark key="." line="253" column="117" />
         <mark key="^" line="253" column="117" />
       </file>
-      <file name="E:/work/project/k2q/index.php" timestamp="1522224697682">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+      <file name="E:/work/project/k2q/index.php" timestamp="1522226005987">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1517402877096">
         <mark key="[" line="13" column="81" />
@@ -166,7 +166,7 @@
         <mark key="^" line="34" column="51" />
         <mark key="." line="34" column="50" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1521102594469">
+      <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1522224758512">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="62" column="16" />
         <mark key="." line="62" column="16" />
@@ -423,43 +423,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JGRhdGEgPSBmaWxlX2dldF9jb250ZW50cygicGhwOiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>= []</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZmVhdHVyZUluZm8gPSAkci0+cmVzdWx0X2FycmF5KClbMF07Cg==</text>
+        <text encoding="base64">JG1lc3NhZ2UtPmhhcHBlblRpbWUgPSBzdHJ0b3RpbWUoJG1lc3NhZ2UtPmhhcHBlblRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGRhdGEgPSBmaWxlX2dldF9jb250ZW50cygicGhwOiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JG1lc3NhZ2UtPnNlY3VyaXR5Q29kZSA9ICc4ZTQ5YTBjYzMyNjIxMWU4OTc4NjUyNTQwMDlkMjVhNCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldEFwaU5hbWVzcGFjZUxpc3RfKCkK</text>
+        <text encoding="base64">JGpzb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewogICAgICAgICRyZXN1bHQgPSAkdGhpcy0+ZGItPmdldCgnY0FwaU1ldHJpYycpOwogICAgICAgICRyZXN1bHQgPSAkcmVzdWx0LT5yZXN1bHRfYXJyYXkoKTsKICAgICAgICAkbGlzdCA9IGFycmF5KCk7CiAgICAgICAgZm9yZWFjaCAoJHJlc3VsdCBhcyAka2V5ID0+ICR2YWx1ZSkgewogICAgICAgICAgICAkbGlzdFtdID0gJHZhbHVlWydmcm9udE5hbWVTcGFjZSddOwogICAgICAgIH0KICAgICAgICAkbGlzdCA9IGFycmF5X3ZhbHVlcyhhcnJheV91bmlxdWUoJGxpc3QpKTsKICAgICAgICAkbmFtZXNwYWNlTGlzdCA9IGFycmF5KCk7CiAgICAgICAgZm9yZWFjaCAoJGxpc3QgYXMgJGtleSA9PiAkdmFsdWUpIHsKICAgICAgICAgICAgJG5hbWVzcGFjZUxpc3RbXSA9IGFycmF5KAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICR2YWx1ZQogICAgICAgICAgICApOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJG5hbWVzcGFjZUxpc3Q7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">JGRhdGEgPSBmaWxlX2dldF9jb250ZW50cygicGhwOiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9PiAkdmFsdWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5hbWVzcGFjZUxpc3RbXSA9IGFycmF5KAo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldEFwaU5hbWVzcGFjZUxpc3RfKCkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
