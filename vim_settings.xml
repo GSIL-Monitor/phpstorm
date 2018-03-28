@@ -116,6 +116,7 @@
         <mark key="^" line="100" column="21" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1522241280493" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/redis/class/Conf.class.php" timestamp="1513330795244">
         <mark key="[" line="77" column="28" />
         <mark key="]" line="77" column="31" />
@@ -134,11 +135,11 @@
         <mark key="." line="253" column="117" />
         <mark key="^" line="253" column="117" />
       </file>
-      <file name="E:/work/project/k2q/index.php" timestamp="1522238415716">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="23" column="28" />
+      <file name="E:/work/project/k2q/index.php" timestamp="1522241290827">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="39" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/bin/syncApi.php" timestamp="1517402877096">
         <mark key="[" line="13" column="81" />
