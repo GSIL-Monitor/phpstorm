@@ -23,11 +23,12 @@
         <mark key="." line="32" column="36" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1523434585007">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1523498268038">
         <mark key="'" line="555" column="9" />
-        <mark key="[" line="870" column="0" />
-        <mark key="]" line="870" column="0" />
-        <mark key="." line="870" column="0" />
+        <mark key="[" line="868" column="27" />
+        <mark key="]" line="868" column="30" />
+        <mark key="." line="868" column="30" />
+        <mark key="^" line="868" column="30" />
       </file>
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
@@ -437,11 +438,11 @@
       <jump line="173" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRzaXplID0gMDsK</text>
+      <register name="&quot;" type="4">
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>1024 * 1024 * 1024</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
