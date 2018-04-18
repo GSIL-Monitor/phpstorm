@@ -302,12 +302,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1523876514947">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1524019602149">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1517367905239">
         <mark key="'" line="22" column="17" />
@@ -440,10 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cq</text>
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>cq</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
