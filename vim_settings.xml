@@ -100,7 +100,8 @@
         <mark key="." line="24" column="90" />
         <mark key="^" line="24" column="90" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" timestamp="1524209007187" />
+      <file name="E:/work/project/api/vendor/guzzlehttp/ringphp/src/Client/CurlHandler.php" timestamp="1524211116708" />
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" timestamp="1524210894163" />
       <file name="E:/work/project/analysis_proj/analysis/system/database/DB.php" timestamp="1520945259892">
         <mark key="[" line="111" column="34" />
         <mark key="]" line="111" column="34" />
@@ -259,7 +260,7 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524209561363">
+      <file name="/Dummy.txt" timestamp="1524211332343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1524209850324">
@@ -325,6 +326,7 @@
         <mark key="^" line="71" column="70" />
         <mark key="." line="71" column="70" />
       </file>
+      <file name="E:/work/project/api/vendor/guzzlehttp/ringphp/src/Client/Middleware.php" timestamp="1524210966862" />
       <file name="E:/work/project/analysis_proj/analysis/index.php" timestamp="1521788179805">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="55" column="0" />
