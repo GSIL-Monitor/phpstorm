@@ -44,7 +44,6 @@
         <mark key="." line="117" column="12" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" timestamp="1524032997755">
-        <mark key="'" line="173" column="0" />
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
@@ -327,14 +326,8 @@
         <mark key="." line="71" column="70" />
       </file>
       <file name="E:/work/project/api/vendor/guzzlehttp/ringphp/src/Client/Middleware.php" timestamp="1524210966862" />
-      <file name="E:/work/project/analysis_proj/analysis/index.php" timestamp="1521788179805">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="39" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1524552020220">
-        <mark key="a" line="2507" column="15" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1524553586472">
+        <mark key="a" line="2530" column="15" />
         <mark key="[" line="809" column="12" />
         <mark key="]" line="809" column="47" />
         <mark key="." line="809" column="47" />
