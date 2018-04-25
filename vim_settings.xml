@@ -17,7 +17,7 @@
         <mark key="." line="105" column="73" />
         <mark key="^" line="99" column="71" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1524558763000">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1524624506707">
         <mark key="'" line="555" column="9" />
         <mark key="[" line="868" column="27" />
         <mark key="]" line="868" column="30" />
@@ -36,7 +36,7 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1523430644986">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1524624815830">
         <mark key="[" line="151" column="5" />
         <mark key="]" line="151" column="5" />
         <mark key="." line="151" column="5" />
@@ -57,14 +57,17 @@
         <mark key="^" line="13" column="90" />
         <mark key="." line="13" column="90" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1523950195991">
-        <mark key="'" line="297" column="4" />
-        <mark key="[" line="324" column="26" />
-        <mark key="]" line="324" column="26" />
-        <mark key="^" line="324" column="26" />
-        <mark key="." line="324" column="26" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1524625381931">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="331" column="2" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="E:/work/project/api/vendor/guzzlehttp/ringphp/src/Client/CurlHandler.php" timestamp="1524211116708" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1524625375741">
+        <mark key="'" line="551" column="21" />
+      </file>
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Connections/Connection.php" timestamp="1524210894163" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/common.php" timestamp="1523343273396" />
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1524210375567" />
@@ -89,6 +92,7 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_5.php" timestamp="1523344556639" />
+      <file name="E:/work/project/BaradApi_test/batch.py" timestamp="1524624489749" />
       <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/ConnectionPool/StaticNoPingConnectionPool.php" timestamp="1524208940295" />
       <file name="E:/work/project/k2q/index.php" timestamp="1522242173018">
         <mark key="[" line="11" column="0" />
@@ -179,7 +183,7 @@
         <mark key="." line="71" column="70" />
       </file>
       <file name="E:/work/project/api/vendor/guzzlehttp/ringphp/src/Client/Middleware.php" timestamp="1524210966862" />
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1524553586472">
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" timestamp="1524626400877">
         <mark key="a" line="2530" column="15" />
         <mark key="[" line="809" column="12" />
         <mark key="]" line="809" column="47" />
@@ -188,13 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2286" column="35" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="2289" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="1138" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="813" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="20" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="1715" column="9" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="1739" column="57" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1934" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="103" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="1772" column="39" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -288,16 +285,23 @@
       <jump line="612" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="613" column="0" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="36" column="11" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="311" column="16" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
+      <jump line="489" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="610" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="621" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="632" column="5" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="551" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="36" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>action</text>
+        <text>Autoupdate_sh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc3RhdFsnY29zdCddID0gJHRoaXMtPmRlYnVnWydjb3N0J11bJ21zZWFyY2gnXTsK</text>
@@ -306,37 +310,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaG9zdHMgPSBbJzEwLjEuMS4xOjkyMDAnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vImhvc3QiID0+ICJnei5jZ2F0ZXdheS50ZW5jZW50eXVuLmNvbSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MjAxOC8wNC8yNCAxNzowODoxOSBbZXJyb3JdIDMwMDk0IzA6ICoyMjkxODYgRmFzdENHSSBzZW50IGluIHN0ZGVycjogInBpL21hc3Rlci92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvRm91bmRhdGlvbi9zdGFydC5waHA6MjY5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaG9zdHMgPSBbJzEwLjEuMS4xOjkyMDAnXQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MjAxOC8wNC8yNCAxNzowODoxOSBbZXJyb3JdIDMwMDk0IzA6ICoyMjkxODYgRmFzdENHSSBzZW50IGluIHN0ZGVycjogInBpL21hc3Rlci92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvRm91bmRhdGlvbi9zdGFydC5waHA6MjY5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>action</last-search>
+      <last-search>Autoupdate_sh</last-search>
       <last-offset />
-      <last-pattern>action</last-pattern>
+      <last-pattern>Autoupdate_sh</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -344,9 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>integrate</entry>
-        <entry encoding="base64">XDxHWnFtb25pdG9yXD4=</entry>
-        <entry encoding="base64">XDxmZWF0dXJlTmFtZUFyclw+</entry>
         <entry>gray</entry>
         <entry>cViewNameGrayConf</entry>
         <entry>平均负载</entry>
@@ -364,6 +365,9 @@
         <entry encoding="base64">XDx3ZWlnaHRcPg==</entry>
         <entry>= []</entry>
         <entry>action</entry>
+        <entry>autoupdate</entry>
+        <entry>autoupdate_sh</entry>
+        <entry>Autoupdate_sh</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
