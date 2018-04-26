@@ -458,7 +458,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>Tool::log</text>
+        <text>ld_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc3RhdFsnY29zdCddID0gJHRoaXMtPmRlYnVnWydjb3N0J11bJ21zZWFyY2gnXTsK</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Tool::log</last-search>
+      <last-search>ld_id</last-search>
       <last-offset />
-      <last-pattern>Tool::log</last-pattern>
+      <last-pattern>ld_id</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>平均负载</entry>
         <entry encoding="base64">XDxxbW9uaXRvcl9hbmFseXplX3N0b3JtX2xvYWRcPg==</entry>
         <entry>dealAnalyzeStormLoad</entry>
         <entry>select</entry>
@@ -525,6 +524,7 @@
         <entry>Autoupdate_sh</entry>
         <entry>log</entry>
         <entry>Tool::log</entry>
+        <entry>ld_id</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
