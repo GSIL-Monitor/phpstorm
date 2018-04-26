@@ -175,7 +175,13 @@
         <mark key="^" line="54" column="58" />
         <mark key="." line="54" column="50" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1524558386110" />
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1524729761980">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="71" column="12" />
+        <mark key="]" line="71" column="38" />
+        <mark key="." line="71" column="38" />
+        <mark key="^" line="71" column="38" />
+      </file>
       <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1518060146172">
         <mark key="[" line="34" column="50" />
         <mark key="]" line="34" column="51" />
@@ -259,13 +265,13 @@
       <file name="/Dummy.txt" timestamp="1524639169397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1524712289733">
-        <mark key="a" line="1219" column="32" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1524730859299">
+        <mark key="a" line="1240" column="32" />
         <mark key="'" line="36" column="11" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="38" />
-        <mark key="^" line="39" column="38" />
-        <mark key="." line="39" column="38" />
+        <mark key="[" line="1111" column="22" />
+        <mark key="]" line="1111" column="31" />
+        <mark key="." line="1111" column="31" />
+        <mark key="^" line="1111" column="31" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -287,7 +293,7 @@
         <mark key="^" line="139" column="38" />
         <mark key="." line="139" column="38" />
       </file>
-      <file name="/fragment.php" timestamp="1524639262913">
+      <file name="/fragment.php" timestamp="1524730133270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/analysis_proj/analysis/analysis/views/singles/qmonitor.php" timestamp="1521189348446">
@@ -309,7 +315,7 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1524561737621">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1524730311350">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
@@ -340,14 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1783" column="48" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="1864" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="349" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="379" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="394" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="416" column="19" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="422" column="31" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="569" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="576" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="595" column="19" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="601" column="31" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -440,43 +438,51 @@
       <jump line="867" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="868" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="899" column="28" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
+      <jump line="35" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="111" column="19" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="70" column="18" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="69" column="22" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="124" column="31" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="127" column="34" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="0" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
+      <jump line="4" column="4" filename="E:/work/project/api/app/controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdFsndmlld05hbWUnXSA9ICR2aWV3TmFtZTsKICAgICAgICAkc3RhdFsnbWV0cmljTmFtZSddID0gJG1ldHJpY05hbWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>viewName</text>
       </register>
       <register name="/" type="4">
-        <text>ld_id</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhdFsnY29zdCddID0gJHRoaXMtPmRlYnVnWydjb3N0J11bJ21zZWFyY2gnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdFsndmlld05hbWUnXSA9ICR2aWV3TmFtZTsKICAgICAgICAkc3RhdFsnbWV0cmljTmFtZSddID0gJG1ldHJpY05hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdFsnaW5kZXgnXSA9ICRpbmRleDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVidWdbJ1F1ZXJ5TG9nJ10gID0gREI6OmdldFF1ZXJ5TG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vImhvc3QiID0+ICJnei5jZ2F0ZXdheS50ZW5jZW50eXVuLmNvbSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVidWdbJ0VTJ11bJ3BhcmFtcyddID0gJHBhcmFtczsKLy8gICAgICAgICR0aGlzLT5kZWJ1Z1snRVMnXVsncmVzcG9uc2UnXSA9ICRyZXNwb25zZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkaG9zdHMgPSBbJzEwLjEuMS4xOjkyMDAnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygnU1FMIGxvZycsIERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MjAxOC8wNC8yNCAxNzowODoxOSBbZXJyb3JdIDMwMDk0IzA6ICoyMjkxODYgRmFzdENHSSBzZW50IGluIHN0ZGVycjogInBpL21hc3Rlci92ZW5kb3IvbGFyYXZlbC9mcmFtZXdvcmsvc3JjL0lsbHVtaW5hdGUvRm91bmRhdGlvbi9zdGFydC5waHA6MjY5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vImhvc3QiID0+ICJnei5jZ2F0ZXdheS50ZW5jZW50eXVuLmNvbSIsCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ld_id</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>ld_id</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -496,8 +502,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxbW9uaXRvcl9hbmFseXplX3N0b3JtX2xvYWRcPg==</entry>
-        <entry>dealAnalyzeStormLoad</entry>
         <entry>select</entry>
         <entry>regionMap</entry>
         <entry encoding="base64">XDxyZWdpb25NYXBcPg==</entry>
@@ -516,6 +520,8 @@
         <entry>log</entry>
         <entry>Tool::log</entry>
         <entry>ld_id</entry>
+        <entry>app.debug</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
