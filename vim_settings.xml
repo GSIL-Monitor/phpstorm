@@ -265,7 +265,7 @@
       <file name="/Dummy.txt" timestamp="1524639169397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1524732084133">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1524885154117">
         <mark key="a" line="1234" column="32" />
         <mark key="'" line="36" column="11" />
         <mark key="[" line="491" column="38" />
@@ -315,12 +315,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1524732201079">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1524885093136">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1517367905239">
         <mark key="'" line="22" column="17" />
@@ -448,11 +448,11 @@
       <jump line="341" column="1" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
