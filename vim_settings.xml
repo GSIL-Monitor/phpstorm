@@ -43,6 +43,9 @@
         <mark key="^" line="117" column="12" />
         <mark key="." line="117" column="12" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" timestamp="1525674830974">
+        <mark key="'" line="86" column="19" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1524624815830">
         <mark key="[" line="151" column="5" />
         <mark key="]" line="151" column="5" />
@@ -334,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="601" column="31" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="716" column="48" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1728" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="62" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1920" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -434,6 +435,8 @@
       <jump line="4" column="4" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="341" column="1" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="795" column="72" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="157" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
+      <jump line="86" column="19" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -443,7 +446,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>count</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2VxSWQgPSAkcGFyYW1zWydzZXFJZCddOwo=</text>
@@ -480,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -490,7 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
         <entry>regionMap</entry>
         <entry encoding="base64">XDxyZWdpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxtb2R1bGVJZFw+</entry>
@@ -510,6 +512,7 @@
         <entry>ld_id</entry>
         <entry>app.debug</entry>
         <entry>debug</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
