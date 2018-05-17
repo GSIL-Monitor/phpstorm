@@ -132,12 +132,12 @@
       <file name="/Dummy.txt" timestamp="1526369335612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526538849607">
-        <mark key="'" line="922" column="4" />
-        <mark key="[" line="3157" column="46" />
-        <mark key="]" line="3157" column="46" />
-        <mark key="." line="3157" column="46" />
-        <mark key="^" line="2806" column="53" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526544111200">
+        <mark key="'" line="731" column="68" />
+        <mark key="[" line="973" column="43" />
+        <mark key="]" line="973" column="54" />
+        <mark key="." line="973" column="54" />
+        <mark key="^" line="973" column="54" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -146,7 +146,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1526529113241">
+      <file name="/fragment.php" timestamp="1526543594437">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -187,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
-      <jump line="450" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="202" column="20" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="212" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="1791" column="68" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -287,55 +285,57 @@
       <jump line="873" column="4" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="217" column="5" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="239" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="2550" column="49" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="731" column="68" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>period</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>period</text>
       </register>
       <register name="/" type="4">
-        <text>InterfaceUrl</text>
+        <text>检测</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlUb29sOjplcnIoInVybDoiIC4gJHVybCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkbnVsbFRpbWUgPSAkcmVxLT5zdGFydCArICRrICogcGVyaW9kOwo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgICAgICRkWydldmVudElkJ10gPSBTRVFJRDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0aXN0aWNzJyA9PiBhcnJheSgnZGVmYXVsdCcgPT4gJ3N1bScsICdydWxlJyA9PiAncmVxdWlyZWQ7ZW51bTpzdW0sbWF4LG1pbixjb3VudCxhdmcsbGFzdCxmaXJzdCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWyRwW11dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSgkcFsnb2xkU3RhdGlzdGljcyddKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0aXN0aWNzJyA9PiBhcnJheSgnZGVmYXVsdCcgPT4gJ3N1bScsICdydWxlJyA9PiAncmVxdWlyZWQ7ZW51bTpzdW0sbWF4LG1pbixjb3VudCxhdmcsbGFzdCxmaXJzdCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0aXN0aWNzJyA9PiBhcnJheSgnZGVmYXVsdCcgPT4gJ3N1bScsICdydWxlJyA9PiAncmVxdWlyZWQ7ZW51bTpzdW0sbWF4LG1pbixjb3VudCxhdmcsbGFzdCxmaXJzdCcpLAo=</text>
+        <text encoding="base64">CSAgICAgICAgICAgICRkWydldmVudElkJ10gPSBTRVFJRDsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>InterfaceUrl</last-search>
+      <last-search>检测</last-search>
       <last-offset />
-      <last-pattern>InterfaceUrl</last-pattern>
+      <last-pattern>检测</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx6b25lXD4=</entry>
         <entry>cloud_readDB</entry>
         <entry>cloud_read</entry>
         <entry encoding="base64">XDxnZXRCYXJhZE53c1w+</entry>
@@ -363,6 +362,7 @@
         <entry>httpCode</entry>
         <entry>BARAD_APIEKY</entry>
         <entry>InterfaceUrl</entry>
+        <entry>检测</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
