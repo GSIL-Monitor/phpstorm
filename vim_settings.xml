@@ -132,11 +132,11 @@
       <file name="/Dummy.txt" timestamp="1526369335612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526464378333">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526529159484">
         <mark key="'" line="922" column="4" />
-        <mark key="[" line="2806" column="36" />
-        <mark key="]" line="2806" column="53" />
-        <mark key="." line="2806" column="53" />
+        <mark key="[" line="737" column="42" />
+        <mark key="]" line="737" column="42" />
+        <mark key="." line="737" column="42" />
         <mark key="^" line="2806" column="53" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
@@ -146,7 +146,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1526369508817">
+      <file name="/fragment.php" timestamp="1526529113241">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -157,12 +157,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1525662024943">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1526529392059">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1517367905239">
         <mark key="'" line="22" column="17" />
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$p['statistics']</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>$p['statistics']</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>InterfaceUrl</text>
