@@ -132,12 +132,12 @@
       <file name="/Dummy.txt" timestamp="1526632621126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526634917703">
-        <mark key="a" line="1001" column="0" />
-        <mark key="[" line="1020" column="29" />
-        <mark key="]" line="1020" column="29" />
-        <mark key="." line="1020" column="29" />
-        <mark key="^" line="1011" column="7" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526637420219">
+        <mark key="a" line="1011" column="0" />
+        <mark key="[" line="966" column="11" />
+        <mark key="]" line="966" column="11" />
+        <mark key="^" line="974" column="47" />
+        <mark key="." line="966" column="11" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -146,7 +146,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1526631258061">
+      <file name="/fragment.php" timestamp="1526636498057">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -290,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>通过第一个去检测是否发生了切换</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>通过第一个去检测是否发生了切换</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
@@ -302,31 +302,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3ZpZXdOYW1lJyA9PiAkcmVxLT52aWV3TmFtZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmlyc3ROdWxsID0gJGs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IFxJbGx1bWluYXRlXEh0dHBcUmVxdWVzdDo6Y3JlYXRlKCJodHRwOi8vJHJlZ2lvbi5hcGkuYmFyYWQudGVuY2VudHl1bi5jb20iLCAnUE9TVCcsICRwYXJhbXMpOwogICAgICAgIGRkKCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YVswXSBhcyAkayA9PiAkdikgewogICAgICAgICAgICBpZiAoaXNfbnVsbCgkdikpIHsKICAgICAgICAgICAgICAgICRmaXJzdE51bGwgPSAkazsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAndmlld05hbWUnID0+ICdjdm1fZGV2aWNlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IG51bGw7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRyZXMtPmdldEJvZHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRyZXMtPmdldFN0YXR1c0NvZGUoKTsgLy8gMjAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JlYWNoIChyYW5nZSgkZmlyc3ROdWxsLCBjb3VudCgkZGF0YVswXSkgLSAxKSBhcyAkaSkgewogICAgICAgICAgICAgICAgICAgICAgICAkCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
