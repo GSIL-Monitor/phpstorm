@@ -24,6 +24,7 @@
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
+      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1526897217030" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="40" column="135" />
@@ -128,13 +129,13 @@
       <file name="/Dummy.txt" timestamp="1526632621126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526895329535">
-        <mark key="a" line="3355" column="42" />
-        <mark key="'" line="3364" column="48" />
-        <mark key="[" line="3586" column="52" />
-        <mark key="]" line="3364" column="48" />
-        <mark key="." line="3364" column="48" />
-        <mark key="^" line="3364" column="48" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526897280667">
+        <mark key="a" line="3354" column="42" />
+        <mark key="'" line="3354" column="42" />
+        <mark key="[" line="3382" column="39" />
+        <mark key="]" line="3382" column="36" />
+        <mark key="." line="3382" column="36" />
+        <mark key="^" line="3382" column="36" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -154,12 +155,12 @@
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1526895109343">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1526896752297">
         <mark key="'" line="3" column="35" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/barad/cvm/class/Conf.class.php" timestamp="1517367905239">
         <mark key="'" line="22" column="17" />
@@ -184,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1796" column="68" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="1704" column="52" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="221" column="55" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="1906" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1853" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -284,13 +283,15 @@
       <jump line="821" column="39" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3584" column="49" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3364" column="48" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3575" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3355" column="42" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc29ydCcgPT4gJHNvcnRGaWVsZHMsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>dimensionGroup</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
@@ -299,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAkZGF0YSA9IGNEaW1lbnNpb25WaWV3OjpmaW5kKCR2aWV3TmFtZSk7CiAgICAgICAgaWYgKCEkZGF0YSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCd2aWV3TmFtZSBlcnJvcicsIDYwMSk7CiAgICAgICAgfQogICAgICAgICRmaWVsZHMgPSBleHBsb2RlKCcsJywgJGRhdGEtPmRpbWVuc2lvbkdyb3VwKTsKICAgICAgICByZXR1cm4gJGZpZWxkczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc29ydCcgPT4gJHNvcnRGaWVsZHMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNvcnRGaWVsZHMgPSAkdGhpcy0+Z2V0SW5kZXgoJHZpZXdOYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmlyc3ROdWxsID0gJGs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YVswXSBhcyAkayA9PiAkdikgewogICAgICAgICAgICBpZiAoaXNfbnVsbCgkdikpIHsKICAgICAgICAgICAgICAgICRmaXJzdE51bGwgPSAkazsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmlyc3ROdWxsID0gJGs7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAndmlld05hbWUnID0+ICdjdm1fZGV2aWNlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IG51bGw7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YVswXSBhcyAkayA9PiAkdikgewogICAgICAgICAgICBpZiAoaXNfbnVsbCgkdikpIHsKICAgICAgICAgICAgICAgICRmaXJzdE51bGwgPSAkazsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
