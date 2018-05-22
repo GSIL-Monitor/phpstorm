@@ -130,13 +130,13 @@
       <file name="/Dummy.txt" timestamp="1526956934789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526974751635">
-        <mark key="a" line="3422" column="42" />
-        <mark key="'" line="3443" column="32" />
-        <mark key="[" line="3653" column="55" />
-        <mark key="]" line="3653" column="79" />
-        <mark key="." line="3653" column="79" />
-        <mark key="^" line="3653" column="79" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526978464827">
+        <mark key="a" line="3407" column="42" />
+        <mark key="'" line="3428" column="32" />
+        <mark key="[" line="999" column="0" />
+        <mark key="]" line="999" column="0" />
+        <mark key="^" line="997" column="16" />
+        <mark key="." line="999" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -288,44 +288,44 @@
       <jump line="3443" column="32" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>explode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>explode</text>
+        <text>Start</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IGNEaW1lbnNpb25WaWV3OjpmaW5kKCR2aWV3TmFtZSk7CiAgICAgICAgaWYgKCEkZGF0YSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCd2aWV3TmFtZSBlcnJvcicsIDYwMSk7CiAgICAgICAgfQogICAgICAgICRmaWVsZHMgPSBleHBsb2RlKCcsJywgJGRhdGEtPmRpbWVuc2lvbkdyb3VwKTsKICAgICAgICByZXR1cm4gJGZpZWxkczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXJ0ID0gc3RydG90aW1lKCRyZXRbMF0tPnN0YXJ0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc29ydCcgPT4gJHNvcnRGaWVsZHMsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNvcnRGaWVsZHMgPSAkdGhpcy0+Z2V0SW5kZXgoJHZpZXdOYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmlyc3ROdWxsID0gJGs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkYXRhWyRpXVskZmlyc3ROdWxsICsgJGpdID0gJGRhdGEzWyRpXVskal07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YVswXSBhcyAkayA9PiAkdikgewogICAgICAgICAgICBpZiAoaXNfbnVsbCgkdikpIHsKICAgICAgICAgICAgICAgICRmaXJzdE51bGwgPSAkazsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAocmFuZ2UoMCwgY291bnQoJGRhdGEzWzBdKSAtIDEpIGFzICRqKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
