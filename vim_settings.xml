@@ -130,9 +130,9 @@
       <file name="/Dummy.txt" timestamp="1526956934789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526898279210">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1526974751635">
         <mark key="a" line="3422" column="42" />
-        <mark key="'" line="3422" column="42" />
+        <mark key="'" line="3443" column="32" />
         <mark key="[" line="3653" column="55" />
         <mark key="]" line="3653" column="79" />
         <mark key="." line="3653" column="79" />
@@ -186,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="55" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="1906" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1853" column="33" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="71" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/config/production/database.php" />
@@ -286,6 +285,7 @@
       <jump line="3364" column="48" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3575" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3355" column="42" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3443" column="32" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
