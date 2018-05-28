@@ -37,6 +37,7 @@
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
+      <file name="E:/work/project/api/app/config/app.php" timestamp="1527492970945" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="40" column="135" />
@@ -139,12 +140,12 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1526369038012">
         <mark key="'" line="239" column="4" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527475080253">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527493488770">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -292,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
