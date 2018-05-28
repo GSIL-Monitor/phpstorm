@@ -139,12 +139,12 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1526369038012">
         <mark key="'" line="239" column="4" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527237317849">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527475080253">
         <mark key="'" line="3" column="35" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -291,11 +291,11 @@
       <jump line="138" column="28" filename="E:/work/project/admin.barad.oa.com/application/controllers/page.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
