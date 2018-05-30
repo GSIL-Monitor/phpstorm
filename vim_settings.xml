@@ -31,11 +31,20 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1527650931243">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="52" />
+        <mark key="." line="34" column="52" />
+        <mark key="^" line="34" column="52" />
+      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1526383178338">
         <mark key="'" line="911" column="20" />
         <mark key="[" line="400" column="0" />
         <mark key="]" line="400" column="0" />
         <mark key="." line="400" column="0" />
+      </file>
+      <file name="E:/work/project/stargate_server/common/config.php" timestamp="1527650878913">
+        <mark key="'" line="50" column="68" />
       </file>
       <file name="E:/work/project/api/app/config/app.php" timestamp="1527492970945" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
@@ -130,7 +139,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1520492289779">
+      <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1527651008791">
         <mark key="'" line="183" column="25" />
         <mark key="[" line="98" column="23" />
         <mark key="]" line="98" column="37" />
@@ -193,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="34" filename="E:/work/project/analysis_proj/analysis/analysis/config/production/database.php" />
       <jump line="484" column="8" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="270" column="44" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="338" column="56" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
@@ -293,13 +301,14 @@
       <jump line="3443" column="32" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="138" column="28" filename="E:/work/project/admin.barad.oa.com/application/controllers/page.php" />
       <jump line="870" column="21" filename="E:/work/project/api/app/controllers/AgentController.php" />
+      <jump line="50" column="68" filename="E:/work/project/stargate_server/common/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
