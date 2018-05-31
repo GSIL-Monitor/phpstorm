@@ -46,6 +46,7 @@
       <file name="E:/work/project/stargate_server/common/config.php" timestamp="1527650878913">
         <mark key="'" line="50" column="68" />
       </file>
+      <file name="E:/work/project/api/app/controllers/AlarmController.php" timestamp="1527736492400" />
       <file name="E:/work/project/api/app/config/app.php" timestamp="1527492970945" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
@@ -54,7 +55,7 @@
         <mark key="." line="40" column="135" />
         <mark key="^" line="73" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1522224350564">
+      <file name="/PHP Console" timestamp="1527736437636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" timestamp="1521598470633">
@@ -135,7 +136,7 @@
         <mark key="^" line="341" column="1" />
         <mark key="." line="341" column="1" />
       </file>
-      <file name="/fragment.php" timestamp="1527664723018">
+      <file name="/fragment.php" timestamp="1527736446416">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
       </file>
@@ -149,12 +150,12 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1526369038012">
         <mark key="'" line="239" column="4" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527493488770">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527736027876">
         <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1527664481850">
         <mark key="'" line="881" column="20" />
@@ -299,8 +300,8 @@
       <jump line="881" column="20" filename="E:/work/project/api/app/controllers/AgentController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
