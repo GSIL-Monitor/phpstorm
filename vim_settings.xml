@@ -108,12 +108,13 @@
       <file name="/Dummy.txt" timestamp="1527131829403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1527840101493">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1527846943804">
         <mark key="a" line="3412" column="42" />
-        <mark key="'" line="3433" column="32" />
-        <mark key="[" line="966" column="0" />
-        <mark key="]" line="966" column="0" />
-        <mark key="." line="966" column="0" />
+        <mark key="'" line="1027" column="8" />
+        <mark key="[" line="994" column="31" />
+        <mark key="]" line="994" column="33" />
+        <mark key="." line="994" column="33" />
+        <mark key="^" line="994" column="33" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -150,12 +151,12 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1526369038012">
         <mark key="'" line="239" column="4" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527840050073">
-        <mark key="'" line="3" column="35" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527846293271">
+        <mark key="'" line="74" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/controllers/AgentController.php" timestamp="1527664481850">
         <mark key="'" line="881" column="20" />
@@ -198,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="44" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
-      <jump line="338" column="56" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
-      <jump line="343" column="62" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="1858" column="35" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="1708" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="41" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -298,13 +296,16 @@
       <jump line="870" column="21" filename="E:/work/project/api/app/controllers/AgentController.php" />
       <jump line="50" column="68" filename="E:/work/project/stargate_server/common/config.php" />
       <jump line="881" column="20" filename="E:/work/project/api/app/controllers/AgentController.php" />
+      <jump line="74" column="0" filename="E:/work/project/api/bootstrap/start.php" />
+      <jump line="1027" column="8" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3433" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiC/vMLHuPfW1tfpus/H6b/2o6zArcihu9K2yMqxvOS9u7yvxNrK/b7dus+yogo=</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>检测</text>
