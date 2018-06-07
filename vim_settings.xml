@@ -114,13 +114,11 @@
       <file name="/Dummy.txt" timestamp="1528187756471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1528271443995">
-        <mark key="a" line="3421" column="42" />
-        <mark key="'" line="1036" column="8" />
-        <mark key="[" line="996" column="37" />
-        <mark key="]" line="996" column="38" />
-        <mark key="." line="996" column="38" />
-        <mark key="^" line="996" column="38" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1528338355346">
+        <mark key="'" line="1061" column="8" />
+        <mark key="[" line="967" column="0" />
+        <mark key="]" line="967" column="0" />
+        <mark key="." line="967" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -157,8 +155,8 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1526369038012">
         <mark key="'" line="239" column="4" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1527846293271">
-        <mark key="'" line="74" column="0" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1528337712787">
+        <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
@@ -205,11 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1858" column="35" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="1708" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="41" column="15" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="210" column="59" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="276" column="80" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="476" column="81" filename="E:/work/project/analysis_proj/analysis/analysis/controllers/qcloudMonitor.php" />
       <jump line="347" column="4" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
       <jump line="755" column="46" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -305,55 +298,60 @@
       <jump line="74" column="0" filename="E:/work/project/api/bootstrap/start.php" />
       <jump line="1027" column="8" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3433" column="24" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="38" column="0" filename="E:/work/project/api/bootstrap/start.php" />
+      <jump line="1002" column="20" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1060" column="15" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1003" column="11" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1061" column="8" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$data3[$j][]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiYSIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>$data3[$j][]</text>
+        <text>'get data ok', array(), false, $t</text>
       </register>
       <register name="/" type="4">
-        <text>检测</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZm9yZWFjaCAocmFuZ2UoMCwgY291bnQoJGRhdGEpIC0gMSkgYXMgJGkpIHsKLy8gICAgICAgICAgICAgICAgICAgIGZvciAoJGogPSAkc3RhcnRPZmZzZXQ7ICRqIDw9ICRlbmRPZmZzZXQ7ICsrJGopIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzX251bGwoJGRhdGEzWyRpXSkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJGRhdGFbJGldWyRqXSA9ICRkYXRhM1skaV1bJGogLSAkc3RhcnRPZmZzZXRdOwovLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCdnZXQgZGF0YSBvaycsIGFycmF5KCksIGZhbHNlLCAkdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiYSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKCRqID0gJHN0YXJ0T2Zmc2V0OyAkaiA8PSAkZW5kT2Zmc2V0OyArKyRqKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiYSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFpc19udWxsKCRkYXRhM1skaV0pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZGF0YVskaV1bJGpdID0gJGRhdGEzWyRpXVskaiAtICRzdGFydE9mZnNldF07CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgMS8wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRkYXRhMyBhcyAkaSA9PiAkdikgewogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMS8wOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiC/vMLHuPfW1tfpus/H6b/2o6zArcihu9K2yMqxvOS9u7yvxNrK/b7dus+yogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY1JlZ2lvblN3aXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9vbDo6bG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlpZiAoJGN1cnJEZXBsb3lbJG1JZF1bJ2ZpbGVJZCddIDw9IDApewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>检测</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>检测</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -371,7 +369,6 @@
         <entry>autoupdate</entry>
         <entry>autoupdate_sh</entry>
         <entry>Autoupdate_sh</entry>
-        <entry>log</entry>
         <entry>Tool::log</entry>
         <entry>ld_id</entry>
         <entry>app.debug</entry>
@@ -381,6 +378,7 @@
         <entry>BARAD_APIEKY</entry>
         <entry>InterfaceUrl</entry>
         <entry>检测</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
