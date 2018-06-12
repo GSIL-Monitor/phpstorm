@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/work/project/api/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" timestamp="1528807881049" />
       <file name="E:/work/project/admin.barad.oa.com/static/config.js" timestamp="1517297744776">
         <mark key="'" line="177" column="8" />
         <mark key="[" line="31" column="58" />
@@ -13,6 +14,7 @@
       <file name="ide.general.xml" timestamp="1528271044323">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Log/Writer.php" timestamp="1528807736397" />
       <file name="E:/work/project/admin.barad.oa.com/application/views/v_config.php" timestamp="1517297991234">
         <mark key="'" line="105" column="0" />
         <mark key="[" line="105" column="73" />
@@ -27,20 +29,21 @@
         <mark key="^" line="194" column="33" />
         <mark key="." line="194" column="33" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1524732962780">
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1528807648631">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/AdvLog.class.php" timestamp="1528804970398" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/AdvLog.class.php" timestamp="1528807091893" />
       <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1527650931243">
         <mark key="[" line="34" column="48" />
         <mark key="]" line="34" column="52" />
         <mark key="." line="34" column="52" />
         <mark key="^" line="34" column="52" />
       </file>
+      <file name="E:/work/project/api/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" timestamp="1528807934741" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1528805130037">
         <mark key="'" line="911" column="20" />
         <mark key="[" line="400" column="0" />
@@ -112,7 +115,7 @@
         <mark key="^" line="60" column="17" />
         <mark key="." line="60" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528804613623">
+      <file name="/Dummy.txt" timestamp="1528807795931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1528804173445">
