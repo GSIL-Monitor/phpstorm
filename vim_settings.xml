@@ -28,7 +28,7 @@
         <mark key="^" line="194" column="33" />
         <mark key="." line="194" column="33" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/lib/global.func.php" timestamp="1530694266806">
+      <file name="E:/work/project/barad_proj/trunk/web/lib/global.func.php" timestamp="1530697086258">
         <mark key="[" line="202" column="41" />
         <mark key="]" line="202" column="41" />
         <mark key="^" line="203" column="47" />
@@ -42,17 +42,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1527650931243">
-        <mark key="[" line="34" column="48" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
+      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1530696978565">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="52" />
-      </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1528805130037">
-        <mark key="'" line="911" column="20" />
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="400" column="0" />
-        <mark key="." line="400" column="0" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1530675780134">
         <mark key="[" line="17" column="0" />
@@ -60,6 +54,7 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="E:/work/project/stargate_server/cgi/interface/GetClientKey.class.php" timestamp="1530696060336" />
       <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1530258124143" />
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
@@ -116,7 +111,7 @@
         <mark key="^" line="61" column="21" />
         <mark key="." line="61" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530676435894">
+      <file name="/Dummy.txt" timestamp="1530696935412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1530258358871" />
@@ -150,9 +145,15 @@
         <mark key="^" line="341" column="1" />
         <mark key="." line="341" column="1" />
       </file>
-      <file name="/fragment.php" timestamp="1530677692433">
+      <file name="/fragment.php" timestamp="1530696354283">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1530696771182">
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="70" column="33" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1527666251579">
         <mark key="'" line="183" column="25" />
@@ -300,43 +301,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>, 'shdev'</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>, 'shdev'</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9nKCdnZXQgZGF0YSBvaycsIGFycmF5KCksIGZhbHNlLCAkdCk7Cg==</text>
+        <text encoding="base64">ICAgIAkJCQkJJ2FwcElkJyA9PiAkYXBwaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">JGNvbmZbJ2RhdGFhcGknXSA9IGpzb25fZGVjb2RlKCRjb25mWydkYXRhYXBpJ10sIHRydWUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsicmVxdWVzdCJdWyJkaW1lbnRpb25zIl09JHBhcmFtcyBbJ2RhdGEnXTsK</text>
+        <text encoding="base64">ICAgIAkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGlzc2V0KCRwYXJhbXMgWydkYXRhJ10pKXsK</text>
+        <text encoding="base64">ICAgIAkJCSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkJCQkJJ2FwcElkJyA9PiAkYXBwaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFjdGlvbiI9Pgo=</text>
+        <text encoding="base64">ICAgIAkJCQkJJ25hbWVTcGFjZScgPT4gJ0NsaWVudEtleScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWVTcGFjZSI9PiJDbGllbnRLZXkiLAo=</text>
+        <text encoding="base64">ICAgIAkJCQkJJ2FjdGlvbicgPT4gJ2dldENsaWVudEtleUJ5QXBwSWQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkJCSdyZXF1ZXN0JyA9PiBhcnJheSgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkkcmVxX2FycmF5ID0gYXJyYXkoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZXFJZCIgPT4gdW5pcWlkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGltZW50aW9ucyIgPT4gJHBhcmFtc1snZGF0YSddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
