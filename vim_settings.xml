@@ -20,7 +20,7 @@
         <mark key="." line="105" column="73" />
         <mark key="^" line="99" column="71" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/metric/index.php" timestamp="1530676287143" />
+      <file name="E:/work/project/barad_proj/trunk/web/metric/index.php" timestamp="1530692860372" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/barad/class/Config.class.php" timestamp="1519975908572">
         <mark key="'" line="165" column="60" />
         <mark key="[" line="194" column="31" />
@@ -28,11 +28,11 @@
         <mark key="^" line="194" column="33" />
         <mark key="." line="194" column="33" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/lib/global.func.php" timestamp="1530676772859">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="187" column="35" />
-        <mark key="." line="190" column="0" />
+      <file name="E:/work/project/barad_proj/trunk/web/lib/global.func.php" timestamp="1530692909838">
+        <mark key="[" line="202" column="41" />
+        <mark key="]" line="202" column="41" />
+        <mark key="^" line="203" column="47" />
+        <mark key="." line="202" column="41" />
       </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.inc.php" timestamp="1530674496204" />
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1528807648631">
@@ -299,11 +299,11 @@
       <jump line="965" column="8" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
