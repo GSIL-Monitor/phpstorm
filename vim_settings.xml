@@ -162,12 +162,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1530518616616">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531103195541">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -196,11 +196,11 @@
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
-      <file name="E:/work/project/api/app/routes.php" timestamp="1531102417363">
+      <file name="E:/work/project/api/app/routes.php" timestamp="1531103252310">
         <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -307,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'shdev'</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>, 'shdev'</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
