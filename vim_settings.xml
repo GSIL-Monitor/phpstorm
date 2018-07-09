@@ -115,7 +115,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1530258358871" />
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1530518788941">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1531107001045">
         <mark key="a" line="965" column="12" />
         <mark key="'" line="965" column="8" />
         <mark key="[" line="532" column="52" />
@@ -162,12 +162,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531103195541">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531106949581">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -307,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
