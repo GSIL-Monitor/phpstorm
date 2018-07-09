@@ -196,6 +196,12 @@
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
+      <file name="E:/work/project/api/app/routes.php" timestamp="1531102417363">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1590" column="16" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
