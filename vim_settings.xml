@@ -20,7 +20,6 @@
         <mark key="." line="105" column="73" />
         <mark key="^" line="99" column="71" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/metric/index.php" timestamp="1530692860372" />
       <file name="E:/work/project/barad_proj/trunk/barad_php_script_daystat/barad/class/Config.class.php" timestamp="1519975908572">
         <mark key="'" line="165" column="60" />
         <mark key="[" line="194" column="31" />
@@ -34,7 +33,6 @@
         <mark key="^" line="203" column="47" />
         <mark key="." line="202" column="41" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/web/inc/config.inc.php" timestamp="1530674496204" />
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1528807648631">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="8" column="35" />
@@ -54,8 +52,6 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/work/project/stargate_server/cgi/interface/GetClientKey.class.php" timestamp="1530696060336" />
-      <file name="E:/work/project/admin.barad.oa.com/application/config/database.php" timestamp="1530258124143" />
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,7 +62,6 @@
         <mark key="." line="40" column="135" />
         <mark key="^" line="73" column="20" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/models/policy.php" timestamp="1530262501826" />
       <file name="/PHP Console" timestamp="1527736437636">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,8 +109,7 @@
       <file name="/Dummy.txt" timestamp="1530860636332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_policy.php" timestamp="1530258358871" />
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1531192356382">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1531723492972">
         <mark key="a" line="3494" column="14" />
         <mark key="'" line="970" column="46" />
         <mark key="[" line="3494" column="15" />
@@ -137,7 +131,6 @@
         <mark key="^" line="13" column="90" />
         <mark key="." line="13" column="90" />
       </file>
-      <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_config.php" timestamp="1530264284932" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" timestamp="1524793278150">
         <mark key="'" line="341" column="1" />
         <mark key="[" line="331" column="2" />
@@ -162,12 +155,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531106949581">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531723408146">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -306,11 +299,11 @@
       <jump line="970" column="46" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaG9zdCI9PiJnei55dW5hcGkubW9uaXRvci50ZW5jZW50eXVuLmNvbSIK</text>
+      <register name="&quot;" type="4">
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
