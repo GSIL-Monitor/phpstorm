@@ -52,6 +52,9 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1531970593680">
+        <mark key="'" line="892" column="9" />
+      </file>
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,7 +266,6 @@
       <jump line="881" column="57" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="883" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="938" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="892" column="37" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
       <jump line="852" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
       <jump line="157" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
       <jump line="902" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
@@ -297,6 +299,7 @@
       <jump line="965" column="8" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3494" column="14" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="970" column="46" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="892" column="9" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
