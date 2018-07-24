@@ -115,7 +115,7 @@
       <file name="/Dummy.txt" timestamp="1531795011525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1531795007499">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1532416761690">
         <mark key="a" line="3494" column="14" />
         <mark key="'" line="970" column="46" />
         <mark key="[" line="3213" column="47" />
@@ -161,12 +161,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1531792713421">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1532416640343">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -307,10 +307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
