@@ -33,7 +33,7 @@
         <mark key="^" line="203" column="47" />
         <mark key="." line="202" column="41" />
       </file>
-      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1528807648631">
+      <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1532677998632">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="8" column="35" />
         <mark key="]" line="9" column="21" />
@@ -119,13 +119,13 @@
       <file name="/Dummy.txt" timestamp="1532674339888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1532676309158">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1532678002884">
         <mark key="a" line="3494" column="14" />
         <mark key="'" line="970" column="46" />
-        <mark key="[" line="1366" column="0" />
-        <mark key="]" line="1366" column="50" />
-        <mark key="." line="1366" column="49" />
-        <mark key="^" line="1366" column="49" />
+        <mark key="[" line="1360" column="31" />
+        <mark key="]" line="1360" column="56" />
+        <mark key="." line="1360" column="56" />
+        <mark key="^" line="1360" column="56" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -147,10 +147,6 @@
         <mark key="]" line="341" column="1" />
         <mark key="^" line="341" column="1" />
         <mark key="." line="341" column="1" />
-      </file>
-      <file name="/fragment.php" timestamp="1530696354283">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="24" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1530696771182">
         <mark key="[" line="70" column="33" />
@@ -317,8 +313,8 @@
       <jump line="276" column="10" filename="E:/work/project/barad_custom_proj_git/yunApi/request_v3.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -330,31 +326,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VubWFwcGVkX3R5cGUnID0+ICdkYXRlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZWFud3Uo2vm/ob3cKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBqZWFud3Uo2vm/ob3cKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvbmZbJ2RhdGFhcGknXSA9IGpzb25fZGVjb2RlKCRjb25mWydkYXRhYXBpJ10sIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAkpOwo=</text>
+        <text encoding="base64">JGNvbmZbJ2RhdGFhcGknXSA9IGpzb25fZGVjb2RlKCRjb25mWydkYXRhYXBpJ10sIHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAkJCSkK</text>
+        <text encoding="base64">ICAgIAkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkJCQkJJ2FwcElkJyA9PiAkYXBwaWQK</text>
+        <text encoding="base64">ICAgIAkJCSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkJCQkJJ25hbWVTcGFjZScgPT4gJ0NsaWVudEtleScsCg==</text>
+        <text encoding="base64">ICAgIAkJCQkJJ2FwcElkJyA9PiAkYXBwaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAkJCQkJJ2FjdGlvbicgPT4gJ2dldENsaWVudEtleUJ5QXBwSWQnLAo=</text>
+        <text encoding="base64">ICAgIAkJCQkJJ25hbWVTcGFjZScgPT4gJ0NsaWVudEtleScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
