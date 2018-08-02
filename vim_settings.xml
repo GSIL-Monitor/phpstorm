@@ -118,12 +118,12 @@
       <file name="/Dummy.txt" timestamp="1533006978636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533036728920">
-        <mark key="a" line="3493" column="14" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533176551285">
+        <mark key="a" line="3250" column="0" />
         <mark key="'" line="970" column="46" />
-        <mark key="[" line="1360" column="0" />
-        <mark key="]" line="1360" column="0" />
-        <mark key="." line="1360" column="0" />
+        <mark key="[" line="3251" column="0" />
+        <mark key="]" line="3251" column="0" />
+        <mark key="." line="3251" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -159,12 +159,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533036635263">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533176117783">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -316,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXF1ZXN0SWQnID0+IENoZWNrb3I6OmdldEluZm8oJ3NlcUlkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
@@ -328,31 +328,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VubWFwcGVkX3R5cGUnID0+ICdkYXRlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXF1ZXN0SWQnID0+IENoZWNrb3I6OmdldEluZm8oJ3NlcUlkJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigicmVxdWlyZWQgc3RhdGlzdGljcyBPUiBkZWZhdWx0IHJ1bGVzIiwgNjAxKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqZWFud3Uo2vm/ob3cKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigicmVxdWlyZWQgc3RhdGlzdGljcyBPUiBkZWZhdWx0IHJ1bGVzIiwgNjAxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGNvbmZbJ2RhdGFhcGknXSA9IGpzb25fZGVjb2RlKCRjb25mWydkYXRhYXBpJ10sIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXF1ZXN0SWQnID0+IENoZWNrb3I6OmdldEluZm8oJ3NlcUlkJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAkJCSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAkJCQkJJ2FwcElkJyA9PiAkYXBwaWQK</text>
+        <text encoding="base64">ICAgICAgICBqZWFud3Uo2vm/ob3cKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
