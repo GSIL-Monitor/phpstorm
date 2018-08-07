@@ -40,8 +40,8 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1530699326602">
-        <mark key="[" line="34" column="45" />
+      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1533625572733">
+        <mark key="[" line="34" column="48" />
         <mark key="]" line="34" column="49" />
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
@@ -146,11 +146,14 @@
         <mark key="^" line="341" column="1" />
         <mark key="." line="341" column="1" />
       </file>
-      <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1530696771182">
+      <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1533625745614">
         <mark key="[" line="70" column="33" />
         <mark key="]" line="70" column="33" />
         <mark key="^" line="55" column="28" />
         <mark key="." line="70" column="33" />
+      </file>
+      <file name="/fragment.php" timestamp="1533625666848">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1533007606204">
         <mark key="'" line="126" column="33" />
@@ -316,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>gz</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
