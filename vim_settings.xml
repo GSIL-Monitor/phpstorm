@@ -118,12 +118,12 @@
       <file name="/Dummy.txt" timestamp="1533285109379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533610624540">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533627697057">
         <mark key="'" line="970" column="46" />
-        <mark key="[" line="3235" column="125" />
-        <mark key="]" line="3235" column="125" />
-        <mark key="." line="3235" column="125" />
-        <mark key="^" line="3235" column="125" />
+        <mark key="[" line="3239" column="0" />
+        <mark key="]" line="3239" column="0" />
+        <mark key="." line="3239" column="0" />
+        <mark key="^" line="3238" column="15" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -318,8 +318,8 @@
       <jump line="126" column="33" filename="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gz</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>gz</text>
@@ -331,25 +331,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oInJlcXVpcmVkIHN0YXRpc3RpY3MgT1IgZGVmYXVsdCBydWxlcyIsIDYwMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgpIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkcnVsZXNbJHBbJ3BlcmlvZCddXSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpIHx8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkcnVsZXNbJHBbJ3BlcmlvZCddXSkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkcFsnc3RhdGlzdGljcyddKSkgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc3NldCgkcnVsZXNbJHBbJ3BlcmlvZCddXSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkcFsnc3RhdGlzdGljcyddKSkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
