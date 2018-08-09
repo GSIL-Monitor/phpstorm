@@ -118,7 +118,7 @@
       <file name="/Dummy.txt" timestamp="1533718253891">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533719077017">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533813305936">
         <mark key="a" line="1420" column="20" />
         <mark key="'" line="615" column="47" />
         <mark key="[" line="1474" column="39" />
@@ -169,6 +169,12 @@
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
+      </file>
+      <file name="E:/work/project/api/app/config/database.php" timestamp="1533813240447">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="E:/work/project/rollup/main.php" timestamp="1519975022138">
         <mark key="'" line="10" column="16" />
@@ -320,16 +326,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>对应粒度没有统计规则</text>
+        <text encoding="base64">JGRiVmFsdWUtPmhvc3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>对应粒度没有统计规则</text>
+        <text encoding="base64">JGRiVmFsdWUtPmhvc3Q=</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oInJlcXVpcmVkIHN0YXRpc3RpY3MgT1IgZGVmYXVsdCBydWxlcyIsIDYwMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnICAgICAgPT4gJGRiVmFsdWUtPmhvc3QsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
