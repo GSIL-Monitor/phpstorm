@@ -153,7 +153,7 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="70" column="33" />
       </file>
-      <file name="/fragment.php" timestamp="1533625666848">
+      <file name="/fragment.php" timestamp="1533866954598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1533007606204">
@@ -163,12 +163,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533632351321">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533866981561">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="38" />
-        <mark key="^" line="3" column="38" />
-        <mark key="." line="3" column="38" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="E:/work/project/api/app/config/database.php" timestamp="1533813240447">
         <mark key="[" line="28" column="27" />
@@ -327,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGRiVmFsdWUtPmhvc3Q=</text>
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGRiVmFsdWUtPmhvc3Q=</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
