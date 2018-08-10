@@ -118,13 +118,13 @@
       <file name="/Dummy.txt" timestamp="1533889977110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533888357327">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1533891059095">
         <mark key="a" line="1420" column="20" />
         <mark key="'" line="615" column="47" />
-        <mark key="[" line="1474" column="39" />
-        <mark key="]" line="1474" column="39" />
-        <mark key="^" line="1474" column="39" />
-        <mark key="." line="1474" column="39" />
+        <mark key="[" line="617" column="0" />
+        <mark key="]" line="617" column="0" />
+        <mark key="^" line="617" column="11" />
+        <mark key="." line="617" column="0" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -163,12 +163,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533866981561">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1533890676467">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="E:/work/project/api/app/config/database.php" timestamp="1533813240447">
         <mark key="[" line="28" column="27" />
@@ -326,41 +326,41 @@
       <jump line="615" column="47" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shdev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnICAgICAgPT4gJGRiVmFsdWUtPmhvc3QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygiY2F0Y2ggZXhjZXB0aW9uOlxueyRlLT5nZXRUcmFjZUFzU3RyaW5nKCl9IiwgbnVsbCk7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZXJyb3IoQ2hlY2tvcjo6Z2V0SW5mbygnc2VxSWQnKSwgJGUtPmdldENvZGUoKSwgJGUtPmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oInJlcXVpcmVkIHN0YXRpc3RpY3MgT1IgZGVmYXVsdCBydWxlcyIsIDYwMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJGUtPmdldE1lc3NhZ2UoKSwgNTAzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigicmVxdWlyZWQgc3RhdGlzdGljcyBPUiBkZWZhdWx0IHJ1bGVzIiwgNjAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHBbJ3N0YXRpc3RpY3MnXSA9ICRkZWZhdWx0U3RhdGlzdGljczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oInJlcXVpcmVkIHN0YXRpc3RpY3MgT1IgZGVmYXVsdCBydWxlcyIsIDYwMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWlzX251bGwoJGRlZmF1bHRTdGF0aXN0aWNzKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
