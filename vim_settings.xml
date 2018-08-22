@@ -46,22 +46,15 @@
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/request_v3.php" timestamp="1532596952554">
-        <mark key="'" line="276" column="10" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1534298947712">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="50" />
         <mark key="^" line="21" column="48" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1531970593680">
-        <mark key="'" line="892" column="9" />
-      </file>
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/barad_proj/trunk/ConfigCenter/server/index.php" timestamp="1534411505597" />
       <file name="E:/work/project/disk_export/export.php" timestamp="1519981670014">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="40" column="135" />
@@ -69,7 +62,6 @@
         <mark key="." line="40" column="135" />
         <mark key="^" line="73" column="20" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Common/Exceptions/NoNodesAvailableException.php" timestamp="1533895281676" />
       <file name="/PHP Console" timestamp="1527736437636">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,16 +72,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" timestamp="1532074412217">
-        <mark key="'" line="74" column="18" />
-      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1528805134996">
         <mark key="[" line="151" column="5" />
         <mark key="]" line="151" column="5" />
         <mark key="." line="151" column="5" />
         <mark key="^" line="183" column="46" />
       </file>
-      <file name="E:/work/project/api/bootstrap/config.php" timestamp="1534326450550" />
       <file name="E:/work/project/admin.barad.oa.com/application/controllers/c_api.php" timestamp="1522051280770">
         <mark key="'" line="33" column="20" />
         <mark key="[" line="148" column="39" />
@@ -217,14 +205,18 @@
         <mark key="^" line="178" column="37" />
         <mark key="." line="178" column="38" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1533866198564" />
+      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1534909718038">
+        <mark key="[" line="506" column="13" />
+        <mark key="]" line="508" column="0" />
+        <mark key="^" line="504" column="31" />
+        <mark key="." line="508" column="0" />
+      </file>
       <file name="E:/work/project/api/app/routes.php" timestamp="1531103252310">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="E:/work/project/api/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Common/Exceptions/ElasticsearchException.php" timestamp="1533895311137" />
     </filemarks>
     <jumps>
       <jump line="1586" column="62" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
@@ -329,11 +321,11 @@
       <jump line="615" column="47" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>qcloud</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>qcloud</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_region</text>
@@ -345,28 +337,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJGUtPmdldE1lc3NhZ2UoKSwgNTAzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJGUtPmdldE1lc3NhZ2UoKSwgNTAzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGF0WydzZXFJZCddID0gQ2hlY2tvcjo6Z2V0SW5mbygnc2VxSWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFiYXNlJyAgPT4gJ2EnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdGF0WydzZXFJZCddID0gQ2hlY2tvcjo6Z2V0SW5mbygnc2VxSWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZygibWVzc2FnZToiIC4gJGUtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGFiYXNlJyAgPT4gJ2EnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -462,6 +454,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
