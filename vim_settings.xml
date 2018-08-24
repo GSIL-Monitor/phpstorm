@@ -153,11 +153,11 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="70" column="33" />
       </file>
-      <file name="/fragment.php" timestamp="1535074770501">
+      <file name="/fragment.php" timestamp="1535079306938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1533007606204">
         <mark key="'" line="126" column="33" />
@@ -223,11 +223,14 @@
         <mark key="^" line="178" column="37" />
         <mark key="." line="178" column="38" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1535074775471">
-        <mark key="[" line="1241" column="49" />
-        <mark key="]" line="1241" column="46" />
-        <mark key="^" line="1241" column="46" />
-        <mark key="." line="1241" column="46" />
+      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1535079574016">
+        <mark key="a" line="494" column="0" />
+        <mark key="b" line="1267" column="40" />
+        <mark key="'" line="504" column="21" />
+        <mark key="[" line="1266" column="52" />
+        <mark key="]" line="1266" column="63" />
+        <mark key="^" line="1266" column="63" />
+        <mark key="." line="1266" column="63" />
       </file>
       <file name="E:/work/project/api/app/routes.php" timestamp="1531103252310">
         <mark key="[" line="22" column="27" />
@@ -238,13 +241,6 @@
       <file name="E:/work/project/barad_custom_proj_git/yunApi/request.php" timestamp="1535074689594" />
     </filemarks>
     <jumps>
-      <jump line="1586" column="62" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="742" column="0" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="709" column="12" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="751" column="117" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="756" column="23" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="75" column="8" filename="E:/work/project/analysis_proj/analysis/analysis/models/mqmonitor.php" />
-      <jump line="170" column="28" filename="E:/work/project/admin.barad.oa.com/index.php" />
       <jump line="48" column="20" filename="E:/work/project/analysis_proj/analysis/index.php" />
       <jump line="406" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="188" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
@@ -338,55 +334,62 @@
       <jump line="126" column="33" filename="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" />
       <jump line="1338" column="41" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="615" column="47" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1266" column="0" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="496" column="29" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="1277" column="58" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="1141" column="14" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="494" column="4" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="1316" column="60" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="504" column="21" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>$resultData['dataPoints']</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>$resultData['dataPoints']</text>
       </register>
       <register name="/" type="4">
-        <text>get_region</text>
+        <text encoding="base64">XDxwZXJpb2RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWwgPSAkYmFyYWRQYXJhbVsnYmFyYWRQYXJhbSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2Zyb250TmFtZXNwYWNlJ10gPSAkYXJnc1snbmFtZXNwYWNlJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2Zyb250TmFtZXNwYWNlJ10gPSAkYXJnc1snbmFtZXNwYWNlJ107CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZGV0YWlsWydmcm9udE1ldHJpY05hbWUnXSA9ICRhcmdzWydtZXRyaWNOYW1lJ107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ25hbWVzcGFjZSddID0gJGJhcmFkUGFyYW1bJ25hbWVzcGFjZSddOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2lmICgkaWZOZWVkU3RhdE51bGxEYXRhICkgLy8gZm9yIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2RpbWVuc2lvbnMnXSA9ICRiYXJhZFBhcmFtWydiYXJhZFBhcmFtJ11bJ2RpbWVuc2lvbnMnXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGlmTmVlZFN0YXROdWxsRGF0YSAmJiAkdGhpcy0+aXNfYWxsX251bGwoJHJlc3VsdERhdGFbJ2RhdGFQb2ludHMnXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGV0YWlsID0gJGJhcmFkUGFyYW1bJ2JhcmFkUGFyYW0nXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAkZGV0YWlsID0gJGJhcmFkUGFyYW1bJ2JhcmFkUGFyYW0nXTsKICAgICAgICAgICAgICAgICAgICAgICAgdW5zZXQoJGRldGFpbFsnc3RhcnR0aW1lJ10pOwogICAgICAgICAgICAgICAgICAgICAgICB1bnNldCgkZGV0YWlsWydlbmR0aW1lJ10pOwogICAgICAgICAgICAgICAgICAgICAgICAkZGV0YWlsWyduYW1lc3BhY2UnXSA9ICRiYWNrTmFtZVNwYWNlOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWlzc2V0KCRkZXRhaWxbJ2RpbWVuc2lvbnMnXVsnYXBwaWQnXSkgJiYgIWlzc2V0KCRkZXRhaWxbJ2RpbWVuc2lvbnMnXVsnYXBwSWQnXSkpCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2RpbWVuc2lvbnMnXVsnYXBwSWQnXSA9ICRhcmdzWydhcHBJZCddOwogICAgICAgICAgICAgICAgICAgICAgICB9ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT53cml0ZU51bGxEYXRhTG9nKCRkZXRhaWwpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbmV3QmFyYWRQYXJhbVsnZGltZW5zaW9ucyddID0gJGJhcmFkUGFyYW1bJ2JhcmFkUGFyYW0nXVsnZGltZW5zaW9ucyddWyRrZXldOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPndyaXRlTnVsbERhdGFMb2coJGRldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2RpbWVuc2lvbnMnXVsnYXBwSWQnXSA9ICRhcmdzWydhcHBJZCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_region</last-search>
+      <last-search encoding="base64">XDxwZXJpb2RcPg==</last-search>
       <last-offset />
-      <last-pattern>get_region</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJpb2RcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cloud_read</entry>
         <entry encoding="base64">XDxnZXRCYXJhZE53c1w+</entry>
         <entry>break</entry>
         <entry encoding="base64">XDx3ZWlnaHRcPg==</entry>
@@ -414,6 +416,7 @@
         <entry>检测</entry>
         <entry>log</entry>
         <entry>get_region</entry>
+        <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
