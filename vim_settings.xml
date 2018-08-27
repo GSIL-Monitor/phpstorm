@@ -118,7 +118,7 @@
       <file name="/Dummy.txt" timestamp="1535020541540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1534385850352">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1535352362618">
         <mark key="a" line="1420" column="20" />
         <mark key="'" line="615" column="47" />
         <mark key="[" line="620" column="33" />
@@ -166,12 +166,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1534385739234">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1535351550050">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-        <mark key="." line="4" column="36" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="E:/work/project/api/app/config/database.php" timestamp="1533893446590">
         <mark key="[" line="31" column="0" />
@@ -238,7 +238,6 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/request.php" timestamp="1535074689594" />
     </filemarks>
     <jumps>
       <jump line="48" column="20" filename="E:/work/project/analysis_proj/analysis/index.php" />
@@ -344,10 +343,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$resultData['dataPoints']</text>
+        <text>use</text>
       </register>
       <register name="-" type="4">
-        <text>$resultData['dataPoints']</text>
+        <text>use</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJpb2RcPg==</text>
