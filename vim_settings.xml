@@ -118,11 +118,12 @@
       <file name="/Dummy.txt" timestamp="1535533777779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1535942064659">
-        <mark key="[" line="3361" column="17" />
-        <mark key="]" line="3361" column="16" />
-        <mark key="." line="3361" column="16" />
-        <mark key="^" line="3361" column="16" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1535943175817">
+        <mark key="'" line="554" column="16" />
+        <mark key="[" line="3359" column="62" />
+        <mark key="]" line="3359" column="62" />
+        <mark key="." line="3359" column="43" />
+        <mark key="^" line="563" column="49" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -238,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="20" filename="E:/work/project/analysis_proj/analysis/index.php" />
       <jump line="406" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="188" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
       <jump line="0" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
@@ -338,13 +338,14 @@
       <jump line="494" column="4" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
       <jump line="1316" column="60" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
       <jump line="504" column="21" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
+      <jump line="555" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJpb2RcPg==</text>
