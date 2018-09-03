@@ -118,11 +118,11 @@
       <file name="/Dummy.txt" timestamp="1535533777779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1535943175817">
-        <mark key="'" line="554" column="16" />
-        <mark key="[" line="3359" column="62" />
-        <mark key="]" line="3359" column="62" />
-        <mark key="." line="3359" column="43" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1535979494374">
+        <mark key="'" line="3383" column="27" />
+        <mark key="[" line="3370" column="0" />
+        <mark key="]" line="3370" column="0" />
+        <mark key="." line="3370" column="0" />
         <mark key="^" line="563" column="49" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
@@ -165,12 +165,12 @@
         <mark key="^" line="32" column="37" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1535619807245">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1535978816277">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="E:/work/project/api/app/config/database.php" timestamp="1533893446590">
         <mark key="[" line="31" column="0" />
@@ -222,7 +222,7 @@
         <mark key="^" line="178" column="37" />
         <mark key="." line="178" column="38" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1535543511538">
+      <file name="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" timestamp="1535978986237">
         <mark key="a" line="494" column="0" />
         <mark key="b" line="1269" column="40" />
         <mark key="'" line="507" column="21" />
@@ -239,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="188" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
       <jump line="0" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
       <jump line="555" column="9" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
       <jump line="176" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" />
@@ -339,55 +337,57 @@
       <jump line="1316" column="60" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
       <jump line="504" column="21" filename="E:/work/project/barad_custom_proj_git/yunApi/barad/class/Data.class.php" />
       <jump line="555" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3384" column="34" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3383" column="27" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHBbJ3N0YXRpc3RpY3MnXSA9ICRkZWZhdWx0U3RhdGlzdGljczsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cq</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJpb2RcPg==</text>
+        <text>oldStatistics</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHBbJ3N0YXRpc3RpY3MnXSA9ICRkZWZhdWx0U3RhdGlzdGljczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluX2FycmF5KCRydWxlLCAkbnVsbF9jaGVja2VyX3J1bGUpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluX2FycmF5KCRydWxlLCAkbnVsbF9jaGVja2VyX3J1bGUpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJ1bGUgPSBbIm5hbWVzcGFjZSIgPT4gJGFyZ3NbJ25hbWVzcGFjZSddLCAibWV0cmljTmFtZSIgPT4gJGFyZ3NbJ21ldHJpY05hbWUnXV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2Zyb250TmFtZXNwYWNlJ10gPSAkYXJnc1snbmFtZXNwYWNlJ107CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZGV0YWlsWydmcm9udE1ldHJpY05hbWUnXSA9ICRhcmdzWydtZXRyaWNOYW1lJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJ1bGUgPSBbIm5hbWVzcGFjZSIgPT4gJGFyZ3NbJ25hbWVzcGFjZSddLCAibWV0cmljTmFtZSIgPT4gJGFyZ3NbJ21ldHJpY05hbWUnXV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ25hbWVzcGFjZSddID0gJGJhcmFkUGFyYW1bJ25hbWVzcGFjZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2Zyb250TmFtZXNwYWNlJ10gPSAkYXJnc1snbmFtZXNwYWNlJ107CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZGV0YWlsWydmcm9udE1ldHJpY05hbWUnXSA9ICRhcmdzWydtZXRyaWNOYW1lJ107Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2RpbWVuc2lvbnMnXSA9ICRiYXJhZFBhcmFtWydiYXJhZFBhcmFtJ11bJ2RpbWVuc2lvbnMnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ25hbWVzcGFjZSddID0gJGJhcmFkUGFyYW1bJ25hbWVzcGFjZSddOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGV0YWlsID0gJGJhcmFkUGFyYW1bJ2JhcmFkUGFyYW0nXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRkZXRhaWxbJ2RpbWVuc2lvbnMnXSA9ICRiYXJhZFBhcmFtWydiYXJhZFBhcmFtJ11bJ2RpbWVuc2lvbnMnXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZGV0YWlsID0gJGJhcmFkUGFyYW1bJ2JhcmFkUGFyYW0nXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJpb2RcPg==</last-search>
+      <last-search>oldStatistics</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJpb2RcPg==</last-pattern>
+      <last-pattern>oldStatistics</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRCYXJhZE53c1w+</entry>
         <entry>break</entry>
         <entry encoding="base64">XDx3ZWlnaHRcPg==</entry>
         <entry>= []</entry>
@@ -415,6 +414,7 @@
         <entry>log</entry>
         <entry>get_region</entry>
         <entry encoding="base64">XDxwZXJpb2RcPg==</entry>
+        <entry>oldStatistics</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
