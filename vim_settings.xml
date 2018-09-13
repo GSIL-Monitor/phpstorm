@@ -125,12 +125,12 @@
       <file name="/Dummy.txt" timestamp="1536653942662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1536826666163">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1536836056252">
         <mark key="'" line="3383" column="27" />
-        <mark key="[" line="3732" column="103" />
-        <mark key="]" line="3732" column="55" />
-        <mark key="^" line="3732" column="55" />
-        <mark key="." line="3732" column="55" />
+        <mark key="[" line="3731" column="12" />
+        <mark key="]" line="3731" column="12" />
+        <mark key="^" line="3732" column="27" />
+        <mark key="." line="3731" column="12" />
       </file>
       <file name="E:/work/project/admin.barad.oa.com/index.php" timestamp="1521788102999">
         <mark key="'" line="170" column="28" />
@@ -355,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>qcloud</text>
+        <text>is_null</text>
       </register>
       <register name="-" type="4">
-        <text>qcloud</text>
+        <text>is_null</text>
       </register>
       <register name="/" type="4">
         <text>seqId</text>
