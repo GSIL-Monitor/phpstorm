@@ -184,7 +184,7 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1537252842048">
         <mark key="'" line="966" column="31" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1537322788628">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1537324524169">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gz</text>
+        <text>qcloud</text>
       </register>
       <register name="-" type="4">
-        <text>gz</text>
+        <text>qcloud</text>
       </register>
       <register name="/" type="4">
         <text>StormCloudConf</text>
