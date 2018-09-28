@@ -186,7 +186,7 @@
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1537252842048">
         <mark key="'" line="966" column="31" />
       </file>
-      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1537324524169">
+      <file name="E:/work/project/api/bootstrap/start.php" timestamp="1538118346346">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
@@ -365,11 +365,11 @@
       <jump line="546" column="21" filename="E:/work/project/barad_policy_proj/application/library/inc/config.product.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAxOwpleGl0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>shdev</text>
       </register>
       <register name="-" type="4">
-        <text>qcloud</text>
+        <text>shdev</text>
       </register>
       <register name="/" type="4">
         <text>StormCloudConf</text>
