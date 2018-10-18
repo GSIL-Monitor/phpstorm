@@ -22,7 +22,7 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1533625572733">
+      <file name="E:/work/project/stargate_server/common/Common.php" timestamp="1539860558265">
         <mark key="[" line="34" column="48" />
         <mark key="]" line="34" column="49" />
         <mark key="." line="34" column="49" />
@@ -74,12 +74,12 @@
       <file name="/Dummy.txt" timestamp="1539144231300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1539758916552">
-        <mark key="'" line="3383" column="27" />
-        <mark key="[" line="1360" column="38" />
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1539861373772">
+        <mark key="'" line="3700" column="9" />
+        <mark key="[" line="3573" column="16" />
         <mark key="]" line="1360" column="38" />
         <mark key="^" line="1445" column="54" />
-        <mark key="." line="1360" column="38" />
+        <mark key="." line="3573" column="18" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1537167555425">
         <mark key="[" line="70" column="33" />
@@ -87,11 +87,18 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="70" column="33" />
       </file>
-      <file name="/fragment.php" timestamp="1537167566526">
+      <file name="/fragment.php" timestamp="1539860751303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="E:/work/project/stargate_server/cgi/interface/CheckModules.class.php" timestamp="1539861576517">
+        <mark key="'" line="126" column="33" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="46" column="67" />
+        <mark key="^" line="46" column="67" />
+        <mark key="." line="46" column="67" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1539143041142">
         <mark key="'" line="1161" column="17" />
@@ -136,6 +143,12 @@
         <mark key="^" line="178" column="37" />
         <mark key="." line="178" column="38" />
       </file>
+      <file name="E:/work/project/stargate_server/cgi/interface/ResetState.class.php" timestamp="1539861140996">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="72" />
+      </file>
       <file name="E:/work/project/api/app/routes.php" timestamp="1531103252310">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
@@ -144,8 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="31" filename="E:/work/project/api/app/controllers/BaseController.php" />
-      <jump line="127" column="34" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="0" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="4" column="4" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="341" column="1" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
@@ -244,55 +255,57 @@
       <jump line="1167" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="1156" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="1161" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="3628" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="3700" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shdev</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>shdev</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>CloudAlarmV2</text>
+        <text>default</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAxOwpleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkZGJDb25mID0gZ2V0Q29uZignQ09NTV9MT0NBTC5TVEFSR0FURV9EQicpOwogICAgICAgICR0aGlzLT5fZGJPYmogPSBDb21tb25fRGI6OmluaXQoJGRiQ29uZik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGh0dHBIb3N0ID0gImRkZXYiOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ZWNobyAxOwpleGl0Owo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">JGh0dHBIb3N0ID0gImRkZXYiOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbmEK</text>
+        <text encoding="base64">ZWNobyAxOwpleGl0Owo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbmEK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoKSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAkdGhpcy0+ZGVidWdbJ2Nvc3QnXVsndG9vayddW10gPSAkclsndG9vayddOwogICAgICAgICAgICAkd29ya1RpbWUgPSBzdHJ0b3RpbWUoJHN0YXJ0KTsKICAgICAgICAgICAgJGVuZFRpbWUgPSBzdHJ0b3RpbWUoJGVuZCk7CgogICAgICAgICAgICAkcG9pbnRzID0gYXJyYXkoKTsKICAgICAgICAgICAgd2hpbGUgKCR3b3JrVGltZSA8PSAkZW5kVGltZSkgewogICAgICAgICAgICAgICAgJHBvaW50c1skd29ya1RpbWVdID0gbnVsbDsKICAgICAgICAgICAgICAgICR3b3JrVGltZSArPSAkcGVyaW9kOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkclsnc3RhdHVzJ10gPj0gMzAwIHx8ICRyWydfc2hhcmRzJ11bJ2ZhaWxlZCddID4gMCkgewogICAgICAgICAgICAgICAgJGRhdGFbJGldID0gYXJyYXlfdmFsdWVzKCRwb2ludHMpOwogICAgICAgICAgICAgICAgJHRoaXMtPmxvZygicmVzcG9uc2VbJGldIGVycm9yIiwgJHIpOwogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKCRyWydoaXRzJ11bJ3RvdGFsJ10gPiAwKSB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICgkclsnaGl0cyddWydoaXRzJ10gYXMgJHBvaW50KSB7CiAgICAgICAgICAgICAgICAgICAgJHRpbWVzdGFtcCA9ICRwb2ludFsnZmllbGRzJ11bJ3RpbWVzdGFtcCddWzBdIC8gMTAwMDsKICAgICAgICAgICAgICAgICAgICAkcG9pbnRzWyR0aW1lc3RhbXBdID0gJHBvaW50WydmaWVsZHMnXVsndmFsdWUnXVswXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGRhdGFbJGldID0gYXJyYXlfdmFsdWVzKCRwb2ludHMpOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRlYnVnWydjb3N0J11bJ3Rvb2snXVtdID0gJHJbJ3Rvb2snXTsKICAgICAgICAgICAgJHdvcmtUaW1lID0gc3RydG90aW1lKCRzdGFydCk7CiAgICAgICAgICAgICRlbmRUaW1lID0gc3RydG90aW1lKCRlbmQpOwoKICAgICAgICAgICAgJHBvaW50cyA9IGFycmF5KCk7CiAgICAgICAgICAgIHdoaWxlICgkd29ya1RpbWUgPD0gJGVuZFRpbWUpIHsKICAgICAgICAgICAgICAgICRwb2ludHNbJHdvcmtUaW1lXSA9IG51bGw7CiAgICAgICAgICAgICAgICAkd29ya1RpbWUgKz0gJHBlcmlvZDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoJHJbJ3N0YXR1cyddID49IDMwMCB8fCAkclsnX3NoYXJkcyddWydmYWlsZWQnXSA+IDApIHsKICAgICAgICAgICAgICAgICRkYXRhWyRpXSA9IGFycmF5X3ZhbHVlcygkcG9pbnRzKTsKICAgICAgICAgICAgICAgICR0aGlzLT5sb2coInJlc3BvbnNlWyRpXSBlcnJvciIsICRyKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkclsnaGl0cyddWyd0b3RhbCddID4gMCkgewogICAgICAgICAgICAgICAgZm9yZWFjaCAoJHJbJ2hpdHMnXVsnaGl0cyddIGFzICRwb2ludCkgewogICAgICAgICAgICAgICAgICAgICR0aW1lc3RhbXAgPSAkcG9pbnRbJ2ZpZWxkcyddWyd0aW1lc3RhbXAnXVswXSAvIDEwMDA7CiAgICAgICAgICAgICAgICAgICAgJHBvaW50c1skdGltZXN0YW1wXSA9ICRwb2ludFsnZmllbGRzJ11bJ3ZhbHVlJ11bMF07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRkYXRhWyRpXSA9IGFycmF5X3ZhbHVlcygkcG9pbnRzKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRlYnVnWydjb3N0J11bJ3Rvb2snXVtdID0gJHJbJ3Rvb2snXTsKICAgICAgICAgICAgJHdvcmtUaW1lID0gc3RydG90aW1lKCRzdGFydCk7CiAgICAgICAgICAgICRlbmRUaW1lID0gc3RydG90aW1lKCRlbmQpOwoKICAgICAgICAgICAgJHBvaW50cyA9IGFycmF5KCk7CiAgICAgICAgICAgIHdoaWxlICgkd29ya1RpbWUgPD0gJGVuZFRpbWUpIHsKICAgICAgICAgICAgICAgICRwb2ludHNbJHdvcmtUaW1lXSA9IG51bGw7CiAgICAgICAgICAgICAgICAkd29ya1RpbWUgKz0gJHBlcmlvZDsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoJHJbJ3N0YXR1cyddID49IDMwMCB8fCAkclsnX3NoYXJkcyddWydmYWlsZWQnXSA+IDApIHsKICAgICAgICAgICAgICAgICRkYXRhWyRpXSA9IGFycmF5X3ZhbHVlcygkcG9pbnRzKTsKICAgICAgICAgICAgICAgICR0aGlzLT5sb2coInJlc3BvbnNlWyRpXSBlcnJvciIsICRyKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkclsnaGl0cyddWyd0b3RhbCddID4gMCkgewogICAgICAgICAgICAgICAgZm9yZWFjaCAoJHJbJ2hpdHMnXVsnaGl0cyddIGFzICRwb2ludCkgewogICAgICAgICAgICAgICAgICAgICR0aW1lc3RhbXAgPSAkcG9pbnRbJ2ZpZWxkcyddWyd0aW1lc3RhbXAnXVswXSAvIDEwMDA7CiAgICAgICAgICAgICAgICAgICAgJHBvaW50c1skdGltZXN0YW1wXSA9ICRwb2ludFsnZmllbGRzJ11bJ3ZhbHVlJ11bMF07CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRkYXRhWyRpXSA9IGFycmF5X3ZhbHVlcygkcG9pbnRzKTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHBbJ3N0YXRpc3RpY3MnXSA9ICRkZWZhdWx0U3RhdGlzdGljczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CloudAlarmV2</last-search>
+      <last-search>default</last-search>
       <last-offset />
-      <last-pattern>CloudAlarmV2</last-pattern>
+      <last-pattern>default</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Autoupdate_sh</entry>
         <entry>Tool::log</entry>
         <entry>ld_id</entry>
         <entry>app.debug</entry>
@@ -320,6 +332,7 @@
         <entry>StormCloudConf</entry>
         <entry>uin</entry>
         <entry>CloudAlarmV2</entry>
+        <entry>default</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
