@@ -9,9 +9,6 @@
         <mark key="^" line="107" column="39" />
         <mark key="." line="107" column="39" />
       </file>
-      <file name="E:/work/project/barad_policy_proj/application/controllers/Policygroup.php" timestamp="1537255575570">
-        <mark key="'" line="157" column="36" />
-      </file>
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,22 +18,17 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" timestamp="1536312555925">
-        <mark key="'" line="269" column="10" />
-      </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1539139485697">
         <mark key="'" line="127" column="1" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="E:/work/project/barad_policy_proj/application/library/inc/config.product.inc.php" timestamp="1537255701453">
-        <mark key="'" line="546" column="21" />
-      </file>
       <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1539865216667" />
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1539143041142">
         <mark key="'" line="1161" column="17" />
       </file>
+      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1539865568939" />
       <file name="E:/work/project/stargate_server/cgi/interface/ResetState.class.php" timestamp="1539861140996">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="8" />
@@ -68,9 +60,6 @@
         <mark key="." line="34" column="49" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="E:/work/project/barad_custom_proj_git/yunApi/request_v3.php" timestamp="1535020106855">
-        <mark key="'" line="276" column="10" />
-      </file>
       <file name="E:/work/project/barad_proj/trunk/web/inc/config.barad.inc.php" timestamp="1534298947712">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="50" />
@@ -87,7 +76,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/montior_ams_proj/ams_release/ams/alarmTools.php" timestamp="1539144293414" />
-      <file name="/Dummy.txt" timestamp="1539144231300">
+      <file name="/Dummy.txt" timestamp="1539865801461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1539865163051">
@@ -103,7 +92,7 @@
         <mark key="^" line="55" column="28" />
         <mark key="." line="70" column="33" />
       </file>
-      <file name="/fragment.php" timestamp="1539860751303">
+      <file name="/fragment.php" timestamp="1539865512730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
@@ -156,6 +145,7 @@
         <mark key="^" line="178" column="37" />
         <mark key="." line="178" column="38" />
       </file>
+      <file name="E:/work/project/api/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1539865830263" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
@@ -267,7 +257,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text>$this['request']</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
@@ -304,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search>$this['request']</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern>$this['request']</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -314,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Tool::log</entry>
         <entry>ld_id</entry>
         <entry>app.debug</entry>
         <entry>debug</entry>
@@ -334,6 +323,7 @@
         <entry>uin</entry>
         <entry>CloudAlarmV2</entry>
         <entry>default</entry>
+        <entry>$this['request']</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
