@@ -88,8 +88,8 @@
         <mark key="^" line="46" column="67" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1539143041142">
-        <mark key="'" line="1161" column="17" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1540435676368">
+        <mark key="'" line="1178" column="0" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1540373171929">
         <mark key="'" line="39" column="0" />
@@ -144,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="4" column="4" filename="E:/work/project/api/app/controllers/BaseController.php" />
       <jump line="341" column="1" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
       <jump line="795" column="72" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -244,6 +243,7 @@
       <jump line="1161" column="17" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="3628" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3700" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
+      <jump line="1178" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +253,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>$this['request']</text>
+        <text>gCdbInterfaceUrlConf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
@@ -290,9 +290,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$this['request']</last-search>
+      <last-search>gCdbInterfaceUrlConf</last-search>
       <last-offset />
-      <last-pattern>$this['request']</last-pattern>
+      <last-pattern>gCdbInterfaceUrlConf</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ld_id</entry>
         <entry>app.debug</entry>
         <entry>debug</entry>
         <entry>count</entry>
@@ -320,6 +319,7 @@
         <entry>CloudAlarmV2</entry>
         <entry>default</entry>
         <entry>$this['request']</entry>
+        <entry>gCdbInterfaceUrlConf</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
