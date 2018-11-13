@@ -34,7 +34,7 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1542102050127" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" timestamp="1542110722424" />
       <file name="E:/work/project/barad_custom_proj_git/yunApi/inc/config.inc.php" timestamp="1535021459413">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="13" column="50" />
@@ -88,8 +88,8 @@
         <mark key="^" line="46" column="67" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1541042093689">
-        <mark key="'" line="1178" column="0" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1542110747535">
+        <mark key="'" line="159" column="21" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1542072853691">
         <mark key="'" line="39" column="0" />
@@ -145,11 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="E:/work/project/api/app/controllers/BaseController.php" />
-      <jump line="341" column="1" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.dev.inc.php" />
-      <jump line="795" column="72" filename="E:/work/project/api/app/controllers/MetricController.php" />
-      <jump line="86" column="19" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
-      <jump line="779" column="67" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="881" column="57" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="883" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
       <jump line="938" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
@@ -245,6 +240,11 @@
       <jump line="3628" column="16" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="3700" column="9" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="1178" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="1226" column="8" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="1189" column="36" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="123" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="158" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="159" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +254,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>gCdbInterfaceUrlConf</text>
+        <text>qcloud</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
@@ -291,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gCdbInterfaceUrlConf</last-search>
+      <last-search>qcloud</last-search>
       <last-offset />
-      <last-pattern>gCdbInterfaceUrlConf</last-pattern>
+      <last-pattern>qcloud</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app.debug</entry>
         <entry>debug</entry>
         <entry>count</entry>
         <entry>httpCode</entry>
@@ -321,6 +320,7 @@
         <entry>default</entry>
         <entry>$this['request']</entry>
         <entry>gCdbInterfaceUrlConf</entry>
+        <entry>qcloud</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
