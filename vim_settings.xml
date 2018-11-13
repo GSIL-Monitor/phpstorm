@@ -88,8 +88,8 @@
         <mark key="^" line="46" column="67" />
         <mark key="." line="46" column="67" />
       </file>
-      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1542110747535">
-        <mark key="'" line="159" column="21" />
+      <file name="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" timestamp="1542112148174">
+        <mark key="'" line="49" column="25" />
       </file>
       <file name="E:/work/project/api/bootstrap/start.php" timestamp="1542072853691">
         <mark key="'" line="39" column="0" />
@@ -145,11 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="881" column="57" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="883" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="938" column="30" filename="E:/work/project/barad_custom_proj/trunk/yunApi/barad/class/Data.class.php" />
-      <jump line="852" column="26" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
-      <jump line="157" column="0" filename="E:/work/project/barad_custom_proj/trunk/yunApi/request_v3.php" />
       <jump line="902" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
       <jump line="873" column="4" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="217" column="5" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
@@ -245,6 +240,11 @@
       <jump line="123" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="158" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="159" column="21" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="1204" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="28" column="22" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="48" column="10" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="122" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="49" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +254,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>qcloud</text>
+        <text>hk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
@@ -291,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search>qcloud</last-search>
+      <last-search>hk</last-search>
       <last-offset />
-      <last-pattern>qcloud</last-pattern>
+      <last-pattern>hk</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -301,7 +301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>count</entry>
         <entry>httpCode</entry>
         <entry>BARAD_APIEKY</entry>
@@ -321,6 +320,7 @@
         <entry>$this['request']</entry>
         <entry>gCdbInterfaceUrlConf</entry>
         <entry>qcloud</entry>
+        <entry>hk</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
