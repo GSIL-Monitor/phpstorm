@@ -62,12 +62,15 @@
       <file name="/Dummy.txt" timestamp="1540805959855">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1541679362838">
+      <file name="E:/work/project/api/app/controllers/MetricController.php" timestamp="1542274737694">
         <mark key="'" line="3700" column="9" />
         <mark key="[" line="3573" column="16" />
         <mark key="]" line="1360" column="38" />
         <mark key="^" line="1445" column="54" />
         <mark key="." line="3573" column="18" />
+      </file>
+      <file name="E:/work/project/api/app/libaries/Checkor.class.php" timestamp="1542274701217">
+        <mark key="'" line="623" column="37" />
       </file>
       <file name="E:/work/project/stargate_server/cgi/common/RemoteInterface.class.php" timestamp="1537167555425">
         <mark key="[" line="70" column="33" />
@@ -145,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="902" column="20" filename="E:/work/project/barad_custom_proj/trunk/yunApi/lib/global.func.php" />
-      <jump line="873" column="4" filename="E:/work/project/api/app/controllers/MetricController.php" />
       <jump line="217" column="5" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="239" column="4" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="2550" column="49" filename="E:/work/project/api/app/controllers/MetricController.php" />
@@ -245,6 +246,8 @@
       <jump line="48" column="10" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="122" column="12" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
       <jump line="49" column="25" filename="E:/work/project/barad_custom_proj/trunk/yunApi/inc/config.product.inc.php" />
+      <jump line="132" column="0" filename="E:/work/project/api/app/libaries/Checkor.class.php" />
+      <jump line="623" column="37" filename="E:/work/project/api/app/libaries/Checkor.class.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +257,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>hk</text>
+        <text>strtotime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG51bGxfY2hlY2tlcl9ydWxlID0ganNvbl9kZWNvZGUoVGVuY2VudFxDb25maWc6OmdldCgibnVsbF9jaGVja2VyX3J1bGUiKSwgdHJ1ZSk7Cg==</text>
@@ -291,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hk</last-search>
+      <last-search>strtotime</last-search>
       <last-offset />
-      <last-pattern>hk</last-pattern>
+      <last-pattern>strtotime</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>var_dump</last-substitute>
       <last-dir>1</last-dir>
@@ -301,8 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
-        <entry>httpCode</entry>
         <entry>BARAD_APIEKY</entry>
         <entry>InterfaceUrl</entry>
         <entry>检测</entry>
@@ -321,6 +322,8 @@
         <entry>gCdbInterfaceUrlConf</entry>
         <entry>qcloud</entry>
         <entry>hk</entry>
+        <entry>strftime</entry>
+        <entry>strtotime</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
