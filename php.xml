@@ -13,17 +13,17 @@
     <interpreters>
       <interpreter home="E:\Programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php.exe" id="2090b9ff-5ad4-4bb5-a069-954a0183cd62" name="PHP 7.1.0" debugger_id="php.debugger.XDebug" />
       <interpreter home="sftp://wallaceqian@10.251.196.12:36000/usr/local/services/php-5.6.29/bin/php" id="d07807a8-58d9-46b1-844d-7beb6178c553" name="10.251.196.12 Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="9fc6814f-7539-49f9-b894-6f966dc60ad7" WEB_SERVER_CONFIG_NAME="10.251.196.12" HOST="10.251.196.12" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dfdddfcbdfc6dfc6dfcbdfc9dfcfdf92df92" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/services/php-5.6.29/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="9fc6814f-7539-49f9-b894-6f966dc60ad7" WEB_SERVER_CONFIG_NAME="10.251.196.12" WEB_SERVER_CREDENTIALS_ID="sftp://wallaceqian@10.251.196.12:36000" INTERPRETER_PATH="/usr/local/services/php-5.6.29/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="sftp://wallaceqian@10.252.236.132:36000/usr/local/php/bin/php" id="dbdcbda2-8d4a-4e01-a585-47842ffff415" name="shdev 10.252.236.132" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="719d87ba-2575-4562-a594-decc468bfb19" WEB_SERVER_CONFIG_NAME="dev shdev 10.252.236.132" HOST="10.252.236.132" PORT="36000" ANONYMOUS="false" USERNAME="wallaceqian" PASSWORD="dfdddfcbdfc6dfc6dfcbdfc9dfcfdf92df92" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/local/php/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="719d87ba-2575-4562-a594-decc468bfb19" WEB_SERVER_CONFIG_NAME="dev shdev 10.252.236.132" WEB_SERVER_CREDENTIALS_ID="sftp://wallaceqian@10.252.236.132:36000" INTERPRETER_PATH="/usr/local/php/bin/php" HELPERS_PATH="/data/home/wallaceqian/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="10.251.196.12 Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 47548 36000" version="5.6.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100" version="5.6.29">
           <additional_php_ini />
           <configuration_file>/usr/local/services/php-5.6.29/lib/php.ini</configuration_file>
           <configuration_options>
@@ -396,13 +396,13 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1.0">
-        <phpinfo binary_type="PHP" php_cgi="E:\Programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php-cgi.exe" php_cli="E:\Programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php.exe" path_separator=";" version="7.1.0">
+        <phpinfo binary_type="PHP" php_cgi="E:\programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php-cgi.exe" php_cli="E:\programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php.exe" path_separator=";" version="7.1.0" warning="Failed loading ext\xdebug.so&#10;">
           <additional_php_ini />
-          <configuration_file />
+          <configuration_file>E:\programming\Language\php\bin\php-7.1.0-nts-Win32-VC14-x64\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
-            <configuration_option name="allow_url_include" value="0" />
+            <configuration_option name="allow_url_include" value="" />
             <configuration_option name="arg_separator.input" value="&amp;" />
             <configuration_option name="arg_separator.output" value="&amp;" />
             <configuration_option name="assert.active" value="1" />
@@ -423,25 +423,25 @@
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="" />
+            <configuration_option name="date.timezone" value="UTC" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
             <configuration_option name="disable_classes" value="" />
             <configuration_option name="disable_functions" value="" />
-            <configuration_option name="display_errors" value="1" />
-            <configuration_option name="display_startup_errors" value="0" />
+            <configuration_option name="display_errors" value="" />
+            <configuration_option name="display_startup_errors" value="" />
             <configuration_option name="doc_root" value="" />
             <configuration_option name="docref_ext" value="" />
             <configuration_option name="docref_root" value="" />
-            <configuration_option name="enable_dl" value="1" />
+            <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="0" />
+            <configuration_option name="error_reporting" value="22527" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="C:\php\ext" />
+            <configuration_option name="extension_dir" value="ext" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -456,16 +456,16 @@
             <configuration_option name="iconv.input_encoding" value="" />
             <configuration_option name="iconv.internal_encoding" value="" />
             <configuration_option name="iconv.output_encoding" value="" />
-            <configuration_option name="ignore_repeated_errors" value="0" />
-            <configuration_option name="ignore_repeated_source" value="0" />
+            <configuration_option name="ignore_repeated_errors" value="" />
+            <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value=".;C:\php\pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
-            <configuration_option name="log_errors" value="0" />
+            <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
-            <configuration_option name="mail.add_x_header" value="0" />
+            <configuration_option name="mail.add_x_header" value="1" />
             <configuration_option name="mail.force_extra_parameters" value="" />
             <configuration_option name="mail.log" value="" />
             <configuration_option name="max_execution_time" value="0" />
@@ -473,10 +473,20 @@
             <configuration_option name="max_input_nesting_level" value="64" />
             <configuration_option name="max_input_time" value="-1" />
             <configuration_option name="max_input_vars" value="1000" />
+            <configuration_option name="mbstring.detect_order" value="" />
+            <configuration_option name="mbstring.encoding_translation" value="0" />
+            <configuration_option name="mbstring.func_overload" value="0" />
+            <configuration_option name="mbstring.http_input" value="" />
+            <configuration_option name="mbstring.http_output" value="" />
+            <configuration_option name="mbstring.http_output_conv_mimetypes" value="^(text/|application/xhtml\+xml)" />
+            <configuration_option name="mbstring.internal_encoding" value="" />
+            <configuration_option name="mbstring.language" value="neutral" />
+            <configuration_option name="mbstring.strict_detection" value="0" />
+            <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
-            <configuration_option name="mysqlnd.collect_memory_statistics" value="0" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
             <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
@@ -488,6 +498,8 @@
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="open_basedir" value="" />
+            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
             <configuration_option name="output_handler" value="" />
@@ -504,7 +516,7 @@
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
-            <configuration_option name="request_order" value="" />
+            <configuration_option name="request_order" value="GP" />
             <configuration_option name="sendmail_from" value="" />
             <configuration_option name="sendmail_path" value="" />
             <configuration_option name="serialize_precision" value="-1" />
@@ -516,7 +528,7 @@
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
             <configuration_option name="session.cookie_secure" value="" />
-            <configuration_option name="session.gc_divisor" value="100" />
+            <configuration_option name="session.gc_divisor" value="1000" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="1" />
             <configuration_option name="session.lazy_write" value="1" />
@@ -525,8 +537,8 @@
             <configuration_option name="session.save_handler" value="files" />
             <configuration_option name="session.save_path" value="" />
             <configuration_option name="session.serialize_handler" value="php" />
-            <configuration_option name="session.sid_bits_per_character" value="4" />
-            <configuration_option name="session.sid_length" value="32" />
+            <configuration_option name="session.sid_bits_per_character" value="5" />
+            <configuration_option name="session.sid_length" value="26" />
             <configuration_option name="session.trans_sid_hosts" value="" />
             <configuration_option name="session.trans_sid_tags" value="a=href,area=href,frame=src,form=" />
             <configuration_option name="session.upload_progress.cleanup" value="1" />
@@ -539,11 +551,11 @@
             <configuration_option name="session.use_only_cookies" value="1" />
             <configuration_option name="session.use_strict_mode" value="0" />
             <configuration_option name="session.use_trans_sid" value="0" />
-            <configuration_option name="short_open_tag" value="1" />
+            <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
-            <configuration_option name="sql.safe_mode" value="0" />
+            <configuration_option name="sql.safe_mode" value="" />
             <configuration_option name="sys_temp_dir" value="" />
-            <configuration_option name="track_errors" value="0" />
+            <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
@@ -553,16 +565,16 @@
             <configuration_option name="user_dir" value="" />
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
-            <configuration_option name="variables_order" value="EGPCS" />
+            <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="windows.show_crt_warning" value="0" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
-            <configuration_option name="zend.assertions" value="1" />
+            <configuration_option name="zend.assertions" value="-1" />
             <configuration_option name="zend.detect_unicode" value="1" />
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
             <configuration_option name="zend.script_encoding" value="" />
-            <configuration_option name="zlib.output_compression" value="0" />
+            <configuration_option name="zlib.output_compression" value="" />
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
@@ -584,8 +596,10 @@
             <extension name="iconv" />
             <extension name="json" />
             <extension name="libxml" />
+            <extension name="mbstring" />
             <extension name="mcrypt" />
             <extension name="mysqlnd" />
+            <extension name="openssl" />
             <extension name="pcre" />
             <extension name="readline" />
             <extension name="session" />
@@ -601,7 +615,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="shdev 10.252.236.132">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100 46817 36000" version="5.6.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/services/barad-php-5-6-29-1.0/bin/php-cgi" php_cli="/usr/local/services/barad-php-5-6-29-1.0/bin/php" path_separator=":" remote_host="10.138.225.100" version="5.6.29">
           <additional_php_ini />
           <configuration_file>/usr/local/services/php-5.6.29/lib/php.ini</configuration_file>
           <configuration_options>
