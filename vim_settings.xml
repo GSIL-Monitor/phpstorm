@@ -15,6 +15,7 @@
       <file name="E:/work/project/barad_proj/trunk/web/metric/common.php" timestamp="1536752994078">
         <mark key="[" line="13" column="109" />
       </file>
+      <file name="E:/test/cos/vendor/composer/ClassLoader.php" timestamp="1543376792169" />
       <file name="E:/work/project/api/app/controllers/BaseController.php" timestamp="1539086602715">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="8" column="35" />
@@ -43,14 +44,14 @@
       <file name="find.xml" timestamp="1528271039834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/test/cos/main.php" timestamp="1543376033353" />
+      <file name="E:/test/cos/main.php" timestamp="1543376541304" />
       <file name="E:/work/project/barad_proj/branches/api_es_v2/api/bootstrap/start.php" timestamp="1538118136784">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1543376211850">
+      <file name="/PHP Console" timestamp="1543376793124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/work/project/barad_custom_proj/trunk/yunApi/request.php" timestamp="1542097596935">
@@ -101,6 +102,7 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="E:/test/cos/vendor/composer/installed.json" timestamp="1543376517712" />
       <file name="E:/work/project/api/app/config/database.php" timestamp="1537847599315">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="44" />
